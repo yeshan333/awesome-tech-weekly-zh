@@ -27,7 +27,7 @@
 | 名称 | 描述 | 网址 | 最近更新 |
 |:-:|:-:|:-:|:-:|
 {{- range $item := $val}}
-| {{$item.name}} | {{$item.desc}} | [{{$item.link}}]({{$item.link}}) | 最近更新时间&文章 |
+| {{$item.name}} | {{$item.desc}} | [{{$item.link}}]({{$item.link}}) | {{ getLatestFeedPost $item.feed_url }} |
 {{- end}}
 
 <div align="right">

@@ -4,3 +4,4 @@ name: 'Python 潮流周刊'
 link: https://github.com/chinesehuazhou/python-weekly
 desc: 'Python 潮流周刊'
 desc_en: 'Python 潮流周刊-en'
+feed_url: https://pythoncat.top/rss.xml
