@@ -1,3 +1,4 @@
+tranform yaml to markdown ----------->
 [English](resources/README-en.md) | 简体中文
 
 <div align="center">
@@ -47,5 +48,3 @@
 </div>
 
 
-
-failed to update repo description, error: PATCH https://api.github.com/repos/yeshan333/awesome-tech-weekly-zhs: 401 Bad credentials []
