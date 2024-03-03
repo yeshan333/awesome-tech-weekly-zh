@@ -1,4 +1,3 @@
-tranform yaml to markdown ----------->
 [English](resources/README-en.md) | 简体中文
 
 <div align="center">
@@ -23,7 +22,7 @@ tranform yaml to markdown ----------->
 
 | 名称 | 描述 | 网址 | 最近更新 |
 |:-:|:-:|:-:|:-:|
-| 前端技术周刊 | 前端技术周刊 | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) | 最近更新时间&文章 |
+| 前端技术周刊 | 前端技术周刊 | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) | 2024-02-26T02:58:29Z: [从单一模型到复合人工智能系统的演变](https://quail.ink/op7418/p/evolution-of-single-model-to-compound-artificial-intelligence-system) |
 
 <div align="right">
 
@@ -40,7 +39,7 @@ tranform yaml to markdown ----------->
 
 | 名称 | 描述 | 网址 | 最近更新 |
 |:-:|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | 最近更新时间&文章 |
+| Python 潮流周刊 | Python 潮流周刊 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  |
 
 <div align="right">
 
