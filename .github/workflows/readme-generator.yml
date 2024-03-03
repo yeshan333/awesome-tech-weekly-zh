@@ -3,7 +3,10 @@ name: readme generator
 on:
   push:
     branches: [ main ]
+  schedule:
+    - cron: '0 */3 * * *'
   workflow_dispatch:
+
 
 jobs:
   build:
@@ -11,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@main
 
-      - name: generate chinese readme
+      - name: generate zh-hans README
         uses: yeshan333/yaml-readme@master
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
@@ -26,8 +29,8 @@ jobs:
           groupby: kind
           header: false
           push: true
-  
-      - name: generate english readme
+
+      - name: generate english README
         uses: yeshan333/yaml-readme@master
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}

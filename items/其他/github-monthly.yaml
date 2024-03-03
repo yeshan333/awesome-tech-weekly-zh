@@ -1,0 +1,7 @@
+kind: 其他
+owner: hellogithub
+name: 'HelloGitHub 月刊'
+link: https://hellogithub.com/periodical
+desc: 'HelloGitHub 月刊'
+desc_en: "HelloGitHub Monthly"
+feed_url: https://hellogithub.com/rss

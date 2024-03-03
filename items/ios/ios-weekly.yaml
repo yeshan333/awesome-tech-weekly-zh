@@ -1,7 +1,7 @@
-kind: ios
+kind: iOS
 owner: SwiftOldDriver
 name: '老司机技术 iOS 周报'
 link: https://github.com/SwiftOldDriver/iOS-Weekly
 desc: '老司机技术 iOS 周报'
-desc_en: '老司机技术 iOS 周报'
+desc_en: 'Old Driver Technology iOS Weekly Report'
 feed_url: https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom

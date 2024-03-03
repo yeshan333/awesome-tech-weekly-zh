@@ -1,7 +1,7 @@
 kind: 运维
 owner: eryajf
-name: '运维技术周刊'
+name: 'eryajf 的运维技术周刊'
 link: https://github.com/eryajf/learning-weekly
-desc: '运维技术周刊'
-desc_en: '运维技术周刊'
+desc: '周刊内容以运维技术和 Go 语言周边为主'
+desc_en: 'The weekly content mainly focuses on operation and maintenance technology and Go language peripherals'
 feed_url: https://wiki.eryajf.net/learning-weekly.xml

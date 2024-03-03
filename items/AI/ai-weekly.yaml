@@ -1,7 +1,7 @@
-kind: Frontend
-owner: AIGC Weekly
+kind: AI
+owner: AIGC-Weekly
 name: 'AIGC Weekly'
 link: https://quail.ink/op7418
-desc: 'AIGC Weekly'
-desc_en: 'AIGC Weekly'
+desc: '每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果'
+desc_en: 'Updated every Monday, mainly introducing some products released in the AIGC field last week and noteworthy research results.'
 feed_url: https://quail.ink/op7418/feed/atom

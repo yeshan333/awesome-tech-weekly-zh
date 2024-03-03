@@ -1,0 +1,7 @@
+kind: 前端
+owner: Tw93
+name: '潮流周刊'
+link: https://weekly.tw93.fun/
+desc: '前端潮流周刊'
+desc_en: 'Frontend Trending Weekly'
+feed_url: https://weekly.tw93.fun/rss.xml
