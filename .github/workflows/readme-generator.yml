@@ -21,7 +21,7 @@ jobs:
           username: "github-actions[bot]"
           org: yeshan333
           repo: awesome-tech-weekly-zh
-          sortby: '!zh'
+          sortby: 'kind'
           groupby: kind
           header: false
       - name: generat english readme
@@ -33,7 +33,7 @@ jobs:
           username: "github-actions[bot]"
           org: yeshan333
           repo: awesome-tech-weekly-zh
-          sortby: '!zh'
+          sortby: 'kind'
           groupby: kind
           header: false
           template: 'template/README-en.tpl'
