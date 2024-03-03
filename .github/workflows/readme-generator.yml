@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.1.0
-      - name: generat chinese readme
+      - name: generate chinese readme
         uses: eryajf/yaml-readme@master
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
           pattern: 'items/*/*.yaml'
           template: 'template/README.tpl'
@@ -24,10 +24,10 @@ jobs:
           sortby: 'kind'
           groupby: kind
           header: false
-      - name: generat english readme
+      - name: generate english readme
         uses: eryajf/yaml-readme@master
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
           pattern: 'items/*/*.yaml'
           username: "github-actions[bot]"
