@@ -9,7 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.1.0
+      - uses: actions/checkout@main
+
       - name: generate chinese readme
         uses: yeshan333/yaml-readme@master
         env:
@@ -24,6 +25,8 @@ jobs:
           sortby: kind
           groupby: kind
           header: false
+          push: true
+  
       - name: generate english readme
         uses: yeshan333/yaml-readme@master
         env:
@@ -38,3 +41,4 @@ jobs:
           header: false
           template: 'template/README-en.tpl'
           output: 'resources/README-en.md'
+          push: true
