@@ -36,5 +36,3 @@
 </div>
 
 {{end}}
-
-{{updateDesc "yeshan333" "awesome-tech-weekly-zhs"}}
