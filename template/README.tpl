@@ -27,7 +27,7 @@
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-:|:-:|:-:|:-:|
 {{- range $item := $val}}
-| {{$item.name}} | {{$item.desc}} | [{{$item.link}}]({{$item.link}}) | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} |
+| {{$item.name}} | {{$item.desc}} | [{{goUrlDecode $item.link}}]({{$item.link}}) | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} |
 {{- end}}
 
 <div align="right">

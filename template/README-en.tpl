@@ -27,7 +27,7 @@ English | [简体中文](../README.md)
 | Name | Description | Addr | UpdatedAt |
 |:-:|:-:|:-:|:-:|:-:|
 {{- range $item := $val}}
-| {{$item.name}} | {{$item.desc}} | [{{$item.link}}]({{$item.link}}) | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} |
+| {{$item.name}} | {{$item.desc}} | [{{goUrlDecode $item.link}}]({{$item.link}}) | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} |
 {{- end}}
 
 <div align="right">
