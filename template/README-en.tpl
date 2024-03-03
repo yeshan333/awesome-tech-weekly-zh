@@ -1,7 +1,7 @@
 English | [简体中文](../README.md)
 
 <div align="center">
-<h1>Awesome Ops</h1>
+<h1>Awesome Technology Weekly Zh-Hans</h1>
 
 <p>🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} entries.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
@@ -27,7 +27,7 @@ English | [简体中文](../README.md)
 | Name | Description | Addr | Updated |
 |:-:|:-:|:-:|:-:|
 {{- range $item := $val}}
-| {{$item.name}} | {{$item.desc}} | [{{$item.link}}]({{$item.link}}) | 最近更新时间&文章 |
+| {{$item.name}} | {{$item.desc}} | [{{$item.link}}]({{$item.link}}) | {{ getLatestFeedPost $item.feed_url $item.link }} |
 {{- end}}
 
 <div align="right">

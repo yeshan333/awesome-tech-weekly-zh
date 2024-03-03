@@ -1,0 +1,7 @@
+kind: 前端
+owner: ascoders
+name: '前端精读周刊'
+link: https://github.com/ascoders/weekly
+desc: '前端精读周刊'
+desc_en: '前端精读周刊'
+feed_url: https://github.com/ascoders/weekly/releases.atom
