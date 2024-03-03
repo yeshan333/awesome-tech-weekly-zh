@@ -98,7 +98,7 @@
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-|:-:|:-:|:-:|
 | HelloGitHub 月刊 | HelloGitHub 月刊 | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) |
 
 <div align="right">
 
