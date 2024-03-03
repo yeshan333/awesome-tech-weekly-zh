@@ -1,4 +1,3 @@
-tranform yaml to markdown ----------->
 English | [简体中文](../README.md)
 
 <div align="center">
