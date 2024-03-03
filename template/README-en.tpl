@@ -24,8 +24,8 @@ English | [简体中文](../README.md)
 📥 This category contains {{len .}} items.
 </p>
 
-| Name | Description | Addr | UpdatedAt |
-|:-:|:-:|:-:|:-:|:-:|
+| Name | Description | Addr | UpdatedAt | Article |
+|:-:|:-|:-:|:-:|:-:|
 {{- range $item := $val}}
 | {{$item.name}} | {{$item.desc}} | [{{goUrlDecode $item.link}}]({{$item.link}}) | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} |
 {{- end}}
