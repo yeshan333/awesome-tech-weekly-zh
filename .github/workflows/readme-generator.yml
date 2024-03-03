@@ -18,10 +18,10 @@ jobs:
           pattern: 'items/*/*.yaml'
           template: 'template/README.tpl'
           output: 'README.md'
-          username: "github-actions[bot]"
+          username: "yeshan333"
           org: yeshan333
           repo: awesome-tech-weekly-zh
-          sortby: 'kind'
+          sortby: kind
           groupby: kind
           header: false
       - name: generate english readme
@@ -30,10 +30,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
           pattern: 'items/*/*.yaml'
-          username: "github-actions[bot]"
+          username: "yeshan333"
           org: yeshan333
           repo: awesome-tech-weekly-zh
-          sortby: 'kind'
+          sortby: kind
           groupby: kind
           header: false
           template: 'template/README-en.tpl'
