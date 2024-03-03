@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p> 🧐 共分设类目 8 个，📥 累计收录周刊 11 个。</p>
+<p> 🧐 共分设类目 7 个，📥 累计收录周刊 9 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -14,7 +14,6 @@
 - [AI](#AI)
 - [Python](#Python)
 - [iOS](#iOS)
-- [产品&amp;体验&amp;设计](#产品&amp;体验&amp;设计)
 - [其他](#其他)
 - [前端](#前端)
 - [安全](#安全)
@@ -71,24 +70,6 @@
 
 
 
-## 产品&amp;体验&amp;设计
-
-<p align="right">
-📥 此类目收录周刊 2 个。
-</p>
-
-| 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
-|:-:|:-:|:-:|:-:|:-:|
-| 体验碎周报 | 体验碎周报 | [https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) | 2024-03-03T16:41:45Z | [体验碎周报第 179 期（2024.03.04）](https://www.ftium4.com/ux-weekly-179.html) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | [https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) | 2024-02-17T16:00:00Z | [设计素材周刊 102 期](https://moonvy.com/blog/post/设计素材周刊/102/) |
-
-<div align="right">
-
-🔝[回到顶部](#目录)
-</div>
-
-
-
 ## 其他
 
 <p align="right">
@@ -98,7 +79,7 @@
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-:|:-:|:-:|:-:|
 | HelloGitHub 月刊 | HelloGitHub 月刊 | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) |
 
 <div align="right">
 
