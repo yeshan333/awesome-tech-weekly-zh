@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p> 🧐 共分设类目 7 个，📥 累计收录周刊 9 个。</p>
+<p> 🧐 共分设类目 8 个，📥 累计收录周刊 11 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -14,6 +14,7 @@
 - [AI](#AI)
 - [Python](#Python)
 - [iOS](#iOS)
+- [产品-体验-设计](#产品-体验-设计)
 - [其他](#其他)
 - [前端](#前端)
 - [安全](#安全)
@@ -44,7 +45,7 @@
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-:|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  | [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 
@@ -62,6 +63,24 @@
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-:|:-:|:-:|:-:|
 | 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) | 2024-02-26T02:12:12Z | [老司机 iOS 周报 #278 | 2024-02-26](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23278) |
+
+<div align="right">
+
+🔝[回到顶部](#目录)
+</div>
+
+
+
+## 产品-体验-设计
+
+<p align="right">
+📥 此类目收录周刊 2 个。
+</p>
+
+| 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
+|:-:|:-:|:-:|:-:|:-:|
+| 体验碎周报 | 体验碎周报 | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) | 2024-03-03T16:41:45Z | [体验碎周报第 179 期（2024.03.04）](https://www.ftium4.com/ux-weekly-179.html) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) | 2024-02-17T16:00:00Z | [设计素材周刊 102 期](https://moonvy.com/blog/post/设计素材周刊/102/) |
 
 <div align="right">
 
@@ -114,7 +133,7 @@
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-:|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) | 2024-03-03T15:58:20Z | [SecWiki News 2024-03-03 Review](http://www.sec-wiki.com/?2024-03-03) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |  | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 
