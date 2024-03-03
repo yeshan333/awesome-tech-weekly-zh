@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.0
       - name: generate chinese readme
-        uses: eryajf/yaml-readme@master
+        uses: yeshan333/yaml-readme@master
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
@@ -25,7 +25,7 @@ jobs:
           groupby: kind
           header: false
       - name: generate english readme
-        uses: eryajf/yaml-readme@master
+        uses: yeshan333/yaml-readme@master
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
