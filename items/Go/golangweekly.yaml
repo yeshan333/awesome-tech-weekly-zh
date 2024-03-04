@@ -1,0 +1,7 @@
+kind: Go
+owner: Go语言中文网
+name: 'Go语言爱好者周刊'
+link: https://studygolang.com/go/weekly
+desc: 'Go语言爱好者周刊'
+desc_en: 'Go语言爱好者周刊'
+feed_url: https://rsshub.app/studygolang/go/weekly
