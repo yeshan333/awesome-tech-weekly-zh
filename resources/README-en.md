@@ -45,7 +45,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | Addr | UpdatedAt | Article |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  | [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 
@@ -98,7 +98,7 @@ English | [简体中文](../README.md)
 | Name | Description | Addr | UpdatedAt | Article |
 |:-:|:-|:-:|:-:|:-:|
 | HelloGitHub 月刊 | HelloGitHub 月刊 | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 
