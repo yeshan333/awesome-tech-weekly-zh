@@ -27,7 +27,7 @@
 📥 此类目收录（月/周/日）刊 {{len .}} 个。
 </p>
 
-| 名称 | 描述 | | 最近更新时间-(北京时间) | 最新文章 | 网址 |
+| 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 {{- range $item := $val}}
 | {{$item.name}} | {{$item.desc}} | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} | [{{goUrlDecode $item.link}}]({{$item.link}}) |
