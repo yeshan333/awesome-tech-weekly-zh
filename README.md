@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p> 🧐 共分设类目 8 个，📥 累计收录（月/周/日）刊 11 个。</p>
+<p> 🧐 共分设类目 10 个，📥 累计收录（月/周/日）刊 13 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每 3 小时刷新一次。</p>
 
@@ -15,6 +15,8 @@
 
 ## 目录
 - [AI](#AI)
+- [Elixir](#Elixir)
+- [Go](#Go)
 - [Python](#Python)
 - [iOS](#iOS)
 - [产品-体验-设计](#产品-体验-设计)
@@ -32,6 +34,38 @@
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-|:-:|:-:|:-:|
 | AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | [https://quail.ink/op7418](https://quail.ink/op7418) | 2024-03-04T00:30:03Z | [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61) |
+
+<div align="right">
+<a href="#目录">🔝回到顶部</a>
+</div>
+
+
+
+## Elixir
+
+<p align="right">
+📥 此类目收录（月/周/日）刊 1 个。
+</p>
+
+| 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
+|:-:|:-|:-:|:-:|:-:|
+| 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) |
+
+<div align="right">
+<a href="#目录">🔝回到顶部</a>
+</div>
+
+
+
+## Go
+
+<p align="right">
+📥 此类目收录（月/周/日）刊 1 个。
+</p>
+
+| 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
+|:-:|:-|:-:|:-:|:-:|
+| Go语言爱好者周刊 | Go语言爱好者周刊 | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | 2023-12-17T14:20:36Z | [Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
