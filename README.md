@@ -3,8 +3,9 @@
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p> 🧐 共分设类目 8 个，📥 累计收录周刊 11 个。</p>
+<p> 🧐 共分设类目 8 个，📥 累计收录（月/周/日）刊 11 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
+<p> 🕰️ 每 3 小时刷新一次。</p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -23,12 +24,12 @@
 ## AI
 
 <p align="right">
-📥 此类目收录周刊 1 个。
+📥 此类目收录（月/周/日）刊 1 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | [https://quail.ink/op7418](https://quail.ink/op7418) | 2024-02-26T02:58:29Z | [从单一模型到复合人工智能系统的演变](https://quail.ink/op7418/p/evolution-of-single-model-to-compound-artificial-intelligence-system) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | [https://quail.ink/op7418](https://quail.ink/op7418) | 2024-03-04T00:30:03Z | [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61) |
 
 <div align="right">
 
@@ -40,7 +41,7 @@
 ## Python
 
 <p align="right">
-📥 此类目收录周刊 1 个。
+📥 此类目收录（月/周/日）刊 1 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
@@ -57,12 +58,12 @@
 ## iOS
 
 <p align="right">
-📥 此类目收录周刊 1 个。
+📥 此类目收录（月/周/日）刊 1 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) | 2024-02-26T02:12:12Z | [老司机 iOS 周报 #278 | 2024-02-26](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23278) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) | 2024-03-04T02:27:09Z | [老司机 iOS 周报 #279   2024-03-04](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23279) |
 
 <div align="right">
 
@@ -74,7 +75,7 @@
 ## 产品-体验-设计
 
 <p align="right">
-📥 此类目收录周刊 2 个。
+📥 此类目收录（月/周/日）刊 2 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
@@ -92,13 +93,13 @@
 ## 其他
 
 <p align="right">
-📥 此类目收录周刊 2 个。
+📥 此类目收录（月/周/日）刊 2 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-|:-:|:-:|:-:|
 | HelloGitHub 月刊 | HelloGitHub 月刊 | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |  | [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) | 2024-03-01T00:25:43Z | [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) |
 
 <div align="right">
 
@@ -110,12 +111,12 @@
 ## 前端
 
 <p align="right">
-📥 此类目收录周刊 2 个。
+📥 此类目收录（月/周/日）刊 2 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
 |:-:|:-|:-:|:-:|:-:|
-| 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) | 2024-02-19T01:20:07Z | [机器学习简介: 寻找函数的艺术](https://github.com/ascoders/weekly/releases/tag/291) |
+| 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) | 2024-03-04T01:54:42Z | [万能近似定理: 逼近任何函数的理论](https://github.com/ascoders/weekly/releases/tag/292) |
 | 潮流周刊 | 前端潮流周刊 | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) | 2024-03-04T00:00:00Z | [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/) |
 
 <div align="right">
@@ -128,7 +129,7 @@
 ## 安全
 
 <p align="right">
-📥 此类目收录周刊 1 个。
+📥 此类目收录（月/周/日）刊 1 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
@@ -145,7 +146,7 @@
 ## 运维
 
 <p align="right">
-📥 此类目收录周刊 1 个。
+📥 此类目收录（月/周/日）刊 1 个。
 </p>
 
 | 名称 | 描述 | 网址 | 最近更新时间-(Beijing) | 文章 |
@@ -158,3 +159,9 @@
 </div>
 
 
+
+## 关联项目
+
+- [RSSHub](https://rsshub.app/): 获取 RSS 订阅链接
+- [yaml-readme](https://github.com/LinuxSuRen/yaml-readme): Github Action, 基于 yaml 配置自动生成 README
+- [awesome-ops](https://github.com/eryajf/awesome-ops): README 模版 [README.tpl](template/README.tpl) 参考
