@@ -36,3 +36,9 @@ English | [简体中文](../README.md)
 </div>
 
 {{end}}
+
+## Related Projects
+
+- [RSSHub](https://rsshub.app/): Get RSS feed links from any website.
+- [yaml-readme](https://github.com/LinuxSuRen/yaml-readme): A helper to generate the READE file automatically from YAML-based metadata files.
+- [awesome-ops](https://github.com/eryajf/awesome-ops): README template [README.tpl](template/README.tpl) reference.
