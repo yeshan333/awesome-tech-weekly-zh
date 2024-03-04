@@ -6,7 +6,9 @@ English | [简体中文](../README.md)
 <p>🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+</a>
 
 </div>
 
@@ -31,16 +33,18 @@ English | [简体中文](../README.md)
 {{- end}}
 
 <div align="right">
-
-🔝[Back To Top](#Contents)
+<a href="#Contents">Back To Top</a>
 </div>
 
 {{end}}
 
 ## Support Project
 
-[爱发电~](https://afdian.net/a/yeshan333)
-[![爱发电](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/yeshan333)
+[为爱发电~](https://afdian.net/a/yeshan333)
+
+<a href="https://afdian.net/a/yeshan333">
+  <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="为爱发电">
+</a>
 
 ## Related Projects
 

@@ -7,7 +7,9 @@
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每 3 小时刷新一次。</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+</a>
 
 </div>
 
@@ -32,16 +34,18 @@
 {{- end}}
 
 <div align="right">
-
-🔝[回到顶部](#目录)
+<a href="#目录">🔝回到顶部</a>
 </div>
 
 {{end}}
 
 ## 支持一下
 
-[爱发电~](https://afdian.net/a/yeshan333)
-[![爱发电](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/yeshan333)
+[为爱发电~](https://afdian.net/a/yeshan333)
+
+<a href="https://afdian.net/a/yeshan333">
+  <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="为爱发电">
+</a>
 
 ## 关联项目
 
