@@ -38,6 +38,11 @@
 
 {{end}}
 
+## 支持一下
+
+[爱发电~](https://afdian.net/a/yeshan333)
+[![爱发电](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.net/a/yeshan333)
+
 ## 关联项目
 
 - [RSSHub](https://rsshub.app/): 获取 RSS 订阅链接
