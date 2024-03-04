@@ -3,7 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p>🧐 Divided into 8 categories. 📥 Includes 11 weeklies.</p>
+<p>🧐 Divided into 10 categories. 📥 Includes 13 weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 
 <a href="https://awesome.re">
@@ -14,6 +14,8 @@ English | [简体中文](../README.md)
 
 ## Contents
 - [AI](#AI)
+- [Elixir](#Elixir)
+- [Go](#Go)
 - [Python](#Python)
 - [iOS](#iOS)
 - [产品-体验-设计](#产品-体验-设计)
@@ -38,6 +40,38 @@ English | [简体中文](../README.md)
 
 
 
+## Elixir
+
+<p align="right">
+📥 This category contains 1 items.
+</p>
+
+| Name | Description | Addr | UpdatedAt | Article |
+|:-:|:-|:-:|:-:|:-:|
+| 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) |
+
+<div align="right">
+<a href="#Contents">Back To Top</a>
+</div>
+
+
+
+## Go
+
+<p align="right">
+📥 This category contains 1 items.
+</p>
+
+| Name | Description | Addr | UpdatedAt | Article |
+|:-:|:-|:-:|:-:|:-:|
+| Go语言爱好者周刊 | Go语言爱好者周刊 | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | 2023-12-17T14:20:36Z | [Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049) |
+
+<div align="right">
+<a href="#Contents">Back To Top</a>
+</div>
+
+
+
 ## Python
 
 <p align="right">
@@ -46,7 +80,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | Addr | UpdatedAt | Article |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  | [Python 潮流周刊#40：白宫建议使用 Python 等内存安全的语言](https://pythoncat.top/posts/2024-03-02-weekly/) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
