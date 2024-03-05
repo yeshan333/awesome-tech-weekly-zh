@@ -1,0 +1,7 @@
+kind: 云原生
+owner: "KubeSphere"
+name: '云原生周刊'
+link: https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly
+desc: '云原生周刊'
+desc_en: "KubeSphere Cloud Native Weekly"
+feed_url: https://rsshub.app/csdn/blog/zpf17671624050
