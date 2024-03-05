@@ -3,7 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p>🧐 Divided into 10 categories. 📥 Includes 14 weeklies.</p>
+<p>🧐 Divided into 11 categories. 📥 Includes 17 weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 
 <a href="https://awesome.re">
@@ -18,6 +18,7 @@ English | [简体中文](../README.md)
 - [Go](#Go)
 - [Python](#Python)
 - [iOS](#iOS)
+- [云原生](#云原生)
 - [产品-体验-设计](#产品-体验-设计)
 - [其他](#其他)
 - [前端](#前端)
@@ -104,6 +105,22 @@ English | [简体中文](../README.md)
 
 
 
+## 云原生
+
+<p align="right">
+📥 This category contains 1 items.
+</p>
+
+| Name | Description | UpdatedAt | Article | Addr |
+|:-:|:-|:-:|:-:|:-:|
+| 云原生周刊 | 云原生周刊 | 2024-03-04T07:53:07Z | [云原生周刊：CNCF 宣布 Falco 毕业｜2024.3.4](https://blog.csdn.net/zpf17671624050/article/details/136454520) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+
+<div align="right">
+<a href="#Contents">Back To Top</a>
+</div>
+
+
+
 ## 产品-体验-设计
 
 <p align="right">
@@ -125,11 +142,12 @@ English | [简体中文](../README.md)
 ## 其他
 
 <p align="right">
-📥 This category contains 2 items.
+📥 This category contains 3 items.
 </p>
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-02-24T00:00:00Z | [独立开发变现周刊（第124期） : 从100到3万美元，邮件订阅的低成本高收益秘诀](https://www.ezindie.com/weekly/issue-124) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-03-01T00:25:43Z | [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -142,11 +160,12 @@ English | [简体中文](../README.md)
 ## 前端
 
 <p align="right">
-📥 This category contains 2 items.
+📥 This category contains 3 items.
 </p>
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
+| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-04T14:32:22Z | [前端食堂技术周刊第 114 期：Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0](https://juejin.cn/post/7342329071576498186) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-04T01:54:42Z | [万能近似定理: 逼近任何函数的理论](https://github.com/ascoders/weekly/releases/tag/292) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-03-04T00:00:00Z | [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
