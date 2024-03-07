@@ -184,7 +184,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-06T15:58:20Z | [SecWiki News 2024-03-06 Review](http://www.sec-wiki.com/?2024-03-06) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-07T15:58:20Z | [SecWiki News 2024-03-07 Review](http://www.sec-wiki.com/?2024-03-07) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -200,7 +200,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-02-29T15:05:47Z | [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-03-07T14:29:12Z | [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
