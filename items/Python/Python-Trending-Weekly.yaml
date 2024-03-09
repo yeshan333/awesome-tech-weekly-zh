@@ -2,6 +2,6 @@ kind: Python
 owner: 豌豆花下猫
 name: 'Python 潮流周刊'
 link: https://github.com/chinesehuazhou/python-weekly
-desc: 'Python 潮流周刊精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。'
+desc: 'Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。'
 desc_en: 'Python Trending Weekly'
 feed_url: https://pythoncat.top/rss.xml
