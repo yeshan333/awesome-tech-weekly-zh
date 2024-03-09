@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p> 🧐 共分设类目 11 个，📥 累计收录（月/周/日）刊 17 个。</p>
+<p> 🧐 共分设类目 12 个，📥 累计收录（月/周/日）刊 19 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每 3 小时刷新一次。</p>
 
@@ -24,6 +24,7 @@
 - [其他](#其他)
 - [前端](#前端)
 - [安全](#安全)
+- [软件测试](#软件测试)
 - [运维](#运维)
 
 ## AI
@@ -82,7 +83,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -161,11 +162,12 @@
 ## 前端
 
 <p align="right">
-📥 此类目收录（月/周/日）刊 3 个。
+📥 此类目收录（月/周/日）刊 4 个。
 </p>
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
+| 前端早读课 | 前端早读课 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-04T14:32:22Z | [前端食堂技术周刊第 114 期：Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0](https://juejin.cn/post/7342329071576498186) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-04T01:54:42Z | [万能近似定理: 逼近任何函数的理论](https://github.com/ascoders/weekly/releases/tag/292) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-03-04T00:00:00Z | [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
@@ -185,6 +187,22 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-08T15:58:20Z | [SecWiki News 2024-03-08 Review](http://www.sec-wiki.com/?2024-03-08) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+
+<div align="right">
+<a href="#目录">🔝回到顶部</a>
+</div>
+
+
+
+## 软件测试
+
+<p align="right">
+📥 此类目收录（月/周/日）刊 1 个。
+</p>
+
+| 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
+|:-:|:-|:-:|:-:|:-:|
+| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
