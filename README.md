@@ -3,7 +3,7 @@
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p> 🧐 共分设类目 12 个，📥 累计收录（月/周/日）刊 19 个。</p>
+<p> 🧐 共分设类目 12 个，📥 累计收录（月/周/日）刊 21 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每 3 小时刷新一次。</p>
 
@@ -46,12 +46,13 @@
 ## Elixir
 
 <p align="right">
-📥 此类目收录（月/周/日）刊 1 个。
+📥 此类目收录（月/周/日）刊 2 个。
 </p>
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-03-05T11:15:00Z | [192：操作灵丹妙药：斗志旺盛的初创公司版](https://podcast.thinkingelixir.com/192) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -83,7 +84,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [用 Rust 开发的 Python 包管理工具，可替换 pip、pip-tools 和 virtualenv](https://pythoncat.top/posts/2024-03-05-uv/) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -167,7 +168,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 前端早读课 | 前端早读课 |  | [【第3144期】2023年CSS新特性盘点](http://posts.careerengine.us/p/65b3027f64ebc06ad5144831) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| 前端早读课 | 前端早读课 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-04T14:32:22Z | [前端食堂技术周刊第 114 期：Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0](https://juejin.cn/post/7342329071576498186) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-04T01:54:42Z | [万能近似定理: 逼近任何函数的理论](https://github.com/ascoders/weekly/releases/tag/292) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-03-04T00:00:00Z | [第166期 - 猫晒太阳](https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
@@ -197,11 +198,12 @@
 ## 软件测试
 
 <p align="right">
-📥 此类目收录（月/周/日）刊 1 个。
+📥 此类目收录（月/周/日）刊 2 个。
 </p>
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
+| softwaretestingweekly | softwaretestingweekly  | 2024-03-01T23:14:36Z | [软件测试周刊 - 第 209 期 - 2024 年 3 月 2 日](https://softwaretestingweekly.com/issues/209) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
