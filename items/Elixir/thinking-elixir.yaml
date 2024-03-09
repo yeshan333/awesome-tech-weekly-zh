@@ -1,0 +1,7 @@
+kind: Elixir
+owner: thinkingelixir
+name: 'Elixir Podcast'
+link: https://thinkingelixir.com/
+desc: 'Thinking Elixir Podcast'
+desc_en: 'Thinking Elixir Podcast'
+feed_url: https://raw.githubusercontent.com/yeshan333/rss-translate/main/rss/thinkingelixir.xml
