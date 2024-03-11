@@ -5,6 +5,7 @@ English | [简体中文](../README.md)
 
 <p>🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
+<p><img src="assets/news.png"/> This is a newly published article this week.</p>
 
 <a href="https://awesome.re">
   <img src="https://awesome.re/badge.svg" alt="Awesome">

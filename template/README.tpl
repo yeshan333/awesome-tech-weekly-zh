@@ -5,7 +5,7 @@
 
 <p> 🧐 共分设类目 {{lenGroupNum}} 个，📥 累计收录（月/周/日）刊 {{lenItemNum}} 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
-<p> 🕰️ 每 3 小时刷新一次。</p>
+<p> 🕰️ 每 3 小时刷新一次。<img src="assets/news.png"/> 表示为本周新发的文章。</p>
 
 <a href="https://awesome.re">
   <img src="https://awesome.re/badge.svg" alt="Awesome">
