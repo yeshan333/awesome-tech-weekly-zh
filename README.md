@@ -5,7 +5,7 @@
 
 <p> 🧐 共分设类目 13 个，📥 累计收录（月/周/日）刊 21 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
-<p> 🕰️ 每 3 小时刷新一次。</p>
+<p> 🕰️ 每 3 小时刷新一次。<img src="assets/news.png"/> 表示为本周新发的文章。</p>
 
 <a href="https://awesome.re">
   <img src="https://awesome.re/badge.svg" alt="Awesome">
@@ -85,7 +85,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
