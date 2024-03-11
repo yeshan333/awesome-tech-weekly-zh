@@ -36,7 +36,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-11T00:30:00Z | [AIGC Weekly #62 LLM的竞争白热化了](https://quail.ink/op7418/p/aigc-weekly-62-llm-competition-heated-up)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-11T11:59:46Z | [宝藏内容-沃顿商学院给教师和学生的提示词库](https://quail.ink/op7418/p/bao-zang-nei-rong-wo-dun-shang-xue-yuan-gei-jiao-shi-he-xue-sheng-de-ti-shi-ci-ku)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -117,7 +117,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2024-03-04T07:53:07Z | [云原生周刊：CNCF 宣布 Falco 毕业｜2024.3.4](https://blog.csdn.net/zpf17671624050/article/details/136454520) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2024-03-11T09:43:36Z | [云原生周刊：Helm Charts 深入探究 ｜ 2024.3.11](https://blog.csdn.net/zpf17671624050/article/details/136630639)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
