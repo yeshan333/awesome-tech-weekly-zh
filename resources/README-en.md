@@ -3,7 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p>🧐 Divided into 12 categories. 📥 Includes 20 weeklies.</p>
+<p>🧐 Divided into 13 categories. 📥 Includes 21 weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 
 <a href="https://awesome.re">
@@ -23,6 +23,7 @@ English | [简体中文](../README.md)
 - [其他](#其他)
 - [前端](#前端)
 - [安全](#安全)
+- [嵌入式](#嵌入式)
 - [软件测试](#软件测试)
 - [运维](#运维)
 
@@ -34,7 +35,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-04T00:30:03Z | [AIGC Weekly #61](https://quail.ink/op7418/p/aigc-weekly-61) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-11T00:30:00Z | [AIGC Weekly #62 LLM的竞争白热化了](https://quail.ink/op7418/p/aigc-weekly-62-llm-competition-heated-up)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -99,7 +100,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-03-04T02:27:09Z | [老司机 iOS 周报 #279   2024-03-04](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23279) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-03-11T02:08:08Z | [老司机 iOS 周报 #280   2024-03-11](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23280)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -186,6 +187,22 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-10T15:58:20Z | [SecWiki News 2024-03-10 Review](http://www.sec-wiki.com/?2024-03-10) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+
+<div align="right">
+<a href="#Contents">Back To Top</a>
+</div>
+
+
+
+## 嵌入式
+
+<p align="right">
+📥 This category contains 1 items.
+</p>
+
+| Name | Description | UpdatedAt | Article | Addr |
+|:-:|:-|:-:|:-:|:-:|
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-02-20T13:35:00Z | [《痞子衡嵌入式半月刊》 第 92 期](https://blog.csdn.net/Henjay724/article/details/136230982) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
