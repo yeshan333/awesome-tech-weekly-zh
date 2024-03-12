@@ -85,7 +85,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [Python 潮流周刊#41：写代码很简单，但写好代码很难](https://pythoncat.top/posts/2024-03-09-weekly/) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -135,7 +135,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-03-12T03:53:23Z | [BLUE周刊-Vol.094](https://www.yuque.com/hhhhuazi/gwyv4u/fatiugb15s34gp7q)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-03-10T16:41:45Z | [体验碎周报第 180 期（2024.03.11）](https://www.ftium4.com/ux-weekly-180.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-02-17T16:00:00Z | [设计素材周刊 102 期](https://moonvy.com/blog/post/设计素材周刊/102/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-02-25T16:00:00Z | [设计素材周刊 103 期](https://moonvy.com/blog/post/设计素材周刊/103/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
