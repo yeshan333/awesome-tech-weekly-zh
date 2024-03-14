@@ -151,7 +151,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-03-08T00:00:00Z | [独立开发变现周刊（第125期） : 个人Notion如何每月收入3万美元](https://www.ezindie.com/weekly/issue-125) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-03-15T00:00:00Z | [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-03-08T00:24:48Z | [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
