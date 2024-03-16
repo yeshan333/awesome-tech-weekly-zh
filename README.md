@@ -135,7 +135,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-03-12T03:53:23Z | [BLUE周刊-Vol.094](https://www.yuque.com/hhhhuazi/gwyv4u/fatiugb15s34gp7q)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-03-10T16:41:45Z | [体验碎周报第 180 期（2024.03.11）](https://www.ftium4.com/ux-weekly-180.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-02-25T16:00:00Z | [设计素材周刊 103 期](https://moonvy.com/blog/post/设计素材周刊/103/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-03-02T16:00:00Z | [设计素材周刊 104 期](https://moonvy.com/blog/post/设计素材周刊/104/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -153,7 +153,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-03-15T00:00:00Z | [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-03-08T00:24:48Z | [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-03-15T00:13:02Z | [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
