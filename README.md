@@ -171,7 +171,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-11T15:05:27Z | [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://juejin.cn/post/7344983784549302309)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-04T01:54:42Z | [万能近似定理: 逼近任何函数的理论](https://github.com/ascoders/weekly/releases/tag/292) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2024-03-11T00:00:00Z | [第167期 - 碧空雪涛](https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2024-03-18T00:00:00Z | [第168期 - 想去现场](https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
