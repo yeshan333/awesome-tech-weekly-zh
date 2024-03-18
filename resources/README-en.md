@@ -36,7 +36,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-11T11:59:46Z | [宝藏内容-沃顿商学院给教师和学生的提示词库](https://quail.ink/op7418/p/bao-zang-nei-rong-wo-dun-shang-xue-yuan-gei-jiao-shi-he-xue-sheng-de-ti-shi-ci-ku) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-18T00:30:01Z | [AIGC Weekly #63](https://quail.ink/op7418/p/aigc-weekly-63)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -101,7 +101,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-03-11T02:08:08Z | [老司机 iOS 周报 #280   2024-03-11](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23280) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-03-18T02:20:03Z | [老司机 iOS 周报 #281   2024-03-18](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23281)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -170,7 +170,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-11T15:05:27Z | [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://juejin.cn/post/7344983784549302309) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
-| 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-04T01:54:42Z | [万能近似定理: 逼近任何函数的理论](https://github.com/ascoders/weekly/releases/tag/292) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
+| 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-18T01:39:33Z | [实现万能近似函数: 神经网络的架构设计](https://github.com/ascoders/weekly/releases/tag/293)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-03-18T00:00:00Z | [第168期 - 想去现场](https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
@@ -187,7 +187,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 |  | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-17T15:58:20Z | [SecWiki News 2024-03-17 Review](http://www.sec-wiki.com/?2024-03-17) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
