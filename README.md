@@ -169,7 +169,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-11T15:05:27Z | [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://juejin.cn/post/7344983784549302309) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-19T12:45:03Z | [技术周刊 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://juejin.cn/post/7347943210952867850)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-18T01:39:33Z | [实现万能近似函数: 神经网络的架构设计](https://github.com/ascoders/weekly/releases/tag/293)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-03-18T00:00:00Z | [第168期 - 想去现场](https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
