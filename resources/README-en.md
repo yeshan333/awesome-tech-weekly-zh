@@ -36,7 +36,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-19T05:08:07Z | [英伟达GTC大会公告，新硬件、新技术、新机器人](https://quail.ink/op7418/p/e88bb1e4bc9fe8bebegtce5a4a7e4bc9ae585ace5918aefbc8ce696b0e7a1ace4bbb6e38081e696b0e68a80e69cafe38081e696b0e69cbae599a8e4baba)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-03-20T16:52:32Z | [简单易懂，强烈推荐-Codesignal提示工程教程](https://quail.ink/op7418/p/e7ae80e58d95e69893e68782efbc8ce5bcbae78388e68ea8e88d90-codesignale68f90e7a4bae5b7a5e7a88be69599e7a88b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -187,7 +187,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-19T15:58:20Z | [SecWiki News 2024-03-19 Review](http://www.sec-wiki.com/?2024-03-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-03-20T15:58:20Z | [SecWiki News 2024-03-20 Review](http://www.sec-wiki.com/?2024-03-20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
