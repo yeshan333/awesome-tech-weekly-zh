@@ -151,9 +151,9 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-03-22T00:00:00Z | [独立开发变现周刊（第127期） : 失败了三次，25岁开发月入5万美元的Shopify插件](https://www.ezindie.com/weekly/issue-127) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-03-22T00:00:00Z | [独立开发变现周刊（第127期） : 失败了三次，25岁开发月入5万美元的Shopify插件](https://www.ezindie.com/weekly/issue-127)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-02-28T00:11:30Z | [HelloGitHub 第 95 期](https://hellogithub.com/periodical/volume/95) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-03-15T00:13:02Z | [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-03-15T00:13:02Z | [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
