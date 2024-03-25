@@ -85,7 +85,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [Python 潮流周刊#43：在开源与家庭之间，他选择了家庭](https://pythoncat.top/posts/2024-03-23-weekly/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -169,7 +169,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-19T12:45:03Z | [技术周刊 116 期：Visual Copilot、INP、Kimi 支持 200 万字上下文、Grok 开源、Figure 01、Open Sora 开源](https://juejin.cn/post/7347943210952867850)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-25T04:53:38Z | [技术周刊 117：Node 纪录片、AI 音视频助理、Suno v3、Node 作者专访播客、React 编译器](https://juejin.cn/post/7349880999259766821)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-18T01:39:33Z | [实现万能近似函数: 神经网络的架构设计](https://github.com/ascoders/weekly/releases/tag/293) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-03-25T00:00:00Z | [第169期 - 路边繁花](https://weekly.tw93.fun/posts/169-%E8%B7%AF%E8%BE%B9%E7%B9%81%E8%8A%B1/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
