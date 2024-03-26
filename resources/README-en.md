@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) |
-| Elixir Podcast | Thinking Elixir Podcast | 2024-03-19T10:15:00Z | [194：操作灵丹妙药：知道何时长大](https://podcast.thinkingelixir.com/194)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-03-19T10:15:00Z | [194：操作灵丹妙药：知道何时长大](https://podcast.thinkingelixir.com/194) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -85,7 +85,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [Python 潮流周刊#43：在开源与家庭之间，他选择了家庭](https://pythoncat.top/posts/2024-03-23-weekly/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
