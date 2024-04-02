@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) |
-| Elixir Podcast | Thinking Elixir Podcast | 2024-03-26T10:15:00Z | [195：从 Next.js 迁移到 Phoenix](https://podcast.thinkingelixir.com/195)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-03-26T10:15:00Z | [195：从 Next.js 迁移到 Phoenix](https://podcast.thinkingelixir.com/195) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -204,7 +204,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-02-20T13:35:00Z | [《痞子衡嵌入式半月刊》 第 92 期](https://blog.csdn.net/Henjay724/article/details/136230982) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-03-17T11:34:00Z | [《痞子衡嵌入式半月刊》 第 95 期](https://blog.csdn.net/Henjay724/article/details/137279428) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
