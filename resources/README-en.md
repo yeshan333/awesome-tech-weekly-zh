@@ -117,7 +117,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2024-04-01T08:20:59Z | [云原生周刊：Kubernetes 1.30 的一切新功能 ｜ 2024.4.1](https://blog.csdn.net/zpf17671624050/article/details/137237549) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2024-04-08T09:10:33Z | [云原生周刊：2024 年 K8s 基准报告 ｜ 2024.4.8](https://blog.csdn.net/zpf17671624050/article/details/137516357)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
