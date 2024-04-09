@@ -53,7 +53,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) |
-| Elixir Podcast | Thinking Elixir Podcast | 2024-04-02T10:15:00Z | [196：思考长生不老药新闻](https://podcast.thinkingelixir.com/196)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-04-02T10:15:00Z | [196：思考长生不老药新闻](https://podcast.thinkingelixir.com/196) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
