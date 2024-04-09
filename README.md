@@ -172,7 +172,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-03-25T04:53:38Z | [技术周刊 117：Node 纪录片、AI 音视频助理、Suno v3、Node 作者专访播客、React 编译器](https://juejin.cn/post/7349880999259766821) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-18T01:39:33Z | [实现万能近似函数: 神经网络的架构设计](https://github.com/ascoders/weekly/releases/tag/293) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2024-01-08T00:00:00Z | [第160期 - 爱吃炒饭](https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2024-04-08T00:00:00Z | [第171期 - 看虞美人](https://weekly.tw93.fun/posts/171-%E7%9C%8B%E8%99%9E%E7%BE%8E%E4%BA%BA/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
