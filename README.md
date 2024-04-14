@@ -136,7 +136,7 @@
 | BLUE周刊 | BLUE周刊 | 2024-03-25T18:10:34Z | [BLUE周刊-Vol.095](https://www.yuque.com/hhhhuazi/gwyv4u/py1agunn5h62pgu9) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-04-07T16:41:45Z | [体验碎周报第 184 期（2024.04.08）](https://www.ftium4.com/ux-weekly-184.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2024-03-03T13:53:46Z | [#032期：在AI时代需要打造的3种能力](https://www.yuque.com/zing123/scu69w/cqprqm4cghrvy7xh) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-03-23T16:00:00Z | [设计素材周刊 107 期](https://moonvy.com/blog/post/设计素材周刊/107/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-03-30T16:00:00Z | [设计素材周刊 108 期](https://moonvy.com/blog/post/设计素材周刊/108/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -172,7 +172,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-04-13T06:57:08Z | [技术周刊 118：Signals 提案进入 Stage 1 阶段、3 月 Web 平台更新、Nuxt 展望未来、Q1 全球 AGI 融资盘点](https://juejin.cn/post/7356892796613279756)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-03-18T01:39:33Z | [实现万能近似函数: 神经网络的架构设计](https://github.com/ascoders/weekly/releases/tag/293) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2024-04-08T00:00:00Z | [第171期 - 看虞美人](https://weekly.tw93.fun/posts/171-%E7%9C%8B%E8%99%9E%E7%BE%8E%E4%BA%BA/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2024-04-15T00:00:00Z | [第172期 - 骑青山湖](https://weekly.tw93.fun/posts/172-%E9%AA%91%E9%9D%92%E5%B1%B1%E6%B9%96/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
