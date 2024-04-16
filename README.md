@@ -53,7 +53,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) |
-| Elixir Podcast | Thinking Elixir Podcast | 2024-04-09T10:15:00Z | [197：思考长生不老药新闻](https://podcast.thinkingelixir.com/197) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-04-16T10:15:00Z | [198：凯德掌握最后一句话](https://podcast.thinkingelixir.com/198)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -188,7 +188,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-04-15T15:58:20Z | [SecWiki News 2024-04-15 Review](http://www.sec-wiki.com/?2024-04-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-04-16T15:58:20Z | [SecWiki News 2024-04-16 Review](http://www.sec-wiki.com/?2024-04-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -220,7 +220,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-04-07T19:06:51Z | [软件测试周刊 - 第 214 期 - 2024 年 4 月 7 日](https://softwaretestingweekly.com/issues/214) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-04-14T11:00:00Z | [软件测试周刊 - 第 215 期 - 2024 年 4 月 14 日](https://softwaretestingweekly.com/issues/215)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
