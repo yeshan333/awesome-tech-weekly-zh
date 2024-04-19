@@ -154,7 +154,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-04-19T00:00:00Z | [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-03-28T00:09:14Z | [HelloGitHub 第 96 期](https://hellogithub.com/periodical/volume/96) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-04-11T23:38:48Z | [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-04-19T00:27:12Z | [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
