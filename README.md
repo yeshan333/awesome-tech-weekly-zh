@@ -133,7 +133,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| BLUE周刊 | BLUE周刊 | 2024-04-15T18:30:44Z | [BLUE周刊-Vol.096](https://www.yuque.com/hhhhuazi/gwyv4u/idgqqaiv243t6mw8){:target=&#34;_blank&#34;}![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| BLUE周刊 | BLUE周刊 | 2024-04-15T18:30:44Z | [BLUE周刊-Vol.096](https://www.yuque.com/hhhhuazi/gwyv4u/idgqqaiv243t6mw8){:target=&#34;_blank&#34;} | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-04-21T16:41:45Z | [体验碎周报第 186 期（2024.04.22）](https://www.ftium4.com/ux-weekly-186.html){:target=&#34;_blank&#34;}![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2024-04-21T14:33:12Z | [#034期：你唯一需要掌握的事情](https://www.yuque.com/zing123/scu69w/ds6dkg3ybi85icrc){:target=&#34;_blank&#34;}![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-04-06T16:00:00Z | [设计素材周刊 109 期](https://moonvy.com/blog/post/设计素材周刊/109/){:target=&#34;_blank&#34;} | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
