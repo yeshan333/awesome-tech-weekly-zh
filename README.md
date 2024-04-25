@@ -152,7 +152,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-04-19T00:00:00Z | [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-04-26T00:00:00Z | [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-03-28T00:09:14Z | [HelloGitHub 第 96 期](https://hellogithub.com/periodical/volume/96) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-04-19T00:27:12Z | [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -188,7 +188,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 |  | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-04-25T15:58:20Z | [SecWiki News 2024-04-25 Review](http://www.sec-wiki.com/?2024-04-25)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -237,7 +237,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-04-18T16:17:35Z | [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-04-25T13:52:52Z | [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
