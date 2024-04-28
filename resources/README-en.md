@@ -136,7 +136,7 @@ English | [简体中文](../README.md)
 | BLUE周刊 | BLUE周刊 | 2024-04-15T18:30:44Z | [BLUE周刊-Vol.096](https://www.yuque.com/hhhhuazi/gwyv4u/idgqqaiv243t6mw8) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-04-21T16:41:45Z | [体验碎周报第 186 期（2024.04.22）](https://www.ftium4.com/ux-weekly-186.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2024-04-21T14:33:12Z | [#034期：你唯一需要掌握的事情](https://www.yuque.com/zing123/scu69w/ds6dkg3ybi85icrc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-04-06T16:00:00Z | [设计素材周刊 109 期](https://moonvy.com/blog/post/设计素材周刊/109/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-04-13T16:00:00Z | [设计素材周刊 110 期](https://moonvy.com/blog/post/设计素材周刊/110/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -204,7 +204,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-03-27T05:51:00Z | [痞子衡嵌入式：i.MXRT1xxx系列GPIO提早供电会影响上电时序导致内部DCDC启动失败...](https://blog.csdn.net/Henjay724/article/details/137287741) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
