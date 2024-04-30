@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | 蠎周刊 - ElixirWeekly | 蠎周刊翻译的ElixirWeekly | 2019-05-09T11:42:00Z | [Elixir Weekly #148](https://weekly.pychina.org/elixirweekly/elixirweekly-148.html) | [https://weekly.pychina.org/elixirweekly/index.html](https://weekly.pychina.org/elixirweekly/index.html) |
-| Elixir Podcast | Thinking Elixir Podcast | 2024-04-23T10:15:00Z | [199：Websockets 的已故英雄和 Elixir 的最新更新](https://podcast.thinkingelixir.com/199)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-04-23T10:15:00Z | [199：Websockets 的已故英雄和 Elixir 的最新更新](https://podcast.thinkingelixir.com/199) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
