@@ -152,7 +152,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-10T00:00:00Z | [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-10T00:00:00Z | [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-04-28T00:09:55Z | [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-04-26T00:09:25Z | [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
