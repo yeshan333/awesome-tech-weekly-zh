@@ -154,7 +154,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-17T00:00:00Z | [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-04-28T00:09:55Z | [HelloGitHub 第 97 期](https://hellogithub.com/periodical/volume/97) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-05-10T00:15:11Z | [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-05-17T00:13:29Z | [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
