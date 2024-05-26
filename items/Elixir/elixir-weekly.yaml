@@ -1,7 +1,0 @@
-kind: Elixir
-owner: 蠎周刊
-name: '蠎周刊 - ElixirWeekly'
-link: https://weekly.pychina.org/elixirweekly/index.html
-desc: '蠎周刊翻译的ElixirWeekly'
-desc_en: 'ElixirWeekly'
-feed_url: https://weekly.pychina.org/feeds/elixirweekly.atom.xml

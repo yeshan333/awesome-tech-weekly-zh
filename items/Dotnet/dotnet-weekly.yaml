@@ -1,0 +1,7 @@
+kind: Dotnet
+owner: .NET 周刊
+name: '.NET 周刊'
+link: https://www.fungkao.net/
+desc: '.NET 周刊'
+desc_en: '.NET Weekly'
+feed_url: https://www.fungkao.net/feed.rss
