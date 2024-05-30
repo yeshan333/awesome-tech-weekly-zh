@@ -149,9 +149,9 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| BLUE周刊 | BLUE周刊 | 2024-05-26T14:59:26Z | [BLUE周刊-Vol.099](https://www.yuque.com/hhhhuazi/gwyv4u/xfftlfmonu2uzklo)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| BLUE周刊 | BLUE周刊 | 2024-05-26T14:59:26Z | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-05-26T16:41:45Z | [体验碎周报第 190 期（2024.05.27）](https://www.ftium4.com/ux-weekly-190.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-05-07T13:40:28Z | [#001期：可视化平台优秀案例](https://www.yuque.com/zing123/scu69w/hn7x2v) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 | 2024-05-07T13:40:28Z | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-05-10T16:00:00Z | [设计素材周刊 114 期](https://moonvy.com/blog/post/设计素材周刊/114/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -168,7 +168,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-24T00:00:00Z | [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-31T00:00:00Z | [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-05-28T00:12:43Z | [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-05-29T01:03:49Z | [分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -220,7 +220,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-05-20T15:14:00Z | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -253,7 +253,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-05-23T14:14:00Z | [学习周刊-总第160期-2024年第21周](https://wiki.eryajf.net/pages/2a7acf/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-05-30T12:35:49Z | [学习周刊-总第161期-2024年第22周](https://wiki.eryajf.net/pages/a02638/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
