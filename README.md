@@ -168,7 +168,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-31T00:00:00Z | [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-05-31T00:00:00Z | [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-05-28T00:12:43Z | [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-05-29T01:03:49Z | [分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
