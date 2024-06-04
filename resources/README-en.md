@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-05-28T10:15:00Z | [【204: OTP 27 and Blend for Lib Maintainers】204：OTP 27 和 Lib 维护者的 Blend](https://podcast.thinkingelixir.com/204)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-05-28T10:15:00Z | [【204: OTP 27 and Blend for Lib Maintainers】204：OTP 27 和 Lib 维护者的 Blend](https://podcast.thinkingelixir.com/204) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
