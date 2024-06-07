@@ -168,9 +168,9 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-07T00:00:00Z | [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-07T00:00:00Z | [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-05-28T00:12:43Z | [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-05-31T00:11:13Z | [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-05-31T00:11:13Z | [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
