@@ -117,7 +117,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-06-03T02:31:42Z | [老司机 iOS 周报 #291   2024-06-03](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23291)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-06-03T02:31:42Z | [老司机 iOS 周报 #291   2024-06-03](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23291) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
