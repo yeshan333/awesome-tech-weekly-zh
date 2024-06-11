@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-06-04T10:15:00Z | [【205: Elixir 1.17 RC and Other News】205：Elixir 1.17 RC 和其他新闻](https://podcast.thinkingelixir.com/205)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-06-04T10:15:00Z | [【205: Elixir 1.17 RC and Other News】205：Elixir 1.17 RC 和其他新闻](https://podcast.thinkingelixir.com/205) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -133,7 +133,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2024-06-06T07:46:47Z | [超越预期：Containerd 如何成为 Kubernetes 的首选容器运行时](https://blog.csdn.net/zpf17671624050/article/details/139502469)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2024-06-11T09:04:00Z | [云原生周刊：Kubernetes 十周年 ｜ 2024.6.11](https://blog.csdn.net/zpf17671624050/article/details/139603769)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
