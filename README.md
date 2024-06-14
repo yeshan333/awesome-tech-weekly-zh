@@ -168,10 +168,10 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-14T00:00:00Z | [独立开发变现周刊（第137期） : 在线写作课程年收入30万美元](https://www.ezindie.com/weekly/issue-137) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-14T00:00:00Z | [独立开发变现周刊（第137期） : 在线写作课程年收入30万美元](https://www.ezindie.com/weekly/issue-137)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-05-28T00:12:43Z | [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-06-11T00:00:00Z | [第5期：丢失一百万美金虚拟币](https://gapis.money/weekly/2024-06-11_005)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-06-07T00:10:26Z | [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-06-07T00:10:26Z | [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
