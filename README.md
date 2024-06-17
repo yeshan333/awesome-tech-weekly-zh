@@ -37,7 +37,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-06-11T07:17:41Z | [AIGC Weekly #75](https://quail.ink/op7418/p/aigc-weekly-75)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-06-17T04:01:47Z | [AIGC Weekly #76 新一轮小规模技术爆发](https://quail.ink/op7418/p/aigc-weekly-76)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-06-11T10:15:00Z | [【206: BeamOps - DevOps on the BEAM】206：BeamOps - BEAM 上的 DevOps](https://podcast.thinkingelixir.com/206)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-06-11T10:15:00Z | [【206: BeamOps - DevOps on the BEAM】](https://podcast.thinkingelixir.com/206)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -170,7 +170,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-14T00:00:00Z | [独立开发变现周刊（第137期） : 在线写作课程年收入30万美元](https://www.ezindie.com/weekly/issue-137)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-05-28T00:12:43Z | [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-06-11T00:00:00Z | [第5期：丢失一百万美金虚拟币](https://gapis.money/weekly/2024-06-11_005)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
+| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-06-17T00:00:00Z | [第6期：忘掉 Sora！Luma AI 推出视频 AI 工具](https://gapis.money/weekly/2024-06-17_006)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-06-14T00:13:48Z | [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
@@ -187,7 +187,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-04-13T06:57:08Z | [技术周刊 118：Signals 提案进入 Stage 1 阶段、3 月 Web 平台更新、Nuxt 展望未来、Q1 全球 AGI 融资盘点](https://juejin.cn/post/7356892796613279756) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-06-17T00:00:00Z | [第181期 - 水培薄荷](https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
@@ -237,8 +237,8 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-06-10T08:00:00Z | [【Software Testing Weekly - Issue 223 - Jun 10th 2024】软件测试周刊 - 第 223 期 - 2024 年 6 月 10 日](https://softwaretestingweekly.com/issues/223)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
-| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-06-10T08:00:00Z | [【Software Testing Weekly - Issue 223 - Jun 10th 2024】](https://softwaretestingweekly.com/issues/223)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
