@@ -117,7 +117,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-06-17T02:10:49Z | [老司机 iOS 周报 #293   2024-06-17](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23293)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-06-24T02:04:33Z | [老司机 iOS 周报 #294   2024-06-24](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23294)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -170,7 +170,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-21T00:00:00Z | [独立开发变现周刊（第138期） : 打造月收入14万美金的SaaS，350万美金售出](https://www.ezindie.com/weekly/issue-138)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-05-28T00:12:43Z | [HelloGitHub 第 98 期](https://hellogithub.com/periodical/volume/98) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-06-17T00:00:00Z | [第6期：忘掉 Sora！Luma AI 推出视频 AI 工具](https://gapis.money/weekly/2024-06-17_006) | [https://gapis.money/](https://gapis.money/) |
+| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-06-21T00:13:05Z | [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
