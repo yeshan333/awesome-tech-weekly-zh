@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2024-06-18T14:01:59Z | [.NET 周刊第 57 期](https://www.fungkao.net/blogPost/e187c193-7973-4adb-a57d-68a8d10f0842)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2024-06-18T14:01:59Z | [.NET 周刊第 57 期](https://www.fungkao.net/blogPost/e187c193-7973-4adb-a57d-68a8d10f0842) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
