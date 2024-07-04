@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2024-06-18T14:01:59Z | [.NET 周刊第 57 期](https://www.fungkao.net/blogPost/e187c193-7973-4adb-a57d-68a8d10f0842) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2024-07-04T21:05:42Z | [.NET 周刊第 58 期](https://www.fungkao.net/blogPost/994652e5-19ac-485d-b2b1-cb2f573d83ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -205,7 +205,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-07-04T15:58:20Z | [SecWiki News 2024-07-04 Review](http://www.sec-wiki.com/?2024-07-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 |  | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
