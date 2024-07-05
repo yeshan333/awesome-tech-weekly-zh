@@ -53,7 +53,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2024-06-18T14:01:59Z | [.NET 周刊第 57 期](https://www.fungkao.net/blogPost/e187c193-7973-4adb-a57d-68a8d10f0842) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2024-07-04T21:05:42Z | [.NET 周刊第 58 期](https://www.fungkao.net/blogPost/994652e5-19ac-485d-b2b1-cb2f573d83ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -168,8 +168,8 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-28T00:00:00Z | [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
-| HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-06-28T00:11:44Z | [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-06-28T00:00:00Z | [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139) | [https://www.ezindie.com](https://www.ezindie.com) |
+| HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-06-28T00:11:44Z | [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-07-01T00:00:00Z | [第8期：抵制技术毒瘤：CSDN 与 Gitcode](https://gapis.money/weekly/2024-07-01_008)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-07-03T03:10:16Z | [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -205,7 +205,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 |  | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-07-04T15:58:20Z | [SecWiki News 2024-07-04 Review](http://www.sec-wiki.com/?2024-07-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
