@@ -133,7 +133,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2024-07-08T08:08:06Z | [云原生周刊：一条 Kubernetes 命令引发的悲剧](https://blog.csdn.net/zpf17671624050/article/details/140271619)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2024-07-10T09:49:53Z | [鲲鹏（ARM64）&#43;麒麟（Kylin v10）离线部署 KubeSphere](https://blog.csdn.net/zpf17671624050/article/details/140330606)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
