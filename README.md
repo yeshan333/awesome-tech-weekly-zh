@@ -168,7 +168,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-07-05T00:00:00Z | [独立开发变现周刊（第140期） : 一个播客嘉宾预订平台月收入22万美元](https://www.ezindie.com/weekly/issue-140)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-07-12T00:00:00Z | [独立开发变现周刊（第141期） : 一个MVP开发服务收入6.5万美元](https://www.ezindie.com/weekly/issue-141) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-06-28T00:11:44Z | [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-07-08T00:00:00Z | [第9期：基于不同平台开发，算抄袭吗？](https://gapis.money/weekly/2024-07-08_009)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-07-05T00:17:24Z | [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
@@ -254,7 +254,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-07-04T14:34:49Z | [学习周刊-总第166期-2024年第27周](https://wiki.eryajf.net/pages/b17f8f/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-07-11T13:34:48Z | [学习周刊-总第167期-2024年第28周](https://wiki.eryajf.net/pages/5f72a4/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
