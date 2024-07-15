@@ -37,7 +37,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-07-08T00:30:02Z | [AIGC Weekly #79 国内信息轰炸](https://quail.ink/op7418/p/aigc-weekly-79-) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-07-15T06:00:00Z | [AIGC Weekly #80](https://quail.ink/op7418/p/aigc-weekly-80)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -221,7 +221,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-07-07T15:17:00Z | [痞子衡嵌入式：浅聊恩智浦i.MXRT官方SDK里关于串行Flash相关的驱动与例程资源(上篇)...](https://blog.csdn.net/Henjay724/article/details/140256161) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-07-14T12:54:00Z | [《痞子衡嵌入式半月刊》 第 104 期](https://blog.csdn.net/Henjay724/article/details/140427250)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
