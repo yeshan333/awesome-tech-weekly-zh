@@ -3,7 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p>🧐 Divided into 14 categories. 📥 Includes 23 weeklies.</p>
+<p>🧐 Divided into 14 categories. 📥 Includes 24 weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 <p><img src="assets/news.png"/> This is a newly published article this week.</p>
 
@@ -163,13 +163,14 @@ English | [简体中文](../README.md)
 ## 其他
 
 <p align="right">
-📥 This category contains 4 items.
+📥 This category contains 5 items.
 </p>
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-07-19T00:00:00Z | [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-06-28T00:11:44Z | [HelloGitHub 第 99 期](https://hellogithub.com/periodical/volume/99) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-07-21T00:00:00Z | [vol4.一切为时不晚](https://www.hackthinking.com/weekly/2024/07-21-vol4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-07-22T00:00:00Z | [第11期：GPT-4o mini：速度更快，价格更低](https://gapis.money/weekly/2024-07-22_011)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-07-19T00:09:23Z | [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -205,7 +206,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-07-22T15:58:20Z | [SecWiki News 2024-07-22 Review](http://www.sec-wiki.com/?2024-07-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 |  | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
