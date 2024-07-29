@@ -39,14 +39,6 @@ English | [简体中文](../README.md)
 
 {{end}}
 
-## Support Project
-
-[为爱发电~](https://afdian.net/a/yeshan333)
-
-<a href="https://afdian.net/a/yeshan333">
-  <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="为爱发电">
-</a>
-
 ## Related Projects
 
 - [RSSHub](https://rsshub.app/): Get RSS feed links from any website.

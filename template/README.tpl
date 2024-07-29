@@ -39,14 +39,6 @@
 
 {{end}}
 
-## 支持一下
-
-[为爱发电~](https://afdian.net/a/yeshan333)
-
-<a href="https://afdian.net/a/yeshan333">
-  <img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="为爱发电">
-</a>
-
 ## 关联项目
 
 - [RSSHub](https://rsshub.app/): 获取 RSS 订阅链接
