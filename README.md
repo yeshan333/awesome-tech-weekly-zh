@@ -37,7 +37,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-07-28T12:07:20Z | [AIGC Weekly #82 合成数据和推理能力](https://quail.ink/op7418/p/aigc-weekly-82-composite-data-and-reasoning-ability)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-07-31T08:25:45Z | [藏师傅手把手系列：教你让 AI 生成的视频人物说话和面部表情更生动](https://quail.ink/op7418/p/zang-shi-fu-shou-ba-shou-xi-lie-jiao-ni-rang-ai-sheng-cheng-de-shi-pin-ren-wu-shuo-hua-he-mian-bu-biao-qing-geng-sheng-dong)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
