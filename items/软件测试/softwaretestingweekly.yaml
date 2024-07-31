@@ -4,4 +4,4 @@ name: 'softwaretestingweekly'
 link: https://softwaretestingweekly.com/issues
 desc: 'softwaretestingweekly '
 desc_en: 'softwaretestingweekly '
-feed_url: https://raw.githubusercontent.com/yeshan333/rss-translate/main/rss/mckinsey_rss.xml
+feed_url: https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/softwaretestingweekly.xml

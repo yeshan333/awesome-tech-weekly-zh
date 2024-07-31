@@ -4,4 +4,4 @@ name: 'Elixir Podcast'
 link: https://thinkingelixir.com/
 desc: 'Thinking Elixir Podcast'
 desc_en: 'Thinking Elixir Podcast'
-feed_url: https://raw.githubusercontent.com/yeshan333/rss-translate/main/rss/thinkingelixir.xml
+feed_url: https://fastly.jsdelivr.net/gh/yeshan333/fast-rss-translator@main/rss/elixirstatus.xml
