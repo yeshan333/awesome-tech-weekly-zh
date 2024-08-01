@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-07-30T14:46:48Z | [【ErrorTracker: an Elixir-based built-in error tracking】ErrorTracker：基于 Elixir 的内置错误跟踪](https://elixirstatus.com/p/KzLhG-errortracker-an-elixir-based-built-in-error-tracking)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-07-31T04:50:28Z | [【Drag-and-Drop with Phoenix LiveView】使用 Phoenix LiveView 进行拖放](https://elixirstatus.com/p/w9RfD-drag-and-drop-with-phoenix-liveview)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
