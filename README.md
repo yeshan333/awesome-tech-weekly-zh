@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-07-31T04:50:28Z | [【Drag-and-Drop with Phoenix LiveView】使用 Phoenix LiveView 进行拖放](https://elixirstatus.com/p/w9RfD-drag-and-drop-with-phoenix-liveview)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-02T16:31:19Z | [【Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix】使用 OTP、Elixir 和 Phoenix 从头开始​​构建多人俄罗斯方块](https://elixirstatus.com/p/GNxLy-building-multiplayer-tetris-from-scratch-with-otp-elixir-and-phoenix)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
