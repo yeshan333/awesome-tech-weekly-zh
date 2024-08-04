@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-02T16:31:19Z | [【Building Multiplayer Tetris from scratch with OTP, Elixir, and Phoenix】使用 OTP、Elixir 和 Phoenix 从头开始​​构建多人俄罗斯方块](https://elixirstatus.com/p/GNxLy-building-multiplayer-tetris-from-scratch-with-otp-elixir-and-phoenix)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-04T00:57:48Z | [【Vintage Cellphone: Bridging the Past and Future with Elixir [Nerves Meetup]】老式手机：用 Elixir 连接过去和未来 [Nerves Meetup]](https://elixirstatus.com/p/hUTJy-vintage-cellphone-bridging-the-past-and-future-with-elixir-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
