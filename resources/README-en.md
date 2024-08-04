@@ -37,7 +37,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-08-01T16:06:22Z | [开源图像有救了！前Stability AI 核心成员开源12B图像生成模型，内含测评](https://quail.ink/op7418/p/open-source-image-saves-former-stability-ai-core-members-released-12b-image-generation-model-includes-evaluation)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-08-04T12:30:03Z | [AIGC Weekly #83](https://quail.ink/op7418/p/aigc-weekly-83)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -151,7 +151,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-07-21T16:41:45Z | [体验碎周报第 196 期（2024.07.22）](https://www.ftium4.com/ux-weekly-196.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-07-28T14:31:00Z | [#038期：非睡眠深度休息](https://www.yuque.com/zing123/scu69w/zg8wq3r8b1482d23)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 | 2024-07-28T14:31:00Z | [#038期：非睡眠深度休息](https://www.yuque.com/zing123/scu69w/zg8wq3r8b1482d23) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-07-27T16:00:00Z | [设计素材周刊 125 期](https://moonvy.com/blog/post/设计素材周刊/125/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -170,7 +170,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-08-03T00:00:00Z | [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-07-26T00:04:22Z | [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-04T03:41:26Z | [彼得·德鲁克](https://www.hackthinking.com/weekly/2024/peter-drucker)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-04T00:00:00Z | [vol6.长期游戏很困难，但很正确](https://www.hackthinking.com/weekly/2024/08-04-vol6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-07-29T00:00:00Z | [第12期：Sam Altman 做了一个全民基本收入实验](https://gapis.money/weekly/2024-07-29_012)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-08-02T00:12:57Z | [科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -190,7 +190,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-07-28T15:26:40Z | [技术周刊 ｜ Bundler 近况、React 2023 状态报告出炉、小模型群雄并起、OpenAI 发布 SearchGPT](https://juejin.cn/post/7396361501789274122)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2024-07-29T00:00:00Z | [第187期 - 我想开了](https://weekly.tw93.fun/posts/187-%E6%88%91%E6%83%B3%E5%BC%80%E4%BA%86/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2024-08-05T00:00:00Z | [第188期 - 水墨蓝天](https://weekly.tw93.fun/posts/188-%E6%B0%B4%E5%A2%A8%E8%93%9D%E5%A4%A9/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
