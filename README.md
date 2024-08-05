@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-04T00:57:48Z | [【Vintage Cellphone: Bridging the Past and Future with Elixir [Nerves Meetup]】老式手机：用 Elixir 连接过去和未来 [Nerves Meetup]](https://elixirstatus.com/p/hUTJy-vintage-cellphone-bridging-the-past-and-future-with-elixir-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-04T17:27:44Z | [【Building a Table of Contents Component for a Phoenix Blog】为 Phoenix 博客构建目录组件](https://elixirstatus.com/p/vYmjH-building-a-table-of-contents-component-for-a-phoenix-blog)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
