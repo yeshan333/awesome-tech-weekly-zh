@@ -151,7 +151,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-08-04T16:41:45Z | [体验碎周报第 197 期（2024.08.05）](https://www.ftium4.com/ux-weekly-197.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-07-28T14:31:00Z | [#038期：非睡眠深度休息](https://www.yuque.com/zing123/scu69w/zg8wq3r8b1482d23) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 | 2024-08-08T12:14:27Z | [＃039期：建立自己的信息流](https://www.yuque.com/zing123/scu69w/zq8ooyn4ygd095nf)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-08-03T16:00:00Z | [设计素材周刊 126 期](https://moonvy.com/blog/post/设计素材周刊/126/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -168,7 +168,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-08-03T00:00:00Z | [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-08-09T00:00:00Z | [独立开发变现周刊（第144期） : 一个在线签名工具年收入24万美元](https://www.ezindie.com/weekly/issue-144) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-07-26T00:04:22Z | [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-04T00:00:00Z | [vol6.长期游戏很困难，但很正确](https://www.hackthinking.com/weekly/2024/08-04-vol6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-08-05T00:00:00Z | [第13期：OpenAI 可能在 12 个月内破产，预计亏损 50 亿美元](https://gapis.money/weekly/2024-08-05_013)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
@@ -206,7 +206,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 |  | [SecWiki News 2024-08-07 Review](http://www.sec-wiki.com/?2024-08-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2024-08-08T15:58:20Z | [SecWiki News 2024-08-08 Review](http://www.sec-wiki.com/?2024-08-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -255,7 +255,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-07-31T15:23:33Z | [学习周刊-总第170期-2024年第31周](https://wiki.eryajf.net/pages/9ec7cf/) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-08-08T14:59:10Z | [学习周刊-总第171期-2024年第32周](https://wiki.eryajf.net/pages/18f52a/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
