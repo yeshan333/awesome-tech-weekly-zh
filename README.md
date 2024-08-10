@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-06T12:27:04Z | [【Thinking Elixir 214: Stack Overflow Results】Thinking Elixir 214：堆栈溢出结果](https://elixirstatus.com/p/ngip5-thinking-elixir-214-stack-overflow-results)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-09T17:58:41Z | [【Building analytics systems with Elixir   Code BEAM Europe 2023 recording】使用 Elixir 构建分析系统  代码 BEAM Europe 2023 录音](https://elixirstatus.com/p/XmQ5K-building-analytics-systems-with-elixir--code-beam-europe-2023-recording)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
