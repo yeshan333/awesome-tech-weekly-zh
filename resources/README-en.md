@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-09T17:58:41Z | [【Building analytics systems with Elixir   Code BEAM Europe 2023 recording】使用 Elixir 构建分析系统  代码 BEAM Europe 2023 录音](https://elixirstatus.com/p/XmQ5K-building-analytics-systems-with-elixir--code-beam-europe-2023-recording)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-12T00:49:55Z | [【State (Machine) of Enlightenment [Nerves Meetup]】启蒙状态（机器）[神经聚会]](https://elixirstatus.com/p/66O7z-state-machine-of-enlightenment-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -222,7 +222,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-08-11T14:38:00Z | [痞子衡嵌入式：探析i.MXRT1050在GPIO上增加RC延时电路后导致边沿中断误触发问题(上篇)...](https://blog.csdn.net/Henjay724/article/details/141115561)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-07-29T15:53:00Z | [痞子衡嵌入式：探析i.MXRT1050在GPIO上增加RC延时电路后导致边沿中断误触发问题(上篇)...](https://blog.csdn.net/Henjay724/article/details/141115561)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
