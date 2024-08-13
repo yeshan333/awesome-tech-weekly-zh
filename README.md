@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-12T00:49:55Z | [【State (Machine) of Enlightenment [Nerves Meetup]】启蒙状态（机器）[神经聚会]](https://elixirstatus.com/p/66O7z-state-machine-of-enlightenment-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-12T17:31:34Z | [【ErrorTracker v0.2.0 has been released】ErrorTracker v0.2.0 已发布](https://elixirstatus.com/p/MEUtq-errortracker-v020-has-been-released)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
