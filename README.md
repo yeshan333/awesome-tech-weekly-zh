@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-12T17:31:34Z | [【ErrorTracker v0.2.0 has been released】ErrorTracker v0.2.0 已发布](https://elixirstatus.com/p/MEUtq-errortracker-v020-has-been-released)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-13T12:15:29Z | [【Thinking Elixir 215: Bob gets busy and Google&#39;s in trouble】Thinking Elixir 215：鲍勃很忙，谷歌遇到了麻烦](https://elixirstatus.com/p/jzrYe-thinking-elixir-215-bob-gets-busy-and-googles-in-trouble)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
