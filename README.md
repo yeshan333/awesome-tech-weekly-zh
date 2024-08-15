@@ -37,7 +37,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-08-12T09:21:40Z | [什么是 AI 时代的好设计？AI 又要如何影响体验设计？](https://quail.ink/op7418/p/what-is-good-design-in-ai-era-how-ai-affects-experience-design)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-08-15T09:40:13Z | [藏师傅 Midjourney 宝藏提示词和风格代码分享](https://quail.ink/op7418/p/cang-shifu-midjourney-treasure-prompts-and-style-codes-sharing)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
