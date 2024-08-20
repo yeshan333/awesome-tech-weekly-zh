@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-18T16:31:25Z | [【Elixir CI: Testing, Publishing, and Containerization with GitHub Actions】Elixir CI：使用 GitHub Actions 进行测试、发布和容器化](https://elixirstatus.com/p/6EOuQ-elixir-ci-testing-publishing-and-containerization-with-github-actions)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-20T01:01:07Z | [【Kino integration for libgraph】libgraph 的 Kino 集成](https://elixirstatus.com/p/lw0dZ-kino-integration-for-libgrap)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
