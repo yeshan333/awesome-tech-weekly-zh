@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-20T01:01:07Z | [【Kino integration for libgraph】libgraph 的 Kino 集成](https://elixirstatus.com/p/lw0dZ-kino-integration-for-libgrap)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-20T13:16:54Z | [【The elixir-tools Update Vol. 7 &amp;amp; The Great Merge】Elixir-tools 更新卷。 7、大合并](https://elixirstatus.com/p/LKEkn-the-elixir-tools-update-vol-7--the-great-merge)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
