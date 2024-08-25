@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-22T16:09:06Z | [【Building an Elixir powered WordPress plugin with LiveState】使用 LiveState 构建 Elixir 支持的 WordPress 插件](https://elixirstatus.com/p/Rypky-building-an-elixir-powered-wordpress-plugin-with-livestate)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-24T10:35:46Z | [【How to implement primitive &#34;Did you mean ...?&#34; functionality in Elixir?】如何实现原始的“您的意思是……？” Elixir 中的功能？](https://elixirstatus.com/p/Mm7NH-how-to-implement-primitive-did-you-mean--functionality-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
