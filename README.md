@@ -170,7 +170,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-08-23T00:00:00Z | [独立开发变现周刊（第146期） : 一个月收入8千美金的网红分析工具](https://www.ezindie.com/weekly/issue-146)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-07-26T00:04:22Z | [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-18T00:00:00Z | [vol8.差异才是竞争的目的](https://www.hackthinking.com/weekly/2024/08-18-vol8)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-18T00:00:00Z | [vol8.差异才是竞争的目的](https://www.hackthinking.com/weekly/2024/08-18-vol8) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-08-19T00:00:00Z | [第15期：分享 11 条数字营销铁律](https://gapis.money/weekly/2024-08-19_015)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-08-23T00:12:49Z | [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
