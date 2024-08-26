@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-24T10:35:46Z | [【How to implement primitive &#34;Did you mean ...?&#34; functionality in Elixir?】如何实现原始的“您的意思是……？” Elixir 中的功能？](https://elixirstatus.com/p/Mm7NH-how-to-implement-primitive-did-you-mean--functionality-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-25T14:17:45Z | [【Code BEAM America 2025: Call for Talks is open 📣】Code BEAM America 2025：征集活动现已开放 📣](https://elixirstatus.com/p/wmpxg-code-beam-america-2025-call-for-talks-is-open-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -171,7 +171,7 @@
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-08-23T00:00:00Z | [独立开发变现周刊（第146期） : 一个月收入8千美金的网红分析工具](https://www.ezindie.com/weekly/issue-146)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-07-26T00:04:22Z | [HelloGitHub 第 100 期](https://hellogithub.com/periodical/volume/100) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-25T00:00:00Z | [vol9.你必须让一打你最喜欢的问题不断出现在你的脑海](https://www.hackthinking.com/weekly/2024/08-25-vol9)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-08-19T00:00:00Z | [第15期：分享 11 条数字营销铁律](https://gapis.money/weekly/2024-08-19_015) | [https://gapis.money/](https://gapis.money/) |
+| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-08-26T00:00:00Z | [第16期：独立开发者的战术和战略](https://gapis.money/weekly/2024-08-26_016)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-08-23T00:12:49Z | [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
