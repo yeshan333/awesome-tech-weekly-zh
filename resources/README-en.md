@@ -222,7 +222,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-08-17T13:30:00Z | [痞子衡嵌入式：英飞凌MirrorBit工艺NOR Flash的扇区架构设计](https://blog.csdn.net/Henjay724/article/details/141290574) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-08-25T09:44:00Z | [痞子衡嵌入式：在IAR开发环境下将尽可能多的代码重定向到RAM中执行的方法](https://blog.csdn.net/Henjay724/article/details/141538117)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
