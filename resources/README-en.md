@@ -37,7 +37,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-08-19T02:53:04Z | [AIGC Weekly #85](https://quail.ink/op7418/p/aigc-weekly-85)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-08-26T02:37:04Z | [AIGC Weekly #86](https://quail.ink/op7418/p/aigc-weekly-86)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -117,7 +117,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-08-19T02:41:34Z | [老司机 iOS 周报 #302   2024-08-19](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23302)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-08-26T02:43:26Z | [老司机 iOS 周报 #303   2024-08-26](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23303)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
