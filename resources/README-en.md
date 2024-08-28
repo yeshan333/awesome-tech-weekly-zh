@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-25T14:17:45Z | [【Code BEAM America 2025: Call for Talks is open 📣】Code BEAM America 2025：征集活动现已开放 📣](https://elixirstatus.com/p/wmpxg-code-beam-america-2025-call-for-talks-is-open-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-08-27T19:29:44Z | [【Backpex】背胶](https://elixirstatus.com/p/X0IMQ-backpex)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
