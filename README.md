@@ -172,7 +172,7 @@
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-08-28T00:03:47Z | [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-08-25T00:00:00Z | [vol9.你必须让一打你最喜欢的问题不断出现在你的脑海](https://www.hackthinking.com/weekly/2024/08-25-vol9)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-08-26T00:00:00Z | [第16期：独立开发者的战术和战略](https://gapis.money/weekly/2024-08-26_016)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-08-23T00:12:49Z | [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-08-30T00:08:59Z | [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
