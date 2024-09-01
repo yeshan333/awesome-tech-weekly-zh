@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-08-27T19:29:44Z | [【Backpex】背胶](https://elixirstatus.com/p/X0IMQ-backpex)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-01T01:02:38Z | [【State (Machine) of Enlightenment [Nerves Meetup]】启蒙状态（机器）[神经聚会]](https://elixirstatus.com/p/B1yoH-state-machine-of-enlightenment-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
