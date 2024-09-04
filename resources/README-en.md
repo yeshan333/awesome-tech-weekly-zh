@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-01T20:05:47Z | [【Implement the Web Share API in Phoenix LiveView】在 Phoenix LiveView 中实现 Web Share API](https://elixirstatus.com/p/iHzN7-implement-the-web-share-api-in-phoenix-liveview)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-03T13:37:20Z | [【Scaling Your Phoenix App in Elixir with FLAME】使用 FLAME 在 Elixir 中扩展您的 Phoenix 应用程序](https://elixirstatus.com/p/Xtb21-scaling-your-phoenix-app-in-elixir-with-flame)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
