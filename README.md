@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-03T13:37:20Z | [【Scaling Your Phoenix App in Elixir with FLAME】使用 FLAME 在 Elixir 中扩展您的 Phoenix 应用程序](https://elixirstatus.com/p/Xtb21-scaling-your-phoenix-app-in-elixir-with-flame)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-04T13:02:26Z | [【🎥 Erlang vs Elixir: On the Shoulder of Giants There’s Room for Larger Giants】🎥 Erlang vs Elixir：站在巨人的肩膀上，还有更大的巨人的空间](https://elixirstatus.com/p/LT5Iy--erlang-vs-elixir-on-the-shoulder-of-giants-theres-room-for-larger-giants)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
