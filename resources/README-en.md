@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-04T13:02:26Z | [【🎥 Erlang vs Elixir: On the Shoulder of Giants There’s Room for Larger Giants】🎥 Erlang vs Elixir：站在巨人的肩膀上，还有更大的巨人的空间](https://elixirstatus.com/p/LT5Iy--erlang-vs-elixir-on-the-shoulder-of-giants-theres-room-for-larger-giants)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-05T16:05:40Z | [【Learn Phoenix LiveView (now out of Early Access)】了解 Phoenix LiveView（现已停止抢先体验）](https://elixirstatus.com/p/gWavp-learn-phoenix-liveview-now-out-of-early-access)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
