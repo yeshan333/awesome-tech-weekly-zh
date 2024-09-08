@@ -170,7 +170,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-09-06T00:00:00Z | [独立开发变现周刊（第148期） : 一个年收入18万美元的编程学习社区](https://www.ezindie.com/weekly/issue-148)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-08-28T00:03:47Z | [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-09-01T00:00:00Z | [vol10.增加「选择的机会」，而不是提高「选择的成功率」](https://www.hackthinking.com/weekly/2024/09-01-vol10)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-09-01T00:00:00Z | [vol10.增加「选择的机会」，而不是提高「选择的成功率」](https://www.hackthinking.com/weekly/2024/09-01-vol10) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-02T00:00:00Z | [第17期：独立开发者出海产品分发渠道](https://gapis.money/weekly/2024-09-02_017)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-09-06T00:14:18Z | [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
