@@ -37,7 +37,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-09-04T09:23:51Z | [藏师傅手把手教你把实拍照片变成黑神话悟空风格的视频](https://quail.ink/op7418/p/master-teaches-how-to-transform-photos-into-black-myth-wukong-style-video)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-09-09T03:13:55Z | [AIGC Weekly #88](https://quail.ink/op7418/p/aigc-weekly-88)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-05T16:05:40Z | [【Learn Phoenix LiveView (now out of Early Access)】了解 Phoenix LiveView（现已停止抢先体验）](https://elixirstatus.com/p/gWavp-learn-phoenix-liveview-now-out-of-early-access)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-08T20:46:58Z | [【Nerves Online Meetup】Nerves 在线聚会](https://elixirstatus.com/p/lbJ9O-nerves-online-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
