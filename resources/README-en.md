@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-10T16:32:44Z | [【Optimum infrastructure generator for Elixir apps】Elixir 应用程序的最佳基础设施生成器](https://elixirstatus.com/p/hh0Kw-optimum-infrastructure-generator-for-elixir-apps)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-11T15:47:28Z | [【ErrorTracker v0.3.0 has been released】ErrorTracker v0.3.0 已发布](https://elixirstatus.com/p/1u4Hf-errortracker-v030-has-been-released)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
