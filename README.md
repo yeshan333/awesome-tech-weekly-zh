@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-11T15:47:28Z | [【ErrorTracker v0.3.0 has been released】ErrorTracker v0.3.0 已发布](https://elixirstatus.com/p/1u4Hf-errortracker-v030-has-been-released)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-12T13:35:04Z | [【Code navigation with go to definition of modules and functions inside Livebook】代码导航，可转到 Livebook 内模块和函数的定义](https://elixirstatus.com/p/cFj1a-code-navigation-with-go-to-definition-of-modules-and-functions-inside-livebook)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
