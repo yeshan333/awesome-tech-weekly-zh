@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-11T15:47:28Z | [【ErrorTracker v0.3.0 has been released】ErrorTracker v0.3.0 已发布](https://elixirstatus.com/p/1u4Hf-errortracker-v030-has-been-released)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-12T13:35:04Z | [【Code navigation with go to definition of modules and functions inside Livebook】代码导航，可转到 Livebook 内模块和函数的定义](https://elixirstatus.com/p/cFj1a-code-navigation-with-go-to-definition-of-modules-and-functions-inside-livebook)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -172,7 +172,7 @@ English | [简体中文](../README.md)
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-08-28T00:03:47Z | [HelloGitHub 第 101 期](https://hellogithub.com/periodical/volume/101) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-09-08T00:00:00Z | [vol11.平衡&#34;存量&#34;与&#34;流量&#34;，才能构建持久的影响力](https://www.hackthinking.com/weekly/2024/09-08-vol11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-09T00:00:00Z | [第18期：马斯克都开始玩悟空了](https://gapis.money/weekly/2024-09-09_018)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-09-11T12:52:34Z | [白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-09-12T23:35:02Z | [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
