@@ -53,7 +53,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2024-09-01T13:02:45Z | [Run ASP.NET Core in Azure Cloud Service](https://www.fungkao.net/blogPost/76837e87-2ee9-4fcb-9d89-ae884181fb6d) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2024-09-16T04:49:11Z | [.NET 周刊第 61 期](https://www.fungkao.net/blogPost/50b1ece1-e3f6-4412-b560-514859dcee4e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
