@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-16T15:21:26Z | [【A Complete Guide to Phoenix for Elixir Monitoring with AppSignal】Phoenix 使用 AppSignal 进行 Elixir 监控的完整指南](https://elixirstatus.com/p/1u7Bp-a-complete-guide-to-phoenix-for-elixir-monitoring-with-appsignal)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-17T12:15:44Z | [【Thinking Elixir 220: The EEF Has Your Regulatory Back】Thinking Elixir 220：EEF 为您提供监管支持](https://elixirstatus.com/p/tdvsk-thinking-elixir-220-the-eef-has-your-regulatory-back)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
