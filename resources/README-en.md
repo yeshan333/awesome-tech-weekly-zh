@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-09-27T15:42:30Z | [【Creating a Phoenix app with only a browser using GitHub Codespaces】使用 GitHub Codespaces 创建仅使用浏览器的 Phoenix 应用程序](https://elixirstatus.com/p/o3dQ3-creating-a-phoenix-app-with-only-a-browser-using-github-codespaces)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-09-28T17:20:40Z | [【Apply for free Student Tickets to Code BEAM Europe】申请 Code BEAM Europe 免费学生票](https://elixirstatus.com/p/Pc3Lj-apply-for-free-student-ticketst-to-code-beam-europe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
