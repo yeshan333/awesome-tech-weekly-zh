@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-10-07T20:10:25Z | [【Merge Sort in Elixir】Elixir 中的合并排序](https://elixirstatus.com/p/KRPC4-merge-sort-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-10-08T14:07:56Z | [【Implementing Quick Sort Algorithm in Elixir】在 Elixir 中实现快速排序算法](https://elixirstatus.com/p/1evuk-implementing-quick-sort-algorithm-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
