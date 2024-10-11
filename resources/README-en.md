@@ -168,7 +168,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 独立开发变现周刊 | 独立开发变现周刊 | 2024-09-27T00:00:00Z | [独立开发变现周刊（第151期） : 一个年收入1800万美元的支付业务](https://www.ezindie.com/weekly/issue-151) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-11T00:00:00Z | [独立开发变现周刊（第152期） : 一个年收入18万美金的设计工具](https://www.ezindie.com/weekly/issue-152)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-09-26T23:55:17Z | [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-10-06T00:00:00Z | [vol14.软件吞噬世界，AI 吞噬软件](https://www.hackthinking.com/weekly/2024/10-06-vol14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30T00:00:00Z | [第20期：AI是专业能力的放大器](https://gapis.money/weekly/2024-09-30_020) | [https://gapis.money/](https://gapis.money/) |
