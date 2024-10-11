@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-10-09T13:47:59Z | [【Distributed PubSub in Elixir】Elixir 中的分布式 PubSub](https://elixirstatus.com/p/2P2mW-distributed-pubsub-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-10-10T11:59:23Z | [【Two new Elixir-related papers at the 28th Brazilian Symposium on Programming Languages】第 28 届巴西编程语言研讨会上发表的两篇与 Elixir 相关的新论文](https://elixirstatus.com/p/e69TP-two-new-elixir-related-papers-at-the-28th-brazilian-symposium-on-programming-languages)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
