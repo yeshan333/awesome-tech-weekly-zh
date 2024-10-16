@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-10-14T17:02:21Z | [【Elixir Friends - Tyler Young】Elixir 朋友 - 泰勒·杨](https://elixirstatus.com/p/IxjAG-elixir-friends---tyler-young)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-10-15T12:41:14Z | [【Thinking Elixir 224: Language Server Leak and Stream Week Reveals】Thinking Elixir 224：语言服务器泄漏和流媒体周揭晓](https://elixirstatus.com/p/wCmWr-thinking-elixir-224-language-server-leak-and-stream-week-reveals)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
