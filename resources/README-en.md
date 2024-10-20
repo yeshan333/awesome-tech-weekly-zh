@@ -170,7 +170,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-18T00:00:00Z | [独立开发变现周刊（第153期） : 一个网站UI组件库每月收入8万美元](https://www.ezindie.com/weekly/issue-153)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-09-26T23:55:17Z | [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-10-13T00:00:00Z | [vol15.如果你的产品是伟大的，那么它不需要是最好的](https://www.hackthinking.com/weekly/2024/10-13-vol15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-10-13T00:00:00Z | [vol15.如果你的产品是伟大的，那么它不需要是最好的](https://www.hackthinking.com/weekly/2024/10-13-vol15) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-10-14T00:00:00Z | [第21期：.io域名会消失吗？](https://gapis.money/weekly/2024-10-14_021)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-10-17T23:50:59Z | [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
