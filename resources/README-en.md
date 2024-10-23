@@ -37,7 +37,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-10-21T23:00:03Z | [这还是我认识的 Comfyui 吗？TNN 的给我干哪来了？](https://quail.ink/op7418/p/is-this-the-comfyui-i-know-tnn-where-did-it-come-from)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-10-22T23:00:03Z | [Stability AI 还没输，他们带着 SD3.5 来辣](https://quail.ink/op7418/p/stability-ai-haven-t-lost-they-bring-sd3-5-spice)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
