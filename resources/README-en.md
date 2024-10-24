@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-10-22T12:32:15Z | [【Thinking Elixir 225: A BeaconCMS of Hope】Thinking Elixir 225：希望的灯塔CMS](https://elixirstatus.com/p/Se4UQ-thinking-elixir-225-a-beacon-of-hope)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-10-23T11:59:18Z | [【Bringing SOLID to Elixir 】将 SOLID 引入 Elixir](https://elixirstatus.com/p/pROgE-bringing-solid-to-elixir-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
