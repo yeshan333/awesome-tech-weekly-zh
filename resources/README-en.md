@@ -172,7 +172,7 @@ English | [简体中文](../README.md)
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-09-26T23:55:17Z | [HelloGitHub 第 102 期](https://hellogithub.com/periodical/volume/102) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-10-20T00:00:00Z | [vol16.没有人愿意使用任何软件](https://www.hackthinking.com/weekly/2024/10-20-vol16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-10-21T00:00:00Z | [第22期：多邻国真的可以帮助学英语吗？](https://gapis.money/weekly/2024-10-21_022)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-10-17T23:50:59Z | [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-10-25T00:06:35Z | [科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
