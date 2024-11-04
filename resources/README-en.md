@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-02T16:18:18Z | [【Bring shadcn/ui to Phoenix LiveView with SaladUI】使用 SaladUI 将 shadcn/ui 引入 Phoenix LiveView](https://elixirstatus.com/p/HOKTY-bring-shadcnui-to-phoenix-liveview-with-saladui)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-04T00:37:15Z | [【Avoiding recompilation hell in Elixir with mix xref】使用混合外部参照避免 Elixir 中的重新编译地狱](https://elixirstatus.com/p/u7uC9-avoiding-recompilation-hell-in-elixir-with-mix-xref)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -117,7 +117,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-10-29T09:27:01Z | [老司机 iOS 周报 #309   2024-10-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23309)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-11-04T02:20:16Z | [老司机 iOS 周报 #310   2024-11-04](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23310)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
