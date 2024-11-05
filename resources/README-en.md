@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-04T00:37:15Z | [【Avoiding recompilation hell in Elixir with mix xref】使用混合外部参照避免 Elixir 中的重新编译地狱](https://elixirstatus.com/p/u7uC9-avoiding-recompilation-hell-in-elixir-with-mix-xref)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-04T11:54:50Z | [【How to use Jina embeddings in Elixir with Bumblebee】如何在 Elixir 和 Bumblebee 中使用 Jina 嵌入](https://elixirstatus.com/p/2kOcm-how-to-use-jina-embeddings-in-elixir-with-bumblebee)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
