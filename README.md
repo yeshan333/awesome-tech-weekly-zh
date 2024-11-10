@@ -238,7 +238,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-11-03T08:00:00Z | [【Software Testing Weekly - Issue 244 - Nov 3rd 2024】软件测试周刊 - 第 244 期 - 2024 年 11 月 3 日](https://softwaretestingweekly.com/issues/244)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-11-03T08:00:00Z | [【Software Testing Weekly - Issue 244 - Nov 3rd 2024】软件测试周刊 - 第 244 期 - 2024 年 11 月 3 日](https://softwaretestingweekly.com/issues/244) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
