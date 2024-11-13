@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-10T18:50:20Z | [【Beeps and Ports [Nerves Meetup]】蜂鸣声和端口 [Nerves 聚会]](https://elixirstatus.com/p/IiPqi-beeps-and-ports-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-12T13:48:48Z | [【Thinking Elixir 228: From Surveys to Cheat Sheets】Thinking Elixir 228：从调查到备忘单](https://elixirstatus.com/p/nETCS-thinking-elixir-228-from-surveys-to-cheat-sheets)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
