@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-12T13:48:48Z | [【Thinking Elixir 228: From Surveys to Cheat Sheets】Thinking Elixir 228：从调查到备忘单](https://elixirstatus.com/p/nETCS-thinking-elixir-228-from-surveys-to-cheat-sheets)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-13T21:33:55Z | [【Potions in a Cauldron: Streamline Elixir App Development with Code Generation】Potions in a Cauldron：通过代码生成简化 Elixir 应用程序开发](https://elixirstatus.com/p/pgLbo-potions-in-a-cauldron-streamline-elixir-app-development-with-code-generation)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
