@@ -171,7 +171,7 @@ English | [简体中文](../README.md)
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-10-28T00:04:36Z | [HelloGitHub 第 103 期](https://hellogithub.com/periodical/volume/103) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-11-17T00:00:00Z | [vol20.你需要不断提升你的品味，才能做出更好的产品](https://www.hackthinking.com/weekly/2024/11-17-vol20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-11-11T00:00:00Z | [第25期：「idea分享」浏览器里的图片批处理工具构想](https://gapis.money/weekly/2024-11-11_025)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
+| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-11-18T00:00:00Z | [第26期：两小时上站的背后](https://gapis.money/weekly/2024-11-18_026)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-11-15T00:05:22Z | [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
@@ -190,7 +190,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2024-11-18T00:00:00Z | [第200期 - 云海日落](https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2024-11-18T00:00:00Z | [第200期 - 云海日落](https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
