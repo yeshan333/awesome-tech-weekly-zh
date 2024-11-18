@@ -117,7 +117,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-11-11T02:05:16Z | [老司机 iOS 周报 #311   2024-11-11](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23311)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2024-11-18T02:09:20Z | [老司机 iOS 周报 #312   2024-11-18](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23312)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -171,7 +171,7 @@
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-10-28T00:04:36Z | [HelloGitHub 第 103 期](https://hellogithub.com/periodical/volume/103) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-11-17T00:00:00Z | [vol20.你需要不断提升你的品味，才能做出更好的产品](https://www.hackthinking.com/weekly/2024/11-17-vol20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-11-11T00:00:00Z | [第25期：「idea分享」浏览器里的图片批处理工具构想](https://gapis.money/weekly/2024-11-11_025) | [https://gapis.money/](https://gapis.money/) |
+| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-11-18T00:00:00Z | [第26期：两小时上站的背后](https://gapis.money/weekly/2024-11-18_026)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-11-15T00:05:22Z | [科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
