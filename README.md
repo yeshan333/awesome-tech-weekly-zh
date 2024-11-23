@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-20T13:52:20Z | [【OVP, a web crawler for sports, is now open-source】OVP，一个体育网络爬虫，现已开源](https://elixirstatus.com/p/1T46d-ovp-is-now-open-source)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-22T16:49:15Z | [【Leveraging FLAME for Efficient Screenshot Generation】利用 FLAME 高效生成屏幕截图](https://elixirstatus.com/p/fa4Pd-leveraging-flame-for-efficient-screenshot-generation)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
