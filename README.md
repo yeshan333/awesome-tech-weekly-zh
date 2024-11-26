@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-22T16:49:15Z | [【Leveraging FLAME for Efficient Screenshot Generation】利用 FLAME 高效生成屏幕截图](https://elixirstatus.com/p/fa4Pd-leveraging-flame-for-efficient-screenshot-generation)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-25T09:01:04Z | [【Iterating fast on hardware with Nerves】使用 Nerves 快速迭代硬件](https://elixirstatus.com/p/RsyNb-iterating-fast-on-hardware-with-nerves)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -238,7 +238,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-11-19T08:00:00Z | [【Software Testing Weekly - Issue 246 - Nov 19th 2024】软件测试周刊 - 第 246 期 - 2024 年 11 月 19 日](https://softwaretestingweekly.com/issues/246)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-11-19T08:00:00Z | [【Software Testing Weekly - Issue 246 - Nov 19th 2024】软件测试周刊 - 第 246 期 - 2024 年 11 月 19 日](https://softwaretestingweekly.com/issues/246) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
