@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-25T09:01:04Z | [【Iterating fast on hardware with Nerves】使用 Nerves 快速迭代硬件](https://elixirstatus.com/p/RsyNb-iterating-fast-on-hardware-with-nerves)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-26T12:49:58Z | [【Thinking Elixir 230: Hot k8s Takes and Self-Hosting】Thinking Elixir 230：热门 k8s 技术和自托管](https://elixirstatus.com/p/W2tjs-thinking-elixir-230-hot-k8s-takes-and-self-hosting)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
