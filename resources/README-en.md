@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-11-27T20:55:24Z | [【Elixir &amp;amp; Nerves on FLOSS Weekly】FLOSS 周刊上的 Elixir &amp; Nerves](https://elixirstatus.com/p/CI7bT-elixir--nerves-on-floss-weekly)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-11-28T19:17:15Z | [【Effortless Video Sharing with Phoenix LiveView and FLAME】使用 Phoenix LiveView 和 FLAME 轻松共享视频](https://elixirstatus.com/p/3RXY8-effortless-video-sharing-with-phoenix-liveview-and-flame)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
