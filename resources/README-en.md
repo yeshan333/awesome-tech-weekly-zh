@@ -222,7 +222,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-09-14T15:59:00Z | [痞子衡嵌入式：JLink命令行以及JFlash对于下载算法的作用地址范围认定](https://blog.csdn.net/Henjay724/article/details/142268692) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
