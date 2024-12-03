@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-01T19:08:19Z | [【Beeps and Ports [Nerves Meetup]】蜂鸣声和端口 [Nerves 聚会]](https://elixirstatus.com/p/P61MS-beeps-and-ports-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-02T22:33:09Z | [【A Fast, Secure and Reliable Terraform Backend】快速、安全且可靠的 Terraform 后端](https://elixirstatus.com/p/qRrmM-a-fast-secure-and-reliable-terraform-backend)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -238,7 +238,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-11-26T08:00:00Z | [【Software Testing Weekly - Issue 247 - Nov 26th 2024】软件测试周刊 - 第 247 期 - 2024 年 11 月 26 日](https://softwaretestingweekly.com/issues/247)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-11-26T08:00:00Z | [【Software Testing Weekly - Issue 247 - Nov 26th 2024】软件测试周刊 - 第 247 期 - 2024 年 11 月 26 日](https://softwaretestingweekly.com/issues/247) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
