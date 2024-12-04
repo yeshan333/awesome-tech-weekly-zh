@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-02T22:33:09Z | [【A Fast, Secure and Reliable Terraform Backend】快速、安全且可靠的 Terraform 后端](https://elixirstatus.com/p/qRrmM-a-fast-secure-and-reliable-terraform-backend)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-03T13:34:26Z | [【Thinking Elixir 231: Pretty Error and OTP Raw Mode】Thinking Elixir 231：漂亮的错误和 OTP Raw 模式](https://elixirstatus.com/p/4h2xg-thinking-elixir-231-pretty-error-and-otp-raw-mode)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
