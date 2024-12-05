@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-03T13:34:26Z | [【Thinking Elixir 231: Pretty Error and OTP Raw Mode】Thinking Elixir 231：漂亮的错误和 OTP Raw 模式](https://elixirstatus.com/p/4h2xg-thinking-elixir-231-pretty-error-and-otp-raw-mode)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-04T15:02:20Z | [【Bridging the Gap: Simplifying Live Component Invocation in Phoenix LiveView.】弥合差距：简化 Phoenix LiveView 中的实时组件调用。](https://elixirstatus.com/p/3vSp9-bridging-the-gap-simplifying-live-component-invocation-in-phoenix-liveview)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -255,7 +255,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-11-28T13:20:04Z | [学习周刊-总第187期-2024年第48周](https://wiki.eryajf.net/pages/fa54e6/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-12-05T13:32:46Z | [学习周刊-总第188期-2024年第49周](https://wiki.eryajf.net/pages/323bb0/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
