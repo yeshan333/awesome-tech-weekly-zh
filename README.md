@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-09T16:47:57Z | [【Lambda Days 2025: Call for Talks is open】2025 年 Lambda Days：征集演讲已开始](https://elixirstatus.com/p/1BqF2-lambda-days-2025-call-for-talks-is-open)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-10T14:14:30Z | [【Distributed Phoenix: Deployment and Scaling】分布式 Phoenix：部署和扩展](https://elixirstatus.com/p/vAS6G-distributed-phoenix-deployment-and-scaling)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
