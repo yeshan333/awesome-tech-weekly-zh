@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-09T16:47:57Z | [【Lambda Days 2025: Call for Talks is open】2025 年 Lambda Days：征集演讲已开始](https://elixirstatus.com/p/1BqF2-lambda-days-2025-call-for-talks-is-open)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-10T14:14:30Z | [【Distributed Phoenix: Deployment and Scaling】分布式 Phoenix：部署和扩展](https://elixirstatus.com/p/vAS6G-distributed-phoenix-deployment-and-scaling)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -189,7 +189,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
-| 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
+| 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 |  | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-12-09T00:00:00Z | [第203期 - 银杏季节](https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
