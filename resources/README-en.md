@@ -238,7 +238,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-12-03T08:00:00Z | [【Software Testing Weekly - Issue 248 - Dec 3rd 2024】软件测试周刊 - 第 248 期 - 2024 年 12 月 3 日](https://softwaretestingweekly.com/issues/248) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-12-11T01:08:45Z | [【Software Testing Weekly - Issue 249 - Dec 11th 2024】软件测试周刊 - 第 249 期 - 2024 年 12 月 11 日](https://softwaretestingweekly.com/issues/249)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
