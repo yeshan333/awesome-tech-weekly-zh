@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-10T14:14:30Z | [【Distributed Phoenix: Deployment and Scaling】分布式 Phoenix：部署和扩展](https://elixirstatus.com/p/vAS6G-distributed-phoenix-deployment-and-scaling)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-12T20:59:38Z | [【🎥 Accelerating machine learning hardware development with Elixir 🎥】🎥 使用 Elixir 加速机器学习硬件开发 🎥](https://elixirstatus.com/p/gopeE--accelerating-machine-learning-hardware-development-with-elixir-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -255,7 +255,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2024-12-12T13:10:57Z | [学习周刊-总第189期-2024年第50周](https://wiki.eryajf.net/pages/8b5257/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 |  | [学习周刊-总第189期-2024年第50周](https://wiki.eryajf.net/pages/8b5257/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
