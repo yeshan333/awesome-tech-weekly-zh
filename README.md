@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-12T20:59:38Z | [【🎥 Accelerating machine learning hardware development with Elixir 🎥】🎥 使用 Elixir 加速机器学习硬件开发 🎥](https://elixirstatus.com/p/gopeE--accelerating-machine-learning-hardware-development-with-elixir-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-13T12:47:26Z | [【Curiosum’s Elixir Survey 2024 results are live - discover insights from 500 respondents!】Curiosum 的 Elixir 调查 2024 年结果已发布 - 探索 500 名受访者的见解！](https://elixirstatus.com/p/r1Rad-curiosums-elixir-survey-2024-results-are-live---discover-insights-from-500-respondents)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
