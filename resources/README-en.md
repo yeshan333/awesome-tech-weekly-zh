@@ -37,7 +37,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-12-08T16:00:03Z | [AIGC Weekly #100🎉](https://quail.ink/op7418/p/aigc-weekly-100) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2024-12-16T06:45:20Z | [AIGC Weekly #101](https://quail.ink/op7418/p/aigc-weekly-101)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
