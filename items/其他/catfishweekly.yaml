@@ -1,0 +1,7 @@
+kind: 其他
+owner: "阿猫"
+name: '猫鱼周刊'
+link: https://ameow.xyz/categories/weekly
+desc: '猫鱼周刊'
+desc_en: "Cat-Fish Weekly"
+feed_url: https://ameow.xyz/feed/categories/weekly.xml
