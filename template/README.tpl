@@ -41,6 +41,6 @@
 
 ## 关联项目
 
-- [RSSHub](https://rsshub.app/): 获取 RSS 订阅链接
+- [RSSHub](https://rsshub.app/) 以及[公共实例](https://docs.rsshub.app/zh/guide/instances): 获取 RSS 订阅链接
 - [yaml-readme](https://github.com/LinuxSuRen/yaml-readme): Github Action, 基于 yaml 配置自动生成 README
 - [awesome-ops](https://github.com/eryajf/awesome-ops): README 模版 [README.tpl](template/README.tpl) 参考
