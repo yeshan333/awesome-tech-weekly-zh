@@ -171,7 +171,7 @@ English | [简体中文](../README.md)
 | 猫鱼周刊 | 猫鱼周刊 | 2024-12-15T11:18:47Z | [猫鱼周刊 vol. 051 祛魅 AI](https://ameow.xyz/archives/weekly-051)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-11-28T00:15:37Z | [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-12-15T00:00:00Z | [vol24.斜率比截距更重要](https://www.hackthinking.com/weekly/2024/12-15-vol24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-12-15T00:00:00Z | [vol24.斜率比截距更重要](https://www.hackthinking.com/weekly/2024/12-15-vol24) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-16T00:00:00Z | [独立开发者出海周刊（第30期）](https://gapis.money/weekly/2024-12-16_030)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-12-20T00:17:25Z | [科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
