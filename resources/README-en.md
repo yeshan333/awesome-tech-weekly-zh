@@ -101,7 +101,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2024-12-21T10:59:20Z | [🖼 #Python潮流周刊 🐱🐱🐱🐱 第 82 期 🐱🐱🐱🐱 🦄文章&amp;教程 ① 美国 CIA 如何使用 Python？ ② 从混沌到秩序：Python 的依赖管理工具分析...](https://t.me/pythontrendingweekly/345)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -150,7 +150,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| 体验碎周报 | 体验碎周报 | 2024-12-15T16:41:45Z | [体验碎周报第 214 期（2024.12.16）](https://www.ftium4.com/ux-weekly-214.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
+| 体验碎周报 | 体验碎周报 | 2024-12-22T16:41:45Z | [体验碎周报第 215 期（2024.12.23）](https://www.ftium4.com/ux-weekly-215.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-12-21T16:00:00Z | [设计素材周刊 146 期](https://moonvy.com/blog/post/设计素材周刊/146/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
@@ -172,7 +172,7 @@ English | [简体中文](../README.md)
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-11-28T00:15:37Z | [HelloGitHub 第 104 期](https://hellogithub.com/periodical/volume/104) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2024-12-15T00:00:00Z | [vol24.斜率比截距更重要](https://www.hackthinking.com/weekly/2024/12-15-vol24) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-16T00:00:00Z | [独立开发者出海周刊（第30期）](https://gapis.money/weekly/2024-12-16_030)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
+| 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2024-12-20T00:17:25Z | [科技爱好者周刊（第 330 期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
@@ -191,7 +191,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-12-19T16:38:19Z | [【开源自荐】kkTerminal - A terminal for Web SSH connection](https://github.com/Geekhyt/weekly/issues/146)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2024-12-23T00:00:00Z | [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2024-12-23T00:00:00Z | [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -240,7 +240,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | softwaretestingweekly | softwaretestingweekly  | 2024-12-18T00:21:21Z | [【Software Testing Weekly - Issue 250 - Dec 18th 2024】软件测试周刊 - 第 250 期 - 2024 年 12 月 18 日](https://softwaretestingweekly.com/issues/250)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
-| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
+| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
