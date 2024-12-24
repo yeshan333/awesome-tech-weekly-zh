@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-17T13:27:44Z | [【Thinking Elixir 233: LiveView 1.0 and Elixir 1.18!】思考 Elixir 233：LiveView 1.0 和 Elixir 1.18！](https://elixirstatus.com/p/Ns8l2-thinking-elixir-233-liveview-10-and-elixir-118)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-23T14:12:17Z | [【IEX&#39;s new &#34;auto_reload&#34; feature in Elixir 1.18】Elixir 1.18 中 IEX 的新“auto_reload”功能](https://elixirstatus.com/p/DGkKy-iexs-new-autoreload-feature-in-elixir-118)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -223,7 +223,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-12-18T06:18:00Z | [痞子衡嵌入式：MCUXpresso IDE下C&#43;&#43;源文件中嵌套定义的复合数据类型命名空间认定...](https://blog.csdn.net/Henjay724/article/details/144573336)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [痞子衡嵌入式：MCUXpresso IDE下C&#43;&#43;源文件中嵌套定义的复合数据类型命名空间认定...](https://blog.csdn.net/Henjay724/article/details/144573336)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
