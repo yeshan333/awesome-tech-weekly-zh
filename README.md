@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-17T13:27:44Z | [【Thinking Elixir 233: LiveView 1.0 and Elixir 1.18!】思考 Elixir 233：LiveView 1.0 和 Elixir 1.18！](https://elixirstatus.com/p/Ns8l2-thinking-elixir-233-liveview-10-and-elixir-118)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-23T14:12:17Z | [【IEX&#39;s new &#34;auto_reload&#34; feature in Elixir 1.18】Elixir 1.18 中 IEX 的新“auto_reload”功能](https://elixirstatus.com/p/DGkKy-iexs-new-autoreload-feature-in-elixir-118)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
