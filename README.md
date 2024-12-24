@@ -151,7 +151,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2024-12-22T16:41:45Z | [体验碎周报第 215 期（2024.12.23）](https://www.ftium4.com/ux-weekly-215.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-09-22T13:01:40Z | [#043期：给你的个人知识库插上AI大模型](https://www.yuque.com/zing123/scu69w/akoiuwi0qem6gwy9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 |  | [#043期：给你的个人知识库插上AI大模型](https://www.yuque.com/zing123/scu69w/akoiuwi0qem6gwy9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2024-12-21T16:00:00Z | [设计素材周刊 146 期](https://moonvy.com/blog/post/设计素材周刊/146/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -189,7 +189,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-12-19T16:38:19Z | [【开源自荐】kkTerminal - A terminal for Web SSH connection](https://github.com/Geekhyt/weekly/issues/146)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-12-23T00:00:00Z | [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
@@ -223,7 +223,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2024-12-18T06:18:00Z | [痞子衡嵌入式：MCUXpresso IDE下C&#43;&#43;源文件中嵌套定义的复合数据类型命名空间认定...](https://blog.csdn.net/Henjay724/article/details/144573336)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
