@@ -53,7 +53,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2024-10-27T14:27:25Z | [.NET 周刊第 62 期](https://www.fungkao.net/blogPost/eeb52154-afbe-4c4e-98d6-2e9449540d29) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2024-12-25T19:15:29Z | [.NET 周刊第 63 期](https://www.fungkao.net/blogPost/8f894a86-7b1a-4f6e-a42c-1e253ef526e3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
