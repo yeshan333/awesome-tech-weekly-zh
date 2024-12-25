@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2024-10-27T14:27:25Z | [.NET 周刊第 62 期](https://www.fungkao.net/blogPost/eeb52154-afbe-4c4e-98d6-2e9449540d29) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2024-12-25T19:15:29Z | [.NET 周刊第 63 期](https://www.fungkao.net/blogPost/8f894a86-7b1a-4f6e-a42c-1e253ef526e3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -189,7 +189,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 | 2024-12-19T16:38:19Z | [【开源自荐】kkTerminal - A terminal for Web SSH connection](https://github.com/Geekhyt/weekly/issues/146)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2024-12-23T00:00:00Z | [第205期 - 听张信哲](https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
