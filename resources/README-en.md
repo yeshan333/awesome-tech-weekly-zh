@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2024-12-24T14:43:10Z | [【Thinking Elixir 234: Source Drops, AI, and Holiday Cheer】Thinking Elixir 234：源滴、人工智能和节日欢呼](https://elixirstatus.com/p/xm2Tv-thinking-elixir-234-source-drops-ai-and-holiday-cheer)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2024-12-30T02:58:57Z | [【Jido - A SDK for Building Autonomous Agent Systems】Jido - 用于构建自治代理系统的 SDK](https://elixirstatus.com/p/Kk7qk-jido---a-sdk-for-building-autonomous-agent-systems)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
