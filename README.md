@@ -239,7 +239,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-12-25T12:03:53Z | [【Software Testing Weekly - Issue 251 - Dec 25th 2024】软件测试周刊 - 第 251 期 - 2024 年 12 月 25 日](https://softwaretestingweekly.com/issues/251)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2024-12-25T12:03:53Z | [【Software Testing Weekly - Issue 251 - Dec 25th 2024】软件测试周刊 - 第 251 期 - 2024 年 12 月 25 日](https://softwaretestingweekly.com/issues/251) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
