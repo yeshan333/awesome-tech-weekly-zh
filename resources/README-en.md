@@ -85,7 +85,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 | 2023-12-17T14:20:36Z | [Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -101,7 +101,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-01-04T03:24:18Z | [🖼 #Python潮流周刊 🐱🐱🐱🐱 第 84 期 🐱🐱🐱🐱 🦄文章&amp;教程 ① 现代 Python 开发的良好实践 ② 2024 年最先进的 Python ③ 回顾一年：202...](https://t.me/pythontrendingweekly/353)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-01-04T14:05:30Z | [谷歌的NotebookLM生成对话式播客节目太强了！我将Python周刊第一季的6万字合集传给它，制作出的播客内容真的惊艳到了我！https://youtu.be/qDERLOxAxtE?si=4_baY...](https://t.me/pythontrendingweekly/354)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -239,7 +239,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2024-12-25T12:03:53Z | [【Software Testing Weekly - Issue 251 - Dec 25th 2024】软件测试周刊 - 第 251 期 - 2024 年 12 月 25 日](https://softwaretestingweekly.com/issues/251) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-01-03T12:00:00Z | [【Software Testing Weekly - Issue 252 - Jan 3rd 2025】软件测试周刊 - 第 252 期 - 2025 年 1 月 3 日](https://softwaretestingweekly.com/issues/252)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
