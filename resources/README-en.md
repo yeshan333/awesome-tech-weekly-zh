@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-01-07T13:22:35Z | [【Thinking Elixir 235: Wrapping Up 2024 with Types】Thinking Elixir 235：用类型总结 2024 年](https://elixirstatus.com/p/GWk55-thinking-elixir-235-wrapping-up-2024-with-types)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-01-08T18:36:59Z | [【Phoenix Importmap: Alternative to esbuild】Phoenix Importmap：esbuild 的替代品](https://elixirstatus.com/p/ffSor-phoenix-importmap-alternative-to-esbuild)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
