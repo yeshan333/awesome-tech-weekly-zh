@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-01-12T12:27:55Z | [【ElixirConf EU 2024: all talks are posted 】ElixirConf EU 2024：所有会谈均已发布](https://elixirstatus.com/p/qrVuF-elixirconf-eu-2024-all-talks-are-posted-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-01-14T14:07:14Z | [【Thinking Elixir 236: Turn it up to 1000!】思考灵药236：调到1000！](https://elixirstatus.com/p/v97Mt-thinking-elixir-236-turn-it-up-to-1000)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
