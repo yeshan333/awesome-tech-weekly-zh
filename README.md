@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-01-17T14:42:51Z | [【FREE TUTORIAL: The LiveView and OTP Crash Course】免费教程：LiveView 和 OTP 速成课程](https://elixirstatus.com/p/Hgfin-free-tutorial-the-liveview-and-otp-crash-course)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-01-18T18:12:50Z | [【Code BEAM America 2025: Early Bird discount ends soon!】代码 BEAM America 2025：早鸟优惠即将结束！](https://elixirstatus.com/p/QDfKc-code-beam-america-2025-early-bird-discount-ends-soon)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
