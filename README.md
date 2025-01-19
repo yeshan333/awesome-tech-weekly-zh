@@ -152,7 +152,7 @@
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2025-01-05T16:41:45Z | [体验碎周报第 216 期（2025.1.6）](https://www.ftium4.com/ux-weekly-216.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-01-11T16:00:00Z | [设计素材周刊 149 期](https://moonvy.com/blog/post/设计素材周刊/149/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-01-18T16:00:00Z | [设计素材周刊 150 期](https://moonvy.com/blog/post/设计素材周刊/150/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -171,7 +171,7 @@
 | 猫鱼周刊 | 猫鱼周刊 | 2025-01-19T08:50:36Z | [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2024-12-27T00:03:55Z | [HelloGitHub 第 105 期](https://hellogithub.com/periodical/volume/105) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-01-12T00:00:00Z | [vol28.信息过载自救指南](https://www.hackthinking.com/weekly/2025/01-12-vol28) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-01-19T00:00:00Z | [vol29.努力也是一种天赋](https://www.hackthinking.com/weekly/2025/01-19-vol29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-01-17T00:17:52Z | [科技爱好者周刊（第 334 期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
