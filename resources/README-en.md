@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-01-18T18:12:50Z | [【Code BEAM America 2025: Early Bird discount ends soon!】代码 BEAM America 2025：早鸟优惠即将结束！](https://elixirstatus.com/p/QDfKc-code-beam-america-2025-early-bird-discount-ends-soon)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-01-19T17:54:30Z | [【mix phx.new, but make it better】混合 phx.new，但让它变得更好](https://elixirstatus.com/p/LLn8c-mix-phxnew-but-make-it-better)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -117,7 +117,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2025-01-13T03:02:50Z | [# 老司机 iOS 周报 #320   2025-01-13](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23320)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2025-01-20T02:06:06Z | [老司机 iOS 周报 #321   2025-01-20](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23321)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
