@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-01-23T14:36:23Z | [【✏️ Phoenix LiveView: Presenting DateTime in User&#39;s Time Zone】✏️Phoenixliveview：在用户时区显示日期时间](https://elixirstatus.com/p/UkOOo--phoenix-liveview-presenting-datetime-in-users-time-zone)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-01-24T18:04:10Z | [【YOLO Tutorial and Demo - Real-time Object Detection in Elixir】YOLO教程和演示 - 长生不老药中的实时对象检测](https://elixirstatus.com/p/MYotl-yolo-tutorial-and-demo---real-time-object-detection-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
