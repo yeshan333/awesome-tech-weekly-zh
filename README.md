@@ -69,7 +69,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-01-24T18:04:10Z | [【YOLO Tutorial and Demo - Real-time Object Detection in Elixir】YOLO教程和演示 - 长生不老药中的实时对象检测](https://elixirstatus.com/p/MYotl-yolo-tutorial-and-demo---real-time-object-detection-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-01-28T13:53:41Z | [【Thinking Elixir 238: Oban Web Goes Free and Open】思考Elixir 238：Oban Web免费开放](https://elixirstatus.com/p/rOidT-thinking-elixir-238-oban-web-goes-free-and-open)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
