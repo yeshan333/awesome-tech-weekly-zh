@@ -151,7 +151,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2025-01-26T16:41:45Z | [体验碎周报第 218 期（2025.1.27）](https://www.ftium4.com/ux-weekly-218.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-09-22T13:01:40Z | [#043期：给你的个人知识库插上AI大模型](https://www.yuque.com/zing123/scu69w/akoiuwi0qem6gwy9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-01-25T16:00:00Z | [设计素材周刊 151 期](https://moonvy.com/blog/post/设计素材周刊/151/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -174,7 +174,7 @@ English | [简体中文](../README.md)
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-01-19T00:00:00Z | [vol29.努力也是一种天赋](https://www.hackthinking.com/weekly/2025/01-19-vol29) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 独立开发周记 | 独立开发周记 | 2025-01-27T13:42:02Z | [[分享发现] 独立开发周记 102：金蛇送福](https://www.v2ex.com/t/1108113#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-01-24T00:06:14Z | [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-01-24T00:06:14Z | [科技爱好者周刊（第 335 期）：年底的未来已来](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-335.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -241,7 +241,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | softwaretestingweekly | softwaretestingweekly  | 2025-01-25T23:47:05Z | [【Software Testing Weekly - Issue 255 - Jan 26th 2025】软件测试每周 - 第255期 -  2025年1月26日](https://softwaretestingweekly.com/issues/255)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
-| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
+| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
