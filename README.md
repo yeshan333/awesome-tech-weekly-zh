@@ -170,7 +170,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 猫鱼周刊 | 猫鱼周刊 | 2025-01-19T08:50:36Z | [猫鱼周刊 vol. 054 Connecting The Dots](https://ameow.xyz/archives/weekly-054) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
-| HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-01-27T00:07:40Z | [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
+| HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-01-27T00:07:40Z | [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-01-19T00:00:00Z | [vol29.努力也是一种天赋](https://www.hackthinking.com/weekly/2025/01-19-vol29) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | 独立开发周记 | 独立开发周记 | 2025-01-27T13:42:02Z | [[分享发现] 独立开发周记 102：金蛇送福](https://www.v2ex.com/t/1108113#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [https://gapis.money/](https://gapis.money/) |
