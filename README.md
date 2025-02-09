@@ -4,7 +4,7 @@
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 <img src="https://telegraph.shansan.top/file/5490d8cd92c071e62d84c.png" alt="Awesome Technology Weekly Zh-Hans">
 
-<p> 🧐 共分设类目 14 个，📥 累计收录（月/周/日）刊 26 个。</p>
+<p> 🧐 共分设类目 14 个，📥 累计收录（月/周/日）刊 27 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每 3 小时刷新一次。<img src="assets/news.png"/> 表示为本周新发的文章。</p>
 
@@ -164,7 +164,7 @@
 ## 其他
 
 <p align="right">
-📥 此类目收录（月/周/日）刊 7 个。
+📥 此类目收录（月/周/日）刊 8 个。
 </p>
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -172,7 +172,8 @@
 | 猫鱼周刊 | 猫鱼周刊 | 2025-02-09T11:32:26Z | [猫鱼周刊 vol. 055 城市旅游就是打卡吗？](https://ameow.xyz/archives/weekly-055)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-01-27T00:07:40Z | [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
-| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-01-19T00:00:00Z | [vol29.努力也是一种天赋](https://www.hackthinking.com/weekly/2025/01-19-vol29) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-02-09T00:00:00Z | [vol30.警惕你人生中「虚荣指标」](https://www.hackthinking.com/weekly/2025/02-09-vol30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
+| 老胡的周刊 | 老胡的周刊 | 2025-02-07T15:54:00Z | [01-20~02-08.老胡的周刊（第176期）.md](https://weekly.howie6879.com/2025/01-20~02-08.老胡的周刊（第176期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-02-06T11:46:07Z | [[分享创造] 24 小时前端零基础用 Windsurf &#43; Claude 上线一个简单的工具类网页](https://www.v2ex.com/t/1109440#reply5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-02-07T00:20:56Z | [科技爱好者周刊（第 336 期）：面对 AI，互联网正在衰落](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-336.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
