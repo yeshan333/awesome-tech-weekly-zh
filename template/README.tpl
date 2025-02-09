@@ -2,6 +2,7 @@
 
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
+<img src="https://telegraph.shansan.top/file/5490d8cd92c071e62d84c.png" alt="Awesome Technology Weekly Zh-Hans">
 
 <p> 🧐 共分设类目 {{lenGroupNum}} 个，📥 累计收录（月/周/日）刊 {{lenItemNum}} 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
