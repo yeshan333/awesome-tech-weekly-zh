@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-05T23:17:11Z | [【Artifix: A batteries included template for creating a private Hex Registry on top of S3 and CloudFront】Artifix：电池包括用于在S3和CloudFront顶部创建私人六角注册表的模板](https://elixirstatus.com/p/KKBJw-artifix-a-batteries-included-template-for-creating-a-private-hex-registry-on-top-of-s3-and-cloudfront)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-10T14:31:35Z | [【💜📘 The Elixir Book Club has chosen our next book: Engineering Elixir Applications】💜📘长生不老药俱乐部选择了我们的下一本书：工程长生不老药应用程序](https://elixirstatus.com/p/D3gH9--the-elixir-book-club-has-chosen-our-next-book-engineering-elixir-applications)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
