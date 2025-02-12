@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-10T14:31:35Z | [【💜📘 The Elixir Book Club has chosen our next book: Engineering Elixir Applications】💜📘长生不老药俱乐部选择了我们的下一本书：工程长生不老药应用程序](https://elixirstatus.com/p/D3gH9--the-elixir-book-club-has-chosen-our-next-book-engineering-elixir-applications)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-11T15:28:33Z | [【Elixir and Phoenix Security Checklist: 11 Best Practices】Elixir和Phoenix安全清单：11个最佳实践](https://elixirstatus.com/p/jaV6B-elixir-and-phoenix-security-checklist-11-best-practices)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -86,7 +86,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 | 2023-12-17T14:20:36Z | [Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -134,7 +134,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2025-02-10T09:02:46Z | [云原生周刊：DeepSeek 颠覆人工智能](https://blog.csdn.net/zpf17671624050/article/details/145553985)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2025-02-12T07:50:53Z | [KubeSphere 和 K8s 高可用集群离线部署全攻略](https://blog.csdn.net/zpf17671624050/article/details/145594111)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
