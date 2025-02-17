@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-15T08:50:42Z | [【DaisyUIComponents - A Phoenix LiveView &#43; DaisyUI library】Daisyuicomponents -Phoenix Liveview &#43; Daisyui图书馆](https://elixirstatus.com/p/7bQOj-daisyuicomponents---a-phoenix-liveview--daisyui-library)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-16T18:10:26Z | [【Normalize chart data using Ecto and PostgreSQL】使用ECTO和PostgreSQL标准化图表数据](https://elixirstatus.com/p/uAvlJ-normalize-chart-data-using-ecto-and-postgresql)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -133,7 +133,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 |  | [云原生Meetup重庆站要来了！](https://blog.csdn.net/zpf17671624050/article/details/145638444)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2025-02-14T09:29:03Z | [云原生Meetup重庆站要来了！](https://blog.csdn.net/zpf17671624050/article/details/145638444)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
