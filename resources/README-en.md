@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-16T18:10:26Z | [【Normalize chart data using Ecto and PostgreSQL】使用ECTO和PostgreSQL标准化图表数据](https://elixirstatus.com/p/uAvlJ-normalize-chart-data-using-ecto-and-postgresql)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-17T14:02:43Z | [【5 Must-Attend Talks at ElixirConf EU on AI, Security &amp;amp; Scale!】5在ELIXIRCONF在AI，安全与规模上进行的必要对话！](https://elixirstatus.com/p/iv2Hd-5-must-attend-talks-at-elixirconf-eu-on-ai-security--scale)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -133,7 +133,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 |  | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 |  | [云原生周刊：KubeEdge 1.20.0版本正式发布](https://blog.csdn.net/zpf17671624050/article/details/145686494)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -192,7 +192,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 | 2025-02-09T16:08:54Z | [【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2025-02-17T00:00:00Z | [第210期 - 震撼烟囱](https://weekly.tw93.fun/posts/210-%E9%9C%87%E6%92%BC%E7%83%9F%E5%9B%B1/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
@@ -226,7 +226,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [《痞子衡嵌入式半月刊》 第 117 期](https://blog.csdn.net/Henjay724/article/details/145562078) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -243,7 +243,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | softwaretestingweekly | softwaretestingweekly  | 2025-02-11T23:15:51Z | [【Software Testing Weekly - Issue 257 - Feb 12th 2025】软件测试每周 - 第257期 -  2025年2月12日](https://softwaretestingweekly.com/issues/257)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
-| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
+| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
