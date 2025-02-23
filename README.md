@@ -38,7 +38,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-02-16T16:27:43Z | [AIGC Weekly #109](https://quaily.com/op7418/p/aigc-weekly-109)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-02-16T16:27:43Z | [AIGC Weekly #109](https://quaily.com/op7418/p/aigc-weekly-109) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -151,7 +151,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| 体验碎周报 | 体验碎周报 | 2025-02-16T16:41:45Z | [体验碎周报第 220 期（2025.2.17）](https://www.ftium4.com/ux-weekly-220.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
+| 体验碎周报 | 体验碎周报 | 2025-02-23T16:41:45Z | [体验碎周报第 221 期（2025.2.24）](https://www.ftium4.com/ux-weekly-221.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2024-09-22T13:01:40Z | [#043期：给你的个人知识库插上AI大模型](https://www.yuque.com/zing123/scu69w/akoiuwi0qem6gwy9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-02-22T16:00:00Z | [设计素材周刊 154 期](https://moonvy.com/blog/post/设计素材周刊/154/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
@@ -169,12 +169,12 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 猫鱼周刊 | 猫鱼周刊 | 2025-02-16T14:24:24Z | [猫鱼周刊 vol. 056 AI Infra 会是今年风口吗？](https://ameow.xyz/archives/weekly-056) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
+| 猫鱼周刊 | 猫鱼周刊 | 2025-02-23T15:16:48Z | [猫鱼周刊 vol. 057 什么是推理语言大模型？](https://ameow.xyz/archives/weekly-057)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-01-27T00:07:40Z | [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-02-23T00:00:00Z | [vol32.为什么越学习，越不敢行动](https://www.hackthinking.com/weekly/2025/02-23-vol32)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-02-23T01:35:37Z | [2025 02 23 HackerNews](https://supertechfans.com/cn/post/2025-02-23-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
-| 老胡的周刊 | 老胡的周刊 | 2025-02-15T15:54:00Z | [02-10~02-16.老胡的周刊（第177期）.md](https://weekly.howie6879.com/2025/02-10~02-16.老胡的周刊（第177期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
+| 老胡的周刊 | 老胡的周刊 | 2025-02-22T15:54:00Z | [02-17~02-23.老胡的周刊（第178期）.md](https://weekly.howie6879.com/2025/02-17~02-23.老胡的周刊（第178期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-02-17T12:51:06Z | [[创造者] 独立开发周记 105：如何有效对抗焦虑](https://www.v2ex.com/t/1112135#reply3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-02-21T00:17:51Z | [科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
@@ -211,7 +211,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-02-22T15:58:20Z | [SecWiki News 2025-02-22 Review](http://www.sec-wiki.com/?2025-02-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-02-23T15:58:20Z | [SecWiki News 2025-02-23 Review](http://www.sec-wiki.com/?2025-02-23)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
