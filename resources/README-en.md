@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-18T12:49:40Z | [【Thinking Elixir 241: A LiveView Debugger and Gigalixir】思考Elixir 241：Liveview调试器和Gigalixir](https://elixirstatus.com/p/fHSXQ-thinking-elixir-241-a-liveview-debugger-and-gigalixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-24T19:02:24Z | [【ContextKit - automatic CRUD operations in your context and more】ContectionKit-您上下文中的自动CRUD操作以及更多](https://elixirstatus.com/p/1LAd6-contextkit---automatic-crud-operations-in-your-context-and-more)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
