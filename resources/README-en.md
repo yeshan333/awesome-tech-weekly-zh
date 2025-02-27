@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-25T13:31:46Z | [【Thinking Elixir 242: Magic Links and Sudo Mode】思考Elixir 242：魔术链接和Sudo模式](https://elixirstatus.com/p/VB9ZL-thinking-elixir-242-magic-links-and-sudo-mode)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-26T14:06:33Z | [【Mastering Job Scheduling With Ecron】通过ECRON掌握工作安排](https://elixirstatus.com/p/fHV4i-mastering-job-scheduling-with-ecron)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
