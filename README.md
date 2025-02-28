@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-02-26T14:06:33Z | [【Mastering Job Scheduling With Ecron】通过ECRON掌握工作安排](https://elixirstatus.com/p/fHV4i-mastering-job-scheduling-with-ecron)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-02-28T00:14:36Z | [【Is it possible to use Nerves for low power systems?】是否可以将神经用于低功率系统？](https://elixirstatus.com/p/6SCdb-is-it-possible-to-use-nerves-for-low-power-systems)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
