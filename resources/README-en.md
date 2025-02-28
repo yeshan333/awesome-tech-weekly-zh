@@ -170,13 +170,13 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | 猫鱼周刊 | 猫鱼周刊 | 2025-02-23T15:16:48Z | [猫鱼周刊 vol. 057 什么是推理语言大模型？](https://ameow.xyz/archives/weekly-057)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
-| HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-01-27T00:07:40Z | [HelloGitHub 第 106 期](https://hellogithub.com/periodical/volume/106) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
+| HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-02-28T00:00:24Z | [HelloGitHub 第 107 期](https://hellogithub.com/periodical/volume/107)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-02-23T00:00:00Z | [vol32.为什么越学习，越不敢行动](https://www.hackthinking.com/weekly/2025/02-23-vol32)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-02-27T01:22:02Z | [2025 02 27 HackerNews](https://supertechfans.com/cn/post/2025-02-27-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
+| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-02-28T01:00:31Z | [2025 02 28 HackerNews](https://supertechfans.com/cn/post/2025-02-28-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-02-22T15:54:00Z | [02-17~02-23.老胡的周刊（第178期）.md](https://weekly.howie6879.com/2025/02-17~02-23.老胡的周刊（第178期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-02-24T11:05:23Z | [[创造者] 独立开发周记 106：提高转化率](https://www.v2ex.com/t/1113920#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-12-23T00:00:00Z | [独立开发者出海周刊（第31期）](https://gapis.money/weekly/2024-12-23_031) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-02-21T00:17:51Z | [科技爱好者周刊（第 338 期）：重新思考 6G](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-338.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-02-28T00:21:57Z | [科技爱好者周刊（第 339 期）：代币是什么](http://www.ruanyifeng.com/blog/2025/02/weekly-issue-339.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
