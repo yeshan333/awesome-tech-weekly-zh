@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-03-03T03:33:21Z | [【Soleil: Open source power management hardware [Nerves Meetup]】Soleil：开源电源管理硬件[神经聚会]](https://elixirstatus.com/p/xwnsv-soleil-open-source-power-management-hardware-nerves-meetup)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-03-04T13:36:21Z | [【Security in Elixir and Phoenix】长生不老药和凤凰的安全性](https://elixirstatus.com/p/racbO-security-in-elixir-and-phoenix)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
