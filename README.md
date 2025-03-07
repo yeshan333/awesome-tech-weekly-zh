@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-03-05T14:06:55Z | [【Semaphore CI/CD is now open source!】信号CI/CD现在是开源的！](https://elixirstatus.com/p/cIKmg-semaphore-cicd-is-now-open-source)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-03-06T14:17:00Z | [【Elixir for Multimedia: A Practical Guide for Developers】多媒体的长生不老药：开发人员实用指南](https://elixirstatus.com/p/EaJbW-elixir-for-multimedia-a-practical-guide-for-developers)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
