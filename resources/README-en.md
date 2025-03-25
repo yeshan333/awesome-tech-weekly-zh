@@ -168,7 +168,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 猫鱼周刊 | 猫鱼周刊 |  | [猫鱼周刊 vol. 060 MCP 可能是通用人工智能的最后一公里](https://ameow.xyz/archives/weekly-060)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
+| 猫鱼周刊 | 猫鱼周刊 | 2025-03-24T15:48:28Z | [猫鱼周刊 vol. 060 MCP 可能是通用人工智能的最后一公里](https://ameow.xyz/archives/weekly-060)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-02-28T00:00:24Z | [HelloGitHub 第 107 期](https://hellogithub.com/periodical/volume/107) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-16T00:00:00Z | [vol35.动机与自律：驱动人生的双引擎](https://www.hackthinking.com/weekly/2025/03-16-vol35) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
