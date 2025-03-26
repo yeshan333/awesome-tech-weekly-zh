@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-03-21T07:00:45Z | [【Keynote: Designing LLM Native systems - Sean Moriarity   Code BEAM America 2025】主题演讲：设计LLM本机系统 - 肖恩莫拉尔性 代码光束美国2025](https://elixirstatus.com/p/mPwAD-keynote-designing-llm-native-systems---sean-moriarity--code-beam-america-2025)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-03-26T01:37:01Z | [【Shorthand Package】速记包](https://elixirstatus.com/p/IkXBY-shorthand-package)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
