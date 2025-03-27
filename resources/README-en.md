@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-03-26T01:37:01Z | [【Shorthand Package】速记包](https://elixirstatus.com/p/IkXBY-shorthand-package)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-03-27T02:07:26Z | [【Mix task for saving/updating configurable list of Hexdocs packages】混合保存/更新可配置的HexDocs软件包列表的任务](https://elixirstatus.com/p/eM4i6-mix-task-for-savingupdating-configurable-list-of-hexdocs-packages)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
