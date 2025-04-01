@@ -133,7 +133,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2025-03-27T09:28:12Z | [KubeSphere v4.1.3 开源版发布](https://blog.csdn.net/zpf17671624050/article/details/146566703)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2025-04-01T10:12:50Z | [云原生周刊：Kubernetes v1.33 要来了](https://blog.csdn.net/zpf17671624050/article/details/146919390)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
