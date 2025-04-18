@@ -176,7 +176,7 @@ English | [简体中文](../README.md)
 | 老胡的周刊 | 老胡的周刊 | 2025-04-11T15:54:00Z | [04-07~04-12.老胡的周刊（第184期）.md](https://weekly.howie6879.com/2025/04-07~04-12.老胡的周刊（第184期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-04-14T04:23:22Z | [[写周报] 独立开发周记 113：游戏通关进度比开发进度快得多](https://www.v2ex.com/t/1125296#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-04-10T23:39:55Z | [科技爱好者周刊（第 344 期）：制造业正在&#34;零工化&#34;](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-04-18T00:07:46Z | [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
