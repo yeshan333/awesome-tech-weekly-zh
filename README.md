@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-04-14T20:51:06Z | [【Released benchee 1.4.0! 🚀🚀🚀】发布了Benchee 1.4.0！ 🚀🚀🚀](https://elixirstatus.com/p/okaUM-released-benchee-140-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-04-17T15:19:25Z | [【What the Critical Erlang SSH Vulnerability Means for Elixir Developers】关键的Erlang SSH脆弱性对Elixir开发人员意味着什么](https://elixirstatus.com/p/4JiOO-what-the-critical-erlang-ssh-vulnerability-means-for-elixir-developers)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
