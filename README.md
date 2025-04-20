@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-04-17T15:19:25Z | [【What the Critical Erlang SSH Vulnerability Means for Elixir Developers】关键的Erlang SSH脆弱性对Elixir开发人员意味着什么](https://elixirstatus.com/p/4JiOO-what-the-critical-erlang-ssh-vulnerability-means-for-elixir-developers)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-04-19T18:35:03Z | [【WYSIWYG editor in LiveView with embedded images that are uploaded to S3 bucket 】Liveview中的Wysiwyg编辑器，带有嵌入式图像，上传到S3桶](https://elixirstatus.com/p/4NXP8-wysiwyg-editor-in-liveview-with-embedded-images-that-are-uploaded-to-s3-bucket-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
