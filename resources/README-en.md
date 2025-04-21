@@ -37,7 +37,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-04-14T03:16:47Z | [AIGC Weekly #117](https://quaily.com/op7418/p/aigc-weekly-one-hundred-seventeen) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-04-21T06:40:27Z | [AIGC Weekly #118](https://quaily.com/op7418/p/aigc-weekly-one-one-eight)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -85,7 +85,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 | 2023-12-17T14:20:36Z | [Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -101,7 +101,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 |  | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-04-20T13:53:37Z | [🖼 终于凑齐了九宫格！Python周刊前3季已完结，趁着即将满100期&amp;满两周年，小小盘点一下：文章/教程 1089 篇，项目/资源 979 个，播客/视频 103 则，热门讨论 ...](https://t.me/pythontrendingweekly/386)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -133,7 +133,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 |  | [过渡无压力！KubeSphere v3.4.x 到 v4.x 平滑升级全攻略](https://blog.csdn.net/zpf17671624050/article/details/147337572)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2025-04-18T09:37:08Z | [过渡无压力！KubeSphere v3.4.x 到 v4.x 平滑升级全攻略](https://blog.csdn.net/zpf17671624050/article/details/147337572)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -174,7 +174,7 @@ English | [简体中文](../README.md)
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-04-21T00:13:31Z | [2025 04 21 HackerNews](https://supertechfans.com/cn/post/2025-04-21-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-04-18T15:54:00Z | [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
-| 独立开发周记 | 独立开发周记 | 2025-04-14T04:23:22Z | [[写周报] 独立开发周记 113：游戏通关进度比开发进度快得多](https://www.v2ex.com/t/1125296#reply0) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
+| 独立开发周记 | 独立开发周记 | 2025-04-21T08:15:42Z | [[写周报] 独立开发周记 114：第一次参加独立开发者线下聚会](https://www.v2ex.com/t/1127034#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-04-21T02:50:46Z | [办公类 AI 初探：扣子空间](http://www.ruanyifeng.com/blog/2025/04/coze-space.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
