@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-04-21T20:55:25Z | [【Weaving Stories with Cascading Workflows】用级联工作流编织故事](https://elixirstatus.com/p/KHXEc-weaving-stories-with-cascading-workflows)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-04-22T12:48:19Z | [【Thinking Elixir 250: EEF Elections and Security】思考Elixir 250：EEF选举和安全](https://elixirstatus.com/p/dCU5B-thinking-elixir-250-eef-elections-and-security)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
