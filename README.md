@@ -243,7 +243,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-04-14T21:59:58Z | [【Software Testing Weekly - Issue 266 - Apr 14th 2025】软件测试每周 - 第266期 -  2025年4月14日](https://softwaretestingweekly.com/issues/266) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-04-22T12:31:18Z | [【Software Testing Weekly - Issue 267 - Apr 22nd 2025】软件测试每周 - 第267期 -  4月22日2025年](https://softwaretestingweekly.com/issues/267)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
