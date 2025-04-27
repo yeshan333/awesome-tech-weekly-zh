@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-04-24T11:58:33Z | [【ElixirConf EU schedule is live】Elixirconf欧盟时间表现场](https://elixirstatus.com/p/xbsqx-elixirconf-eu-schedule-is-live)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-04-26T15:43:30Z | [【Reduce, Reuse… Refactor: Clearer Elixir with the Enum Module 】减少，重复使用…重构：带有枚举模块的更清晰的长生不老药](https://elixirstatus.com/p/d3FwO-reduce-reuse-refactor-clearer-elixir-with-the-enum-module-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -102,7 +102,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-04-26T04:57:05Z | [🔧 Python潮流周刊🐍 pinned «Python 潮流周刊精心筛选国内外的 250&#43; 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题...](https://t.me/pythontrendingweekly/397)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-04-27T12:42:48Z | [Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/398)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -118,7 +118,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2025-04-20T12:48:19Z | [老司机 iOS 周报 #332   2025-04-21](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23332)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2025-04-27T14:09:21Z | [老司机 iOS 周报 #333   2025-04-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23333)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -169,7 +169,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 猫鱼周刊 | 猫鱼周刊 |  | [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
+| 猫鱼周刊 | 猫鱼周刊 | 2025-04-20T10:48:11Z | [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-03-27T23:52:53Z | [HelloGitHub 第 108 期](https://hellogithub.com/periodical/volume/108) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
@@ -195,7 +195,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2025-02-09T16:08:54Z | [【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2025-04-21T00:00:00Z | [第219期 - 一艘活船](https://weekly.tw93.fun/posts/219-%E4%B8%80%E8%89%98%E6%B4%BB%E8%88%B9/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2025-04-28T00:00:00Z | [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
