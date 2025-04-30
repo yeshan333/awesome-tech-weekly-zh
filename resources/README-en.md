@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-04-26T15:43:30Z | [【Reduce, Reuse… Refactor: Clearer Elixir with the Enum Module 】减少，重复使用…重构：带有枚举模块的更清晰的长生不老药](https://elixirstatus.com/p/d3FwO-reduce-reuse-refactor-clearer-elixir-with-the-enum-module-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-04-29T17:35:08Z | [【CI/CD security audit for Elixir: SAFE】CI/CD安全审核：安全：安全](https://elixirstatus.com/p/rlZer-cicd-security-audit-for-elixir-safe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -149,9 +149,9 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2025-04-27T16:41:45Z | [体验碎周报第 230 期（2025.4.28）](https://www.ftium4.com/ux-weekly-230.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 |  | [#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-04-26T16:00:00Z | [设计素材周刊 162 期](https://moonvy.com/blog/post/设计素材周刊/162/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -174,7 +174,7 @@ English | [简体中文](../README.md)
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-04-30T01:00:45Z | [2025 04 30 HackerNews](https://supertechfans.com/cn/post/2025-04-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-04-18T15:54:00Z | [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
-| 独立开发周记 | 独立开发周记 | 2025-04-28T11:07:20Z | [[写周报] 独立开发周记 115：一个想法，不一定贵](https://www.v2ex.com/t/1128710#reply2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
+| 独立开发周记 | 独立开发周记 | 2025-04-28T11:07:20Z | [[写周报] 独立开发周记 115：一个想法，不一定贵](https://www.v2ex.com/t/1128710#reply3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-04-25T00:09:38Z | [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
@@ -192,7 +192,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 前端食堂技术周刊 | 前端食堂技术周刊 |  | [【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
+| 前端食堂技术周刊 | 前端食堂技术周刊 | 2025-02-09T16:08:54Z | [【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
 | 潮流周刊 | 前端潮流周刊 | 2025-04-28T00:00:00Z | [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
