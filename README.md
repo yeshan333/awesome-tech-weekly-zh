@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-04-29T17:35:08Z | [【CI/CD security audit for Elixir: SAFE】CI/CD安全审核：安全：安全](https://elixirstatus.com/p/rlZer-cicd-security-audit-for-elixir-safe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-04-30T16:03:25Z | [【Creating a multiplayer game server in Elixir 🤖】在Elixir🤖中创建多人游戏服务器](https://elixirstatus.com/p/gvsIv-creating-a-multiplayer-game-server-in-elixir-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
