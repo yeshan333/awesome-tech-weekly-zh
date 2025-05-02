@@ -151,7 +151,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | 体验碎周报 | 体验碎周报 | 2025-04-27T16:41:45Z | [体验碎周报第 230 期（2025.4.28）](https://www.ftium4.com/ux-weekly-230.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-07-24T14:27:32Z | [#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 |  | [#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-04-26T16:00:00Z | [设计素材周刊 162 期](https://moonvy.com/blog/post/设计素材周刊/162/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -172,7 +172,7 @@ English | [简体中文](../README.md)
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-04-28T00:00:16Z | [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-05-01T01:05:40Z | [2025 05 01 HackerNews](https://supertechfans.com/cn/post/2025-05-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
+| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-05-02T00:54:02Z | [2025 05 02 HackerNews](https://supertechfans.com/cn/post/2025-05-02-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-04-18T15:54:00Z | [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-04-28T11:07:20Z | [[写周报] 独立开发周记 115：一个想法，不一定贵](https://www.v2ex.com/t/1128710#reply4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
