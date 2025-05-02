@@ -101,7 +101,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-04-27T15:11:24Z | [Python 3.14 即将引入的 t-string 是个什么玩意？它跟我们常用的 f-string 有何区别？为什么要设计出这种新的语法，它有什么应用场景？](https://t.me/pythontrendingweekly/399)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-05-02T12:07:11Z | [我们周刊第 98 期分享过一篇文章，它指出了 init 方法存在的问题和新的最佳实践，第 99 期也分享了一篇文章佐证了第一篇文章的观点。我认为它们提出的是一个值得...](https://t.me/pythontrendingweekly/400)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
