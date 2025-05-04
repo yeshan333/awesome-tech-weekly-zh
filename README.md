@@ -118,7 +118,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2025-04-27T14:09:21Z | [老司机 iOS 周报 #333   2025-04-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23333)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2025-04-27T14:09:21Z | [老司机 iOS 周报 #333   2025-04-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23333) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
