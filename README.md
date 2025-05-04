@@ -54,7 +54,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 | 2025-04-27T19:30:50Z | [.NET 周刊第 66 期](https://www.fungkao.net/blogPost/bd5f57b6-c221-47ef-a5f5-cdf004d8897d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2025-04-27T19:30:50Z | [.NET 周刊第 66 期](https://www.fungkao.net/blogPost/bd5f57b6-c221-47ef-a5f5-cdf004d8897d) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -169,7 +169,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 猫鱼周刊 | 猫鱼周刊 | 2025-04-20T10:48:11Z | [猫鱼周刊 vol. 062 AI 旅游攻略](https://ameow.xyz/archives/weekly-062) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
+| 猫鱼周刊 | 猫鱼周刊 | 2025-05-04T18:38:31Z | [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-04-28T00:00:16Z | [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
