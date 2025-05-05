@@ -171,7 +171,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 猫鱼周刊 | 猫鱼周刊 | 2025-05-04T18:38:31Z | [猫鱼周刊 vol. 063 自己煮饭](https://ameow.xyz/archives/weekly-063)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
-| HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-04-28T00:00:16Z | [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
+| HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-04-28T00:00:16Z | [HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-05-04T00:40:36Z | [2025 05 04 HackerNews](https://supertechfans.com/cn/post/2025-05-04-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-04-18T15:54:00Z | [04-14~04-19.老胡的周刊（第185期）.md](https://weekly.howie6879.com/2025/04-14~04-19.老胡的周刊（第185期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
@@ -195,7 +195,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 |  | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2025-04-28T00:00:00Z | [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2025-04-28T00:00:00Z | [第220期 - 一颗心树](https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
