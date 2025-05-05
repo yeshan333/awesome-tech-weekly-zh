@@ -242,7 +242,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-04-28T20:57:58Z | [【Software Testing Weekly - Issue 268 - Apr 28th 2025】软件测试每周 - 第268期 -  2025年4月28日](https://softwaretestingweekly.com/issues/268)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-04-28T20:57:58Z | [【Software Testing Weekly - Issue 268 - Apr 28th 2025】软件测试每周 - 第268期 -  2025年4月28日](https://softwaretestingweekly.com/issues/268) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
