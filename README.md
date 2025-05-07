@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-05-05T11:38:07Z | [【&#34;Domain Modeling with Ash Framework&#34; is now launched. Buy the book now for a 20% discount!! Offer ends in 2 days!!!】现在启动了“使用ASH框架建模”。立即购买这本书以20％的折扣！！报价在2天内结束了！！！](https://elixirstatus.com/p/0BesA-domain-modeling-with-ash-framework-is-now-launched-buy-the-book-now-for-a-20-discount-offer-ends-in-2-days)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-05-07T00:36:04Z | [【Honeybadger adds new APM features for Elixir, Phoenix, and Oban】HoneyBadger添加了Elixir，Phoenix和Oban的新APM功能](https://elixirstatus.com/p/RnApB-honeybadger-adds-new-apm-features-for-elixir-phoenix-and-oban)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
