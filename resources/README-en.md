@@ -53,7 +53,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| .NET 周刊 | .NET 周刊 |  | [.NET 周刊第 66 期](https://www.fungkao.net/blogPost/bd5f57b6-c221-47ef-a5f5-cdf004d8897d) | [https://www.fungkao.net/](https://www.fungkao.net/) |
+| .NET 周刊 | .NET 周刊 | 2025-04-27T19:30:50Z | [.NET 周刊第 66 期](https://www.fungkao.net/blogPost/bd5f57b6-c221-47ef-a5f5-cdf004d8897d) | [https://www.fungkao.net/](https://www.fungkao.net/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -242,7 +242,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-04-28T20:57:58Z | [【Software Testing Weekly - Issue 268 - Apr 28th 2025】软件测试每周 - 第268期 -  2025年4月28日](https://softwaretestingweekly.com/issues/268) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-05-06T23:21:51Z | [【Software Testing Weekly - Issue 269 - May 7th 2025】软件测试每周 - 第269期 -  2025年5月7日](https://softwaretestingweekly.com/issues/269)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
