@@ -1,19 +1,19 @@
-name: readme generator
+name: README Generator
 
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
   schedule:
     - cron: '0 */8 * * *'
-  workflow_dispatch:
-
+    - cron: '0 */10 * * *'
 
 jobs:
-  build:
+  generate-zh-readme:
     runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '0 */8 * * *' || github.event_name != 'schedule'
     steps:
       - uses: actions/checkout@main
-
       - name: generate zh-hans README
         uses: yeshan333/yaml-readme@master
         env:
@@ -30,6 +30,11 @@ jobs:
           header: false
           push: true
 
+  generate-en-readme:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '0 */8 * * *' || github.event_name != 'schedule'
+    steps:
+      - uses: actions/checkout@main
       - name: generate english README
         uses: yeshan333/yaml-readme@master
         env:
@@ -44,4 +49,25 @@ jobs:
           header: false
           template: 'template/README-en.tpl'
           output: 'resources/README-en.md'
+          push: true
+
+  generate-json-readme:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '0 */10 * * *' || github.event_name != 'schedule'
+    steps:
+      - uses: actions/checkout@main
+      - name: generate json README
+        uses: yeshan333/yaml-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'items/*/*.yaml'
+          username: "yeshan333"
+          org: yeshan333
+          repo: awesome-tech-weekly-zh
+          sortby: kind
+          groupby: kind
+          header: false
+          template: 'template/README.json.tpl'
+          output: 'README.json'
           push: true
