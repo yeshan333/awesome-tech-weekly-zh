@@ -1,0 +1,28 @@
+name: json README Generator
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */10 * * *'
+
+jobs:
+  generate-json-readme:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' && github.event.schedule == '0 */10 * * *' || github.event_name != 'schedule'
+    steps:
+      - uses: actions/checkout@main
+      - name: generate json README
+        uses: yeshan333/yaml-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'items/*/*.yaml'
+          username: "yeshan333"
+          org: yeshan333
+          repo: awesome-tech-weekly-zh
+          sortby: kind
+          groupby: kind
+          header: false
+          template: 'template/README.json.tpl'
+          output: 'README.json'
+          push: true
