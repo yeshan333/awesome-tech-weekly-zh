@@ -122,7 +122,7 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "2025-05-18T12:23:54Z",
+                "published_date": "",
                 "latest_post": "[猫鱼周刊 vol. 065 深度游览一座城市的方法](https://ameow.xyz/archives/weekly-065)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
@@ -165,7 +165,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2025-05-12T10:11:58Z",
-                "latest_post": "[[写周报] 独立开发周记 117：抄袭者回复了，可把我逗笑了](https://www.v2ex.com/t/1131249#reply9)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[写周报] 独立开发周记 117：抄袭者回复了，可把我逗笑了](https://www.v2ex.com/t/1131249#reply9)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -216,8 +216,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-05-18T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-05-18 Review](http://www.sec-wiki.com/?2025-05-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-05-19T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-05-19 Review](http://www.sec-wiki.com/?2025-05-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
