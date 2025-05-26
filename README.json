@@ -96,8 +96,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-05-18T16:41:45Z",
-                "latest_post": "[体验碎周报第 233 期（2025.5.19）](https://www.ftium4.com/ux-weekly-233.html)",
+                "published_date": "2025-05-25T16:41:45Z",
+                "latest_post": "[体验碎周报第 234 期（2025.5.26）](https://www.ftium4.com/ux-weekly-234.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -150,8 +150,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-05-25T00:27:45Z",
-                "latest_post": "[2025 05 25 HackerNews](https://supertechfans.com/cn/post/2025-05-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-05-25T23:06:58Z",
+                "latest_post": "[2025 05 26 HackerNews](https://supertechfans.com/cn/post/2025-05-26-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -205,7 +205,7 @@
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
                 "published_date": "2025-05-26T00:00:00Z",
-                "latest_post": "[第223期 - 孤独身影](https://weekly.tw93.fun/posts/223-%E5%AD%A4%E7%8B%AC%E8%BA%AB%E5%BD%B1/)",
+                "latest_post": "[第223期 - 孤独身影](https://weekly.tw93.fun/posts/223-%E5%AD%A4%E7%8B%AC%E8%BA%AB%E5%BD%B1/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
