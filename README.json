@@ -41,8 +41,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -53,8 +53,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-05-25T13:42:02Z",
-                "latest_post": "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/418)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-05-15T09:24:05Z",
-                "latest_post": "[同学们看过来！开源之夏 KubeSphere 项目认领开启啦！](https://blog.csdn.net/zpf17671624050/article/details/147988038)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -90,7 +90,7 @@
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
                 "published_date": "",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -103,8 +103,8 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2024-07-24T14:27:32Z",
-                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -136,8 +136,8 @@
             {
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
-                "published_date": "2025-04-28T00:00:16Z",
-                "latest_post": "[HelloGitHub 第 109 期](https://hellogithub.com/periodical/volume/109)",
+                "published_date": "2025-05-28T00:05:12Z",
+                "latest_post": "[HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-02-09T16:08:54Z",
-                "latest_post": "[【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -228,8 +228,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-05-09T08:07:00Z",
-                "latest_post": "[痞子衡嵌入式：不处理i.MXRT1064片内Flash的RESET#引脚可能会导致无法启动或程序跑飞](https://blog.csdn.net/Henjay724/article/details/147845234)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -248,7 +248,7 @@
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
                 "published_date": "",
-                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
