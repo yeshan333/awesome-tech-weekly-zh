@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-05-26T09:41:59Z | [【Efficient and reliable message publishing with RabbitMQ and Elixir】用RabbitMQ和Elixir出版高效且可靠的消息](https://elixirstatus.com/p/VpflT-efficient-and-reliable-message-publishing-with-rabbitmq-and-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-05-27T14:51:52Z | [【A Visual Tour of Phoenix&#39;s Updated &#39;magic link&#39; Authentication Code Generator】凤凰城更新的“魔术链接”身份验证代码生成器的视觉游览](https://elixirstatus.com/p/fMUjT-a-visual-tour-of-phoenixs-updated-magic-link-authentication-code-generator)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -210,7 +210,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-05-27T15:58:20Z | [SecWiki News 2025-05-27 Review](http://www.sec-wiki.com/?2025-05-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-05-28T15:58:20Z | [SecWiki News 2025-05-28 Review](http://www.sec-wiki.com/?2025-05-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
