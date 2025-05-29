@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-05-27T14:51:52Z | [【A Visual Tour of Phoenix&#39;s Updated &#39;magic link&#39; Authentication Code Generator】凤凰城更新的“魔术链接”身份验证代码生成器的视觉游览](https://elixirstatus.com/p/fMUjT-a-visual-tour-of-phoenixs-updated-magic-link-authentication-code-generator)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-05-28T12:09:18Z | [【First videos from ElixirConf EU 2025 are out】ELIXIRCONF EU 2025的首批视频已出版](https://elixirstatus.com/p/6s1eQ-first-videos-from-elixirconf-eu-2025-are-out)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
