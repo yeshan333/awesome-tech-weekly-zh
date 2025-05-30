@@ -150,8 +150,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-05-28T23:22:38Z",
-                "latest_post": "[2025 05 29 HackerNews](https://supertechfans.com/cn/post/2025-05-29-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-05-29T23:19:42Z",
+                "latest_post": "[2025 05 30 HackerNews](https://supertechfans.com/cn/post/2025-05-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -179,7 +179,7 @@
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
                 "published_date": "2025-05-23T00:12:32Z",
-                "latest_post": "[科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[科技爱好者周刊（第 349 期）：神经网络算法的发明者](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
