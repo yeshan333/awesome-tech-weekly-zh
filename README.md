@@ -173,7 +173,7 @@
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-05-28T00:05:12Z | [HelloGitHub 第 110 期](https://hellogithub.com/periodical/volume/110)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-05-31T00:30:10Z | [2025 05 31 HackerNews](https://supertechfans.com/cn/post/2025-05-31-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
+| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-06-01T01:19:46Z | [2025 06 01 HackerNews](https://supertechfans.com/cn/post/2025-06-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-05-24T15:54:00Z | [05-19~05-25.老胡的周刊（第188期）.md](https://weekly.howie6879.com/2025/05-19~05-25.老胡的周刊（第188期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-05-26T11:02:15Z | [[写周报] 独立开发周记 119：大学生，月入 3W，美金](https://www.v2ex.com/t/1134463#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
@@ -260,7 +260,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 |  | [学习周刊-总第213期-2025年第22周](https://wiki.eryajf.net/pages/e0965e/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2025-05-29T13:22:22Z | [学习周刊-总第213期-2025年第22周](https://wiki.eryajf.net/pages/e0965e/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
