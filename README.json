@@ -29,8 +29,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-05-30T14:29:11Z",
-                "latest_post": "[【Advanced tips and tricks for LiveView nested forms】Liveview嵌套表单的高级技巧和技巧](https://elixirstatus.com/p/6ofGS-advanced-tips-and-tricks-for-liveview-nested-forms)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-03T12:35:01Z",
+                "latest_post": "[【Thinking Elixir 255: OTP 28 and Vibe Coding Phoenix Apps】思考Elixir 255：OTP 28和Vibe编码Phoenix应用](https://elixirstatus.com/p/cXESm-thinking-elixir-255-otp-28-and-vibe-coding-phoenix-apps)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-06-03T08:42:35Z",
-                "latest_post": "[云原生周刊：探索 Gateway API v1.3.0](https://blog.csdn.net/zpf17671624050/article/details/148404870)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -97,7 +97,7 @@
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2025-06-04T03:40:26Z",
-                "latest_post": "[OpenClash配置教程：如何让多个订阅配置文件使用统一的规则](https://www.ftium4.com/OpenClash-multi-proxy-providers-auto-rule-providers.html)",
+                "latest_post": "[OpenClash配置教程：如何让多个订阅配置文件使用统一的规则](https://www.ftium4.com/OpenClash-multi-proxy-providers-auto-rule-providers.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -165,7 +165,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2025-06-02T12:16:34Z",
-                "latest_post": "[[写周报] 独立开发周记 120：靠苹果赚的钱都得还回去](https://www.v2ex.com/t/1135875#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[写周报] 独立开发周记 120：靠苹果赚的钱都得还回去](https://www.v2ex.com/t/1135875#reply2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-02-09T16:08:54Z",
-                "latest_post": "[【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
