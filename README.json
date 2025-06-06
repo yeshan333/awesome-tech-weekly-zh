@@ -17,8 +17,8 @@
             {
                 "name": ".NET 周刊",
                 "desc": ".NET 周刊",
-                "published_date": "2025-05-10T17:11:41Z",
-                "latest_post": "[.NET 周刊第 67 期](https://www.fungkao.net/blogPost/8c407ab6-6770-4688-b5b0-8adcee3ddec9)",
+                "published_date": "2025-06-06T01:01:55Z",
+                "latest_post": "[.NET 周刊第 68 期](https://www.fungkao.net/blogPost/35409355-14de-47c5-b799-3bc381ef1245)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.fungkao.net/](https://www.fungkao.net/)"
             }
         ]
@@ -110,8 +110,8 @@
             {
                 "name": "月维素材周刊",
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
-                "published_date": "2025-06-01T16:00:00Z",
-                "latest_post": "[设计素材周刊 167 期](https://moonvy.com/blog/post/设计素材周刊/167/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-04T16:00:00Z",
+                "latest_post": "[2025 年主流设计交付工具全面对比](https://moonvy.com/blog/post/2025/moonvy-vs/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             }
         ]
@@ -178,8 +178,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-05-30T00:02:46Z",
-                "latest_post": "[科技爱好者周刊（第 350 期）：Java 三十周年](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html)",
+                "published_date": "2025-06-06T00:05:28Z",
+                "latest_post": "[科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -190,8 +190,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "published_date": "2025-02-09T16:08:54Z",
+                "latest_post": "[【开源推荐】Nest.js 开源模板，满足前端同学快速满足开发后台需求](https://github.com/Geekhyt/weekly/issues/147)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -228,8 +228,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2025-05-27T10:33:00Z",
+                "latest_post": "[痞子衡嵌入式：i.MXRT10xx系列ROM的UART SDP设置不同波特率的方法与实践](https://blog.csdn.net/Henjay724/article/details/148321075)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -240,8 +240,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2025-05-26T21:20:13Z",
-                "latest_post": "[【Software Testing Weekly - Issue 272 - May 26th 2025】软件测试每周 - 第272期 -  2025年5月26日](https://softwaretestingweekly.com/issues/272)",
+                "published_date": "2025-06-05T05:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 273 - Jun 5th 2025】软件测试每周 - 第273期 -  2025年6月5日](https://softwaretestingweekly.com/issues/273)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
