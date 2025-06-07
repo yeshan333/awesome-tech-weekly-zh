@@ -29,8 +29,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-06-05T12:48:01Z",
-                "latest_post": "[【Introducing Elixir Observer: A Better Way to Explore Elixir Packages】介绍Elixir观察者：探索Elixir软件包的更好方法](https://elixirstatus.com/p/44TsX-introducing-elixir-observer-a-better-way-to-explore-elixir-packages)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-06T10:15:52Z",
+                "latest_post": "[【Numbering nested inputs in Phoenix LiveView】Phoenix Liveview中的编号嵌套输入](https://elixirstatus.com/p/vkwSw-numbering-nested-inputs-in-phoenix-liveview)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -42,7 +42,7 @@
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
                 "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -53,8 +53,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "published_date": "2025-06-04T23:52:56Z",
+                "latest_post": "[AI Changes Everything](https://t.me/pythontrendingweekly/421)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-06-04T09:48:08Z",
+                "latest_post": "[“智启云原生・粤览 AI 未来”｜云原生 AI Meetup 深圳站精彩落幕](https://blog.csdn.net/zpf17671624050/article/details/148431724)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -150,8 +150,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-06-05T23:35:58Z",
-                "latest_post": "[2025 06 06 HackerNews](https://supertechfans.com/cn/post/2025-06-06-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-07T00:40:51Z",
+                "latest_post": "[2025 06 07 HackerNews](https://supertechfans.com/cn/post/2025-06-07-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
