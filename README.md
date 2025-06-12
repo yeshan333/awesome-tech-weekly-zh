@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-06-10T12:11:23Z | [【Thinking Elixir 256: Types, Tools, and Turbo Charging】思考Elixir 256：类型，工具和涡轮增压](https://elixirstatus.com/p/PaHgD-thinking-elixir-256-types-tools-and-turbo-charging)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-06-11T16:40:44Z | [【Nx Actor-Oriented Architecture in Elixir for Simulating Concurrent Elastic Collisions】长生不老药中的NX Actor架构用于模拟并发弹性碰撞](https://elixirstatus.com/p/dJBNk-nx-actor-oriented-architecture-in-elixir-for-simulating-concurrent-elastic-collisions)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -211,7 +211,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-06-11T15:58:20Z | [SecWiki News 2025-06-11 Review](http://www.sec-wiki.com/?2025-06-11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-06-12T15:58:20Z | [SecWiki News 2025-06-12 Review](http://www.sec-wiki.com/?2025-06-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -243,7 +243,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-06-05T05:00:00Z | [【Software Testing Weekly - Issue 273 - Jun 5th 2025】软件测试每周 - 第273期 -  2025年6月5日](https://softwaretestingweekly.com/issues/273) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-06-11T19:57:08Z | [【Software Testing Weekly - Issue 274 - Jun 11th 2025】软件测试每周 - 第274期 -  2025年6月11日](https://softwaretestingweekly.com/issues/274)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
@@ -260,7 +260,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2025-06-05T13:52:34Z | [学习周刊-总第214期-2025年第23周](https://wiki.eryajf.net/pages/343b51/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2025-06-12T13:52:06Z | [学习周刊-总第215期-2025年第24周](https://wiki.eryajf.net/pages/044a19/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
