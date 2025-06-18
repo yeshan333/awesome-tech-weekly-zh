@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-06-16T20:28:14Z | [【Elixir Adoption Guide - Ebook Out Now!】Elixir Audighion Guide-现在出版！](https://elixirstatus.com/p/nXhqe-elixir-adoption-guide---ebook-out-now)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-06-17T20:05:10Z | [【Phoenix contexts are simpler than you think】Phoenix上下文比您想象的要简单](https://elixirstatus.com/p/yygpu-phoenix-contexts-are-simpler-than-you-think)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -210,7 +210,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-06-17T15:58:20Z | [SecWiki News 2025-06-17 Review](http://www.sec-wiki.com/?2025-06-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-06-18T15:58:20Z | [SecWiki News 2025-06-18 Review](http://www.sec-wiki.com/?2025-06-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
