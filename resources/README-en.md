@@ -69,7 +69,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-06-18T13:35:20Z | [【Phoenix 1.8 Gets Official Security Documentation】Phoenix 1.8获取官方安全文件](https://elixirstatus.com/p/YqmDK-phoenix-18-gets-official-security-documentation)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-06-19T19:13:54Z | [【Cheat sheet: Gleam for Elixir users】备忘单：闪闪发光的长生不老药用户](https://elixirstatus.com/p/RN9Xi-cheat-sheet-gleam-for-elixir-users)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
