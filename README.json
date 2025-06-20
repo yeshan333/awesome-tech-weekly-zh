@@ -29,8 +29,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-06-18T13:35:20Z",
-                "latest_post": "[【Phoenix 1.8 Gets Official Security Documentation】Phoenix 1.8获取官方安全文件](https://elixirstatus.com/p/YqmDK-phoenix-18-gets-official-security-documentation)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-19T19:13:54Z",
+                "latest_post": "[【Cheat sheet: Gleam for Elixir users】备忘单：闪闪发光的长生不老药用户](https://elixirstatus.com/p/RN9Xi-cheat-sheet-gleam-for-elixir-users)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-06-16T10:48:58Z",
-                "latest_post": "[OceanBase上架 KubeSphere Marketplace！打造云原生数据库新范式](https://blog.csdn.net/zpf17671624050/article/details/148698058)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-20T08:55:16Z",
+                "latest_post": "[告别宕机！KubeSphere v4.1.3 联手 K8s v1.32.5，手把手教你打造“永不掉线”的云原生底座](https://blog.csdn.net/zpf17671624050/article/details/148795864)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -103,7 +103,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
+                "published_date": "2024-07-24T14:27:32Z",
                 "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -178,8 +178,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-06-12T23:35:45Z",
-                "latest_post": "[科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)",
+                "published_date": "2025-06-20T00:08:10Z",
+                "latest_post": "[科技爱好者周刊（第 353 期）：苹果的&#34;液态玻璃&#34;是为了 AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -259,8 +259,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2025-06-12T13:52:06Z",
-                "latest_post": "[学习周刊-总第215期-2025年第24周](https://wiki.eryajf.net/pages/044a19/)",
+                "published_date": "2025-06-20T00:56:22Z",
+                "latest_post": "[学习周刊-总第216期-2025年第25周](https://wiki.eryajf.net/pages/e5cffc/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
