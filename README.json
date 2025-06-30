@@ -17,8 +17,8 @@
             {
                 "name": ".NET 周刊",
                 "desc": ".NET 周刊",
-                "published_date": "2025-06-06T01:01:55Z",
-                "latest_post": "[.NET 周刊第 68 期](https://www.fungkao.net/blogPost/35409355-14de-47c5-b799-3bc381ef1245)",
+                "published_date": "2025-06-30T14:31:29Z",
+                "latest_post": "[.NET 周刊第 69 期](https://www.fungkao.net/blogPost/cb9c027c-1830-4ce9-957f-b35d73f1e228)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.fungkao.net/](https://www.fungkao.net/)"
             }
         ]
@@ -216,8 +216,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-06-29T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-06-29 Review](http://www.sec-wiki.com/?2025-06-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-06-30T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-06-30 Review](http://www.sec-wiki.com/?2025-06-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
