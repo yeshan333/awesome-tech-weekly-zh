@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-07-01T12:23:06Z | [【Thinking Elixir 259: Chris McCord on phoenix.new】思考Elixir 259：Chris McCord在Phoenix上](https://elixirstatus.com/p/KeJ4k-thinking-elixir-259-chris-mccord-on-phoenixnew)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-07-01T12:23:06Z | [【Thinking Elixir 259: Chris McCord on phoenix.new】思考Elixir 259：Chris McCord在Phoenix上](https://elixirstatus.com/p/KeJ4k-thinking-elixir-259-chris-mccord-on-phoenixnew) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -211,7 +211,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-07-07T15:58:20Z | [SecWiki News 2025-07-07 Review](http://www.sec-wiki.com/?2025-07-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-07-08T15:58:20Z | [SecWiki News 2025-07-08 Review](http://www.sec-wiki.com/?2025-07-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
