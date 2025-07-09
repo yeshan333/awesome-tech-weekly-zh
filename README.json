@@ -29,8 +29,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-07-01T12:23:06Z",
-                "latest_post": "[【Thinking Elixir 259: Chris McCord on phoenix.new】思考Elixir 259：Chris McCord在Phoenix上](https://elixirstatus.com/p/KeJ4k-thinking-elixir-259-chris-mccord-on-phoenixnew)",
+                "published_date": "2025-07-08T13:49:44Z",
+                "latest_post": "[【How Claude Code and MCP Helped Me Build a Custom Phoenix 404 Page】Claude Code和MCP如何帮助我构建自定义Phoenix 404页](https://elixirstatus.com/p/fnlgb-how-claude-code-and-mcp-helped-me-build-a-custom-phoenix-404-page)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-06-26T08:28:44Z",
-                "latest_post": "[【国产化-K8s】混合架构的 K8s &#43; KubeSphere 部署指南](https://blog.csdn.net/zpf17671624050/article/details/148928160)",
+                "published_date": "2025-07-09T06:47:13Z",
+                "latest_post": "[Higress 上架 KubeSphere Marketplace，助力企业构建云原生流量入口](https://blog.csdn.net/zpf17671624050/article/details/149224156)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
