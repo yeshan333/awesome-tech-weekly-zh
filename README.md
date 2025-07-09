@@ -70,7 +70,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-07-01T12:23:06Z | [【Thinking Elixir 259: Chris McCord on phoenix.new】思考Elixir 259：Chris McCord在Phoenix上](https://elixirstatus.com/p/KeJ4k-thinking-elixir-259-chris-mccord-on-phoenixnew) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-07-08T13:49:44Z | [【How Claude Code and MCP Helped Me Build a Custom Phoenix 404 Page】Claude Code和MCP如何帮助我构建自定义Phoenix 404页](https://elixirstatus.com/p/fnlgb-how-claude-code-and-mcp-helped-me-build-a-custom-phoenix-404-page)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -211,7 +211,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-07-08T15:58:20Z | [SecWiki News 2025-07-08 Review](http://www.sec-wiki.com/?2025-07-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-07-09T15:58:20Z | [SecWiki News 2025-07-09 Review](http://www.sec-wiki.com/?2025-07-09)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -227,7 +227,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [痞子衡嵌入式：在MDK5.40开发环境下添加用户下载算法FLM文件的方法](https://blog.csdn.net/Henjay724/article/details/149188093)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -243,7 +243,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-07-01T23:47:13Z | [【Software Testing Weekly - Issue 277 - Jul 2nd 2025】软件测试每周 - 第277条 -  7月2日2025](https://softwaretestingweekly.com/issues/277) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  |  | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
