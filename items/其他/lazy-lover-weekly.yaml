@@ -1,0 +1,7 @@
+kind: 其他
+owner: echosoar
+name: '偷懒爱好者周刊'
+link: https://echosoar.github.io/weekly/
+desc: '偷懒爱好者周刊'
+desc_en: "Lazy Lover Weekly"
+feed_url: https://echosoar.github.io/weekly/atom.xml
