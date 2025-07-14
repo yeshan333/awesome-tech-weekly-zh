@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: '0 */8 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   generate-md-readme:
