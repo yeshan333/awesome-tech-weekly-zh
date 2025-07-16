@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中文技术周刊导航 | 极简现代设计</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+    <meta name="description" content="发现优质中文技术周刊，提升你的技术视野 - 极简现代设计">
+    <meta name="keywords" content="技术周刊,中文技术,编程,开发,人工智能,前端,后端">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="hero">
+                <h1 class="hero-title">
+                    <span class="gradient-text">技术周刊</span>
+                    <span class="subtitle">导航</span>
+                </h1>
+                <p class="hero-description">发现优质中文技术周刊，提升你的技术视野</p>
+                <div class="stats" id="stats">
+                    <span class="stat-item">
+                        <span class="stat-number" id="total-count">0</span>
+                        <span class="stat-label">周刊总数</span>
+                    </span>
+                    <span class="stat-item">
+                        <span class="stat-number" id="category-count">0</span>
+                        <span class="stat-label">技术领域</span>
+                    </span>
+                    <span class="stat-item">
+                        <span class="stat-number" id="updated-count">0</span>
+                        <span class="stat-label">本周更新</span>
+                    </span>
+                </div>
+            </div>
+            
+            <div class="controls">
+                <div class="search-container">
+                    <div class="search-box">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                        </svg>
+                        <input type="text" id="search" placeholder="搜索周刊名称、描述或最新文章..." />
+                        <kbd class="search-shortcut">/</kbd>
+                    </div>
+                </div>
+                
+                <div class="filter-container">
+                    <div class="filter-label">技术领域</div>
+                    <div class="filter-tags" id="category-filter">
+                        <button class="tag active" data-category="all">全部</button>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="content">
+            <div class="grid" id="weekly-grid">
+                <div class="loading">
+                    <div class="loading-spinner"></div>
+                    <p>加载中...</p>
+                </div>
+            </div>
+            
+            <div class="no-results hidden" id="no-results">
+                <div class="no-results-icon">🔍</div>
+                <h3>没有找到匹配的周刊</h3>
+                <p>尝试调整搜索关键词或筛选条件</p>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2024-2025 技术周刊导航</p>
+                <div class="footer-links">
+                    <a href="https://github.com/yeshan333/awesome-tech-weekly-zh" target="_blank">GitHub</a>
+                    <a href="https://github.com/yeshan333/awesome-tech-weekly-zh/issues" target="_blank">反馈</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
