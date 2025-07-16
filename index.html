@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技术周刊导航 - 极简现代设计</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="title">技术周刊导航</h1>
+            <p class="subtitle">精选优质技术周刊，一站式阅读体验</p>
+        </header>
+
+        <div class="controls">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="搜索周刊名称、描述或最新文章..." class="search-input">
+                <span class="search-hint">按 / 键快速搜索</span>
+            </div>
+            
+            <div class="filter-container">
+                <button class="filter-btn active" data-category="all">全部</button>
+                <div class="category-filters" id="categoryFilters">
+                    <!-- 动态生成分类按钮 -->
+                </div>
+            </div>
+        </div>
+
+        <div class="stats" id="stats">
+            <span class="stat-item">
+                <strong id="totalCount">0</strong> 个周刊
+            </span>
+            <span class="stat-item">
+                <strong id="categoryCount">0</strong> 个分类
+            </span>
+            <span class="stat-item">
+                最近更新: <strong id="lastUpdate">-</strong>
+            </span>
+        </div>
+
+        <main class="content" id="content">
+            <!-- 动态生成内容 -->
+        </main>
+
+        <footer class="footer">
+            <p>数据来源：<a href="https://github.com/yeshan333/awesome-tech-weekly-zh" target="_blank">awesome-tech-weekly-zh</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
