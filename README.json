@@ -29,8 +29,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-07-13T12:28:37Z",
-                "latest_post": "[【Calling an Elixir Library from Gleam】从Gleam打电话给精灵库](https://elixirstatus.com/p/4x52O-calling-an-elixir-library-from-gleam)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-07-15T12:15:02Z",
+                "latest_post": "[【Thinking Elixir 261: Why Elixir and a $300K Daily Bill?】思考Elixir 261：为什么要精灵和每日30万美元的账单？](https://elixirstatus.com/p/zW6Ve-thinking-elixir-261-why-elixir-and-a-300k-daily-bill)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -165,7 +165,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2025-07-14T08:27:21Z",
-                "latest_post": "[[写周报] 独立开发周记 126：在 Steam 中寻找开发灵感](https://www.v2ex.com/t/1145100#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[写周报] 独立开发周记 126：在 Steam 中寻找开发灵感](https://www.v2ex.com/t/1145100#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -223,8 +223,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-07-15T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-07-15 Review](http://www.sec-wiki.com/?2025-07-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-07-16T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-07-16 Review](http://www.sec-wiki.com/?2025-07-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
