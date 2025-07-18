@@ -1,9 +1,0 @@
-# Netlify file based configuration
-# doc: https://docs.netlify.com/configure-builds/file-based-configuration/
-
-[build]
-  command = "ls -al"
-  publish = "site/"
-
-[context.deploy-preview]
-  publish = "site/"
