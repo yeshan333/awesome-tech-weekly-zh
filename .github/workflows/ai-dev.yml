@@ -41,13 +41,3 @@ jobs:
           ANTHROPIC_BASE_URL: "${{ secrets.ANTHROPIC_BASE_URL }}"
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-      - name: "Deploy AI Gen Site to Netlify"
-        if: ${{ steps.claude.outcome == 'success' }}
-        uses: South-Paw/action-netlify-cli@v2
-        id: netlify
-        with:
-          # note that the --json flag has been passed so we can parse outputs
-          args: deploy --json --prod --dir './site' --message 'production [${{ github.sha }}]'
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

@@ -1,0 +1,51 @@
+name: AI Daily Build Index Site with Claude Code
+
+on:
+    push:
+        branches: [ main ]
+    workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  claude:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Run Claude Code with direct prompt
+        id: claude
+        uses: anthropics/claude-code-base-action@beta
+        env:
+          ANTHROPIC_BASE_URL: "${{ secrets.ANTHROPIC_BASE_URL }}"
+        with:
+            prompt: |
+                基于 README.json 的数据，建立一个极简和现代美学匹配的网站。网站请建立在 site 目录下。
+
+                注意 latest_post 和 link 字段的值是 markdown 格式的。
+
+                在设计网站时，请遵循以下指南：
+
+                确保网站设计体现极简和现代美学风格，简洁、大方且具有现代感。
+                合理布局网站内容，突出重点，使信息易于浏览和查找。
+                运用提供的美学元素，如色彩、字体、图形等，营造整体统一的视觉效果。
+                保证网站的响应式设计，使其在不同设备上都能完美显示。
+                注重用户体验，设计清晰的导航和交互元素。
+            allowed_tools: "Read"
+            anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+            claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      - name: "Deploy AI Gen Site to Netlify"
+        if: ${{ steps.claude.outcome == 'success' }}
+        uses: South-Paw/action-netlify-cli@v2
+        id: netlify
+        with:
+          # note that the --json flag has been passed so we can parse outputs
+          args: deploy --json --prod --dir './site' --message 'production [${{ github.sha }}]'
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
