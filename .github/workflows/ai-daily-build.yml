@@ -24,6 +24,8 @@ jobs:
         env:
           ANTHROPIC_BASE_URL: "${{ secrets.ANTHROPIC_BASE_URL }}"
         with:
+            allowed_tools: "Bash,View,GlobTool,GrepTool,BatchTool,Edit,Replace"
+            claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
             prompt: |
                 基于 README.json 的数据，建立一个极简和现代美学匹配的网站。网站请建立在 site 目录下。
 
@@ -36,12 +38,6 @@ jobs:
                 运用提供的美学元素，如色彩、字体、图形等，营造整体统一的视觉效果。
                 保证网站的响应式设计，使其在不同设备上都能完美显示。
                 注重用户体验，设计清晰的导航和交互元素。
-            allowed_tools: |
-              Bash
-              Edit
-              Replace
-            anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-            claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       - name: "Deploy AI Gen Site to Netlify"
         if: ${{ steps.claude.outcome == 'success' }}
         uses: South-Paw/action-netlify-cli@v2
