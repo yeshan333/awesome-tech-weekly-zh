@@ -50,7 +50,7 @@ jobs:
         run: npm install -g netlify-cli
       - name: Deploy AI Gen Site to Netlify
         if: ${{ steps.claude.outcome == 'success' }}
-        run: netlify deploy --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN --dir=site
+        run: netlify deploy --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN --dir=site --no-build
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
