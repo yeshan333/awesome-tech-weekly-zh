@@ -29,8 +29,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-07-16T15:57:46Z",
-                "latest_post": "[【vfox-erlang now supports directly downloading pre-built Erlang/OTP binary builds from @erlef/otp_builds. 】VFOX-ERLANG现在支持直接从 @erlef/otp_builds下载预构建的ERLANG/OTP二进制构建。](https://elixirstatus.com/p/OjxtJ-vfox-erlang-now-supports-directly-downloading-pre-built-erlangotp-binary-builds-from-erlefotpbuilds-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-07-17T16:16:45Z",
+                "latest_post": "[【Fine-Tuning YOLO to Watch Soccer Matches】微调Yolo观看足球比赛](https://elixirstatus.com/p/qI9Vf-fine-tuning-yolo-to-watch-soccer-matches)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -41,8 +41,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2023-12-17T14:20:36Z",
+                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -53,8 +53,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "published_date": "2025-07-18T00:24:43Z",
+                "latest_post": "[Introducing ChatGPT agent: bridging research and action   OpenAI](https://t.me/pythontrendingweekly/457)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-07-17T09:42:36Z",
+                "latest_post": "[全面升级！WizTelemetry 可观测平台 2.0 深度解析：打造云原生时代的智能可观测平台](https://blog.csdn.net/zpf17671624050/article/details/149426867)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -197,8 +197,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "published_date": "2025-07-18T06:38:46Z",
+                "latest_post": "[【开源自荐】开源AI数字人 AIGCPanel](https://github.com/Geekhyt/weekly/issues/148)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -223,8 +223,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-07-17T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-07-17 Review](http://www.sec-wiki.com/?2025-07-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-07-18T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-07-18 Review](http://www.sec-wiki.com/?2025-07-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -235,8 +235,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2025-07-14T03:24:00Z",
+                "latest_post": "[痞子衡嵌入式：i.MXRT1170使用FlexSPI 2nd引脚组连接串行NOR Flash启动时FDCB需特殊设置](https://blog.csdn.net/Henjay724/article/details/149343439)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
