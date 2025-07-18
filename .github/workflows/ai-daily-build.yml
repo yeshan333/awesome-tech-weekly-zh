@@ -26,6 +26,7 @@ jobs:
         with:
             allowed_tools: "Bash,View,GlobTool,GrepTool,BatchTool,Edit,Replace"
             claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+            timeout_minutes: "30"
             prompt: |
                 基于 README.json 的数据，建立一个极简和现代美学匹配的网站。网站请建立在 site 目录下。
 
