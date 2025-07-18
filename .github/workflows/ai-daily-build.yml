@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 1
       - name: Run Claude Code with direct prompt
         id: claude
-        uses: anthropics/claude-code-base-action@beta
+        uses: anthropics/claude-code-base-action@main
         env:
           ANTHROPIC_BASE_URL: "${{ secrets.ANTHROPIC_BASE_URL }}"
         with:
