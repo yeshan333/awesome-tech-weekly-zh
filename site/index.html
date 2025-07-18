@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技术周刊导航 - 极简现代美学</title>
+    <meta name="description" content="精心整理的技术周刊导航网站，汇聚AI、前端、Python等各大技术领域的优质周刊">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">技术周刊导航</h1>
+                <p class="tagline">发现优质技术内容，保持技术敏感度</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="controls">
+                <div class="search-section">
+                    <div class="search-box">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                        </svg>
+                        <input type="search" id="searchInput" placeholder="搜索周刊名称、描述或最新文章..." aria-label="搜索技术周刊">
+                        <kbd class="search-shortcut">/</kbd>
+                    </div>
+                </div>
+                
+                <div class="stats-section">
+                    <div class="stats">
+                        <div class="stat-item">
+                            <span class="stat-number" id="totalCount">0</span>
+                            <span class="stat-label">周刊总数</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" id="categoryCount">0</span>
+                            <span class="stat-label">技术领域</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" id="newCount">0</span>
+                            <span class="stat-label">本周更新</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="filters-section">
+                    <div class="filter-buttons" id="filterButtons">
+                        <button class="filter-btn active" data-category="all">全部</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div id="weeklyGrid" class="weekly-grid">
+                    <div class="loading">
+                        <div class="loading-spinner"></div>
+                        <p>正在加载周刊数据...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 技术周刊导航 | 数据来源：<a href="https://github.com/yeshan333/awesome-tech-weekly-zh" target="_blank" rel="noopener">awesome-tech-weekly-zh</a></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
