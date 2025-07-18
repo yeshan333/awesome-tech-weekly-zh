@@ -1,0 +1,437 @@
+// Data structure from README.json
+const weeklyData = [
+    {
+        "category": "AI",
+        "feeds": [
+            {
+                "name": "AIGC Weekly",
+                "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
+                "published_date": "2025-07-14T04:37:53Z",
+                "latest_post": "[AIGC Weekly #130](https://quaily.com/op7418/p/aigc-weekly-one-thirty)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
+            }
+        ]
+    },
+    {
+        "category": "Dotnet",
+        "feeds": [
+            {
+                "name": ".NET 周刊",
+                "desc": ".NET 周刊",
+                "published_date": "2025-06-30T14:31:29Z",
+                "latest_post": "[.NET 周刊第 69 期](https://www.fungkao.net/blogPost/cb9c027c-1830-4ce9-957f-b35d73f1e228)",
+                "link": "[https://www.fungkao.net/](https://www.fungkao.net/)"
+            }
+        ]
+    },
+    {
+        "category": "Elixir",
+        "feeds": [
+            {
+                "name": "Elixir Podcast",
+                "desc": "Thinking Elixir Podcast",
+                "published_date": "2025-07-16T15:57:46Z",
+                "latest_post": "[【vfox-erlang now supports directly downloading pre-built Erlang/OTP binary builds from @erlef/otp_builds. 】VFOX-ERLANG现在支持直接从 @erlef/otp_builds下载预构建的ERLANG/OTP二进制构建。](https://elixirstatus.com/p/OjxtJ-vfox-erlang-now-supports-directly-downloading-pre-built-erlangotp-binary-builds-from-erlefotpbuilds-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
+            }
+        ]
+    },
+    {
+        "category": "Go",
+        "feeds": [
+            {
+                "name": "Go语言爱好者周刊",
+                "desc": "Go语言爱好者周刊",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
+            }
+        ]
+    },
+    {
+        "category": "Python",
+        "feeds": [
+            {
+                "name": "Python 潮流周刊",
+                "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
+            }
+        ]
+    },
+    {
+        "category": "iOS",
+        "feeds": [
+            {
+                "name": "老司机技术 iOS 周报",
+                "desc": "老司机技术 iOS 周报",
+                "published_date": "2025-07-13T14:09:29Z",
+                "latest_post": "[老司机 iOS 周报 #342   2025-07-14](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23342)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
+            }
+        ]
+    },
+    {
+        "category": "云原生",
+        "feeds": [
+            {
+                "name": "云原生周刊",
+                "desc": "云原生周刊",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
+            }
+        ]
+    },
+    {
+        "category": "产品-体验-设计",
+        "feeds": [
+            {
+                "name": "BLUE周刊",
+                "desc": "BLUE周刊",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
+            },
+            {
+                "name": "体验碎周报",
+                "desc": "体验碎周报",
+                "published_date": "2025-07-15T07:03:11Z",
+                "latest_post": "[界面进化史，Siri的界面为什么变成屏幕四周跑马灯？](https://www.ftium4.com/Apple-iOS-Siri-UI-history.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
+            },
+            {
+                "name": "Link 设计周刊",
+                "desc": "Link 设计周刊",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
+            },
+            {
+                "name": "月维素材周刊",
+                "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
+                "published_date": "2025-07-12T16:00:00Z",
+                "latest_post": "[设计素材周刊 173 期](https://moonvy.com/blog/post/设计素材周刊/173/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
+            }
+        ]
+    },
+    {
+        "category": "其他",
+        "feeds": [
+            {
+                "name": "猫鱼周刊",
+                "desc": "猫鱼周刊",
+                "published_date": "2025-07-13T15:08:16Z",
+                "latest_post": "[猫鱼周刊 vol. 072 可持续的周刊作者](https://ameow.xyz/archives/weekly-072)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
+            },
+            {
+                "name": "独立开发变现周刊",
+                "desc": "独立开发变现周刊",
+                "published_date": "2024-10-25T00:00:00Z",
+                "latest_post": "[独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154)",
+                "link": "[https://www.ezindie.com](https://www.ezindie.com)"
+            },
+            {
+                "name": "HelloGitHub 月刊",
+                "desc": "HelloGitHub 月刊",
+                "published_date": "2025-06-26T23:56:20Z",
+                "latest_post": "[HelloGitHub 第 111 期](https://hellogithub.com/periodical/volume/111)",
+                "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
+            },
+            {
+                "name": "独立开发沉思录周刊",
+                "desc": "独立开发沉思录周刊",
+                "published_date": "2025-03-31T00:00:00Z",
+                "latest_post": "[vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36)",
+                "link": "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
+            },
+            {
+                "name": "Hacker News 每日摘要",
+                "desc": "Hacker News 每日摘要",
+                "published_date": "2025-07-18T00:24:36Z",
+                "latest_post": "[2025 07 18 HackerNews](https://supertechfans.com/cn/post/2025-07-18-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
+            },
+            {
+                "name": "老胡的周刊",
+                "desc": "老胡的周刊",
+                "published_date": "2025-07-12T15:54:00Z",
+                "latest_post": "[07-07~07-13.老胡的周刊（第195期）.md](https://weekly.howie6879.com/2025/07-07~07-13.老胡的周刊（第195期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html)"
+            },
+            {
+                "name": "独立开发周记",
+                "desc": "独立开发周记",
+                "published_date": "2025-07-14T08:27:21Z",
+                "latest_post": "[[写周报] 独立开发周记 126：在 Steam 中寻找开发灵感](https://www.v2ex.com/t/1145100#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
+            },
+            {
+                "name": "信息差——独立开发者出海周刊",
+                "desc": "信息差——独立开发者出海周刊",
+                "published_date": "",
+                "latest_post": "[https://gapis.money/](https://gapis.money/)",
+                "link": "[https://gapis.money/](https://gapis.money/)"
+            },
+            {
+                "name": "偷懒爱好者周刊",
+                "desc": "偷懒爱好者周刊",
+                "published_date": "2025-07-16T00:00:00Z",
+                "latest_post": "[第141期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/16/%E7%AC%AC141%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
+            },
+            {
+                "name": "科技爱好者周刊",
+                "desc": "阮一峰的科技爱好者周刊",
+                "published_date": "2025-07-17T23:59:23Z",
+                "latest_post": "[科技爱好者周刊（第 357 期）：稳定币的博弈](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
+            }
+        ]
+    },
+    {
+        "category": "前端",
+        "feeds": [
+            {
+                "name": "前端食堂技术周刊",
+                "desc": "前端食堂技术周刊",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
+            },
+            {
+                "name": "前端精读周刊",
+                "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
+                "published_date": "2024-06-13T11:50:44Z",
+                "latest_post": "[完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295)",
+                "link": "[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)"
+            },
+            {
+                "name": "潮流周刊",
+                "desc": "前端潮流周刊",
+                "published_date": "2025-07-14T00:00:00Z",
+                "latest_post": "[第229期 - 换到安卓](https://weekly.tw93.fun/posts/229-%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
+            }
+        ]
+    },
+    {
+        "category": "安全",
+        "feeds": [
+            {
+                "name": "SecWiki News",
+                "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
+                "published_date": "2025-07-17T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-07-17 Review](http://www.sec-wiki.com/?2025-07-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
+            }
+        ]
+    },
+    {
+        "category": "嵌入式",
+        "feeds": [
+            {
+                "name": "《痞子衡嵌入式半月刊》",
+                "desc": "《痞子衡嵌入式半月刊》 ",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
+            }
+        ]
+    },
+    {
+        "category": "软件测试",
+        "feeds": [
+            {
+                "name": "softwaretestingweekly",
+                "desc": "softwaretestingweekly ",
+                "published_date": "2025-07-01T23:47:13Z",
+                "latest_post": "[【Software Testing Weekly - Issue 277 - Jul 2nd 2025】软件测试每周 - 第277条 -  7月2日2025](https://softwaretestingweekly.com/issues/277)",
+                "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
+            },
+            {
+                "name": "软件测试周刊",
+                "desc": "软件测试及周边的行业动态，周五发布",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
+            }
+        ]
+    },
+    {
+        "category": "运维",
+        "feeds": [
+            {
+                "name": "eryajf 的运维技术周刊",
+                "desc": "周刊内容以运维技术和 Go 语言周边为主",
+                "published_date": "2025-07-17T14:09:02Z",
+                "latest_post": "[学习周刊-总第220期-2025年第29周](https://wiki.eryajf.net/pages/44ed45/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
+            }
+        ]
+    }
+];
+
+// Utility functions
+function parseMarkdownLink(markdown) {
+    const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
+    const imageRegex = /!\[([^\]]*)\]\(([^)]+)\)/g;
+    
+    let content = markdown;
+    
+    // Remove images
+    content = content.replace(imageRegex, '');
+    
+    // Parse links
+    const links = [];
+    let match;
+    while ((match = linkRegex.exec(content)) !== null) {
+        links.push({
+            text: match[1],
+            url: match[2]
+        });
+    }
+    
+    return links;
+}
+
+function formatLatestPost(latestPost) {
+    const links = parseMarkdownLink(latestPost);
+    if (links.length > 0) {
+        const link = links[0];
+        const hasNewBadge = latestPost.includes('![news]');
+        return {
+            text: link.text,
+            url: link.url,
+            hasNewBadge: hasNewBadge
+        };
+    }
+    return {
+        text: latestPost,
+        url: '#',
+        hasNewBadge: false
+    };
+}
+
+function formatLink(link) {
+    const links = parseMarkdownLink(link);
+    if (links.length > 0) {
+        return {
+            text: links[0].text,
+            url: links[0].url
+        };
+    }
+    return {
+        text: link,
+        url: link
+    };
+}
+
+function formatDate(dateString) {
+    if (!dateString) return '';
+    const date = new Date(dateString);
+    return date.toLocaleDateString('zh-CN', {
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit'
+    });
+}
+
+function createWeeklyCard(feed, category) {
+    const latestPost = formatLatestPost(feed.latest_post);
+    const link = formatLink(feed.link);
+    
+    return `
+        <div class="weekly-card" data-category="${category}">
+            <div class="category-tag">${category}</div>
+            <h3 class="weekly-title">
+                <a href="${link.url}" target="_blank" rel="noopener noreferrer">${feed.name}</a>
+            </h3>
+            <p class="weekly-desc">${feed.desc}</p>
+            <div class="latest-post">
+                <div class="latest-post-label">最新一期</div>
+                <div class="latest-post-content">
+                    <a href="${latestPost.url}" target="_blank" rel="noopener noreferrer">${latestPost.text}</a>
+                    ${latestPost.hasNewBadge ? '<span class="new-badge">NEW</span>' : ''}
+                </div>
+            </div>
+            <a href="${link.url}" class="weekly-link" target="_blank" rel="noopener noreferrer">访问周刊 →</a>
+        </div>
+    `;
+}
+
+function renderWeeklyCards(data, category = 'all') {
+    const grid = document.getElementById('weekly-grid');
+    grid.innerHTML = '';
+    
+    data.forEach(categoryData => {
+        if (category === 'all' || categoryData.category === category) {
+            categoryData.feeds.forEach(feed => {
+                grid.innerHTML += createWeeklyCard(feed, categoryData.category);
+            });
+        }
+    });
+}
+
+function setupFilters() {
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    
+    filterButtons.forEach(button => {
+        button.addEventListener('click', (e) => {
+            const category = e.target.dataset.category;
+            
+            // Update active state
+            filterButtons.forEach(btn => btn.classList.remove('active'));
+            e.target.classList.add('active');
+            
+            // Filter items with animation
+            const cards = document.querySelectorAll('.weekly-card');
+            cards.forEach(card => {
+                if (category === 'all' || card.dataset.category === category) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        });
+    });
+}
+
+function init() {
+    renderWeeklyCards(weeklyData);
+    setupFilters();
+    
+    // Add keyboard navigation for accessibility
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Tab') {
+            document.body.classList.add('keyboard-nav');
+        }
+    });
+    
+    document.addEventListener('mousedown', () => {
+        document.body.classList.remove('keyboard-nav');
+    });
+}
+
+// Initialize when DOM is loaded
+document.addEventListener('DOMContentLoaded', init);
+
+// Handle responsive behavior
+window.addEventListener('resize', () => {
+    // Could add additional responsive behavior here
+});
+
+// Export for potential external use
+window.AwesomeTechWeekly = {
+    data: weeklyData,
+    render: renderWeeklyCards,
+    filter: (category) => {
+        const button = document.querySelector(`[data-category="${category}"]`);
+        if (button) {
+            button.click();
+        }
+    }
+};

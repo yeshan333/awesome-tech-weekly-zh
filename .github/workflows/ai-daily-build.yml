@@ -42,16 +42,15 @@ jobs:
       - name: "Peek the site"
         run: |
           ls -la ./site
-      - name: "Deploy AI Gen Site to Netlify"
-        if: ${{ steps.claude.outcome == 'success' }}
-        uses: South-Paw/action-netlify-cli@v2
-        id: netlify
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          # note that the --json flag has been passed so we can parse outputs
-          args: deploy --json --prod --dir './site' --message 'production [${{ github.sha }}]'
+          node-version: 22.16
+      - name: Install Netlify CLI
+        run: npm install -g netlify-cli
+      - name: Deploy AI Gen Site to Netlify
+        if: ${{ steps.claude.outcome == 'success' }}
+        run: netlify deploy --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN --dir=site
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-      - name: "Netlify deploy output"
-        run: |
-          echo "${{ steps.netlify.outputs.NETLIFY_OUTPUT }}"
