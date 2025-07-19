@@ -31,6 +31,7 @@ jobs:
                 基于 README.json 的数据，建立一个极简和现代美学匹配的网站。网站请建立在 site 目录下。
 
                 注意 latest_post 和 link 字段的值是 markdown 格式的。
+                最终生成的网站必须是纯静态的，不要走网络请求访问 README.json。
 
                 在设计网站时，请遵循以下指南：
 
