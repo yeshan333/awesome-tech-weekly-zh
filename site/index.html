@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>技术周刊导航 - 极简现代美学</title>
+    <meta name="description" content="基于 README.json 数据的现代技术周刊导航网站">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="site-title">技术周刊导航</h1>
+            <p class="site-subtitle">精选优质技术周刊，一站掌握前沿动态</p>
+            
+            <div class="search-container">
+                <input type="search" id="searchInput" placeholder="搜索周刊名称、描述或最新文章..." autocomplete="off">
+                <kbd class="search-hint">/</kbd>
+            </div>
+            
+            <div class="stats">
+                <span class="stat-item">
+                    <strong id="totalCount">0</strong>
+                    <span>周刊总数</span>
+                </span>
+                <span class="stat-item">
+                    <strong id="categoryCount">0</strong>
+                    <span>技术领域</span>
+                </span>
+                <span class="stat-item">
+                    <strong id="updatedCount">0</strong>
+                    <span>本周更新</span>
+                </span>
+            </div>
+        </header>
+
+        <nav class="filters">
+            <button class="filter-btn active" data-category="all">全部</button>
+            <div class="filter-tags" id="filterTags"></div>
+        </nav>
+
+        <main class="content">
+            <div class="weekly-grid" id="weeklyGrid">
+                <!-- 周刊内容将通过JavaScript动态加载 -->
+            </div>
+            
+            <div class="empty-state" id="emptyState" style="display: none;">
+                <div class="empty-icon">🔍</div>
+                <h3>未找到匹配内容</h3>
+                <p>尝试调整搜索关键词或筛选条件</p>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>数据来源：<a href="https://github.com/yeshan333/awesome-tech-weekly-zh" target="_blank" rel="noopener">awesome-tech-weekly-zh</a></p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
