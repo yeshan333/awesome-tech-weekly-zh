@@ -41,8 +41,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2023-12-17T14:20:36Z",
+                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -53,8 +53,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "published_date": "2025-07-27T10:37:45Z",
+                "latest_post": "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/469)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -77,8 +77,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-07-30T10:48:57Z",
+                "latest_post": "[eBPF 赋能云原生： WizTelemetry 无侵入网络可观测实践](https://blog.csdn.net/zpf17671624050/article/details/149783726)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -96,8 +96,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-07-27T16:41:45Z",
-                "latest_post": "[体验碎周报第 243 期（2025.7.28）](https://www.ftium4.com/ux-weekly-243.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-08-01T14:41:45Z",
+                "latest_post": "[估值超过京东百度！Figma上市背后，藏着设计行业的3次革命](https://www.ftium4.com/Figma-stock-market-listing-the-history-of-UI-design-tools.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -122,7 +122,7 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "2025-07-27T09:55:37Z",
+                "published_date": "",
                 "latest_post": "[猫鱼周刊 vol. 074 浅谈Vibe Coding](https://ameow.xyz/archives/weekly-074)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
@@ -197,8 +197,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "published_date": "2025-07-18T06:38:46Z",
+                "latest_post": "[【开源自荐】开源AI数字人 AIGCPanel](https://github.com/Geekhyt/weekly/issues/148)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -223,8 +223,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-07-31T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-07-31 Review](http://www.sec-wiki.com/?2025-07-31)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-08-01T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-08-01 Review](http://www.sec-wiki.com/?2025-08-01)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -235,8 +235,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2025-07-24T07:42:00Z",
+                "latest_post": "[痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
