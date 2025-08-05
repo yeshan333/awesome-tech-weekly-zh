@@ -89,8 +89,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -223,8 +223,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-08-04T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-08-04 Review](http://www.sec-wiki.com/?2025-08-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-08-05T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-08-05 Review](http://www.sec-wiki.com/?2025-08-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -235,8 +235,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2025-07-24T07:42:00Z",
+                "latest_post": "[痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
