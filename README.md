@@ -4,7 +4,7 @@
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 <img src="https://telegraph.shansan.top/file/5490d8cd92c071e62d84c.png" alt="Awesome Technology Weekly Zh-Hans">
 
-<p> 🧐 共分设类目 14 个，📥 累计收录（月/周/日）刊 29 个。</p>
+<p> 🧐 共分设类目 14 个，📥 累计收录（月/周/日）刊 30 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每天刷新一次。<img src="assets/news.png"/> 表示为本周新发的文章。</p>
 
@@ -33,11 +33,12 @@
 ## AI
 
 <p align="right">
-📥 此类目收录（月/周/日）刊 1 个。
+📥 此类目收录（月/周/日）刊 2 个。
 </p>
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
+| AI Daily News | AI 日刊 | 2025-08-06T00:49:17Z | [AI 日刊 20250806](https://modelwatch.dev/p/ai-20250806)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
 | AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-08-03T16:25:53Z | [AIGC Weekly #133](https://quaily.com/op7418/p/aigc-weekly-alpha)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 
 <div align="right">
@@ -70,7 +71,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-08-03T23:05:51Z | [【parrot_platform - Putting the “T” Back In OTP】parrot_platform-将“ T”放回OTP中](https://elixirstatus.com/p/YfYko-parrotplatform---putting-the-t-back-in-otp)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-08-05T12:22:57Z | [【Thinking Elixir 264: Hot Reload In Dev and QA Bottlenecks】思考Elixir 264：开发和QA瓶颈的热重新加载](https://elixirstatus.com/p/NRrOD-thinking-elixir-264-hot-reload-in-dev-and-qa-bottlenecks)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -151,7 +152,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| 体验碎周报 | 体验碎周报 | 2025-08-03T16:41:45Z | [体验碎周报第 244 期（2025.8.4）](https://www.ftium4.com/ux-weekly-244.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
+| 体验碎周报 | 体验碎周报 | 2025-08-06T13:03:11Z | [深挖8个大厂App里的神仙彩蛋游戏，第8个直接上头](https://www.ftium4.com/Easter-Egg-Games-in-8-major-company-apps.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-08-02T16:00:00Z | [设计素材周刊 176 期](https://moonvy.com/blog/post/设计素材周刊/176/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
@@ -177,7 +178,7 @@
 | 老胡的周刊 | 老胡的周刊 | 2025-08-02T15:54:00Z | [07-21~08-03.老胡的周刊（第197期）.md](https://weekly.howie6879.com/2025/07-21~08-03.老胡的周刊（第197期）.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-08-04T07:53:45Z | [[写周报] 独立开发周记 129：重走十多年前的老路](https://www.v2ex.com/t/1149823#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
-| 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2025-07-30T00:00:00Z | [第143期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/07/30/%E7%AC%AC143%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
+| 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2025-08-06T00:00:00Z | [第144期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/06/%E7%AC%AC144%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-08-01T00:06:22Z | [科技爱好者周刊（第 359 期）：Palantir 值得关注](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-359.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
@@ -212,7 +213,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-08-05T15:58:20Z | [SecWiki News 2025-08-05 Review](http://www.sec-wiki.com/?2025-08-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-08-06T15:58:20Z | [SecWiki News 2025-08-06 Review](http://www.sec-wiki.com/?2025-08-06)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
