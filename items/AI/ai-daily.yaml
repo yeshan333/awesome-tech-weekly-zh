@@ -1,0 +1,7 @@
+kind: AI
+owner: sorrycc
+name: 'AI Daily News'
+link: https://modelwatch.dev
+desc: 'AI 日刊'
+desc_en: 'AI Daily News - zh-hans'
+feed_url: https://modelwatch.dev/feed
