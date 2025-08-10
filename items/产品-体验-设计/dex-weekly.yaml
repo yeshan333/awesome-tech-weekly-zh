@@ -1,0 +1,7 @@
+kind: '产品-体验-设计'
+owner: Dingyi
+name: 'DEX 周刊'
+link: https://quaily.com/dingyi
+desc: '一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。'
+desc_en: 'DEX Weekly - A curated newsletter covering product, design, frontend, and software topics.'
+feed_url: https://quaily.com/dingyi/feed/atom
