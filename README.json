@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-08-15T04:28:19Z",
-                "latest_post": "[AI 日刊 20250815](https://modelwatch.dev/p/ai-20250815)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-08-19T01:52:27Z",
+                "latest_post": "[AI 日刊 20250819](https://modelwatch.dev/p/ai-20250819)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -92,7 +92,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "latest_post": "[EdgeWize v3.1.1 边缘 AI 网关功能深度解析：打造企业级边缘智能新体验](https://blog.csdn.net/zpf17671624050/article/details/150528225)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -218,8 +218,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "published_date": "2025-07-18T06:38:46Z",
+                "latest_post": "[【开源自荐】开源AI数字人 AIGCPanel](https://github.com/Geekhyt/weekly/issues/148)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -244,8 +244,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "",
-                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
+                "published_date": "2025-08-18T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-08-18 Review](http://www.sec-wiki.com/?2025-08-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -275,8 +275,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "published_date": "2023-04-25T00:33:52Z",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
