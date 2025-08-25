@@ -18,32 +18,102 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - name: Run Claude Code with direct prompt
-        id: claude
-        uses: anthropics/claude-code-base-action@main
-        env:
-          ANTHROPIC_BASE_URL: "${{ secrets.ANTHROPIC_BASE_URL }}"
-          ANTHROPIC_MODEL: "qwen3-coder-plus"
-          ANTHROPIC_SMALL_FAST_MODEL: "qwen3-coder-plus"
+      - name: 'Gen Site with iFLOW CLI'
+        id: iflow
+        uses: iflow-ai/iflow-cli-action@main
         with:
-            allowed_tools: "Bash,View,GlobTool,GrepTool,BatchTool,Edit,Replace,Write"
-            claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-            timeout_minutes: "30"
-            prompt: |
-                ## 目标
-                  基于 README.json 的数据，建立一个极简和现代美学匹配的网站。网站请建立在 site 目录下。
+          api_key: ${{ secrets.IFLOW_API_KEY }}
+          timeout: "3600"
+          extra_args: "--debug"
+          model: "deepseek-v3"
+          prompt: |
+            # 角色
 
-                ## 要求
-                  - 确保网站设计体现极简和现代美学风格，简洁、大方且具有现代感。
-                  - 合理布局网站内容，突出重点，使信息易于浏览和查找。
-                  - 运用提供的美学元素，如色彩、字体、图形等，营造整体统一的视觉效果。
-                  - 保证网站的响应式设计，使其在不同设备上都能完美显示。
-                  - 注重用户体验，设计清晰的导航和交互元素。
-                  - 最终生成的网站必须是纯静态的，不要走网络请求访问 README.json。
-                  - 生成的网站要确保可用行，数据要正确，如果不可用，则修复它。
-                
-                # 注意
-                  - latest_post 和 link 字段的值是 markdown 格式的。
+            你是一位国际顶尖的数字杂志艺术总监和前端开发专家，曾为Vogue、Elle等时尚杂志设计过数字版面，擅长将奢华杂志美学与现代网页设计完美融合，创造出令人惊艳的视觉体验。
+
+            ## 任务
+
+            请从以下29种设计风格中随机选择1种，设计高级时尚杂志风格的知识卡片，将 awesome-tech-weekly-zh 目录下 README.json 文件的数据，以精致奢华的杂志编排呈现，让用户感受到如同翻阅高端杂志般的视觉享受。
+
+            **可选设计风格：**
+
+            - 极简主义风格 (Minimalist)
+            - 大胆现代风格 (Bold Modern)
+            - 优雅复古风格 (Elegant Vintage)
+            - 未来科技风格 (Futuristic Tech)
+            - 斯堪的纳维亚风格 (Scandinavian)
+            - 艺术装饰风格 (Art Deco)
+            - 日式极简风格 (Japanese Minimalism)
+            - 后现代解构风格 (Postmodern Deconstruction)
+            - 朋克风格 (Punk)
+            - 英伦摇滚风格 (British Rock)
+            - 黑金属风格 (Black Metal)
+            - 孟菲斯风格 (Memphis Design)
+            - 赛博朋克风格 (Cyberpunk)
+            - 波普艺术风格 (Pop Art)
+            - 瑞士国际主义风格的解构版 (Deconstructed Swiss Style)
+            - 蒸汽波美学 (Vaporwave Aesthetics)
+            - 新表现主义风格 (Neo-Expressionism)
+            - 极简主义的极端版本 (Extreme Minimalism)
+            - 新未来主义 (Neo-Futurism)
+            - 超现实主义数字拼贴 (Surrealist Digital Collage)
+            - 新巴洛克数字风格 (Neo-Baroque Digital)
+            - 液态数字形态主义 (Liquid Digital Morphism)
+            - 超感官极简主义 (Hypersensory Minimalism)
+            - 新表现主义数据可视化 (Neo-Expressionist Data Visualization)
+            - 维多利亚风格 (Victorian Style)
+            - 包豪斯风格 (Bauhaus)
+            - 构成主义风格 (Constructivism)
+            - 孟菲斯风格 (Memphis Design)
+            - 德国表现主义风格 (German Expressionism)
+
+            **每种风格都应包含以下元素，但视觉表现各不相同：**
+
+            - 日期区域：以各风格特有的方式呈现当前日期
+            - 标题和副标题：根据风格调整字体、大小、排版方式
+            - 引用区块：设计独特的引用样式，体现风格特点
+            - 核心要点列表：以符合风格的方式呈现列表内容
+            - 编辑笔记/小贴士：设计成符合风格的边栏或注释
+
+            **技术规范：**
+
+            - 使用HTML5、Font Awesome、Tailwind CSS和必要的JavaScript
+            - Font Awesome: <https://lf6-cdn-tos.bytecdntp.com/cdn/expire-100-M/font-awesome/6.0.0/css/all.min.css>
+            - Tailwind CSS: <https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/tailwindcss/2.2.19/tailwind.min.css>
+            - 中文字体: <https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap>
+
+            **布局与间距要求：**
+            - 页面整体使用 `container mx-auto px-4 py-8` 确保与屏幕边缘有充足间距
+            - 卡片容器使用 `max-w-4xl mx-auto` 限制最大宽度并居中显示
+            - 卡片与页面四周保持至少 16px (px-4) 的外边距，在大屏幕上增加到 24px (px-6) 或 32px (px-8)
+            - 卡片内部内容使用 `p-6 md:p-8 lg:p-12` 确保内容与卡片边缘有层次化的内边距
+            - 各内容区块之间使用 `mb-6 md:mb-8` 保持适当的垂直间距
+            - 在移动设备上使用 `mx-4` 确保卡片不会贴边显示
+            - 使用响应式设计：`sm:mx-6 md:mx-8 lg:mx-auto` 在不同屏幕尺寸下调整间距
+
+            **视觉效果要求：**
+            - 可考虑添加微妙的动效，如页面载入时的淡入效果或微妙的悬停反馈
+            - 确保代码简洁高效，注重性能和可维护性
+            - 使用CSS变量管理颜色和间距，便于风格统一
+            - 对于液态数字形态主义风格，必须添加流体动态效果和渐变过渡
+            - 对于超感官极简主义风格，必须精确控制每个像素和微妙的交互反馈
+            - 对于新表现主义数据可视化风格，必须将数据以视觉化方式融入设计
+
+            **输出要求：**
+
+            - 网站请建立在 site 目录下
+            - 提供一个完整的HTML文件，包含所有设计风格的卡片
+            - 最终生成的网站必须是纯静态的，不要走网络请求访问 README.json 文件
+            - 确保风格共享相同的内容，但视觉表现完全不同
+            - 代码应当优雅且符合最佳实践，CSS应体现出对细节的极致追求
+            - 永远用中文输出，装饰元素可用法语、英语等其他语言显得有逼格
+            - 网站底部需要标明，数据来源于项目 https://github.com/yeshan333/awesome-tech-weekly-zh
+
+            请以国际顶尖杂志艺术总监的眼光和审美标准，创造风格迥异但同样令人惊艳的数字杂志式卡片，让用户感受到"这不是普通的周刊信息卡片，而是一件可收藏的数字艺术品"。
+
+            ## 注意
+
+            - README.json 文件中，latest_post 和 link 字段的值是 markdown 格式的。
 
       - name: "Peek the site"
         run: |
@@ -63,7 +133,7 @@ jobs:
       - name: Install Netlify CLI
         run: npm install -g netlify-cli
       - name: Deploy AI Gen Site to Netlify
-        if: ${{ steps.claude.outcome == 'success' }}
+        if: ${{ steps.iflow.outcome == 'success' }}
         run: netlify deploy --prod --site=$NETLIFY_SITE_ID --auth=$NETLIFY_AUTH_TOKEN --dir=site --no-build --message="Deploy AI Gen Site ${{ github.ref }}"
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
