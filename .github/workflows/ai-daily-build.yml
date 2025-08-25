@@ -1,4 +1,4 @@
-name: AI Daily Build Index Site with Claude Code
+name: AI Daily Build Index Site with iFLOW CLI
 
 on:
     push:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  claude:
+  iflow:
     runs-on: ubuntu-latest
     permissions:
       id-token: write
@@ -25,7 +25,7 @@ jobs:
           api_key: ${{ secrets.IFLOW_API_KEY }}
           timeout: "3600"
           extra_args: "--debug"
-          model: "deepseek-v3"
+          model: "glm-4.5"
           prompt: |
             # 角色
 
