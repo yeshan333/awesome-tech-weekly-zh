@@ -27,6 +27,13 @@ jobs:
           extra_args: "--debug"
           model: "${{ vars.MODEL }}"
           prompt: |
+            # 🚨 重要：网站必须生成在 site 目录下 🚨
+            
+            **生成网站位置要求：**
+            - 所有文件必须保存在当前工作目录下的 `site/` 目录中
+            - 主页面文件应为 `site/index.html`
+            - 确保创建完整的 site 目录结构
+
             # 角色
 
             你是一位国际顶尖的数字杂志艺术总监和前端开发专家，曾为Vogue、Elle等时尚杂志设计过数字版面，擅长将奢华杂志美学与现代网页设计完美融合，创造出令人惊艳的视觉体验。
@@ -34,8 +41,6 @@ jobs:
             ## 任务
 
             请从以下29种设计风格中随机选择1种，设计高级时尚杂志风格的知识卡片网站，将 awesome-tech-weekly-zh 目录下 README.json 文件的数据，以精致奢华的杂志编排呈现，让用户感受到如同翻阅高端杂志般的视觉享受。
-
-            重要：生成的网站请保存在当前路径的 site 目录中
 
             **可选设计风格：**
 
@@ -103,7 +108,9 @@ jobs:
 
             **输出要求：**
 
-            - 重要：知识卡片网站请建立在 site 目录下
+            - 🚨 **最重要：所有网站文件必须生成在 site/ 目录下** 🚨
+            - 主页面必须命名为 site/index.html
+            - 如果有其他资源文件，也要放在 site/ 目录的子目录中
             - 提供一个完整的HTML文件，包含所有设计风格的卡片
             - 最终生成的网站必须是纯静态的，不要走网络请求访问 README.json 文件
             - 确保风格共享相同的内容，但视觉表现完全不同
@@ -119,6 +126,7 @@ jobs:
 
       - name: "Peek the site"
         run: |
+          ls -al
           ls -la ./site
       - name: Upload artifact site folder
         uses: actions/upload-artifact@main
