@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-08-28T01:57:22Z",
-                "latest_post": "[AI 日刊 20250828](https://modelwatch.dev/p/ai-20250828)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-08-29T02:30:09Z",
+                "latest_post": "[AI 日刊 20250829](https://modelwatch.dev/p/ai-20250829)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -206,8 +206,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-08-22T00:17:06Z",
-                "latest_post": "[科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)",
+                "published_date": "2025-08-29T00:11:28Z",
+                "latest_post": "[科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -218,8 +218,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-07-18T06:38:46Z",
-                "latest_post": "[【开源自荐】开源AI数字人 AIGCPanel](https://github.com/Geekhyt/weekly/issues/148)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -256,8 +256,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-07-24T07:42:00Z",
-                "latest_post": "[痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
