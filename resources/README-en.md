@@ -37,7 +37,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AI Daily News | AI 日刊 | 2025-08-28T01:57:22Z | [AI 日刊 20250828](https://modelwatch.dev/p/ai-20250828)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
+| AI Daily News | AI 日刊 | 2025-08-29T02:30:09Z | [AI 日刊 20250829](https://modelwatch.dev/p/ai-20250829)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
 | AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-08-25T07:33:46Z | [AIGC Weekly #136 AI 游戏爆发的前夜？](https://quaily.com/op7418/p/aigc-weekly-ai-game-explosion-eve)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 | 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2025-08-24T15:00:09Z | [054期：试试清空大脑，放松自己](https://quaily.com/zing927/p/episode-54-try-empty-your-mind-relax-yourself)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
@@ -175,12 +175,12 @@ English | [简体中文](../README.md)
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-08-28T00:09:53Z | [HelloGitHub 第 113 期](https://hellogithub.com/periodical/volume/113)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-08-28T22:49:46Z | [2025 08 29 HackerNews](https://supertechfans.com/cn/post/2025-08-29-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
+| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-08-29T23:02:37Z | [2025 08 30 HackerNews](https://supertechfans.com/cn/post/2025-08-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-08-15T15:54:00Z | [08-11~08-16.老胡的周刊（第199期）.md](https://weekly.howie6879.com/2025/08-11~08-16.老胡的周刊（第199期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-08-25T09:20:48Z | [[写周报] 独立开发周记 132：我居然能在知乎赚到钱了](https://www.v2ex.com/t/1154823#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2025-08-27T00:00:00Z | [第147期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/08/27/%E7%AC%AC147%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-08-22T00:17:06Z | [科技爱好者周刊（第 362 期）：GitHub 工程师谈系统设计](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-362.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-08-29T00:11:28Z | [科技爱好者周刊（第 363 期）：最好懂的神经网络解释](http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -214,7 +214,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-08-28T15:58:20Z | [SecWiki News 2025-08-28 Review](http://www.sec-wiki.com/?2025-08-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-08-29T15:58:20Z | [SecWiki News 2025-08-29 Review](http://www.sec-wiki.com/?2025-08-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
