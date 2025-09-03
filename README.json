@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-08-29T02:30:09Z",
-                "latest_post": "[AI 日刊 20250829](https://modelwatch.dev/p/ai-20250829)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-03T00:32:38Z",
+                "latest_post": "[AI 日刊 20250903](https://modelwatch.dev/p/ai-20250903)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -44,7 +44,7 @@
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2025-08-27T00:51:37Z",
-                "latest_post": "[【LiveView Portal Component (Alchemist&#39;s Edition)】Liveview门户组件（炼金术士版）](https://elixirstatus.com/p/yCHa7-liveview-portal-component-alchemists-edition)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【LiveView Portal Component (Alchemist&#39;s Edition)】Liveview门户组件（炼金术士版）](https://elixirstatus.com/p/yCHa7-liveview-portal-component-alchemists-edition)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
