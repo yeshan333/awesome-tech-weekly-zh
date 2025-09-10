@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-09-09T02:54:22Z",
-                "latest_post": "[AI 日刊 20250909](https://modelwatch.dev/p/ai-20250909)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-10T07:03:45Z",
+                "latest_post": "[AI 日刊 20250910](https://modelwatch.dev/p/ai-20250910)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-09-05T10:35:03Z",
-                "latest_post": "[【A (live) conversation with Brujo Benavides about Erlang at the SE4FP Warm-up.】与Brujo Benavides关于Erlang在SE4FP热身的（现场）对话。](https://elixirstatus.com/p/Pf0af-a-live-conversation-with-brujo-benavides-about-erlang-at-the-se4fp-warm-up)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-09T17:19:02Z",
+                "latest_post": "[【Nerves Online Meetup - Sep 24】神经在线聚会 -  9月24日](https://elixirstatus.com/p/j4lkV-nerves-online-meetup---sep-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -199,8 +199,8 @@
             {
                 "name": "偷懒爱好者周刊",
                 "desc": "偷懒爱好者周刊",
-                "published_date": "2025-09-03T00:00:00Z",
-                "latest_post": "[第148期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/03/%E7%AC%AC148%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)",
+                "published_date": "2025-09-09T00:00:00Z",
+                "latest_post": "[第149期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/09/09/%E7%AC%AC149%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
             },
             {
