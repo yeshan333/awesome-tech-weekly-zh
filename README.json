@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-09-12T00:42:31Z",
-                "latest_post": "[AI 日刊 20250912](https://modelwatch.dev/p/ai-20250912)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-13T01:21:39Z",
+                "latest_post": "[AI 日刊 20250913](https://modelwatch.dev/p/ai-20250913)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -55,7 +55,7 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
+                "published_date": "",
                 "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
@@ -91,8 +91,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-09-10T08:09:10Z",
-                "latest_post": "[AI 是否绑架了云原生创新？](https://blog.csdn.net/zpf17671624050/article/details/151406196)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -275,8 +275,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "published_date": "2023-04-25T00:33:52Z",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
