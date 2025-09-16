@@ -1,0 +1,20 @@
+# Command: rss-add
+# Description: Use the rss-weekly-adder agent to add a new weekly item from the provided RSS feed URL
+# Category: content-management
+# Version: 1
+# Author: 10169
+
+description = "Add a new weekly item from RSS feed URL using the rss-weekly-adder agent"
+
+prompt = """
+I'll help you add a new weekly item from an RSS feed URL using the rss-weekly-adder agent. This command will:
+
+1. Take the provided RSS feed URL
+2. Use the rss-weekly-adder agent to automatically identify the appropriate category
+3. Create a new YAML file in the correct items/ subdirectory
+4. Generate the weekly item content from the RSS feed
+
+Usage: Provide an RSS feed URL when invoking this command.
+
+The agent will handle category detection and file creation automatically, ensuring the new weekly item is properly organized in the items/ directory structure.
+"""

@@ -1,0 +1,7 @@
+kind: '产品-体验-设计'
+owner: Decohack
+name: 'PH今日热榜'
+link: https://decohack.com/category/producthunt/
+desc: 'Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品'
+desc_en: 'Product Hunt Today Hot List - Daily curated hottest products from Product Hunt'
+feed_url: https://decohack.com/category/producthunt/feed
