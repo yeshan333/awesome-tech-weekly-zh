@@ -4,7 +4,7 @@
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 <img src="https://telegraph.shansan.top/file/5490d8cd92c071e62d84c.png" alt="Awesome Technology Weekly Zh-Hans">
 
-<p> 🧐 共分设类目 14 个，📥 累计收录（月/周/日）刊 32 个。</p>
+<p> 🧐 共分设类目 14 个，📥 累计收录（月/周/日）刊 33 个。</p>
 <p> 🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p> 🕰️ 每天刷新一次。<img src="assets/news.png"/> 表示为本周新发的文章。</p>
 
@@ -72,7 +72,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-09-10T06:32:40Z | [【🚨 Last call for Code BEAM Europe tutorials Nov 4th! 】🚨上次呼吁Code Beam Europe教程11月4日！](https://elixirstatus.com/p/BjJ95--last-call-for-code-beam-europe-tutorials-nov-4th-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-09-15T12:48:51Z | [【Performing the Google Authenticator computation in Elixir】在长生不老药中执行Google Authenticator计算](https://elixirstatus.com/p/D4cMN-performing-the-google-authenticator-computation-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -147,15 +147,16 @@
 ## 产品-体验-设计
 
 <p align="right">
-📥 此类目收录（月/周/日）刊 5 个。
+📥 此类目收录（月/周/日）刊 6 个。
 </p>
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-09-16T07:18:05Z | [PH今日热榜   2025-09-16](https://decohack.com/producthunt-daily-2025-09-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2025-09-15T10:22:17Z | [#313 Ueno 回来了，以及今晚 Apple 全系列新系统即将更新](https://quaily.com/dingyi/p/313)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2025-09-15T13:03:11Z | [谷歌最强AI不是Nano Banana？真正的王炸竟然是它！](https://www.ftium4.com/Nano-Banana-Gemini-pro.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 |  | [051期：如何比99%的人更清晰的表达你的想法](https://www.yuque.com/zing123/scu69w/bhop0wxk2aaqfogs) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-09-13T16:00:00Z | [设计素材周刊 182 期](https://moonvy.com/blog/post/设计素材周刊/182/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -215,7 +216,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-09-15T15:58:20Z | [SecWiki News 2025-09-15 Review](http://www.sec-wiki.com/?2025-09-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-09-16T15:58:20Z | [SecWiki News 2025-09-16 Review](http://www.sec-wiki.com/?2025-09-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>

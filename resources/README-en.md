@@ -3,7 +3,7 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p>🧐 Divided into 14 categories. 📥 Includes 32 weeklies.</p>
+<p>🧐 Divided into 14 categories. 📥 Includes 33 weeklies.</p>
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 <p><img src="assets/news.png"/> This is a newly published article this week.</p>
 
@@ -71,7 +71,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-09-10T06:32:40Z | [【🚨 Last call for Code BEAM Europe tutorials Nov 4th! 】🚨上次呼吁Code Beam Europe教程11月4日！](https://elixirstatus.com/p/BjJ95--last-call-for-code-beam-europe-tutorials-nov-4th-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-09-15T12:48:51Z | [【Performing the Google Authenticator computation in Elixir】在长生不老药中执行Google Authenticator计算](https://elixirstatus.com/p/D4cMN-performing-the-google-authenticator-computation-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -146,12 +146,13 @@ English | [简体中文](../README.md)
 ## 产品-体验-设计
 
 <p align="right">
-📥 This category contains 5 items.
+📥 This category contains 6 items.
 </p>
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-09-16T07:18:05Z | [PH今日热榜   2025-09-16](https://decohack.com/producthunt-daily-2025-09-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2025-09-15T10:22:17Z | [#313 Ueno 回来了，以及今晚 Apple 全系列新系统即将更新](https://quaily.com/dingyi/p/313)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2025-09-15T13:03:11Z | [谷歌最强AI不是Nano Banana？真正的王炸竟然是它！](https://www.ftium4.com/Nano-Banana-Gemini-pro.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2025-09-07T14:14:48Z | [051期：如何比99%的人更清晰的表达你的想法](https://www.yuque.com/zing123/scu69w/bhop0wxk2aaqfogs) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
@@ -214,7 +215,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-09-15T15:58:20Z | [SecWiki News 2025-09-15 Review](http://www.sec-wiki.com/?2025-09-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-09-16T15:58:20Z | [SecWiki News 2025-09-16 Review](http://www.sec-wiki.com/?2025-09-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -230,7 +231,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2025-07-24T07:42:00Z | [痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
