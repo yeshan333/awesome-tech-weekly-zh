@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-09-10T06:32:40Z",
-                "latest_post": "[【🚨 Last call for Code BEAM Europe tutorials Nov 4th! 】🚨上次呼吁Code Beam Europe教程11月4日！](https://elixirstatus.com/p/BjJ95--last-call-for-code-beam-europe-tutorials-nov-4th-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-15T12:48:51Z",
+                "latest_post": "[【Performing the Google Authenticator computation in Elixir】在长生不老药中执行Google Authenticator计算](https://elixirstatus.com/p/D4cMN-performing-the-google-authenticator-computation-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -91,7 +91,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-09-10T08:09:10Z",
+                "published_date": "",
                 "latest_post": "[AI 是否绑架了云原生创新？](https://blog.csdn.net/zpf17671624050/article/details/151406196)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
