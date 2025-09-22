@@ -91,7 +91,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
+                "published_date": "2025-09-19T10:05:32Z",
                 "latest_post": "[云原生周刊：MetalBear 融资、Chaos Mesh 漏洞、Dapr 1.16 与 AI 平台新趋势](https://blog.csdn.net/zpf17671624050/article/details/151871589)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -103,8 +103,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -117,22 +117,22 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-09-15T10:22:17Z",
-                "latest_post": "[#313 Ueno 回来了，以及今晚 Apple 全系列新系统即将更新](https://quaily.com/dingyi/p/313)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-22T12:00:40Z",
+                "latest_post": "[#314 Framer 正式和 Figma 宣战](https://quaily.com/dingyi/p/314)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2025-09-15T13:03:11Z",
-                "latest_post": "[谷歌最强AI不是Nano Banana？真正的王炸竟然是它！](https://www.ftium4.com/Nano-Banana-Gemini-pro.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[谷歌最强AI不是Nano Banana？真正的王炸竟然是它！](https://www.ftium4.com/Nano-Banana-Gemini-pro.html)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-09-07T14:14:48Z",
-                "latest_post": "[051期：如何比99%的人更清晰的表达你的想法](https://www.yuque.com/zing123/scu69w/bhop0wxk2aaqfogs)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -251,8 +251,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-09-21T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-09-21 Review](http://www.sec-wiki.com/?2025-09-21)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-22T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-09-22 Review](http://www.sec-wiki.com/?2025-09-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -263,7 +263,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2025-07-24T07:42:00Z",
                 "latest_post": "[痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
