@@ -131,7 +131,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-09-24T14:22:25Z",
+                "published_date": "",
                 "latest_post": "[052期：无法放松？试试清空大脑【译文】](https://www.yuque.com/zing123/scu69w/ysomu7ohg6xudlmg)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -178,8 +178,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-09-25T00:20:56Z",
-                "latest_post": "[2025 09 25 HackerNews](https://supertechfans.com/cn/post/2025-09-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-26T00:25:31Z",
+                "latest_post": "[2025 09 26 HackerNews](https://supertechfans.com/cn/post/2025-09-26-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -214,7 +214,7 @@
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
                 "published_date": "2025-09-19T00:10:49Z",
-                "latest_post": "[科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
