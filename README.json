@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-09-25T00:31:55Z",
-                "latest_post": "[AI 日刊 20250925](https://modelwatch.dev/p/ai-20250925)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-26T01:44:17Z",
+                "latest_post": "[AI 日刊 20250926](https://modelwatch.dev/p/ai-20250926)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -91,8 +91,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-09-24T06:41:05Z",
-                "latest_post": "[KubeSphere 社区版即将发布：开启云原生新篇章](https://blog.csdn.net/zpf17671624050/article/details/152039962)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-26T09:39:06Z",
+                "latest_post": "[云原生周刊：K8s 故障排查秘籍](https://blog.csdn.net/zpf17671624050/article/details/152130810)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -110,8 +110,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-09-25T07:18:55Z",
-                "latest_post": "[PH今日热榜   2025-09-25](https://decohack.com/producthunt-daily-2025-09-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-26T07:18:34Z",
+                "latest_post": "[PH今日热榜   2025-09-26](https://decohack.com/producthunt-daily-2025-09-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -131,7 +131,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
+                "published_date": "2025-09-24T14:22:25Z",
                 "latest_post": "[052期：无法放松？试试清空大脑【译文】](https://www.yuque.com/zing123/scu69w/ysomu7ohg6xudlmg)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -213,8 +213,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-09-19T00:10:49Z",
-                "latest_post": "[科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html)",
+                "published_date": "2025-09-26T00:08:40Z",
+                "latest_post": "[科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用](http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -294,8 +294,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2025-09-18T13:20:57Z",
-                "latest_post": "[学习周刊-总第229期-2025年第38周](https://wiki.eryajf.net/pages/06d21f/)",
+                "published_date": "2025-09-25T13:05:51Z",
+                "latest_post": "[学习周刊-总第230期-2025年第39周](https://wiki.eryajf.net/pages/685f03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
