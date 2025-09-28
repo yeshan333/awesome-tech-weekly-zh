@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-09-24T15:26:44Z",
-                "latest_post": "[【Building Location-Aware Apps with PostGIS and Ecto: A Modern Approach】带有后gis和ecto的构建位置感知的应用：一种现代方法](https://elixirstatus.com/p/kUAyW-building-location-aware-apps-with-postgis-and-ecto-a-modern-approach)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-25T16:28:53Z",
+                "latest_post": "[【DeployingElixir.eu - Anatomy of Dockerfile, new screencast about Elixir, devops and all around】exploingelixir.eu-码头的解剖学，关于长生不老药，devops和所有周围的新屏幕截图](https://elixirstatus.com/p/KEYq8-deployingelixireu---anatomy-of-dockerfile-new-screencast-about-elixir-devops-and-all-around)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-09-27T12:02:32Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/487)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-28T11:06:57Z",
+                "latest_post": "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/488)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -103,7 +103,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -124,8 +124,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-09-21T16:41:45Z",
-                "latest_post": "[体验碎周报第 251 期（2025.9.22）](https://www.ftium4.com/ux-weekly-251.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-28T16:41:45Z",
+                "latest_post": "[体验碎周报第 252 期（2025.9.29）](https://www.ftium4.com/ux-weekly-252.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -138,8 +138,8 @@
             {
                 "name": "月维素材周刊",
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
-                "published_date": "2025-09-20T16:00:00Z",
-                "latest_post": "[设计素材周刊 183 期](https://moonvy.com/blog/post/设计素材周刊/183/)",
+                "published_date": "2025-09-27T16:00:00Z",
+                "latest_post": "[设计素材周刊 184 期](https://moonvy.com/blog/post/设计素材周刊/184/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             }
         ]
@@ -151,7 +151,7 @@
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
                 "published_date": "2025-09-21T10:21:16Z",
-                "latest_post": "[猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -251,8 +251,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-09-27T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-09-27 Review](http://www.sec-wiki.com/?2025-09-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-09-28T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-09-28 Review](http://www.sec-wiki.com/?2025-09-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -263,7 +263,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2025-07-24T07:42:00Z",
                 "latest_post": "[痞子衡嵌入式：从i.MXRT600用户手册UM里一个关于FlexSPI LUT长度的勘误说起](https://blog.csdn.net/Henjay724/article/details/149622429)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -275,8 +275,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2025-09-20T07:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 284 - Sep 20th 2025】软件测试每周 - 第284期 -  2025年9月20日](https://softwaretestingweekly.com/issues/284)",
+                "published_date": "2025-09-27T16:21:54Z",
+                "latest_post": "[【Software Testing Weekly - Issue 285 - Sep 27th 2025】软件测试每周 - 第285期 -  2025年9月27日](https://softwaretestingweekly.com/issues/285)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
