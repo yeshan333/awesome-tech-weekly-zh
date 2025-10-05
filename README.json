@@ -124,8 +124,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-09-28T16:41:45Z",
-                "latest_post": "[体验碎周报第 252 期（2025.9.29）](https://www.ftium4.com/ux-weekly-252.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -165,28 +165,28 @@
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
                 "published_date": "2025-09-27T23:49:05Z",
-                "latest_post": "[HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[HelloGitHub 第 114 期](https://hellogithub.com/periodical/volume/114)",
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
                 "name": "独立开发沉思录周刊",
                 "desc": "独立开发沉思录周刊",
-                "published_date": "",
-                "latest_post": "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)",
+                "published_date": "2025-03-31T00:00:00Z",
+                "latest_post": "[vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36)",
                 "link": "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
             },
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "",
-                "latest_post": "[https://supertechfans.com/cn](https://supertechfans.com/cn)",
+                "published_date": "2025-10-04T00:10:05Z",
+                "latest_post": "[2025 10 04 HackerNews](https://supertechfans.com/cn/post/2025-10-04-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
                 "name": "老胡的周刊",
                 "desc": "老胡的周刊",
-                "published_date": "",
-                "latest_post": "[https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html)",
+                "published_date": "2025-09-20T15:54:00Z",
+                "latest_post": "[09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html)",
                 "link": "[https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html)"
             },
             {
@@ -239,8 +239,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "",
-                "latest_post": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)",
+                "published_date": "2025-09-22T00:00:00Z",
+                "latest_post": "[第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -294,8 +294,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2025-10-03T05:56:21Z",
-                "latest_post": "[学习周刊-总第231期-2025年第40周](https://wiki.eryajf.net/pages/58366d/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
