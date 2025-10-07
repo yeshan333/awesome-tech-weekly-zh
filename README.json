@@ -151,7 +151,7 @@
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
                 "published_date": "2025-09-21T10:21:16Z",
-                "latest_post": "[猫鱼周刊 vol. 081 开源是地狱](https://ameow.xyz/archives/weekly-081)",
+                "latest_post": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -251,8 +251,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-10-06T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-10-06 Review](http://www.sec-wiki.com/?2025-10-06)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-07T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-10-07 Review](http://www.sec-wiki.com/?2025-10-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -275,8 +275,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2025-09-27T16:21:54Z",
-                "latest_post": "[【Software Testing Weekly - Issue 285 - Sep 27th 2025】软件测试每周 - 第285期 -  2025年9月27日](https://softwaretestingweekly.com/issues/285)",
+                "published_date": "2025-10-06T07:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 286 - Oct 6th 2025】软件测试每周 - 第286期 -  2025年10月6日](https://softwaretestingweekly.com/issues/286)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
