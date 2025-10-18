@@ -38,7 +38,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| AI Daily News | AI 日刊 | 2025-10-16T16:03:47Z | [AI 日刊 20251016](https://modelwatch.dev/p/ai-20251016)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
+| AI Daily News | AI 日刊 | 2025-10-17T00:54:27Z | [AI 日刊 20251017](https://modelwatch.dev/p/ai-20251017)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
 | AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-10-09T13:05:49Z | [AIGC Weekly #142 一网打尽国庆 AI 资讯](https://quaily.com/op7418/p/aigc-weekly-one-fourty-two-national-day-ai-news) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 | 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2025-10-05T13:34:23Z | [058期：AI 提示词工程的本质，就是「清晰思考的艺术」](https://quaily.com/zing927/p/ai-prompt-engineering-clarity-art) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
@@ -153,7 +153,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-10-16T07:19:47Z | [PH今日热榜   2025-10-16](https://decohack.com/producthunt-daily-2025-10-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-10-17T07:18:55Z | [PH今日热榜   2025-10-17](https://decohack.com/producthunt-daily-2025-10-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2025-10-13T19:39:42Z | [#317 大佬是从来都不关心图层名称的](https://quaily.com/dingyi/p/317)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2025-10-12T16:41:45Z | [体验碎周报第 253 期（2025.10.13）](https://www.ftium4.com/ux-weekly-253.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
@@ -182,7 +182,7 @@
 | 独立开发周记 | 独立开发周记 | 2025-10-13T07:17:58Z | [[写周报] 独立开发周记 139：古法编程的一周](https://www.v2ex.com/t/1164859#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 |  | [https://gapis.money/](https://gapis.money/) | [https://gapis.money/](https://gapis.money/) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2025-10-15T00:00:00Z | [第154期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/10/15/%E7%AC%AC154%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-10-10T00:08:05Z | [科技爱好者周刊（第 368 期）：不要这样管理软件团队](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-10-17T00:10:56Z | [科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -216,7 +216,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-10-16T15:58:20Z | [SecWiki News 2025-10-16 Review](http://www.sec-wiki.com/?2025-10-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-10-17T15:58:20Z | [SecWiki News 2025-10-17 Review](http://www.sec-wiki.com/?2025-10-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
