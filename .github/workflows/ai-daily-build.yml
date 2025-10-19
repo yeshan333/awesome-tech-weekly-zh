@@ -24,7 +24,7 @@ jobs:
         with:
           api_key: ${{ secrets.IFLOW_API_KEY }}
           timeout: "3600"
-          extra_args: "--debug"
+          debug: "true"
           model: "${{ vars.MODEL }}"
           prompt: |
             # 🚨 重要：网站必须生成在 site 目录下 🚨

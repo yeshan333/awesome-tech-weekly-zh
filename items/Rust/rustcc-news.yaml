@@ -1,0 +1,7 @@
+kind: Rust
+owner: Rust语言中文社区
+name: 'Rust中文社区新闻'
+link: https://rustcc.cn/
+desc: 'Rust语言中文社区新闻和日报'
+desc_en: 'Rust Chinese Community News and Daily Updates'
+feed_url: https://cloudys-rsshub-ab061133bcab.herokuapp.com/rustcc/news
