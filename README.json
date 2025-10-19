@@ -67,9 +67,21 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-10-18T13:13:25Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/491)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-19T10:55:35Z",
+                "latest_post": "[https://pythoncat.top/posts/2024-10-19-weekly](https://t.me/pythontrendingweekly/493)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
+            }
+        ]
+    },
+    {
+        "category": "Rust",
+        "feeds": [
+            {
+                "name": "Rust中文社区新闻",
+                "desc": "Rust语言中文社区新闻和日报",
+                "published_date": "2025-10-17T03:37:00Z",
+                "latest_post": "[# 【Rust日报】2025-10-17 Miro: 轻量级 PDF 阅读器](https://rustcc.cn/article?id=6d0940e3-16ed-4c30-8d69-d7f9418fd2a0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
     },
@@ -79,8 +91,8 @@
             {
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
-                "published_date": "2025-10-12T11:46:19Z",
-                "latest_post": "[老司机 iOS 周报 #354   2025-10-13](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23354)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-19T14:52:28Z",
+                "latest_post": "[老司机 iOS 周报 #355   2025-10-20](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23355)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -125,7 +137,7 @@
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2025-10-12T16:41:45Z",
-                "latest_post": "[体验碎周报第 253 期（2025.10.13）](https://www.ftium4.com/ux-weekly-253.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[体验碎周报第 253 期（2025.10.13）](https://www.ftium4.com/ux-weekly-253.html)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -150,8 +162,8 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "2025-10-12T12:26:36Z",
-                "latest_post": "[猫鱼周刊 vol. 082 AI 遗忘国耻](https://ameow.xyz/archives/weekly-082)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-19T12:11:07Z",
+                "latest_post": "[猫鱼周刊 vol. 083 扫街友好城市](https://ameow.xyz/archives/weekly-083)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -239,8 +251,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2025-10-13T00:00:00Z",
-                "latest_post": "[第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-20T00:00:00Z",
+                "latest_post": "[第241期 - 经过长沙](https://weekly.tw93.fun/posts/241/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -251,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-10-18T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-10-18 Review](http://www.sec-wiki.com/?2025-10-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-19T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-10-19 Review](http://www.sec-wiki.com/?2025-10-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
