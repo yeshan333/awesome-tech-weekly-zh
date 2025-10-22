@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-10-21T01:37:16Z",
-                "latest_post": "[Claude Code for Web: 当云端编码助手遭遇安全现实](https://modelwatch.dev/p/claude-code-for-web)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-22T01:48:52Z",
+                "latest_post": "[ChatGPT Atlas: 浏览器的终局之战，还是又一个泡沫？](https://modelwatch.dev/p/chatgpt-atlas)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-10-21T03:03:00Z",
-                "latest_post": "[【Rust日报】2025-10-21 rs-tfhe - 一个纯 Rust 实现的 TFHE 全同态加密方案](https://rustcc.cn/article?id=395fd608-06ff-44fe-b8cb-38697fe1e621)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-22T04:13:00Z",
+                "latest_post": "[【Rust日报】2025-10-22 Fyrox 游戏引擎 1.0 RC](https://rustcc.cn/article?id=197f6827-b6d6-4324-a2e7-c655ee371bcc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-10-21T07:19:26Z",
-                "latest_post": "[PH今日热榜   2025-10-21](https://decohack.com/producthunt-daily-2025-10-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-22T07:19:47Z",
+                "latest_post": "[PH今日热榜   2025-10-22](https://decohack.com/producthunt-daily-2025-10-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-09-24T14:22:25Z",
+                "published_date": "",
                 "latest_post": "[052期：无法放松？试试清空大脑【译文】](https://www.yuque.com/zing123/scu69w/ysomu7ohg6xudlmg)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-10-21T01:21:03Z",
-                "latest_post": "[2025 10 21 HackerNews](https://supertechfans.com/cn/post/2025-10-21-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-22T00:37:02Z",
+                "latest_post": "[2025 10 22 HackerNews](https://supertechfans.com/cn/post/2025-10-22-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
