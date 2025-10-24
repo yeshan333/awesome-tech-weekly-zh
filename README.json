@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-10-19T10:55:35Z",
-                "latest_post": "[https://pythoncat.top/posts/2024-10-19-weekly](https://t.me/pythontrendingweekly/493)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-10-23T02:54:00Z",
-                "latest_post": "[【Rust日报】2025-10-23 Boa v0.21 发布，合规测试提升至 94.12%](https://rustcc.cn/article?id=4beab686-40b1-471d-99bc-0ba5a02810ad)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-24T04:00:00Z",
+                "latest_post": "[【Rust日报】2025-10-24 节日快乐](https://rustcc.cn/article?id=7c6ed2cb-dc23-49a5-aa1e-4408d864d58c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-21T09:04:56Z",
-                "latest_post": "[云原生周刊：Helm 十年，成就 Kubernetes 的生态中枢](https://blog.csdn.net/zpf17671624050/article/details/153693899)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -116,14 +116,14 @@
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
                 "published_date": "",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-10-23T07:19:23Z",
-                "latest_post": "[PH今日热榜   2025-10-23](https://decohack.com/producthunt-daily-2025-10-23/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-24T07:18:54Z",
+                "latest_post": "[PH今日热榜   2025-10-24](https://decohack.com/producthunt-daily-2025-10-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,8 +143,8 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-10-22T13:13:01Z",
-                "latest_post": "[053期：Linear 官网关于「产品质感」的一系列业内人士采访【文字版】](https://www.yuque.com/zing123/scu69w/quw9ty2lvk6kmwoe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-10-21T16:28:41Z",
-                "latest_post": "[错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-24T00:18:03Z",
+                "latest_post": "[科技爱好者周刊（第 370 期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -251,8 +251,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2025-10-20T00:00:00Z",
-                "latest_post": "[第241期 - 经过长沙](https://weekly.tw93.fun/posts/241/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-27T00:00:00Z",
+                "latest_post": "[第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -275,8 +275,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-10-11T09:53:00Z",
-                "latest_post": "[痞子衡嵌入式：在i.MXRT下测试启动特性时可改写OTP Shadow寄存器而不烧OTP](https://blog.csdn.net/Henjay724/article/details/153377322)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
