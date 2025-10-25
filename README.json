@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-10-21T12:03:08Z",
-                "latest_post": "[【Thinking Elixir 275: From Slop to Success?】思考灵丹妙药275：从失败到成功？](https://elixirstatus.com/p/0717F-thinking-elixir-275-from-slop-to-success)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-23T20:31:44Z",
+                "latest_post": "[【Building Custom Producers with Elixir&#39;s Broadway】使用 Elixir 的百老汇构建定制制作人](https://elixirstatus.com/p/g4ygs-building-custom-producers-with-elixirs-broadway)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-10-24T04:24:39Z",
-                "latest_post": "[↩️ 已订阅但未到期的同学，小报童不支持续订(到期前几天才可续订）。可私聊我，有少量兑换码，数量有限，先到先得哈～](https://t.me/pythontrendingweekly/496)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-24T09:41:30Z",
+                "published_date": "",
                 "latest_post": "[在 KubeSphere 上构建你的自托管 AI 助手｜Open WebUI 扩展上线](https://blog.csdn.net/zpf17671624050/article/details/153836167)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-10-24T07:18:54Z",
-                "latest_post": "[PH今日热榜   2025-10-24](https://decohack.com/producthunt-daily-2025-10-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-25T07:17:13Z",
+                "latest_post": "[PH今日热榜   2025-10-25](https://decohack.com/producthunt-daily-2025-10-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-10-24T00:05:43Z",
-                "latest_post": "[2025 10 24 HackerNews](https://supertechfans.com/cn/post/2025-10-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-25T00:53:32Z",
+                "latest_post": "[2025 10 25 HackerNews](https://supertechfans.com/cn/post/2025-10-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -237,8 +237,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "published_date": "2025-09-04T10:29:16Z",
+                "latest_post": "[【工具自荐】Web Annotator, 在网页上也可以随时记笔记的 Chrome 插件!](https://github.com/Geekhyt/weekly/issues/149)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -275,8 +275,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2025-10-11T09:53:00Z",
+                "latest_post": "[痞子衡嵌入式：在i.MXRT下测试启动特性时可改写OTP Shadow寄存器而不烧OTP](https://blog.csdn.net/Henjay724/article/details/153377322)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -295,7 +295,7 @@
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
                 "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
