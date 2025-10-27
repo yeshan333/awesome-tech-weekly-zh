@@ -129,8 +129,8 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-10-21T02:10:36Z",
-                "latest_post": "[#318 Vibe design 工具 Variant 发邀请了，以及复刻 Cloudflare 首页动画](https://quaily.com/dingyi/p/318)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-27T18:48:44Z",
+                "latest_post": "[#319 OpenAI 的浏览器，一股 Arc 味儿](https://quaily.com/dingyi/p/319)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-10-26T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-10-26 Review](http://www.sec-wiki.com/?2025-10-26)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-27T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-10-27 Review](http://www.sec-wiki.com/?2025-10-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
