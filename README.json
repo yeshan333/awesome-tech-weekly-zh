@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-24T09:41:30Z",
+                "published_date": "",
                 "latest_post": "[在 KubeSphere 上构建你的自托管 AI 助手｜Open WebUI 扩展上线](https://blog.csdn.net/zpf17671624050/article/details/153836167)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-10-26T00:02:21Z",
-                "latest_post": "[2025 10 26 HackerNews](https://supertechfans.com/cn/post/2025-10-26-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-10-26T23:43:16Z",
+                "latest_post": "[2025 10 27 HackerNews](https://supertechfans.com/cn/post/2025-10-27-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -252,7 +252,7 @@
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
                 "published_date": "2025-10-27T00:00:00Z",
-                "latest_post": "[第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/)",
+                "latest_post": "[第242期 - 压实此刻](https://weekly.tw93.fun/posts/242/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
