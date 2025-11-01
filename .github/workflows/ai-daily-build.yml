@@ -4,6 +4,9 @@ on:
     push:
         branches: [ main ]
     workflow_dispatch:
+    schedule:
+      - cron: '0 10 * * 1'  # 每周一 10:00
+      - cron: '0 18 * * 5'  # 每周五 18:00
 
 permissions:
   contents: write
