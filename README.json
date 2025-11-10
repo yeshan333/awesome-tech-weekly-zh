@@ -13,7 +13,7 @@
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
                 "published_date": "2025-11-03T07:44:30Z",
-                "latest_post": "[AIGC Weekly #145](https://quaily.com/op7418/p/aigc-weekly-ox61wsz9)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[AIGC Weekly #145](https://quaily.com/op7418/p/aigc-weekly-ox61wsz9)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-11-06T17:42:03Z",
-                "latest_post": "[【Don&#39;t nuke your test ENVs 】不要破坏你的测试 ENV](https://elixirstatus.com/p/oR3bA-dont-nuke-your-test-envs-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-07T14:37:51Z",
+                "latest_post": "[【Crawling the Web with Elixir&#39;s Broadway and Wallaby】使用 Elixir 的 Broadway 和 Wallaby 抓取网络](https://elixirstatus.com/p/Cbk3J-crawling-the-web-with-elixirs-broadway-and-wallaby)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-07T03:01:00Z",
-                "latest_post": "[【Rust日报】2025-11-07 Night Core™ Worker: WASM 的安全运行环境](https://rustcc.cn/article?id=0e22679d-183e-4a2d-bc20-478a84778a1d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-10T03:10:00Z",
+                "latest_post": "[【Rust日报】2025-11-10 cookie-monster: 给 Axum 用的 Cookie 管理器](https://rustcc.cn/article?id=30b7d3ba-62ac-4195-bffa-76c29ad7431d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-11-09T07:19:25Z",
-                "latest_post": "[PH今日热榜   2025-11-09](https://decohack.com/producthunt-daily-2025-11-09/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-10T07:20:07Z",
+                "latest_post": "[PH今日热榜   2025-11-10](https://decohack.com/producthunt-daily-2025-11-10/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -136,15 +136,15 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-11-02T16:41:45Z",
-                "latest_post": "[体验碎周报第 256 期（2025.11.3）](https://www.ftium4.com/ux-weekly-256.html)",
+                "published_date": "2025-11-09T16:41:45Z",
+                "latest_post": "[体验碎周报第 257 期（2025.11.10）](https://www.ftium4.com/ux-weekly-257.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "published_date": "2025-10-22T13:13:01Z",
+                "latest_post": "[053期：Linear 官网关于「产品质感」的一系列业内人士采访【文字版】](https://www.yuque.com/zing123/scu69w/quw9ty2lvk6kmwoe)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -162,8 +162,8 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "",
-                "latest_post": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)",
+                "published_date": "2025-10-26T11:36:26Z",
+                "latest_post": "[猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -294,8 +294,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "published_date": "2023-04-25T00:33:52Z",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
