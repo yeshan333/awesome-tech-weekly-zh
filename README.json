@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-11-07T14:37:51Z",
-                "latest_post": "[【Crawling the Web with Elixir&#39;s Broadway and Wallaby】使用 Elixir 的 Broadway 和 Wallaby 抓取网络](https://elixirstatus.com/p/Cbk3J-crawling-the-web-with-elixirs-broadway-and-wallaby)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-12T05:01:18Z",
+                "latest_post": "[【Nerves Online Meetup - Nov 26】Nerves 在线聚会 - 11 月 26 日](https://elixirstatus.com/p/TzCDs-nerves-online-meetup---nov-26)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -136,8 +136,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-11-09T16:41:45Z",
-                "latest_post": "[体验碎周报第 257 期（2025.11.10）](https://www.ftium4.com/ux-weekly-257.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-11-12T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-11-12 Review](http://www.sec-wiki.com/?2025-11-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-13T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-11-13 Review](http://www.sec-wiki.com/?2025-11-13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -287,8 +287,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2025-11-03T16:48:36Z",
-                "latest_post": "[【Software Testing Weekly - Issue 290 - Nov 3rd 2025】软件测试周刊 - 第 290 期 - 2025 年 11 月 3 日](https://softwaretestingweekly.com/issues/290)",
+                "published_date": "2025-11-10T07:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 291 - Nov 10th 2025】软件测试周刊 - 第 291 期 - 2025 年 11 月 10 日](https://softwaretestingweekly.com/issues/291)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2025-11-06T12:41:08Z",
-                "latest_post": "[学习周刊-总第236期-2025年第45周](https://wiki.eryajf.net/pages/ff912f/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
