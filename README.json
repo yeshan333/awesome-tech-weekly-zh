@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-11-12T01:04:08Z",
-                "latest_post": "[AI 日刊 20251112](https://modelwatch.dev/p/ai-20251112)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-13T00:58:36Z",
+                "latest_post": "[AI 日刊 20251113](https://modelwatch.dev/p/ai-20251113)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-12T09:10:00Z",
-                "latest_post": "[【Rust日报】2025-11-12 Rust 1.91.1 发布](https://rustcc.cn/article?id=5be744e8-50f5-40df-b9ff-e1c2c2120e2e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-13T01:37:00Z",
+                "latest_post": "[【Rust日报】2025-11-13 egui-arbor: 功能丰富的树形组件](https://rustcc.cn/article?id=3f91fb8b-028f-4037-9e5c-b6b68803ce6c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-11-12T07:20:04Z",
-                "latest_post": "[PH今日热榜   2025-11-12](https://decohack.com/producthunt-daily-2025-11-12/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-13T07:19:37Z",
+                "latest_post": "[PH今日热榜   2025-11-13](https://decohack.com/producthunt-daily-2025-11-13/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-11-12T00:23:31Z",
-                "latest_post": "[2025 11 12 HackerNews](https://supertechfans.com/cn/post/2025-11-12-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-13T00:41:50Z",
+                "latest_post": "[2025 11 13 HackerNews](https://supertechfans.com/cn/post/2025-11-13-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
