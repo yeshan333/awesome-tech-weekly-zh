@@ -189,7 +189,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| 猫鱼周刊 | 猫鱼周刊 | 2025-10-26T11:36:26Z | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
+| 猫鱼周刊 | 猫鱼周刊 | 2025-10-26T11:36:26Z | [猫鱼周刊 vol. 084 骑友巴士](https://ameow.xyz/archives/weekly-084) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-10-28T00:04:46Z | [HelloGitHub 第 115 期](https://hellogithub.com/periodical/volume/115) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
@@ -198,7 +198,7 @@ English | [简体中文](../README.md)
 | 独立开发周记 | 独立开发周记 | 2025-11-10T13:27:48Z | [[写周报] 独立开发周记 143 ：高空修飞机，紧张又刺激](https://www.v2ex.com/t/1171825#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30T05:04:11Z | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2025-11-12T00:00:00Z | [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/%E7%AC%AC158%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-11-11T07:30:25Z | [国产大模型接入 Claude Code 教程：以 Doubao-Seed-Code 为例](http://www.ruanyifeng.com/blog/2025/11/doubao-seed-code.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-11-14T00:06:44Z | [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
