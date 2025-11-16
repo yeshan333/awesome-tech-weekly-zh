@@ -72,7 +72,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-11-12T05:01:18Z | [【Nerves Online Meetup - Nov 26】Nerves 在线聚会 - 11 月 26 日](https://elixirstatus.com/p/TzCDs-nerves-online-meetup---nov-26)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-11-14T23:55:10Z | [【Working with PostgreSQL Large Objects in Elixir】在 Elixir 中使用 PostgreSQL 大对象](https://elixirstatus.com/p/PpH2j-working-with-postgresql-large-objects-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
