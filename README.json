@@ -129,15 +129,15 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-11-10T14:46:30Z",
-                "latest_post": "[#321 Cobot 倒闭了，Dia 变回了 Arc，以及朋友的新产品 Mono Card](https://quaily.com/dingyi/p/321)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T15:29:18Z",
+                "latest_post": "[#322 Nostalgic](https://quaily.com/dingyi/p/322)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-11-09T16:41:45Z",
-                "latest_post": "[体验碎周报第 257 期（2025.11.10）](https://www.ftium4.com/ux-weekly-257.html)",
+                "published_date": "2025-11-16T16:41:45Z",
+                "latest_post": "[体验碎周报第 258 期（2025.11.17）](https://www.ftium4.com/ux-weekly-258.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-11-16T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-11-16 Review](http://www.sec-wiki.com/?2025-11-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-11-17 Review](http://www.sec-wiki.com/?2025-11-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
