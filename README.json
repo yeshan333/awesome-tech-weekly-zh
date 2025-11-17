@@ -5,15 +5,15 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-11-14T02:14:01Z",
-                "latest_post": "[AI 日刊 20251114](https://modelwatch.dev/p/ai-20251114)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T02:08:02Z",
+                "latest_post": "[AI 日刊 20251117](https://modelwatch.dev/p/ai-20251117)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2025-11-10T17:07:13Z",
-                "latest_post": "[AIGC Weekly #146 藏师傅的 AI 双十一整合优惠开启](https://quaily.com/op7418/p/aigc-weekly-cang-shifu-ai-shuang-shiyi-zhenghe-youhui-kaiji)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T06:33:07Z",
+                "latest_post": "[AIGC Weekly #147 优惠券兑换里面请](https://quaily.com/op7418/p/aigc-weekly-477k58lx)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-14T03:04:00Z",
-                "latest_post": "[【Rust日报】2025-11-14 nail-parquet: 一个高效的 CLI 数据处理工具](https://rustcc.cn/article?id=f5109971-97e0-4a57-b8d1-64dedb3227e1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T01:50:00Z",
+                "latest_post": "[【Rust日报】2025-11-17 image v0.25.9 发布：读取全部元数据](https://rustcc.cn/article?id=00c0ae6f-e945-42cc-920c-280fd581ab68)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-11-16T07:18:02Z",
-                "latest_post": "[PH今日热榜   2025-11-16](https://decohack.com/producthunt-daily-2025-11-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T07:20:07Z",
+                "latest_post": "[PH今日热榜   2025-11-17](https://decohack.com/producthunt-daily-2025-11-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
+                "published_date": "2025-10-22T13:13:01Z",
                 "latest_post": "[053期：Linear 官网关于「产品质感」的一系列业内人士采访【文字版】](https://www.yuque.com/zing123/scu69w/quw9ty2lvk6kmwoe)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-11-16T01:16:18Z",
-                "latest_post": "[2025 11 16 HackerNews](https://supertechfans.com/cn/post/2025-11-16-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T00:31:34Z",
+                "latest_post": "[2025 11 17 HackerNews](https://supertechfans.com/cn/post/2025-11-17-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2025-11-10T13:27:48Z",
-                "latest_post": "[[写周报] 独立开发周记 143 ：高空修飞机，紧张又刺激](https://www.v2ex.com/t/1171825#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-17T06:31:49Z",
+                "latest_post": "[[写周报] 独立开发周记 144：一小时内下载量超一万但是零收入](https://www.v2ex.com/t/1173280#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -288,7 +288,7 @@
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
                 "published_date": "2025-11-10T07:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 291 - Nov 10th 2025】软件测试周刊 - 第 291 期 - 2025 年 11 月 10 日](https://softwaretestingweekly.com/issues/291)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Software Testing Weekly - Issue 291 - Nov 10th 2025】软件测试周刊 - 第 291 期 - 2025 年 11 月 10 日](https://softwaretestingweekly.com/issues/291)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
