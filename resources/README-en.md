@@ -38,8 +38,8 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| AI Daily News | AI 日刊 | 2025-11-14T02:14:01Z | [AI 日刊 20251114](https://modelwatch.dev/p/ai-20251114)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-11-10T17:07:13Z | [AIGC Weekly #146 藏师傅的 AI 双十一整合优惠开启](https://quaily.com/op7418/p/aigc-weekly-cang-shifu-ai-shuang-shiyi-zhenghe-youhui-kaiji)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AI Daily News | AI 日刊 | 2025-11-17T02:08:02Z | [AI 日刊 20251117](https://modelwatch.dev/p/ai-20251117)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-11-17T06:33:07Z | [AIGC Weekly #147 优惠券兑换里面请](https://quaily.com/op7418/p/aigc-weekly-477k58lx)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 | 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2025-11-02T12:51:00Z | [059期：”为什么我又开始犹豫？“](https://quaily.com/zing927/p/why-am-i-hesitating-again) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
 <div align="right">
@@ -120,7 +120,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2025-11-14T03:04:00Z | [【Rust日报】2025-11-14 nail-parquet: 一个高效的 CLI 数据处理工具](https://rustcc.cn/article?id=f5109971-97e0-4a57-b8d1-64dedb3227e1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2025-11-17T01:50:00Z | [【Rust日报】2025-11-17 image v0.25.9 发布：读取全部元数据](https://rustcc.cn/article?id=00c0ae6f-e945-42cc-920c-280fd581ab68)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -169,7 +169,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-11-16T07:18:02Z | [PH今日热榜   2025-11-16](https://decohack.com/producthunt-daily-2025-11-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-11-17T07:20:07Z | [PH今日热榜   2025-11-17](https://decohack.com/producthunt-daily-2025-11-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2025-11-10T14:46:30Z | [#321 Cobot 倒闭了，Dia 变回了 Arc，以及朋友的新产品 Mono Card](https://quaily.com/dingyi/p/321)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2025-11-09T16:41:45Z | [体验碎周报第 257 期（2025.11.10）](https://www.ftium4.com/ux-weekly-257.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2025-10-22T13:13:01Z | [053期：Linear 官网关于「产品质感」的一系列业内人士采访【文字版】](https://www.yuque.com/zing123/scu69w/quw9ty2lvk6kmwoe) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
@@ -195,7 +195,7 @@ English | [简体中文](../README.md)
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-11-17T00:31:34Z | [2025 11 17 HackerNews](https://supertechfans.com/cn/post/2025-11-17-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-09-20T15:54:00Z | [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
-| 独立开发周记 | 独立开发周记 | 2025-11-10T13:27:48Z | [[写周报] 独立开发周记 143 ：高空修飞机，紧张又刺激](https://www.v2ex.com/t/1171825#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
+| 独立开发周记 | 独立开发周记 | 2025-11-17T06:31:49Z | [[写周报] 独立开发周记 144：一小时内下载量超一万但是零收入](https://www.v2ex.com/t/1173280#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30T05:04:11Z | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2025-11-12T00:00:00Z | [第158期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2025/11/12/%E7%AC%AC158%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2025-11-14T00:06:44Z | [科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
@@ -264,7 +264,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-11-10T07:00:00Z | [【Software Testing Weekly - Issue 291 - Nov 10th 2025】软件测试周刊 - 第 291 期 - 2025 年 11 月 10 日](https://softwaretestingweekly.com/issues/291)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-11-10T07:00:00Z | [【Software Testing Weekly - Issue 291 - Nov 10th 2025】软件测试周刊 - 第 291 期 - 2025 年 11 月 10 日](https://softwaretestingweekly.com/issues/291) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
