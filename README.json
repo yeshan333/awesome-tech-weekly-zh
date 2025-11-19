@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-11-17T02:08:02Z",
-                "latest_post": "[AI 日刊 20251117](https://modelwatch.dev/p/ai-20251117)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-19T01:54:01Z",
+                "latest_post": "[AI 日刊 20251119](https://modelwatch.dev/p/ai-20251119)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-11-14T23:55:10Z",
-                "latest_post": "[【Working with PostgreSQL Large Objects in Elixir】在 Elixir 中使用 PostgreSQL 大对象](https://elixirstatus.com/p/PpH2j-working-with-postgresql-large-objects-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-18T13:14:58Z",
+                "latest_post": "[【Thinking Elixir 279: Hot Code Upgrades and Hotter AI Takes】Thinking Elixir 279：热门代码升级和更热门的 AI 技术](https://elixirstatus.com/p/sMEp1-thinking-elixir-279-hot-code-upgrades-and-hotter-ai-takes)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-18T03:42:00Z",
-                "latest_post": "[【Rust日报】2025-11-18 Kito: 用 Rust 编写的用于 TypeScript 的 Web 框架](https://rustcc.cn/article?id=7cc19b6b-6e58-4c73-9721-90af3158e304)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-19T03:06:00Z",
+                "latest_post": "[【Rust日报】2025-11-19 昨天Cloudflare 网络中断事件回顾](https://rustcc.cn/article?id=b0d07f3f-6852-412d-81bf-f424e4730a29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-11-18T07:20:04Z",
-                "latest_post": "[PH今日热榜   2025-11-18](https://decohack.com/producthunt-daily-2025-11-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-19T07:20:01Z",
+                "latest_post": "[PH今日热榜   2025-11-19](https://decohack.com/producthunt-daily-2025-11-19/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-11-14T00:06:44Z",
-                "latest_post": "[科技爱好者周刊（第 373 期）：数据模型是新产品的核心](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-19T00:30:59Z",
+                "latest_post": "[VS Code 使用国产大模型 MiniMax M2 教程](http://www.ruanyifeng.com/blog/2025/11/vs-code-minimax-m2.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
