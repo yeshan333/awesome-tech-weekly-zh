@@ -39,7 +39,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | AI Daily News | AI 日刊 | 2025-11-21T00:31:57Z | [AI 日刊 20251121](https://modelwatch.dev/p/ai-20251121)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://modelwatch.dev](https://modelwatch.dev) |
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-11-17T06:33:07Z | [AIGC Weekly #147 优惠券兑换里面请](https://quaily.com/op7418/p/aigc-weekly-477k58lx)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2025-11-17T06:33:07Z | [https://quail.ink/op7418](https://quail.ink/op7418) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 | 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2025-11-02T12:51:00Z | [059期：”为什么我又开始犹豫？“](https://quaily.com/zing927/p/why-am-i-hesitating-again) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
 <div align="right">
