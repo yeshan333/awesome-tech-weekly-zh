@@ -73,7 +73,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-11-18T13:14:58Z | [【Thinking Elixir 279: Hot Code Upgrades and Hotter AI Takes】Thinking Elixir 279：热门代码升级和更热门的 AI 技术](https://elixirstatus.com/p/sMEp1-thinking-elixir-279-hot-code-upgrades-and-hotter-ai-takes)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-11-20T16:09:33Z | [【Differences Between Elixir&#39;s Protocols and Behaviours】Elixir 协议和行为之间的差异](https://elixirstatus.com/p/t2sBz-differences-between-elixirs-protocols-and-behaviours)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -105,7 +105,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-11-15T11:39:13Z | [🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/502)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2025-11-22T11:21:48Z | [🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/503)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -174,7 +174,7 @@
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2025-11-17T15:29:18Z | [#322 Nostalgic](https://quaily.com/dingyi/p/322)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2025-11-16T16:41:45Z | [体验碎周报第 258 期（2025.11.17）](https://www.ftium4.com/ux-weekly-258.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2025-10-22T13:13:01Z | [053期：Linear 官网关于「产品质感」的一系列业内人士采访【文字版】](https://www.yuque.com/zing123/scu69w/quw9ty2lvk6kmwoe) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
-| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-11-15T16:00:00Z | [设计素材周刊 190 期](https://moonvy.com/blog/post/设计素材周刊/190/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
+| 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2025-11-15T16:00:00Z | [设计素材周刊 190 期](https://moonvy.com/blog/post/设计素材周刊/190/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -233,7 +233,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-11-21T15:58:20Z | [SecWiki News 2025-11-21 Review](http://www.sec-wiki.com/?2025-11-21)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-11-22T15:58:20Z | [SecWiki News 2025-11-22 Review](http://www.sec-wiki.com/?2025-11-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
