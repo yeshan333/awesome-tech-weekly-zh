@@ -217,7 +217,7 @@
 |:-:|:-|:-:|:-:|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2025-11-11T02:37:58Z | [【开源自荐】gocron：分布式定时任务管理系统](https://github.com/Geekhyt/weekly/issues/150) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13T11:50:44Z | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2025-11-24T00:00:00Z | [第246期 - 单向空间](https://weekly.tw93.fun/posts/246/) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2025-11-24T00:00:00Z | [第246期 - 单向空间](https://weekly.tw93.fun/posts/246/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
