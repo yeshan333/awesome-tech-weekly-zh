@@ -163,7 +163,7 @@
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
                 "published_date": "",
-                "latest_post": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)",
+                "latest_post": "[猫鱼周刊 vol. 085 标签页焦虑](https://ameow.xyz/archives/weekly-085)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -237,8 +237,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-11-11T02:37:58Z",
-                "latest_post": "[【开源自荐】gocron：分布式定时任务管理系统](https://github.com/Geekhyt/weekly/issues/150)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
