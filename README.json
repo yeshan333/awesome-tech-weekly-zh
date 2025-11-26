@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-25T04:03:00Z",
-                "latest_post": "[【Rust日报】2025-11-25 Symbolica 1.0 发布：Rust 中的符号数学运算](https://rustcc.cn/article?id=e187e999-6618-420e-a027-eb1c6bdbafc3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-26T06:21:00Z",
+                "latest_post": "[【Rust日报】2025-11-26 《改进 Rust 编译器增量系统》 《回顾 2012 年的 Rust》 《丰田“先锋地”选择了 Rust》](https://rustcc.cn/article?id=0e4c807a-0db6-441f-8523-0c11e0cf7a47)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-11-25T07:20:16Z",
-                "latest_post": "[PH今日热榜   2025-11-25](https://decohack.com/producthunt-daily-2025-11-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-26T07:19:39Z",
+                "latest_post": "[PH今日热榜   2025-11-26](https://decohack.com/producthunt-daily-2025-11-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-11-25T01:08:02Z",
-                "latest_post": "[2025 11 25 HackerNews](https://supertechfans.com/cn/post/2025-11-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-26T00:30:05Z",
+                "latest_post": "[2025 11 26 HackerNews](https://supertechfans.com/cn/post/2025-11-26-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-11-21T00:10:12Z",
-                "latest_post": "[科技爱好者周刊（第 374 期）：6GHz 的问题](http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-26T00:17:19Z",
+                "latest_post": "[终于有人做了 Subagent，TRAE 国内版 SOLO 模式来了](http://www.ruanyifeng.com/blog/2025/11/trae-solo.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
