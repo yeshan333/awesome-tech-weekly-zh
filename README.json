@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-27T03:47:00Z",
-                "latest_post": "[【Rust日报】2025-11-27 walrus：分布式消息流平台，比 Kafka 快](https://rustcc.cn/article?id=e2ec31ec-65e1-4c63-ba9e-bd24662a50e0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-28T10:49:00Z",
+                "latest_post": "[【Rust日报】2025-11-28 Ubuntu 迁移到 Rust：默认提供 uutils 和 sudo-rs 的经验教训](https://rustcc.cn/article?id=c4a24ccf-3695-4f90-9437-2416b77e1fe2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -129,8 +129,8 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-11-24T15:00:16Z",
-                "latest_post": "[#323 Google 账号，一号难求](https://quaily.com/dingyi/p/323)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-28T12:34:05Z",
+                "latest_post": "[Black Friday 2025 for designers](https://quaily.com/dingyi/p/bf2025)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-11-27T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-11-27 Review](http://www.sec-wiki.com/?2025-11-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-11-28T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-11-28 Review](http://www.sec-wiki.com/?2025-11-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -294,7 +294,7 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
+                "published_date": "2023-04-25T00:33:52Z",
                 "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
