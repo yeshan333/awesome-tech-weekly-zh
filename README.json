@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-11-29T12:02:41Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/505)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-11-29T13:29:00Z",
-                "latest_post": "[【Rust日报】2025-11-29 关于 field projection 设计，采访 Rust for Linux 核心团队成员 Benno](https://rustcc.cn/article?id=02575dfc-fbc0-4f35-add0-ef0ad8f0b02d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-01T03:16:00Z",
+                "latest_post": "[【Rust日报】2025-12-01 Jonhoo 10 小时直播视频：Rust 完成十亿行挑战](https://rustcc.cn/article?id=4a4542ac-3c22-419a-9dc7-da78ef3f7a95)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-11-25T09:22:34Z",
-                "latest_post": "[云原生周刊：Kubernetes 如何成为新的 Linux](https://blog.csdn.net/zpf17671624050/article/details/155240318)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-11-30T07:17:56Z",
-                "latest_post": "[PH今日热榜   2025-11-30](https://decohack.com/producthunt-daily-2025-11-30/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-01T07:22:57Z",
+                "latest_post": "[PH今日热榜   2025-12-01](https://decohack.com/producthunt-daily-2025-12-01/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -144,7 +144,7 @@
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
                 "published_date": "",
-                "latest_post": "[055期：产品经理的AI设计助手](https://www.yuque.com/zing123/scu69w/thrx0a4e4ntm4nsv)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2025-11-24T06:13:48Z",
-                "latest_post": "[[写周报] 独立开发周记 145：一个 400 万接着一个 400 万](https://www.v2ex.com/t/1174678#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-01T08:19:39Z",
+                "latest_post": "[[写周报] 独立开发周记 146：破万的年度目标完成](https://www.v2ex.com/t/1176176#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -237,8 +237,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-11-11T02:37:58Z",
-                "latest_post": "[【开源自荐】gocron：分布式定时任务管理系统](https://github.com/Geekhyt/weekly/issues/150)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -275,8 +275,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-11-27T14:51:00Z",
-                "latest_post": "[痞子衡嵌入式：i.MXRT中FlexSPI外设速度上限的三个影响因子(数据手册里的纠结)](https://blog.csdn.net/Henjay724/article/details/155329243)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -288,14 +288,14 @@
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
                 "published_date": "2025-11-24T07:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 293 - Nov 24th 2025】软件测试周刊 - 第 293 期 - 2025 年 11 月 24 日](https://softwaretestingweekly.com/issues/293)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Software Testing Weekly - Issue 293 - Nov 24th 2025】软件测试周刊 - 第 293 期 - 2025 年 11 月 24 日](https://softwaretestingweekly.com/issues/293)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
-                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
