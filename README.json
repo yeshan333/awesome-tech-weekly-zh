@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2023-12-17T14:20:36Z",
+                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -67,7 +67,7 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
+                "published_date": "2025-11-29T12:02:41Z",
                 "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/505)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-01T03:16:00Z",
-                "latest_post": "[【Rust日报】2025-12-01 Jonhoo 10 小时直播视频：Rust 完成十亿行挑战](https://rustcc.cn/article?id=4a4542ac-3c22-419a-9dc7-da78ef3f7a95)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-02T06:41:00Z",
+                "latest_post": "[【Rust日报】2025-12-02 oxfmt - 高性能 JS/TS 代码格式化工具](https://rustcc.cn/article?id=3310d05d-9d0f-4907-8d86-e6ca311923db)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-11-25T09:22:34Z",
-                "latest_post": "[云原生周刊：Kubernetes 如何成为新的 Linux](https://blog.csdn.net/zpf17671624050/article/details/155240318)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-02T08:46:46Z",
+                "latest_post": "[关于 Ingress NGINX 停止维护的说明](https://blog.csdn.net/zpf17671624050/article/details/155498996)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,22 +115,22 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-01T07:22:57Z",
-                "latest_post": "[PH今日热榜   2025-12-01](https://decohack.com/producthunt-daily-2025-12-01/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-02T07:22:46Z",
+                "latest_post": "[PH今日热榜   2025-12-02](https://decohack.com/producthunt-daily-2025-12-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-11-28T12:34:05Z",
-                "latest_post": "[Black Friday 2025 for designers](https://quaily.com/dingyi/p/bf2025)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-02T00:54:17Z",
+                "latest_post": "[#324 Halftone Dots](https://quaily.com/dingyi/p/324)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-12-01T00:35:01Z",
-                "latest_post": "[2025 12 01 HackerNews](https://supertechfans.com/cn/post/2025-12-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-02T00:41:46Z",
+                "latest_post": "[2025 12 02 HackerNews](https://supertechfans.com/cn/post/2025-12-02-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -275,7 +275,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2025-11-27T14:51:00Z",
                 "latest_post": "[痞子衡嵌入式：i.MXRT中FlexSPI外设速度上限的三个影响因子(数据手册里的纠结)](https://blog.csdn.net/Henjay724/article/details/155329243)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
