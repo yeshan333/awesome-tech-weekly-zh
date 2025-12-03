@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-03T09:00:00Z",
-                "latest_post": "[【Rust日报】2025-12-03 文章《为 Rust 中的锁中毒辩护》](https://rustcc.cn/article?id=8f826b0b-165d-41a5-98fe-1250575af193)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-03T15:34:00Z",
+                "latest_post": "[【Rust日报】2025-12- 04 Ferrocene 包含首个通过 SIL 2 认证的 Rust 核心库子集   Wasmi 1.0 发布](https://rustcc.cn/article?id=62275307-8ce8-496d-89ef-3d0b7034958c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-11-30T11:31:22Z",
+                "published_date": "",
                 "latest_post": "[055期：产品经理的AI设计助手](https://www.yuque.com/zing123/scu69w/thrx0a4e4ntm4nsv)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-02T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-02 Review](http://www.sec-wiki.com/?2025-12-02)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-03T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-03 Review](http://www.sec-wiki.com/?2025-12-03)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
