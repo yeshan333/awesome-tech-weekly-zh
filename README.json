@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-11-28T01:07:03Z",
-                "latest_post": "[AI 日刊 20251128](https://modelwatch.dev/p/ai-20251128)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-03T05:10:08Z",
+                "latest_post": "[AI 日刊 20251203](https://modelwatch.dev/p/ai-20251203)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-02T06:41:00Z",
-                "latest_post": "[【Rust日报】2025-12-02 oxfmt - 高性能 JS/TS 代码格式化工具](https://rustcc.cn/article?id=3310d05d-9d0f-4907-8d86-e6ca311923db)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-03T09:00:00Z",
+                "latest_post": "[【Rust日报】2025-12-03 文章《为 Rust 中的锁中毒辩护》](https://rustcc.cn/article?id=8f826b0b-165d-41a5-98fe-1250575af193)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-02T07:22:46Z",
-                "latest_post": "[PH今日热榜   2025-12-02](https://decohack.com/producthunt-daily-2025-12-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-03T07:21:38Z",
+                "latest_post": "[PH今日热榜   2025-12-03](https://decohack.com/producthunt-daily-2025-12-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -136,8 +136,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-11-23T16:41:45Z",
-                "latest_post": "[体验碎周报第 259 期（2025.11.24）](https://www.ftium4.com/ux-weekly-259.html)",
+                "published_date": "2025-11-30T16:41:45Z",
+                "latest_post": "[体验碎周报第 260 期（2025.12.1）](https://www.ftium4.com/ux-weekly-260.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
