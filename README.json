@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-03T15:34:00Z",
-                "latest_post": "[【Rust日报】2025-12- 04 Ferrocene 包含首个通过 SIL 2 认证的 Rust 核心库子集   Wasmi 1.0 发布](https://rustcc.cn/article?id=62275307-8ce8-496d-89ef-3d0b7034958c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-05T16:12:00Z",
+                "latest_post": "[【Rust日报】2025-12- 06 公告《Rust 已在 nightly 中切换到自己的 mangling 方案》](https://rustcc.cn/article?id=2c8d7a57-fe4c-4702-87b9-326776b3b55d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-04T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-04 Review](http://www.sec-wiki.com/?2025-12-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-05T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-05 Review](http://www.sec-wiki.com/?2025-12-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
