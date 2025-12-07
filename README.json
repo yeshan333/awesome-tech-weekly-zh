@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-12-04T01:48:27Z",
-                "latest_post": "[AI 日刊 20251204](https://modelwatch.dev/p/ai-20251204)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-07T03:28:58Z",
+                "latest_post": "[AI 日刊 20251207](https://modelwatch.dev/p/ai-20251207)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -55,7 +55,7 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
+                "published_date": "",
                 "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2025-12-06T13:02:00Z",
+                "latest_post": "[【Rust日报】2025-12- 07 Rust 1.93 将更新 musl 版本到 1.2.5](https://rustcc.cn/article?id=365da6b1-9f8e-432a-ac03-859bca367e13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-06T07:17:51Z",
-                "latest_post": "[PH今日热榜   2025-12-06](https://decohack.com/producthunt-daily-2025-12-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-07T07:18:38Z",
+                "latest_post": "[PH今日热榜   2025-12-07](https://decohack.com/producthunt-daily-2025-12-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
