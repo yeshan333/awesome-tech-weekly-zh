@@ -129,15 +129,15 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-12-02T00:54:17Z",
-                "latest_post": "[#324 Halftone Dots](https://quaily.com/dingyi/p/324)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-08T16:47:32Z",
+                "latest_post": "[#325 苹果这些年设计不行的罪魁祸首 Alan Dye 离开了](https://quaily.com/dingyi/p/325)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-11-30T16:41:45Z",
-                "latest_post": "[体验碎周报第 260 期（2025.12.1）](https://www.ftium4.com/ux-weekly-260.html)",
+                "published_date": "2025-12-07T16:41:45Z",
+                "latest_post": "[体验碎周报第 261 期（2025.12.8）](https://www.ftium4.com/ux-weekly-261.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-07T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-07 Review](http://www.sec-wiki.com/?2025-12-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-08T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-08 Review](http://www.sec-wiki.com/?2025-12-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -294,7 +294,7 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
+                "published_date": "2023-04-25T00:33:52Z",
                 "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
