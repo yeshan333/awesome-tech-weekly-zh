@@ -5,15 +5,15 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-12-07T03:28:58Z",
-                "latest_post": "[AI 日刊 20251207](https://modelwatch.dev/p/ai-20251207)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-08T02:43:31Z",
+                "latest_post": "[AI 日刊 20251208](https://modelwatch.dev/p/ai-20251208)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2025-11-30T15:47:51Z",
-                "latest_post": "[AIGC Weekly #149 感恩节假期没啥东西](https://quaily.com/op7418/p/aigc-weekly-149-thanksgiving-holiday-nothing)",
+                "published_date": "2025-12-08T08:27:26Z",
+                "latest_post": "[AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-07T07:18:38Z",
-                "latest_post": "[PH今日热榜   2025-12-07](https://decohack.com/producthunt-daily-2025-12-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-08T07:23:38Z",
+                "latest_post": "[PH今日热榜   2025-12-08](https://decohack.com/producthunt-daily-2025-12-08/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2025-12-01T08:19:39Z",
-                "latest_post": "[[写周报] 独立开发周记 146：破万的年度目标完成](https://www.v2ex.com/t/1176176#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-08T06:26:21Z",
+                "latest_post": "[[写周报] 独立开发周记 147：苹果开发者第十年](https://www.v2ex.com/t/1177582#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -288,13 +288,13 @@
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
                 "published_date": "2025-12-01T08:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 294 - Dec 1st 2025】软件测试周刊 - 第 294 期 - 2025 年 12 月 1 日](https://softwaretestingweekly.com/issues/294)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Software Testing Weekly - Issue 294 - Dec 1st 2025】软件测试周刊 - 第 294 期 - 2025 年 12 月 1 日](https://softwaretestingweekly.com/issues/294)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
+                "published_date": "",
                 "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
