@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-12-09T03:31:28Z",
-                "latest_post": "[AI 日刊 20251209](https://modelwatch.dev/p/ai-20251209)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-10T02:36:15Z",
+                "latest_post": "[AI 日刊 20251210](https://modelwatch.dev/p/ai-20251210)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-12-05T11:55:20Z",
-                "latest_post": "[【🎁 Early Christmas gift idea: Code BEAM Lite Vancouver Early Bird tickets! 】🎁 提前圣诞礼物创意：Code BEAM Lite 温哥华早鸟票！](https://elixirstatus.com/p/3orpG--early-christmas-gift-idea-code-beam-lite-vancouver-early-bird-tickets-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-09T13:27:01Z",
+                "latest_post": "[【Thinking Elixir 282: Type Systems and View Transitions】Thinking Elixir 282：类型系统和视图转换](https://elixirstatus.com/p/7vQNK-thinking-elixir-282-type-systems-and-view-transitions)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2025-12-07T10:59:53Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/506)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-08T10:20:00Z",
-                "latest_post": "[【Rust日报】2025-12- 08 Eurydice: 将 Rust 翻译为 C 的编译器](https://rustcc.cn/article?id=95e42233-601a-4477-8019-fe9fdd94bd5d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-10T04:20:00Z",
+                "latest_post": "[【Rust日报】2025-12- 10 ArchGW：AI 原生高性能网关](https://rustcc.cn/article?id=d353c79d-6f2c-4833-b6e9-e8ce4436d11c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-12-05T09:53:36Z",
-                "latest_post": "[云原生周刊：K8s 成为人工智能的新动力引擎](https://blog.csdn.net/zpf17671624050/article/details/155614512)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-09T07:23:13Z",
-                "latest_post": "[PH今日热榜   2025-12-09](https://decohack.com/producthunt-daily-2025-12-09/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-10T07:24:50Z",
+                "latest_post": "[PH今日热榜   2025-12-10](https://decohack.com/producthunt-daily-2025-12-10/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,8 +143,8 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-09T13:04:07Z",
-                "latest_post": "[056期：AI提示词的本质，就是“清醒思考的艺术”](https://www.yuque.com/zing123/scu69w/ngq9914fnn6wzgxl)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-12-09T00:15:27Z",
-                "latest_post": "[2025 12 09 HackerNews](https://supertechfans.com/cn/post/2025-12-09-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-10T00:56:56Z",
+                "latest_post": "[2025 12 10 HackerNews](https://supertechfans.com/cn/post/2025-12-10-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -237,8 +237,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-11-11T02:37:58Z",
-                "latest_post": "[【开源自荐】gocron：分布式定时任务管理系统](https://github.com/Geekhyt/weekly/issues/150)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -275,7 +275,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-11-27T14:51:00Z",
+                "published_date": "",
                 "latest_post": "[痞子衡嵌入式：i.MXRT中FlexSPI外设速度上限的三个影响因子(数据手册里的纠结)](https://blog.csdn.net/Henjay724/article/details/155329243)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -287,8 +287,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2025-12-01T08:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 294 - Dec 1st 2025】软件测试周刊 - 第 294 期 - 2025 年 12 月 1 日](https://softwaretestingweekly.com/issues/294)",
+                "published_date": "2025-12-09T22:34:15Z",
+                "latest_post": "[【Software Testing Weekly - Issue 295 - Dec 9th 2025】软件测试周刊 - 第 295 期 - 2025 年 12 月 9 日](https://softwaretestingweekly.com/issues/295)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
@@ -306,7 +306,7 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "",
+                "published_date": "2025-12-04T15:24:07Z",
                 "latest_post": "[学习周刊-总第240期-2025年第49周](https://wiki.eryajf.net/pages/462c25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
