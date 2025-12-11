@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-12-10T02:36:15Z",
-                "latest_post": "[AI 日刊 20251210](https://modelwatch.dev/p/ai-20251210)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-11T01:39:36Z",
+                "latest_post": "[AI 日刊 20251211](https://modelwatch.dev/p/ai-20251211)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-10T04:20:00Z",
-                "latest_post": "[【Rust日报】2025-12- 10 ArchGW：AI 原生高性能网关](https://rustcc.cn/article?id=d353c79d-6f2c-4833-b6e9-e8ce4436d11c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-11T07:13:00Z",
+                "latest_post": "[【Rust日报】2025-12-11 Linux 中的 Rust 实验圆满结束](https://rustcc.cn/article?id=84af362b-ca45-4100-b6cb-6a822343b921)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-10T07:24:50Z",
-                "latest_post": "[PH今日热榜   2025-12-10](https://decohack.com/producthunt-daily-2025-12-10/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-11T07:23:58Z",
+                "latest_post": "[PH今日热榜   2025-12-11](https://decohack.com/producthunt-daily-2025-12-11/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
