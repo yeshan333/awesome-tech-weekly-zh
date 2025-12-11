@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-10T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-10 Review](http://www.sec-wiki.com/?2025-12-10)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-11T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-11 Review](http://www.sec-wiki.com/?2025-12-11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2025-12-04T15:24:07Z",
-                "latest_post": "[学习周刊-总第240期-2025年第49周](https://wiki.eryajf.net/pages/462c25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-11T13:05:29Z",
+                "latest_post": "[学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
