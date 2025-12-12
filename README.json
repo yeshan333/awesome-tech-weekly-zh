@@ -55,7 +55,7 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
+                "published_date": "",
                 "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-11T07:13:00Z",
-                "latest_post": "[【Rust日报】2025-12-11 Linux 中的 Rust 实验圆满结束](https://rustcc.cn/article?id=84af362b-ca45-4100-b6cb-6a822343b921)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-12T15:22:00Z",
+                "latest_post": "[【Rust日报】2025-12-12 Rust 1.92.0 正式发布   upki 解决 Linux PKI 基础设施问题   crates.io 计划新增 Security 标签页](https://rustcc.cn/article?id=01989ffd-379d-45c8-971c-f35c5e75ab2a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-11T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-11 Review](http://www.sec-wiki.com/?2025-12-11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-12T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-12 Review](http://www.sec-wiki.com/?2025-12-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
