@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-12-11T01:39:36Z",
-                "latest_post": "[AI 日刊 20251211](https://modelwatch.dev/p/ai-20251211)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-12T01:39:23Z",
+                "latest_post": "[AI 日刊 20251212](https://modelwatch.dev/p/ai-20251212)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -104,7 +104,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "2025-12-05T09:53:36Z",
-                "latest_post": "[云原生周刊：K8s 成为人工智能的新动力引擎](https://blog.csdn.net/zpf17671624050/article/details/155614512)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[云原生周刊：K8s 成为人工智能的新动力引擎](https://blog.csdn.net/zpf17671624050/article/details/155614512)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-11T07:23:58Z",
-                "latest_post": "[PH今日热榜   2025-12-11](https://decohack.com/producthunt-daily-2025-12-11/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-12T07:23:15Z",
+                "latest_post": "[PH今日热榜   2025-12-12](https://decohack.com/producthunt-daily-2025-12-12/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2025-12-05T00:09:01Z",
-                "latest_post": "[科技爱好者周刊（第 376 期）：太空数据中心的争议](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html)",
+                "published_date": "2025-12-12T00:07:48Z",
+                "latest_post": "[科技爱好者周刊（第 377 期）：14万美元的贫困线](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
