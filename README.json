@@ -12,15 +12,15 @@
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2025-12-08T08:27:26Z",
-                "latest_post": "[AIGC Weekly #150](https://quaily.com/op7418/p/aigc-weekly-m3e7y0l3)",
+                "published_date": "2025-12-15T15:26:45Z",
+                "latest_post": "[AIGC Weekly #151 谷歌在多模态上的投入到了收获的时候](https://quaily.com/op7418/p/aigc-weekly-151-google-multimodal-investment-harvest-time)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
                 "name": "无限自然",
                 "desc": "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。",
-                "published_date": "2025-12-14T13:23:00Z",
-                "latest_post": "[060期：Folo开始收费啦！](https://quaily.com/zing927/p/folo-starts-charging)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-15T13:55:00Z",
+                "latest_post": "[自我隔离时代：专注自我一个月，变得焕然一新（完整指南）](https://quaily.com/zing927/p/self-isolation-era-focus-on-self-for-a-month-rejuvenation-complete-guide)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/zing927](https://quaily.com/zing927)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-14T02:45:00Z",
-                "latest_post": "[【Rust日报】2025-12-14 Pydantic：拥抱 Rust 的 Python 明星库](https://rustcc.cn/article?id=b1b2ca51-144e-461b-9740-071006309f94)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-15T17:12:00Z",
+                "latest_post": "[【Rust日报】2025-12-16 Rust 官网推出了全新资助页面以帮助 Rust 项目贡献者](https://rustcc.cn/article?id=e01e7c8b-1310-4a05-aa49-c9ca8ad121a7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -129,8 +129,8 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-12-08T16:47:32Z",
-                "latest_post": "[#325 苹果这些年设计不行的罪魁祸首 Alan Dye 离开了](https://quaily.com/dingyi/p/325)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-15T15:16:10Z",
+                "latest_post": "[#326 设计和开发，是一回事吗？](https://quaily.com/dingyi/p/326)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -205,7 +205,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2025-12-15T00:26:50Z",
-                "latest_post": "[[写周报] 独立开发周记 148：鸿蒙上架失败](https://www.v2ex.com/t/1178870#reply22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[写周报] 独立开发周记 148：鸿蒙上架失败](https://www.v2ex.com/t/1178870#reply28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-14T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-14 Review](http://www.sec-wiki.com/?2025-12-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-15T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-15 Review](http://www.sec-wiki.com/?2025-12-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
