@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -205,7 +205,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2025-12-15T00:26:50Z",
-                "latest_post": "[[写周报] 独立开发周记 148：鸿蒙上架失败](https://www.v2ex.com/t/1178870#reply36)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[写周报] 独立开发周记 148：鸿蒙上架失败](https://www.v2ex.com/t/1178870#reply36)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -252,7 +252,7 @@
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
                 "published_date": "2025-12-22T00:00:00Z",
-                "latest_post": "[第250期 - 北京的冬](https://weekly.tw93.fun/posts/250/)",
+                "latest_post": "[第250期 - 北京的冬](https://weekly.tw93.fun/posts/250/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -275,7 +275,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-12-20T09:30:00Z",
+                "published_date": "",
                 "latest_post": "[痞子衡嵌入式：16MB以上NOR Flash地址模式切换会造成软复位后i.MXRT无法正常启动](https://blog.csdn.net/Henjay724/article/details/156120669)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
