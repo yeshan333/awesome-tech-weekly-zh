@@ -5,8 +5,8 @@
             {
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
-                "published_date": "2025-12-19T01:50:57Z",
-                "latest_post": "[AI 日刊 20251219](https://modelwatch.dev/p/ai-20251219)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-23T01:01:35Z",
+                "latest_post": "[AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -19,8 +19,8 @@
             {
                 "name": "无限自然",
                 "desc": "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。",
-                "published_date": "2025-12-22T13:15:00Z",
-                "latest_post": "[十年自由职业者的时间管理心法：从管理时间到管理注意力](https://quaily.com/zing927/p/ten-years-freelancer-time-management-secrets-from-managing-time-to-managing-attention)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-23T04:20:00Z",
+                "latest_post": "[如何用“第一性原理”重塑你的思考方式](https://quaily.com/zing927/p/how-to-reconstruct-your-thinking-with-first-principles)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/zing927](https://quaily.com/zing927)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-22T11:33:00Z",
-                "latest_post": "[【Rust日报】2025-12-22 微软利用 AI 加速从 C/C&#43;&#43; 向 Rust 的迁移](https://rustcc.cn/article?id=e817240c-e22a-4bbe-bacd-8a3c734dcfa4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-23T09:16:00Z",
+                "latest_post": "[【Rust日报】2025-12-23 Miri：总结在过去三年中的重大进展，并发表 POPL&#39;26 论文](https://rustcc.cn/article?id=2419fa4c-5e85-4eff-944f-bde108d6d576)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-22T07:24:21Z",
-                "latest_post": "[PH今日热榜   2025-12-22](https://decohack.com/producthunt-daily-2025-12-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-23T07:23:57Z",
+                "latest_post": "[PH今日热榜   2025-12-23](https://decohack.com/producthunt-daily-2025-12-23/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -136,8 +136,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "",
-                "latest_post": "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)",
+                "published_date": "2025-12-14T16:41:45Z",
+                "latest_post": "[体验碎周报第 262 期（2025.12.15）](https://www.ftium4.com/ux-weekly-262.html)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-12-22T00:30:24Z",
-                "latest_post": "[2025 12 22 HackerNews](https://supertechfans.com/cn/post/2025-12-22-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-23T00:26:43Z",
+                "latest_post": "[2025 12 23 HackerNews](https://supertechfans.com/cn/post/2025-12-23-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2025-12-15T00:26:50Z",
-                "latest_post": "[[写周报] 独立开发周记 148：鸿蒙上架失败](https://www.v2ex.com/t/1178870#reply37)",
+                "published_date": "2025-12-23T04:20:03Z",
+                "latest_post": "[[写周报] 独立开发周记 149：少年游不成就中年游](https://www.v2ex.com/t/1180632#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -306,7 +306,7 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "",
+                "published_date": "2025-12-11T13:05:29Z",
                 "latest_post": "[学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
