@@ -44,7 +44,7 @@
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2025-12-18T07:19:20Z",
-                "latest_post": "[【CFT Open: Code BEAM Lite Stockholm】CFT 公开赛：Code BEAM Lite 斯德哥尔摩](https://elixirstatus.com/p/k9ZxR-cft-open-code-beam-lite-stockholm)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【CFT Open: Code BEAM Lite Stockholm】CFT 公开赛：Code BEAM Lite 斯德哥尔摩](https://elixirstatus.com/p/k9ZxR-cft-open-code-beam-lite-stockholm)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -104,7 +104,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "2025-12-18T06:26:31Z",
-                "latest_post": "[Kubernetes v1.35 重磅发布 ：迈向更现代、更稳定的生产级基础设施能力](https://blog.csdn.net/zpf17671624050/article/details/156054913)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[Kubernetes v1.35 重磅发布 ：迈向更现代、更稳定的生产级基础设施能力](https://blog.csdn.net/zpf17671624050/article/details/156054913)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-24T07:23:54Z",
-                "latest_post": "[PH今日热榜   2025-12-24](https://decohack.com/producthunt-daily-2025-12-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-25T07:22:19Z",
+                "latest_post": "[PH今日热榜   2025-12-25](https://decohack.com/producthunt-daily-2025-12-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-12-24T00:31:21Z",
-                "latest_post": "[2025 12 24 HackerNews](https://supertechfans.com/cn/post/2025-12-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-25T01:12:05Z",
+                "latest_post": "[2025 12 25 HackerNews](https://supertechfans.com/cn/post/2025-12-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -287,8 +287,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2025-12-17T06:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 296 - Dec 17th 2025】软件测试周刊 - 第 296 期 - 2025 年 12 月 17 日](https://softwaretestingweekly.com/issues/296)",
+                "published_date": "2025-12-22T20:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 297 - Dec 22nd 2025】软件测试周刊 - 第 297 期 - 2025 年 12 月 22 日](https://softwaretestingweekly.com/issues/297)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
