@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2025-12-18T07:19:20Z",
-                "latest_post": "[【CFT Open: Code BEAM Lite Stockholm】CFT 公开赛：Code BEAM Lite 斯德哥尔摩](https://elixirstatus.com/p/k9ZxR-cft-open-code-beam-lite-stockholm)",
+                "published_date": "2025-12-23T13:09:54Z",
+                "latest_post": "[【Thinking Elixir 284: ‘Tis the Season for a Type System 】Thinking Elixir 284：现在是类型系统的季节](https://elixirstatus.com/p/IuGT9-thinking-elixir-284-tis-the-season-for-a-type-system-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-24T08:59:00Z",
-                "latest_post": "[【Rust日报】2025-12-24 satoridb：针对磁盘存储优化的十亿级向量数据库](https://rustcc.cn/article?id=2d019545-77d5-42db-852d-c904a9d3a301)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-25T16:31:00Z",
+                "latest_post": "[【Rust日报】2025-12-25 星绽发布 Asterinas NixOS   Rust 基金会 2025 年度工作总结](https://rustcc.cn/article?id=fc13d692-e4b1-4345-bd77-11cda86c6a5e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-24T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-24 Review](http://www.sec-wiki.com/?2025-12-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-25T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-25 Review](http://www.sec-wiki.com/?2025-12-25)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2025-12-11T13:05:29Z",
-                "latest_post": "[学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/)",
+                "published_date": "2025-12-25T13:38:27Z",
+                "latest_post": "[学习周刊-总第243期-2025年第52周](https://wiki.eryajf.net/pages/211cb3/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
