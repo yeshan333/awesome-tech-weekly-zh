@@ -73,7 +73,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Elixir Podcast | Thinking Elixir Podcast | 2025-12-18T07:19:20Z | [【CFT Open: Code BEAM Lite Stockholm】CFT 公开赛：Code BEAM Lite 斯德哥尔摩](https://elixirstatus.com/p/k9ZxR-cft-open-code-beam-lite-stockholm)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
+| Elixir Podcast | Thinking Elixir Podcast | 2025-12-23T13:09:54Z | [【Thinking Elixir 284: ‘Tis the Season for a Type System 】Thinking Elixir 284：现在是类型系统的季节](https://elixirstatus.com/p/IuGT9-thinking-elixir-284-tis-the-season-for-a-type-system-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://thinkingelixir.com/](https://thinkingelixir.com/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -121,7 +121,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2025-12-24T08:59:00Z | [【Rust日报】2025-12-24 satoridb：针对磁盘存储优化的十亿级向量数据库](https://rustcc.cn/article?id=2d019545-77d5-42db-852d-c904a9d3a301)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2025-12-25T16:31:00Z | [【Rust日报】2025-12-25 星绽发布 Asterinas NixOS   Rust 基金会 2025 年度工作总结](https://rustcc.cn/article?id=fc13d692-e4b1-4345-bd77-11cda86c6a5e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -153,7 +153,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| 云原生周刊 | 云原生周刊 | 2025-12-18T06:26:31Z | [Kubernetes v1.35 重磅发布 ：迈向更现代、更稳定的生产级基础设施能力](https://blog.csdn.net/zpf17671624050/article/details/156054913)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2025-12-18T06:26:31Z | [Kubernetes v1.35 重磅发布 ：迈向更现代、更稳定的生产级基础设施能力](https://blog.csdn.net/zpf17671624050/article/details/156054913) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -170,7 +170,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-12-24T07:23:54Z | [PH今日热榜   2025-12-24](https://decohack.com/producthunt-daily-2025-12-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2025-12-25T07:22:19Z | [PH今日热榜   2025-12-25](https://decohack.com/producthunt-daily-2025-12-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2025-12-22T12:46:26Z | [#327 Shaders](https://quaily.com/dingyi/p/327)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2025-12-14T16:41:45Z | [体验碎周报第 262 期（2025.12.15）](https://www.ftium4.com/ux-weekly-262.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2025-12-21T12:45:32Z | [061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
@@ -194,7 +194,7 @@
 | 独立开发变现周刊 | 独立开发变现周刊 | 2024-10-25T00:00:00Z | [独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2025-11-28T00:02:57Z | [HelloGitHub 第 116 期](https://hellogithub.com/periodical/volume/116) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31T00:00:00Z | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-12-24T00:31:21Z | [2025 12 24 HackerNews](https://supertechfans.com/cn/post/2025-12-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
+| Hacker News 每日摘要 | Hacker News 每日摘要 | 2025-12-25T01:12:05Z | [2025 12 25 HackerNews](https://supertechfans.com/cn/post/2025-12-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-09-20T15:54:00Z | [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2025-12-23T04:20:03Z | [[写周报] 独立开发周记 149：少年游不成就中年游](https://www.v2ex.com/t/1180632#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30T05:04:11Z | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
@@ -233,7 +233,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-12-24T15:58:20Z | [SecWiki News 2025-12-24 Review](http://www.sec-wiki.com/?2025-12-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2025-12-25T15:58:20Z | [SecWiki News 2025-12-25 Review](http://www.sec-wiki.com/?2025-12-25)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -265,7 +265,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2025-12-17T06:00:00Z | [【Software Testing Weekly - Issue 296 - Dec 17th 2025】软件测试周刊 - 第 296 期 - 2025 年 12 月 17 日](https://softwaretestingweekly.com/issues/296) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2025-12-22T20:00:00Z | [【Software Testing Weekly - Issue 297 - Dec 22nd 2025】软件测试周刊 - 第 297 期 - 2025 年 12 月 22 日](https://softwaretestingweekly.com/issues/297)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
@@ -282,7 +282,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2025-12-11T13:05:29Z | [学习周刊-总第241期-2025年第50周](https://wiki.eryajf.net/pages/2adb28/) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2025-12-25T13:38:27Z | [学习周刊-总第243期-2025年第52周](https://wiki.eryajf.net/pages/211cb3/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
