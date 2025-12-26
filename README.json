@@ -19,8 +19,8 @@
             {
                 "name": "无限自然",
                 "desc": "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。",
-                "published_date": "2025-12-23T13:27:00Z",
-                "latest_post": "[每周必做的四类运动：优化身心健康的完整指南](https://quaily.com/zing927/p/four-types-of-exercises-for-weekly-health-optimization-guide)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-26T13:39:00Z",
+                "latest_post": "[从 ADHD 患者到超级 CEO：解锁疯狂专注力的 10 个大脑黑客](https://quaily.com/zing927/p/from-adhd-patient-to-super-ceo-unlocking-mad-focus-10-brain-hacks)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/zing927](https://quaily.com/zing927)"
             }
         ]
@@ -55,7 +55,7 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
+                "published_date": "2023-12-17T14:20:36Z",
                 "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-25T16:31:00Z",
-                "latest_post": "[【Rust日报】2025-12-25 星绽发布 Asterinas NixOS   Rust 基金会 2025 年度工作总结](https://rustcc.cn/article?id=fc13d692-e4b1-4345-bd77-11cda86c6a5e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-26T15:04:00Z",
+                "latest_post": "[【Rust日报】2025-12-26 演讲《-Znext-solver：是什么、为什么以及未来》](https://rustcc.cn/article?id=8789384c-e26d-4334-85b2-f4b352e581f1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-12-18T06:26:31Z",
-                "latest_post": "[Kubernetes v1.35 重磅发布 ：迈向更现代、更稳定的生产级基础设施能力](https://blog.csdn.net/zpf17671624050/article/details/156054913)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -136,15 +136,15 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2025-12-14T16:41:45Z",
-                "latest_post": "[体验碎周报第 262 期（2025.12.15）](https://www.ftium4.com/ux-weekly-262.html)",
+                "published_date": "",
+                "latest_post": "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
                 "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-25T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-25 Review](http://www.sec-wiki.com/?2025-12-25)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-26T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-26 Review](http://www.sec-wiki.com/?2025-12-26)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -275,8 +275,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2025-12-21T06:21:00Z",
-                "latest_post": "[《痞子衡嵌入式半月刊》 第 120 期](https://blog.csdn.net/Henjay724/article/details/156139035)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
