@@ -44,7 +44,7 @@
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2025-12-23T13:09:54Z",
-                "latest_post": "[【Thinking Elixir 284: ‘Tis the Season for a Type System 】Thinking Elixir 284：现在是类型系统的季节](https://elixirstatus.com/p/IuGT9-thinking-elixir-284-tis-the-season-for-a-type-system-)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Thinking Elixir 284: ‘Tis the Season for a Type System 】Thinking Elixir 284：现在是类型系统的季节](https://elixirstatus.com/p/IuGT9-thinking-elixir-284-tis-the-season-for-a-type-system-)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -238,7 +238,7 @@
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
                 "published_date": "2025-12-23T16:04:08Z",
-                "latest_post": "[【工具自荐】猫头鹰AI - 一句话搞定网页内容监控](https://github.com/Geekhyt/weekly/issues/151)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【工具自荐】猫头鹰AI - 一句话搞定网页内容监控](https://github.com/Geekhyt/weekly/issues/151)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2025-12-29T15:58:20Z",
-                "latest_post": "[SecWiki News 2025-12-29 Review](http://www.sec-wiki.com/?2025-12-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-30T15:58:20Z",
+                "latest_post": "[SecWiki News 2025-12-30 Review](http://www.sec-wiki.com/?2025-12-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
