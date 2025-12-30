@@ -6,7 +6,7 @@
                 "name": "AI Daily News",
                 "desc": "AI 日刊",
                 "published_date": "2025-12-23T01:01:35Z",
-                "latest_post": "[AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223)",
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2025-12-28T12:23:00Z",
-                "latest_post": "[【Rust日报】2025-12-28 Ratatui 支持 no_std 环境、引入 Flex 布局系统](https://rustcc.cn/article?id=011c4a44-bfa9-46ef-b49b-ebd68790800c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-30T05:58:00Z",
+                "latest_post": "[【Rust日报】2025-12-30 《为什么调用具有完全相同汇编的函数，Rust 比 C 慢？》](https://rustcc.cn/article?id=e6d04d41-416c-492e-ba72-86d920652aa5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,22 +115,22 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
+                "published_date": "",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2025-12-29T07:25:49Z",
-                "latest_post": "[PH今日热榜   2025-12-29](https://decohack.com/producthunt-daily-2025-12-29/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-30T07:22:48Z",
+                "latest_post": "[PH今日热榜   2025-12-30](https://decohack.com/producthunt-daily-2025-12-30/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2025-12-22T12:46:26Z",
-                "latest_post": "[#327 Shaders](https://quaily.com/dingyi/p/327)",
+                "published_date": "2025-12-30T08:07:40Z",
+                "latest_post": "[#328 The Pierre Computer](https://quaily.com/dingyi/p/328)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2025-12-29T00:52:34Z",
-                "latest_post": "[2025 12 29 HackerNews](https://supertechfans.com/cn/post/2025-12-29-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2025-12-30T00:34:33Z",
+                "latest_post": "[2025 12 30 HackerNews](https://supertechfans.com/cn/post/2025-12-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
