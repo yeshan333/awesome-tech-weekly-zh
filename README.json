@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-01T08:03:00Z",
-                "latest_post": "[【Rust日报】2026-01-01 reqwest 发布 v0.13：默认开启 rustls](https://rustcc.cn/article?id=acb09ad6-a8f9-4920-85c5-1488b67b54e6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-02T05:54:00Z",
+                "latest_post": "[【Rust日报】2026-01-02 ffmpreg：用 Rust 完全重写 FFmpeg](https://rustcc.cn/article?id=8bfb360d-f001-49c2-94f9-8fd5a4b1ec8f)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-01-01T07:23:13Z",
-                "latest_post": "[PH今日热榜   2026-01-01](https://decohack.com/producthunt-daily-2026-01-01/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-02T07:23:55Z",
+                "latest_post": "[PH今日热榜   2026-01-02](https://decohack.com/producthunt-daily-2026-01-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-01-01T01:35:37Z",
-                "latest_post": "[2026 01 01 HackerNews](https://supertechfans.com/cn/post/2026-01-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-02T02:13:44Z",
+                "latest_post": "[2026 01 02 HackerNews](https://supertechfans.com/cn/post/2026-01-02-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
