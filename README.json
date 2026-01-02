@@ -177,7 +177,7 @@
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
                 "published_date": "2025-12-26T00:03:43Z",
-                "latest_post": "[HelloGitHub 第 117 期](https://hellogithub.com/periodical/volume/117)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[HelloGitHub 第 117 期](https://hellogithub.com/periodical/volume/117)",
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
@@ -226,7 +226,7 @@
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
                 "published_date": "2025-12-25T23:51:08Z",
-                "latest_post": "[科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录](http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
