@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2023-12-17T14:20:36Z",
-                "latest_post": "[Go语言爱好者周刊：第 205 期](https://studygolang.com/topics/17049)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-05T00:51:00Z",
-                "latest_post": "[【Rust日报】2026-01-05 verified-ledger：使用 Lean 4 作为模糊测试预言机来验证账本的实现逻辑](https://rustcc.cn/article?id=9515c3c3-6788-4f89-97cd-e80ed9014ad5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-06T05:44:00Z",
+                "latest_post": "[【Rust日报】2026-01-06 rtc：Sans-I/O 的 WebRTC 协议栈   red-apple：用 Cargo 编译输出播放 Bad Apple](https://rustcc.cn/article?id=6073cb50-6696-4271-9ffb-8a9e64f65cee)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-01-05T07:28:38Z",
-                "latest_post": "[PH今日热榜   2026-01-05](https://decohack.com/producthunt-daily-2026-01-05/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-06T07:26:01Z",
+                "latest_post": "[PH今日热榜   2026-01-06](https://decohack.com/producthunt-daily-2026-01-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-01-03T01:34:58Z",
-                "latest_post": "[2026 01 03 HackerNews](https://supertechfans.com/cn/post/2026-01-03-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-06T00:26:37Z",
+                "latest_post": "[2026 01 06 HackerNews](https://supertechfans.com/cn/post/2026-01-06-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
