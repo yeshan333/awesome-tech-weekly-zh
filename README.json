@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-01-03T16:21:11Z",
-                "latest_post": "[【Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries】使用 Elixir 二进制文件解析金融协议和 FEBRABAN 标准的指南](https://elixirstatus.com/p/9ukiZ-guide-to-parsing-financial-protocols-and-the-febraban-standard-with-elixir-binaries)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-06T13:18:20Z",
+                "latest_post": "[【Thinking Elixir 286: A NextJS Escape and 2025 in Review】Thinking Elixir 286：NextJS 的逃亡和 2025 年回顾](https://elixirstatus.com/p/AKPKO-thinking-elixir-286-a-nextjs-escape-and-2025-in-review)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-06T05:44:00Z",
-                "latest_post": "[【Rust日报】2026-01-06 rtc：Sans-I/O 的 WebRTC 协议栈   red-apple：用 Cargo 编译输出播放 Bad Apple](https://rustcc.cn/article?id=6073cb50-6696-4271-9ffb-8a9e64f65cee)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-07T04:27:00Z",
+                "latest_post": "[【Rust日报】2026-01-07 Xous：用纯 Rust 重新思考嵌入式操作系统](https://rustcc.cn/article?id=e195bf47-8392-4191-b5a6-13dab0ab432f)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-01-06T07:26:01Z",
-                "latest_post": "[PH今日热榜   2026-01-06](https://decohack.com/producthunt-daily-2026-01-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-07T07:25:25Z",
+                "latest_post": "[PH今日热榜   2026-01-07](https://decohack.com/producthunt-daily-2026-01-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,8 +143,8 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
-                "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
