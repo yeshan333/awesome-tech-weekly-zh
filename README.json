@@ -129,15 +129,15 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-01-05T15:19:34Z",
-                "latest_post": "[#329 这是对设计师最好的时代](https://quaily.com/dingyi/p/329)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-12T16:25:03Z",
+                "latest_post": "[#330 没人再写 CSS 了，以后人们只会写英语和 markdown](https://quaily.com/dingyi/p/330)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-01-04T16:41:45Z",
-                "latest_post": "[体验碎周报第 264 期（2026.1.5）](https://www.ftium4.com/ux-weekly-264.html)",
+                "published_date": "2026-01-11T16:41:45Z",
+                "latest_post": "[体验碎周报第 265 期（2026.1.12）](https://www.ftium4.com/ux-weekly-265.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-01-11T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-01-11 Review](http://www.sec-wiki.com/?2026-01-11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-12T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-01-12 Review](http://www.sec-wiki.com/?2026-01-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
