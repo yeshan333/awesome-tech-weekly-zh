@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-01-12T22:24:14Z",
-                "latest_post": "[2026 01 13 HackerNews](https://supertechfans.com/cn/post/2026-01-13-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-14T00:25:18Z",
+                "latest_post": "[2026 01 14 HackerNews](https://supertechfans.com/cn/post/2026-01-14-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -218,8 +218,8 @@
             {
                 "name": "偷懒爱好者周刊",
                 "desc": "偷懒爱好者周刊",
-                "published_date": "2026-01-07T00:00:00Z",
-                "latest_post": "[第166期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/07/%E7%AC%AC166%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-14T00:00:00Z",
+                "latest_post": "[第167期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/01/14/%E7%AC%AC167%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
             },
             {
@@ -306,7 +306,7 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-01-08T13:12:34Z",
+                "published_date": "",
                 "latest_post": "[学习周刊-总第245期-2026年第02周](https://wiki.eryajf.net/pages/b8d1f9/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
