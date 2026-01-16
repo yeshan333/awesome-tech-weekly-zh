@@ -80,7 +80,7 @@
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
                 "published_date": "2026-01-15T15:47:00Z",
-                "latest_post": "[【Rust日报】2026-01-16 官方博客《”维护“究竟是什么？》](https://rustcc.cn/article?id=84fb43e4-f2fd-46f7-bc3a-bbdb08be2793)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Rust日报】2026-01-16 官方博客《“维护“究竟是什么？》](https://rustcc.cn/article?id=84fb43e4-f2fd-46f7-bc3a-bbdb08be2793)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-01-15T07:25:43Z",
-                "latest_post": "[PH今日热榜   2026-01-15](https://decohack.com/producthunt-daily-2026-01-15/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-16T07:24:55Z",
+                "latest_post": "[PH今日热榜   2026-01-16](https://decohack.com/producthunt-daily-2026-01-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-01-15T01:07:24Z",
-                "latest_post": "[2026 01 15 HackerNews](https://supertechfans.com/cn/post/2026-01-15-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-16T00:40:41Z",
+                "latest_post": "[2026 01 16 HackerNews](https://supertechfans.com/cn/post/2026-01-16-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-01-09T00:11:26Z",
-                "latest_post": "[科技爱好者周刊（第 380 期）：为什么人们拥抱&#34;不对称收益&#34;](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html)",
+                "published_date": "2026-01-16T00:13:47Z",
+                "latest_post": "[科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
