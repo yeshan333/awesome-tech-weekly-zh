@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-01-09T12:19:43Z",
-                "latest_post": "[【Code BEAM Lite Vancouver- first speakers announced】Code BEAM Lite 温哥华 - 宣布首批扬声器](https://elixirstatus.com/p/HA8El-code-beam-lite-vancouver--first-speakers-announced)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-14T08:44:56Z",
+                "latest_post": "[【Elixir 1.19: Faster Builds, Smarter Types, and the Year of Interoperability】Elixir 1.19：更快的构建、更智能的类型和互操作性之年](https://elixirstatus.com/p/UIVkw-elixir-119-faster-builds-smarter-types-and-the-year-of-interoperability)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-01-15T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-01-15 Review](http://www.sec-wiki.com/?2026-01-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-16T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-01-16 Review](http://www.sec-wiki.com/?2026-01-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
