@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
+                "published_date": "",
                 "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -252,7 +252,7 @@
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
                 "published_date": "2026-01-19T00:00:00Z",
-                "latest_post": "[第254期 - 二零二六](https://weekly.tw93.fun/posts/254/)",
+                "latest_post": "[第254期 - 二零二六](https://weekly.tw93.fun/posts/254/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
