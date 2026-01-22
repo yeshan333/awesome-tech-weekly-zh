@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: '0 */10 * * *'
 
+permissions:
+  contents: 'write'
+  issues: 'write'
+
 jobs:
   generate-json-readme:
     runs-on: ubuntu-latest
@@ -14,10 +18,10 @@ jobs:
       - name: generate json README
         uses: yeshan333/yaml-readme@master
         env:
-          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           pattern: 'items/*/*.yaml'
-          username: "yeshan333"
+          username: "github-actions[bot]"
           org: yeshan333
           repo: awesome-tech-weekly-zh
           sortby: kind
