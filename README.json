@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-01-21T17:04:49Z",
-                "latest_post": "[【Hologram Partners with Curiosum】Hologram 与 Curiosum 合作](https://elixirstatus.com/p/fhRXS-hologram-partners-with-curiosum)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-23T12:40:23Z",
+                "latest_post": "[【Choose from 5 Masterclasses at Code BEAM Vancouver】Code BEAM 温哥华的 5 个大师班可供选择](https://elixirstatus.com/p/e0CEo-choose-from-5-masterclasses-at-code-beam-vancouver)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-15T15:47:00Z",
-                "latest_post": "[【Rust日报】2026-01-16 官方博客《“维护“究竟是什么？》](https://rustcc.cn/article?id=84fb43e4-f2fd-46f7-bc3a-bbdb08be2793)",
+                "published_date": "2026-01-25T05:00:00Z",
+                "latest_post": "[【Rust日报】2026-01-25 sockudo-ws - 超低延迟 WebSocket 库](https://rustcc.cn/article?id=fc37b833-f69b-4eec-a793-7bef1535f6ab)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-01-24T07:20:26Z",
-                "latest_post": "[PH今日热榜   2026-01-24](https://decohack.com/producthunt-daily-2026-01-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-25T07:21:41Z",
+                "latest_post": "[PH今日热榜   2026-01-25](https://decohack.com/producthunt-daily-2026-01-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
+                "published_date": "",
                 "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
