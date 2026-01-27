@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-25T05:00:00Z",
-                "latest_post": "[【Rust日报】2026-01-25 sockudo-ws - 超低延迟 WebSocket 库](https://rustcc.cn/article?id=fc37b833-f69b-4eec-a793-7bef1535f6ab)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-27T11:28:00Z",
+                "latest_post": "[【Rust日报】2026-01-27 ffmpReg 简介：一个完全用纯 Rust 重写的 ffmpeg](https://rustcc.cn/article?id=86b4ed44-9c7f-4d17-bc84-376b77e69abe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-01-26T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-01-26 Review](http://www.sec-wiki.com/?2026-01-26)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-27T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-01-27 Review](http://www.sec-wiki.com/?2026-01-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
