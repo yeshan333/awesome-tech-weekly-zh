@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-01-23T12:40:23Z",
-                "latest_post": "[【Choose from 5 Masterclasses at Code BEAM Vancouver】Code BEAM 温哥华的 5 个大师班可供选择](https://elixirstatus.com/p/e0CEo-choose-from-5-masterclasses-at-code-beam-vancouver)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-28T02:27:54Z",
+                "latest_post": "[【Using Permit.Phoenix with LiveView】将 Permit.Phoenix 与 LiveView 结合使用](https://elixirstatus.com/p/Rku7O-using-permitphoenix-with-liveview)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-27T11:28:00Z",
-                "latest_post": "[【Rust日报】2026-01-27 ffmpReg 简介：一个完全用纯 Rust 重写的 ffmpeg](https://rustcc.cn/article?id=86b4ed44-9c7f-4d17-bc84-376b77e69abe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-28T13:39:00Z",
+                "latest_post": "[Rust日报】2026-01-28-RustyBoard——最大的Rust专属招聘网站](https://rustcc.cn/article?id=9fade36b-41d2-4ba9-9a2e-6d9592aa90ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-01-27T09:18:36Z",
-                "latest_post": "[云原生周刊：对 Docker 镜像的更改持久保存](https://blog.csdn.net/zpf17671624050/article/details/157436068)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-28T10:50:40Z",
+                "latest_post": "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-01-27T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-01-27 Review](http://www.sec-wiki.com/?2026-01-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-28T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-01-28 Review](http://www.sec-wiki.com/?2026-01-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
