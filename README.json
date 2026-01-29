@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-01-28T13:39:00Z",
-                "latest_post": "[Rust日报】2026-01-28-RustyBoard——最大的Rust专属招聘网站](https://rustcc.cn/article?id=9fade36b-41d2-4ba9-9a2e-6d9592aa90ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-29T11:47:00Z",
+                "latest_post": "[【Rust日报】2026-01-29-来自 CrabNebula 的 Tauri LLM 插件官方](https://rustcc.cn/article?id=b80f3278-cb72-487b-b038-d90fd8dd16cc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-01-23T00:13:47Z",
-                "latest_post": "[科技爱好者周刊（第 382 期）：独立软件的黄昏](http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-29T08:02:30Z",
+                "latest_post": "[Kimi 的一体化，Manus 的分层](http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-01-28T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-01-28 Review](http://www.sec-wiki.com/?2026-01-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-29T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-01-29 Review](http://www.sec-wiki.com/?2026-01-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-01-22T13:26:13Z",
-                "latest_post": "[学习周刊-总第247期-2026年第04周](https://wiki.eryajf.net/pages/12031d/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-01-29T13:29:10Z",
+                "latest_post": "[学习周刊-总第248期-2026年第05周](https://wiki.eryajf.net/pages/ccedb7/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
