@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
+                "published_date": "2026-02-11T08:56:09Z",
                 "latest_post": "[稳驭核心，敏捷进化：KubeSphere 2025回顾与2026展望](https://blog.csdn.net/zpf17671624050/article/details/157976890)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-02-11T07:56:51Z",
-                "latest_post": "[PH今日热榜   2026-02-11](https://decohack.com/producthunt-daily-2026-02-11/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-12T07:52:13Z",
+                "latest_post": "[PH今日热榜   2026-02-12](https://decohack.com/producthunt-daily-2026-02-12/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-02-11T00:05:26Z",
-                "latest_post": "[2026 02 11 HackerNews](https://supertechfans.com/cn/post/2026-02-11-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-12T00:41:24Z",
+                "latest_post": "[2026 02 12 HackerNews](https://supertechfans.com/cn/post/2026-02-12-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-02-06T00:14:20Z",
-                "latest_post": "[科技爱好者周刊（第 384 期）：为什么软件股下跌](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-12T01:26:13Z",
+                "latest_post": "[智谱旗舰 GLM-5 实测：对比 Opus 4.6 和 GPT-5.3-Codex](http://www.ruanyifeng.com/blog/2026/02/glm-5.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
