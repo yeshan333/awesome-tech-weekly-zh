@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-02-08T21:49:57Z",
-                "latest_post": "[【Tree Your Mind - A Task Manager for your Ideas】Tree Your Mind - 为您的想法提供任务管理器](https://elixirstatus.com/p/0UfgN-tree-your-mind---a-task-manager-for-your-ideas)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-12T12:40:34Z",
+                "latest_post": "[【Distributed systems at ElixirConf EU 26- Save your spot】ElixirConf EU 26 上的分布式系统 - 保留您的位置](https://elixirstatus.com/p/KPkVK-distributed-systems-at-elixirconf-eu-26--save-your-spot)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-02-12T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-02-12 Review](http://www.sec-wiki.com/?2026-02-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-13T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-02-13 Review](http://www.sec-wiki.com/?2026-02-13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
