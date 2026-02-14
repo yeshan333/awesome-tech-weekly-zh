@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-02-13T07:50:55Z",
-                "latest_post": "[PH今日热榜   2026-02-13](https://decohack.com/producthunt-daily-2026-02-13/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -169,8 +169,8 @@
             {
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
-                "published_date": "2024-10-25T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154)",
+                "published_date": "",
+                "latest_post": "[https://www.ezindie.com](https://www.ezindie.com)",
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-02-05T13:49:54Z",
-                "latest_post": "[学习周刊-总第249期-2026年第06周](https://wiki.eryajf.net/pages/ddc309/)",
+                "published_date": "2026-02-14T02:15:03Z",
+                "latest_post": "[学习周刊-总第250期-2026年第07周](https://wiki.eryajf.net/pages/c8b5cc/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
