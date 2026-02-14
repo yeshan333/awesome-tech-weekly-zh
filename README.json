@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "",
-                "latest_post": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)",
+                "published_date": "2026-02-14T07:34:18Z",
+                "latest_post": "[PH今日热榜   2026-02-14](https://decohack.com/producthunt-daily-2026-02-14/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -151,7 +151,7 @@
                 "name": "月维素材周刊",
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
                 "published_date": "2026-02-07T16:00:00Z",
-                "latest_post": "[设计素材周刊 202 期](https://moonvy.com/blog/post/设计素材周刊/202/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[设计素材周刊 202 期](https://moonvy.com/blog/post/设计素材周刊/202/)",
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             }
         ]
@@ -169,8 +169,8 @@
             {
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
-                "published_date": "",
-                "latest_post": "[https://www.ezindie.com](https://www.ezindie.com)",
+                "published_date": "2024-10-25T00:00:00Z",
+                "latest_post": "[独立开发变现周刊（第154期） : 月收入2.5万美金社交媒体主页工具](https://www.ezindie.com/weekly/issue-154)",
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-02-12T18:34:10Z",
-                "latest_post": "[科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？](http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-14T11:51:22Z",
+                "latest_post": "[字节全家桶 Seed 2.0 &#43; TRAE 玩转 Skill](http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-02-13T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-02-13 Review](http://www.sec-wiki.com/?2026-02-13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-14T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-02-14 Review](http://www.sec-wiki.com/?2026-02-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
