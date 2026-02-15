@@ -68,7 +68,7 @@
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-02-08T13:08:30Z",
-                "latest_post": "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/518)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/518)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -92,7 +92,7 @@
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
                 "published_date": "2026-02-08T12:52:16Z",
-                "latest_post": "[老司机 iOS 周报 #364   2026-02-09](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23364)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[老司机 iOS 周报 #364   2026-02-09](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23364)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -137,7 +137,7 @@
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2026-02-08T16:41:45Z",
-                "latest_post": "[体验碎周报第 269 期（2026.2.9）](https://www.ftium4.com/ux-weekly-269.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[体验碎周报第 269 期（2026.2.9）](https://www.ftium4.com/ux-weekly-269.html)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-02-09T09:40:44Z",
-                "latest_post": "[[写周报] 独立开发周记 156：新主题的设计思考过程](https://www.v2ex.com/t/1191776#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-15T15:58:51Z",
+                "latest_post": "[[写周报] 独立开发周记 157：码到功成，码上暴富，码年大吉](https://www.v2ex.com/t/1192975#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-02-14T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-02-14 Review](http://www.sec-wiki.com/?2026-02-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-15T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
