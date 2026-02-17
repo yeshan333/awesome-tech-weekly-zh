@@ -80,7 +80,7 @@
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
                 "published_date": "2026-02-10T15:57:00Z",
-                "latest_post": "[【Rust日报】2026-02-10 高性能存储引擎 eloqstore api 层拥抱 rust](https://rustcc.cn/article?id=37b2583e-2b19-4b61-af87-48052cacfead)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Rust日报】2026-02-10 高性能存储引擎 eloqstore api 层拥抱 rust](https://rustcc.cn/article?id=37b2583e-2b19-4b61-af87-48052cacfead)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-02-16T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-02-16 Review](http://www.sec-wiki.com/?2026-02-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-17T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-02-17 Review](http://www.sec-wiki.com/?2026-02-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
