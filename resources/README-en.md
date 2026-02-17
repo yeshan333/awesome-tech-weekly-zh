@@ -39,7 +39,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | AI Daily News | AI 日刊 | 2025-12-23T01:01:35Z | [AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223) | [https://modelwatch.dev](https://modelwatch.dev) |
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2026-02-09T15:30:44Z | [AIGC Weekly #158](https://quaily.com/op7418/p/aigc-weekly-hrvftmrj)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2026-02-09T15:30:44Z | [AIGC Weekly #158](https://quaily.com/op7418/p/aigc-weekly-hrvftmrj) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 | 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2026-02-03T14:03:00Z | [电子书最优解](https://quaily.com/zing927/p/best-solution-ebook) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
 <div align="right">
@@ -169,8 +169,8 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-02-15T07:38:38Z | [PH今日热榜   2026-02-15](https://decohack.com/producthunt-daily-2026-02-15/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
-| DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-02-09T12:26:02Z | [#334 没有核心价值，就不要提前抢跑](https://quaily.com/dingyi/p/334)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-02-16T07:54:12Z | [PH今日热榜   2026-02-16](https://decohack.com/producthunt-daily-2026-02-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-02-09T12:26:02Z | [#334 没有核心价值，就不要提前抢跑](https://quaily.com/dingyi/p/334) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-02-08T16:41:45Z | [体验碎周报第 269 期（2026.2.9）](https://www.ftium4.com/ux-weekly-269.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2026-01-09T00:13:29Z | [YouTube 视频学习插件，第一个付费用户来了](https://www.yuque.com/zing123/scu69w/ehl262uzgacyunin) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2026-02-07T16:00:00Z | [设计素材周刊 202 期](https://moonvy.com/blog/post/设计素材周刊/202/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
@@ -232,7 +232,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-02-15T15:58:20Z | [SecWiki News 2026-02-15 Review](http://www.sec-wiki.com/?2026-02-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-02-16T15:58:20Z | [SecWiki News 2026-02-16 Review](http://www.sec-wiki.com/?2026-02-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -264,7 +264,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-:|:-:|
-| softwaretestingweekly | softwaretestingweekly  | 2026-02-03T22:57:27Z | [【Software Testing Weekly - Issue 301 - Feb 3rd 2026】软件测试周刊 - 第 301 期 - 2026 年 2 月 3 日](https://softwaretestingweekly.com/issues/301) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
+| softwaretestingweekly | softwaretestingweekly  | 2026-02-15T14:51:18Z | [【Software Testing Weekly - Issue 302 - Feb 15th 2026】软件测试周刊 - 第 302 期 - 2026 年 2 月 15 日](https://softwaretestingweekly.com/issues/302)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
 | 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25T00:33:52Z | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
