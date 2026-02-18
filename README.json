@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-02-10T15:57:00Z",
+                "latest_post": "[【Rust日报】2026-02-10 高性能存储引擎 eloqstore api 层拥抱 rust](https://rustcc.cn/article?id=37b2583e-2b19-4b61-af87-48052cacfead)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -104,7 +104,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "2026-02-11T08:56:09Z",
-                "latest_post": "[稳驭核心，敏捷进化：KubeSphere 2025回顾与2026展望](https://blog.csdn.net/zpf17671624050/article/details/157976890)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[稳驭核心，敏捷进化：KubeSphere 2025回顾与2026展望](https://blog.csdn.net/zpf17671624050/article/details/157976890)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-02-17T07:51:29Z",
-                "latest_post": "[PH今日热榜   2026-02-17](https://decohack.com/producthunt-daily-2026-02-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-18T07:50:24Z",
+                "latest_post": "[PH今日热榜   2026-02-18](https://decohack.com/producthunt-daily-2026-02-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-02-17T01:38:30Z",
-                "latest_post": "[2026 02 17 HackerNews](https://supertechfans.com/cn/post/2026-02-17-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-18T02:07:03Z",
+                "latest_post": "[2026 02 18 HackerNews](https://supertechfans.com/cn/post/2026-02-18-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
