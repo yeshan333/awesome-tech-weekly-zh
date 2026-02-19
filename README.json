@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-02-12T12:40:34Z",
-                "latest_post": "[【Distributed systems at ElixirConf EU 26- Save your spot】ElixirConf EU 26 上的分布式系统 - 保留您的位置](https://elixirstatus.com/p/KPkVK-distributed-systems-at-elixirconf-eu-26--save-your-spot)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-18T13:07:31Z",
+                "latest_post": "[【Level up on April 22nd: Full-day ElixirConf EU workshops.】4 月 22 日升级：全天 ElixirConf EU 研讨会。](https://elixirstatus.com/p/LjuCs-level-up-on-april-22nd-full-day-elixirconf-eu-workshops)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -122,7 +122,7 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "",
+                "published_date": "2026-02-19T07:50:18Z",
                 "latest_post": "[PH今日热榜   2026-02-19](https://decohack.com/producthunt-daily-2026-02-19/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
@@ -251,8 +251,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-02-02T00:00:00Z",
-                "latest_post": "[第256期 - 上野天空](https://weekly.tw93.fun/posts/256/)",
+                "published_date": "2026-02-19T00:00:00Z",
+                "latest_post": "[第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-02-18T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-02-18 Review](http://www.sec-wiki.com/?2026-02-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-19T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-02-19 Review](http://www.sec-wiki.com/?2026-02-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-02-14T02:15:03Z",
-                "latest_post": "[学习周刊-总第250期-2026年第07周](https://wiki.eryajf.net/pages/c8b5cc/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-02-19T11:20:25Z",
+                "latest_post": "[学习周刊-总第251期-2026年第08周](https://wiki.eryajf.net/pages/f80a48/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
