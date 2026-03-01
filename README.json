@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-02-10T15:57:00Z",
-                "latest_post": "[【Rust日报】2026-02-10 高性能存储引擎 eloqstore api 层拥抱 rust](https://rustcc.cn/article?id=37b2583e-2b19-4b61-af87-48052cacfead)",
+                "published_date": "2026-03-01T19:05:00Z",
+                "latest_post": "[【Rust日报】2026-03-02 Rust中使用get()方法是否会带来显著的性能开销？](https://rustcc.cn/article?id=856ac8e1-3e55-4dda-896c-af7337682a09)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -91,8 +91,8 @@
             {
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
-                "published_date": "2026-02-08T12:52:16Z",
-                "latest_post": "[老司机 iOS 周报 #364   2026-02-09](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23364)",
+                "published_date": "2026-03-01T12:57:51Z",
+                "latest_post": "[老司机 iOS 周报 #365   2026-03-02](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23365)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -162,8 +162,8 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "2026-02-01T11:37:05Z",
-                "latest_post": "[猫鱼周刊 vol. 092 AI 的贴吧](https://ameow.xyz/archives/weekly-092)",
+                "published_date": "2026-03-01T16:14:31Z",
+                "latest_post": "[猫鱼周刊 vol. 093 马年快乐](https://ameow.xyz/archives/weekly-093)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -251,8 +251,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-02-19T00:00:00Z",
-                "latest_post": "[第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/)",
+                "published_date": "2026-03-02T00:00:00Z",
+                "latest_post": "[第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-02-28T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-02-28 Review](http://www.sec-wiki.com/?2026-02-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-01T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-01 Review](http://www.sec-wiki.com/?2026-03-01)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
