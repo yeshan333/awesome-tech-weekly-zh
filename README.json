@@ -12,8 +12,8 @@
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2026-02-24T15:05:45Z",
-                "latest_post": "[AIGC Weekly #159 新年快乐](https://quaily.com/op7418/p/aigc-weekly-new-year-happy)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-02T14:46:50Z",
+                "latest_post": "[AIGC Weekly #160](https://quaily.com/op7418/p/aigc-weekly-one-sixty)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-01T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-01 Review](http://www.sec-wiki.com/?2026-03-01)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-02T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-02 Review](http://www.sec-wiki.com/?2026-03-02)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
