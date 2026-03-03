@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-03-02T09:14:08Z",
+                "published_date": "",
                 "latest_post": "[云原生周刊：AI 统一调度新进展与策略引擎大升级](https://blog.csdn.net/zpf17671624050/article/details/158580627)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-03-02T01:40:09Z",
-                "latest_post": "[2026 03 02 HackerNews](https://supertechfans.com/cn/post/2026-03-02-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-03T00:37:01Z",
+                "latest_post": "[2026 03 03 HackerNews](https://supertechfans.com/cn/post/2026-03-03-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
