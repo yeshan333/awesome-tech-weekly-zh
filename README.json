@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-03-02T09:14:08Z",
+                "published_date": "",
                 "latest_post": "[云原生周刊：AI 统一调度新进展与策略引擎大升级](https://blog.csdn.net/zpf17671624050/article/details/158580627)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
+                "published_date": "",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-03T07:42:15Z",
-                "latest_post": "[PH今日热榜   2026-03-03](https://decohack.com/producthunt-daily-2026-03-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-04T07:38:34Z",
+                "latest_post": "[PH今日热榜   2026-03-04](https://decohack.com/producthunt-daily-2026-03-04/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -136,8 +136,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-02-08T16:41:45Z",
-                "latest_post": "[体验碎周报第 269 期（2026.2.9）](https://www.ftium4.com/ux-weekly-269.html)",
+                "published_date": "2026-03-01T16:41:45Z",
+                "latest_post": "[体验碎周报第 270 期（2026.3.2）](https://www.ftium4.com/ux-weekly-270.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -287,8 +287,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2026-02-23T08:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 303 - Feb 23rd 2026】软件测试周刊 - 第 303 期 - 2026 年 2 月 23 日](https://softwaretestingweekly.com/issues/303)",
+                "published_date": "2026-03-02T23:51:23Z",
+                "latest_post": "[【Software Testing Weekly - Issue 304 - Mar 3rd 2026】软件测试周刊 - 第 304 期 - 2026 年 3 月 3 日](https://softwaretestingweekly.com/issues/304)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
