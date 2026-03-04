@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-02-28T19:39:28Z",
-                "latest_post": "[【150,000 Lines of Vibe Coded Elixir: The Good, The Bad, and The Ugly】150,000 行 Vibe Coded Elixir：好的、坏的和丑陋的](https://elixirstatus.com/p/jO7Nh-150000-lines-of-vibe-coded-elixir-the-good-the-bad-and-the-ugly)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-03T13:09:09Z",
+                "latest_post": "[【Thinking Elixir 294: Compile Times, Language Servers, and Python, Oh My!】Thinking Elixir 294：编译时间、语言服务器和 Python，天哪！](https://elixirstatus.com/p/cHizx-thinking-elixir-294-compile-times-language-servers-and-python-oh-my)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
+                "published_date": "2026-03-02T09:14:08Z",
                 "latest_post": "[云原生周刊：AI 统一调度新进展与策略引擎大升级](https://blog.csdn.net/zpf17671624050/article/details/158580627)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-03T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-03 Review](http://www.sec-wiki.com/?2026-03-03)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-04T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-04 Review](http://www.sec-wiki.com/?2026-03-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
