@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-03-02T09:14:08Z",
-                "latest_post": "[云原生周刊：AI 统一调度新进展与策略引擎大升级](https://blog.csdn.net/zpf17671624050/article/details/158580627)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
+                "published_date": "2024-06-19T14:55:31Z",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -151,7 +151,7 @@
                 "name": "月维素材周刊",
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
                 "published_date": "2026-02-27T16:00:00Z",
-                "latest_post": "[设计素材周刊 203 期](https://moonvy.com/blog/post/设计素材周刊/203/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[设计素材周刊 203 期](https://moonvy.com/blog/post/设计素材周刊/203/)",
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             }
         ]
@@ -218,8 +218,8 @@
             {
                 "name": "偷懒爱好者周刊",
                 "desc": "偷懒爱好者周刊",
-                "published_date": "2026-02-25T00:00:00Z",
-                "latest_post": "[第172期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/02/25/%E7%AC%AC172%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)",
+                "published_date": "2026-03-04T00:00:00Z",
+                "latest_post": "[第173期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/03/04/%E7%AC%AC173%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-05T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-05 Review](http://www.sec-wiki.com/?2026-03-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-06T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-06 Review](http://www.sec-wiki.com/?2026-03-06)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -294,8 +294,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "published_date": "2023-04-25T00:33:52Z",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
