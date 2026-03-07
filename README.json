@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-03-01T19:05:00Z",
-                "latest_post": "[【Rust日报】2026-03-02 Rust中使用get()方法是否会带来显著的性能开销？](https://rustcc.cn/article?id=856ac8e1-3e55-4dda-896c-af7337682a09)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-07T07:04:00Z",
+                "latest_post": "[【Rust日报】2026-03-06 CEL与Rust实现接近原生速度的解释执行](https://rustcc.cn/article?id=d6c5ff93-8d4c-461e-9e86-2d8a77e8bbe0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
+                "published_date": "",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-06T07:38:38Z",
-                "latest_post": "[PH今日热榜   2026-03-06](https://decohack.com/producthunt-daily-2026-03-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-07T07:28:52Z",
+                "latest_post": "[PH今日热榜   2026-03-07](https://decohack.com/producthunt-daily-2026-03-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -275,8 +275,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-01-19T13:56:00Z",
-                "latest_post": "[痞子衡嵌入式：如果你在找针对i.MX RT系列的OTA参考设计，可以持续关注Tiny OTA](https://blog.csdn.net/Henjay724/article/details/157154497)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
