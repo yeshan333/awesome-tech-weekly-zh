@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-03-06T09:30:11Z",
-                "latest_post": "[【Fusion — Remote task runner over SSH using Erlang distribution】Fusion — 使用 Erlang 发行版通过 SSH 进行远程任务运行](https://elixirstatus.com/p/zrmd7-fusion--remote-task-runner-over-ssh-using-erlang-distribution)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-09T07:36:31Z",
+                "latest_post": "[【Shipping grayscale photos at small scale】以小比例发送灰度照片](https://elixirstatus.com/p/fXNOI-shipping-grayscale-photos-at-small-scale)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-09T07:50:36Z",
-                "latest_post": "[PH今日热榜   2026-03-09](https://decohack.com/producthunt-daily-2026-03-09/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-10T07:41:18Z",
+                "latest_post": "[PH今日热榜   2026-03-10](https://decohack.com/producthunt-daily-2026-03-10/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2026-01-09T00:13:29Z",
+                "published_date": "",
                 "latest_post": "[YouTube 视频学习插件，第一个付费用户来了](https://www.yuque.com/zing123/scu69w/ehl262uzgacyunin)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
