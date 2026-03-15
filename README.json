@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-03-12T09:54:26Z",
+                "published_date": "",
                 "latest_post": "[云原生周刊：Docker 是什么？容器革命的起点](https://blog.csdn.net/zpf17671624050/article/details/158974631)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-14T07:35:33Z",
-                "latest_post": "[PH今日热榜   2026-03-14](https://decohack.com/producthunt-daily-2026-03-14/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-15T07:45:14Z",
+                "latest_post": "[PH今日热榜   2026-03-15](https://decohack.com/producthunt-daily-2026-03-15/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-03-14T00:48:40Z",
-                "latest_post": "[2026 03 14 HackerNews](https://supertechfans.com/cn/post/2026-03-14-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-15T00:59:50Z",
+                "latest_post": "[2026 03 15 HackerNews](https://supertechfans.com/cn/post/2026-03-15-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -275,7 +275,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2026-01-19T13:56:00Z",
                 "latest_post": "[痞子衡嵌入式：如果你在找针对i.MX RT系列的OTA参考设计，可以持续关注Tiny OTA](https://blog.csdn.net/Henjay724/article/details/157154497)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
