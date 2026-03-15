@@ -91,8 +91,8 @@
             {
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
-                "published_date": "2026-03-01T12:57:51Z",
-                "latest_post": "[老司机 iOS 周报 #365   2026-03-02](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23365)",
+                "published_date": "2026-03-15T12:50:48Z",
+                "latest_post": "[老司机 iOS 周报 #366   2026-03-16](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23366)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
+                "published_date": "2026-03-12T09:54:26Z",
                 "latest_post": "[云原生周刊：Docker 是什么？容器革命的起点](https://blog.csdn.net/zpf17671624050/article/details/158974631)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -163,7 +163,7 @@
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
                 "published_date": "2026-03-08T16:33:29Z",
-                "latest_post": "[猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -251,8 +251,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-03-09T00:00:00Z",
-                "latest_post": "[第259期 - 空中径山](https://weekly.tw93.fun/posts/259/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-16T00:00:00Z",
+                "latest_post": "[第260期 - 去太子湾](https://weekly.tw93.fun/posts/260/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-14T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-14 Review](http://www.sec-wiki.com/?2026-03-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-15T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-15 Review](http://www.sec-wiki.com/?2026-03-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
