@@ -44,7 +44,7 @@
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2026-03-12T09:28:58Z",
-                "latest_post": "[【MDEx - Render Markdown in Elixir】MDEx - 在 Elixir 中渲染 Markdown](https://elixirstatus.com/p/Iqo7V-mdex---render-markdown-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【MDEx - Render Markdown in Elixir】MDEx - 在 Elixir 中渲染 Markdown](https://elixirstatus.com/p/Iqo7V-mdex---render-markdown-in-elixir)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-03-14T02:46:00Z",
-                "latest_post": "[【Rust日报】2026-03-13 Cargo 构建目录布局 v2 测试征集](https://rustcc.cn/article?id=c5f5bf8f-8e54-4a24-9485-0e2734347122)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-19T06:02:00Z",
+                "latest_post": "[【Rust日报】2026-03-19 Avian Physics 0.6 发布](https://rustcc.cn/article?id=6e929842-5c4e-4062-bcaa-d76916654554)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-18T07:52:47Z",
-                "latest_post": "[PH今日热榜   2026-03-18](https://decohack.com/producthunt-daily-2026-03-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-19T07:47:42Z",
+                "latest_post": "[PH今日热榜   2026-03-19](https://decohack.com/producthunt-daily-2026-03-19/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,8 +143,8 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
-                "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-03-18T00:46:00Z",
-                "latest_post": "[2026 03 18 HackerNews](https://supertechfans.com/cn/post/2026-03-18-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-19T00:37:41Z",
+                "latest_post": "[2026 03 19 HackerNews](https://supertechfans.com/cn/post/2026-03-19-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -275,7 +275,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-01-19T13:56:00Z",
+                "published_date": "",
                 "latest_post": "[痞子衡嵌入式：如果你在找针对i.MX RT系列的OTA参考设计，可以持续关注Tiny OTA](https://blog.csdn.net/Henjay724/article/details/157154497)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
