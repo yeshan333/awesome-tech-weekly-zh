@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-03-12T09:28:58Z",
-                "latest_post": "[【MDEx - Render Markdown in Elixir】MDEx - 在 Elixir 中渲染 Markdown](https://elixirstatus.com/p/Iqo7V-mdex---render-markdown-in-elixir)",
+                "published_date": "2026-03-18T08:51:27Z",
+                "latest_post": "[【Learn secure coding on BEAM from Erlang&#39;s co-creator】向 Erlang 共同创建者学习 BEAM 上的安全编码](https://elixirstatus.com/p/JqcGU-learn-secure-coding-on-beam-from-erlangs-co-creator)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -136,15 +136,15 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-03-15T16:41:45Z",
-                "latest_post": "[体验碎周报第 272 期（2026.3.16）](https://www.ftium4.com/ux-weekly-272.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-19T18:41:45Z",
+                "latest_post": "[谷歌Stitch新功能实测，AI设计UI的5个趋势提前看](https://www.ftium4.com/Google-Stitch-new-features-5-trends-in-AI-design-UI-in-advance.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "published_date": "2025-12-21T12:45:32Z",
+                "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -263,8 +263,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-18T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-18 Review](http://www.sec-wiki.com/?2026-03-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-19T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-19 Review](http://www.sec-wiki.com/?2026-03-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -275,7 +275,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2026-01-19T13:56:00Z",
                 "latest_post": "[痞子衡嵌入式：如果你在找针对i.MX RT系列的OTA参考设计，可以持续关注Tiny OTA](https://blog.csdn.net/Henjay724/article/details/157154497)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -306,8 +306,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-03-12T12:31:11Z",
-                "latest_post": "[学习周刊-总第254期-2026年第11周](https://wiki.eryajf.net/pages/41978b/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-19T14:42:43Z",
+                "latest_post": "[学习周刊-总第255期-2026年第12周](https://wiki.eryajf.net/pages/5f9192/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
