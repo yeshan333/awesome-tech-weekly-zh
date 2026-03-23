@@ -1,0 +1,7 @@
+kind: 其他
+owner: Shawn Xie
+name: '肖恩技术周刊'
+link: https://weekly.shawnxie.top/
+desc: '记录有价值的技术内容，对周内阅读的技术内容精品进行总结'
+desc_en: 'Recording valuable technical content, summarizing high-quality technical content read during the week'
+feed_url: https://weekly.shawnxie.top/rss.xml
