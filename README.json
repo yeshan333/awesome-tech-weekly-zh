@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-03-20T17:43:22Z",
-                "latest_post": "[【Notification-Oriented Paradigm (PON) in Elixir: why the BEAM fits reactive rules】Elixir 中的面向通知范式 (PON)：为什么 BEAM 适合反应式规则](https://elixirstatus.com/p/RZzCW-notification-oriented-paradigm-pon-in-elixir-why-the-beam-fits-reactive-rules)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-24T12:57:02Z",
+                "latest_post": "[【Phoenix scopes explained: from scoped context to authorization with Permit.Phoenix】Phoenix 范围解释：从范围上下文到 Permit.Phoenix 授权](https://elixirstatus.com/p/eDeQG-phoenix-scopes-explained-from-scoped-context-to-authorization-with-permitphoenix)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -104,7 +104,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "2026-03-18T09:31:17Z",
-                "latest_post": "[云原生周刊：Kubernetes 1.36 要来了](https://blog.csdn.net/zpf17671624050/article/details/159210806)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[云原生周刊：Kubernetes 1.36 要来了](https://blog.csdn.net/zpf17671624050/article/details/159210806)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-24T07:54:21Z",
-                "latest_post": "[PH今日热榜   2026-03-24](https://decohack.com/producthunt-daily-2026-03-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-25T07:53:09Z",
+                "latest_post": "[PH今日热榜   2026-03-25](https://decohack.com/producthunt-daily-2026-03-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
+                "published_date": "",
                 "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -282,7 +282,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-03-19T08:29:00Z",
+                "published_date": "",
                 "latest_post": "[痞子衡嵌入式：turbo-spiboot - 一种基于MCUBoot协议的二级SPI加载APP提速方案](https://blog.csdn.net/Henjay724/article/details/159276048)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -294,15 +294,15 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2026-03-11T07:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 305 - Mar 11th 2026】软件测试周刊 - 第 305 期 - 2026 年 3 月 11 日](https://softwaretestingweekly.com/issues/305)",
+                "published_date": "2026-03-24T07:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 306 - Mar 24th 2026】软件测试周刊 - 第 306 期 - 2026 年 3 月 24 日](https://softwaretestingweekly.com/issues/306)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
-                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
