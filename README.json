@@ -80,7 +80,7 @@
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
                 "published_date": "2026-03-19T06:02:00Z",
-                "latest_post": "[【Rust日报】2026-03-19 Avian Physics 0.6 发布](https://rustcc.cn/article?id=6e929842-5c4e-4062-bcaa-d76916654554)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Rust日报】2026-03-19 Avian Physics 0.6 发布](https://rustcc.cn/article?id=6e929842-5c4e-4062-bcaa-d76916654554)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-25T07:53:09Z",
-                "latest_post": "[PH今日热榜   2026-03-25](https://decohack.com/producthunt-daily-2026-03-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-26T08:04:38Z",
+                "latest_post": "[PH今日热榜   2026-03-26](https://decohack.com/producthunt-daily-2026-03-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -283,7 +283,7 @@
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
                 "published_date": "2026-03-19T08:29:00Z",
-                "latest_post": "[痞子衡嵌入式：turbo-spiboot - 一种基于MCUBoot协议的二级SPI加载APP提速方案](https://blog.csdn.net/Henjay724/article/details/159276048)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[痞子衡嵌入式：turbo-spiboot - 一种基于MCUBoot协议的二级SPI加载APP提速方案](https://blog.csdn.net/Henjay724/article/details/159276048)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
