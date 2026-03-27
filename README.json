@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-03-19T06:02:00Z",
-                "latest_post": "[【Rust日报】2026-03-19 Avian Physics 0.6 发布](https://rustcc.cn/article?id=6e929842-5c4e-4062-bcaa-d76916654554)",
+                "published_date": "2026-03-27T06:40:00Z",
+                "latest_post": "[【Rust日报】2026-03-27 Fyrox 游戏引擎 1.0.0 发布](https://rustcc.cn/article?id=fbdd97b4-2092-4fae-9754-697edee70fe4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-26T08:04:38Z",
-                "latest_post": "[PH今日热榜   2026-03-26](https://decohack.com/producthunt-daily-2026-03-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-27T08:00:48Z",
+                "latest_post": "[PH今日热榜   2026-03-27](https://decohack.com/producthunt-daily-2026-03-27/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -176,8 +176,8 @@
             {
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
-                "published_date": "2026-02-28T00:10:09Z",
-                "latest_post": "[HelloGitHub 第 119 期](https://hellogithub.com/periodical/volume/119)",
+                "published_date": "2026-03-27T00:08:31Z",
+                "latest_post": "[HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-03-21T10:19:11Z",
-                "latest_post": "[套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的&#34;套壳&#34;疑云](http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-26T21:49:12Z",
+                "latest_post": "[科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
