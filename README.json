@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-03-24T12:57:02Z",
-                "latest_post": "[【Phoenix scopes explained: from scoped context to authorization with Permit.Phoenix】Phoenix 范围解释：从范围上下文到 Permit.Phoenix 授权](https://elixirstatus.com/p/eDeQG-phoenix-scopes-explained-from-scoped-context-to-authorization-with-permitphoenix)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-27T08:00:42Z",
+                "latest_post": "[【15 Days Left to Submit your Talk for ElixirConf US】距离 ElixirConf US 提交演讲还有 15 天](https://elixirstatus.com/p/Mvbiy-15-days-left-to-submit-your-talk-for-elixirconf-us)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -68,7 +68,7 @@
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-03-21T13:49:01Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/522)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/522)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-27T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-27 Review](http://www.sec-wiki.com/?2026-03-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-28T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-28 Review](http://www.sec-wiki.com/?2026-03-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
