@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-03-21T13:49:01Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/522)",
+                "published_date": "2026-03-29T12:02:55Z",
+                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/523)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -91,8 +91,8 @@
             {
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
-                "published_date": "2026-03-15T12:50:48Z",
-                "latest_post": "[老司机 iOS 周报 #366   2026-03-16](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23366)",
+                "published_date": "2026-03-29T14:21:41Z",
+                "latest_post": "[老司机 iOS 周报 #367   2026-03-30](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23367)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -115,7 +115,7 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
+                "published_date": "",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
@@ -162,8 +162,8 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "2026-03-08T16:33:29Z",
-                "latest_post": "[猫鱼周刊 vol. 094 龙虾大跃进](https://ameow.xyz/archives/weekly-094)",
+                "published_date": "2026-03-29T14:16:45Z",
+                "latest_post": "[猫鱼周刊 vol. 095 谨防赛博夺舍](https://ameow.xyz/archives/weekly-095)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -232,8 +232,8 @@
             {
                 "name": "肖恩技术周刊",
                 "desc": "记录有价值的技术内容，对周内阅读的技术内容精品进行总结",
-                "published_date": "2026-03-23T00:00:00Z",
-                "latest_post": "[肖恩技术周刊（第 86 期）：思路打开](https://weekly.shawnxie.top/content/2026/86.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-30T00:00:00Z",
+                "latest_post": "[肖恩技术周刊（第 87 期）：青少年社交媒体禁令](https://weekly.shawnxie.top/content/2026/87.html)",
                 "link": "[https://weekly.shawnxie.top/](https://weekly.shawnxie.top/)"
             }
         ]
@@ -244,8 +244,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2025-12-23T16:04:08Z",
-                "latest_post": "[【工具自荐】猫头鹰AI - 一句话搞定网页内容监控](https://github.com/Geekhyt/weekly/issues/151)",
+                "published_date": "2026-03-29T11:35:17Z",
+                "latest_post": "[【开源自荐】OpeniLink Hub：让微信接入 Claude/ChatGPT 自动回复，应用市场一键查股票、生图、转发到飞书](https://github.com/Geekhyt/weekly/issues/152)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -258,8 +258,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-03-23T00:00:00Z",
-                "latest_post": "[第261期 - 春天小姐](https://weekly.tw93.fun/posts/261/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-30T00:00:00Z",
+                "latest_post": "[第262期 - 飞机飞丢](https://weekly.tw93.fun/posts/262/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-03-28T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-03-28 Review](http://www.sec-wiki.com/?2026-03-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-03-29T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-03-29 Review](http://www.sec-wiki.com/?2026-03-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
