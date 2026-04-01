@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-03-27T06:40:00Z",
-                "latest_post": "[【Rust日报】2026-03-27 Fyrox 游戏引擎 1.0.0 发布](https://rustcc.cn/article?id=fbdd97b4-2092-4fae-9754-697edee70fe4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-01T03:25:00Z",
+                "latest_post": "[【Rust日报】2026-04-01 Slint 1.16 ：在所有平台上弃用原生外观](https://rustcc.cn/article?id=d7409fed-88c5-4fcd-a5c9-a96ab41e5ef7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-03-31T08:09:52Z",
-                "latest_post": "[PH今日热榜   2026-03-31](https://decohack.com/producthunt-daily-2026-03-31/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-01T08:17:19Z",
+                "latest_post": "[PH今日热榜   2026-04-01](https://decohack.com/producthunt-daily-2026-04-01/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
