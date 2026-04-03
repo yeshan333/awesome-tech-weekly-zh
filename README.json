@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-02T02:33:00Z",
-                "latest_post": "[【Rust日报】2026-04-02 serde_cursor v0.4 发布：支持范围选取](https://rustcc.cn/article?id=1fb8b0d2-884d-4888-8568-95246ad5cd13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-03T02:26:00Z",
+                "latest_post": "[【Rust日报】2026-04-03 BoltFFI v0.22.1: 支持 Java 了](https://rustcc.cn/article?id=18ee7171-a4a1-42d5-ad3b-1e91986c0372)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-03-30T02:21:37Z",
-                "latest_post": "[为什么改了配置，Pod 却没重启？Kubernetes 真相来了](https://blog.csdn.net/zpf17671624050/article/details/159638508)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-02T08:08:16Z",
-                "latest_post": "[PH今日热榜   2026-04-02](https://decohack.com/producthunt-daily-2026-04-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-03T08:03:51Z",
+                "latest_post": "[PH今日热榜   2026-04-03](https://decohack.com/producthunt-daily-2026-04-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -136,15 +136,15 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-03-29T16:41:45Z",
-                "latest_post": "[体验碎周报第 274 期（2026.3.30）](https://www.ftium4.com/ux-weekly-274.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-03T08:41:45Z",
+                "latest_post": "[产品接 AI 的正确打开方式：4 种落地策略，照着做就行](https://www.ftium4.com/4-landing-strategies-for-connecting-products-to-AI.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
-                "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-03-26T21:49:12Z",
-                "latest_post": "[科技爱好者周刊（第 390 期）：没有语料，大模型就是智障](http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html)",
+                "published_date": "2026-04-03T00:08:02Z",
+                "latest_post": "[科技爱好者周刊（第 391 期）：AI 的贫富分化](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
@@ -244,7 +244,7 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2026-04-02T15:19:24Z",
+                "published_date": "",
                 "latest_post": "[【工具自荐】实时更新的多地区 Apple ID &#43; 小火箭账号分享网站](https://github.com/Geekhyt/weekly/issues/154)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
@@ -301,8 +301,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
-                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
@@ -313,8 +313,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-03-26T13:32:25Z",
-                "latest_post": "[学习周刊-总第256期-2026年第13周](https://wiki.eryajf.net/pages/f71cfa/)",
+                "published_date": "2026-04-03T00:32:49Z",
+                "latest_post": "[学习周刊-总第257期-2026年第14周](https://wiki.eryajf.net/pages/22ef3d/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
