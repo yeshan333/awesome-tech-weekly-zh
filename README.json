@@ -104,7 +104,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "2026-03-30T02:21:37Z",
-                "latest_post": "[为什么改了配置，Pod 却没重启？Kubernetes 真相来了](https://blog.csdn.net/zpf17671624050/article/details/159638508)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[为什么改了配置，Pod 却没重启？Kubernetes 真相来了](https://blog.csdn.net/zpf17671624050/article/details/159638508)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
+                "published_date": "",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-05T07:55:13Z",
-                "latest_post": "[PH今日热榜   2026-04-05](https://decohack.com/producthunt-daily-2026-04-05/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-06T08:23:29Z",
+                "latest_post": "[PH今日热榜   2026-04-06](https://decohack.com/producthunt-daily-2026-04-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-04-04T23:46:35Z",
-                "latest_post": "[2026 04 05 HackerNews](https://supertechfans.com/cn/post/2026-04-05-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-06T01:03:52Z",
+                "latest_post": "[2026 04 06 HackerNews](https://supertechfans.com/cn/post/2026-04-06-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-03-30T06:25:54Z",
-                "latest_post": "[[写周报] 独立开发周记 163：你的慧根还够用吗？](https://www.v2ex.com/t/1202210#reply5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-06T03:25:10Z",
+                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 164：改得了系统时间，改不了人生时差](https://www.v2ex.com/t/1203772#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
