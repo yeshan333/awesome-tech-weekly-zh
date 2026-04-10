@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-04-06T17:29:22Z",
-                "latest_post": "[【FlamePeer: A FLAME backend for Erlang :peer nodes】FlamePeer：Erlang 的 FLAME 后端：peer 节点](https://elixirstatus.com/p/q2tBK-flamepeer-a-flame-backend-for-erlang-peer-nodes)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-09T23:58:55Z",
+                "latest_post": "[【Grephql - Compile-time GraphQL client with typed Ecto schemas】Grephql - 具有类型化 Ecto 模式的编译时 GraphQL 客户端](https://elixirstatus.com/p/WsbR7-grephql---compile-time-graphql-client-with-typed-ecto-schemas)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-04-09T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-04-09 Review](http://www.sec-wiki.com/?2026-04-09)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-10T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-04-10 Review](http://www.sec-wiki.com/?2026-04-10)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -301,7 +301,7 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
+                "published_date": "2023-04-25T00:33:52Z",
                 "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
