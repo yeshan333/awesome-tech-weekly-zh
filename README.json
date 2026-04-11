@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-10T08:23:57Z",
-                "latest_post": "[PH今日热榜   2026-04-10](https://decohack.com/producthunt-daily-2026-04-10/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-11T07:50:00Z",
+                "latest_post": "[PH今日热榜   2026-04-11](https://decohack.com/producthunt-daily-2026-04-11/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -313,7 +313,7 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-04-09T13:50:19Z",
+                "published_date": "",
                 "latest_post": "[学习周刊-总第258期-2026年第15周](https://wiki.eryajf.net/pages/323cfa/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
