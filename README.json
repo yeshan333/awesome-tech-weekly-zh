@@ -129,15 +129,15 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-04-07T07:50:11Z",
-                "latest_post": "[#341 Dappled Light](https://quaily.com/dingyi/p/db1a59a6-9841-47f5-ade5-296c14a2eba0)",
+                "published_date": "2026-04-14T10:48:24Z",
+                "latest_post": "[#342 portfolio-audit](https://quaily.com/dingyi/p/342)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-04-12T16:41:45Z",
-                "latest_post": "[体验碎周报第 276 期（2026.4.13）](https://www.ftium4.com/ux-weekly-276.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-14T08:41:45Z",
+                "latest_post": "[不想被 AI 淘汰？产品设计师接下来该学这 6 件事](https://www.ftium4.com/6-things-product-designers-should-learn-AI.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-04-13T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-04-13 Review](http://www.sec-wiki.com/?2026-04-13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-14T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-04-14 Review](http://www.sec-wiki.com/?2026-04-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
