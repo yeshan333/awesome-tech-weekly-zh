@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-04-11T17:12:34Z",
-                "latest_post": "[【Creating the arcade game Grand Piano Keys with Nerves - Hassan Shaikley   NervesConf US】创建街机游戏 Grand Piano Keys with Nerves - Hassan Shaikley  美国神经会议](https://elixirstatus.com/p/0gTsH-creating-the-arcade-game-grand-piano-keys-with-nerves---hassan-shaikley--nervesconf-us)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-14T11:58:38Z",
+                "latest_post": "[【Thinking Elixir 299: Don&#39;t Paste That Into Your Terminal】Thinking Elixir 299：不要将其粘贴到终端中](https://elixirstatus.com/p/emwHF-thinking-elixir-299-dont-paste-that-into-your-terminal)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2026-04-14T09:36:08Z",
+                "latest_post": "[云原生周刊：Kubernetes v1.36 前瞻](https://blog.csdn.net/zpf17671624050/article/details/160153056)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-04-15T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-04-15 Review](http://www.sec-wiki.com/?2026-04-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-16T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-04-16 Review](http://www.sec-wiki.com/?2026-04-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -282,7 +282,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2026-03-19T08:29:00Z",
                 "latest_post": "[痞子衡嵌入式：turbo-spiboot - 一种基于MCUBoot协议的二级SPI加载APP提速方案](https://blog.csdn.net/Henjay724/article/details/159276048)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -313,8 +313,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-04-09T13:50:19Z",
-                "latest_post": "[学习周刊-总第258期-2026年第15周](https://wiki.eryajf.net/pages/323cfa/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-16T14:29:13Z",
+                "latest_post": "[学习周刊-总第259期-2026年第16周](https://wiki.eryajf.net/pages/868c31/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
