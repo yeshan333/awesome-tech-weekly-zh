@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-15T02:13:00Z",
-                "latest_post": "[【Rust日报】2026-04-15 plotlars v0.12.0: 已实现后端无关性](https://rustcc.cn/article?id=cd965cd3-7719-444a-baab-1c671b636f9b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-16T02:46:00Z",
+                "latest_post": "[【Rust日报】2026-04-16 GitComet v0.1.11 更快、更清爽](https://rustcc.cn/article?id=f223fa6a-6faa-4a2b-82a0-38f4072ee71d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-04-14T09:36:08Z",
-                "latest_post": "[云原生周刊：Kubernetes v1.36 前瞻](https://blog.csdn.net/zpf17671624050/article/details/160153056)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-15T08:28:26Z",
-                "latest_post": "[PH今日热榜   2026-04-15](https://decohack.com/producthunt-daily-2026-04-15/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-16T08:27:40Z",
+                "latest_post": "[PH今日热榜   2026-04-16](https://decohack.com/producthunt-daily-2026-04-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-04-13T08:08:06Z",
-                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 165：被 AI 坑过才懂怎么用 AI](https://www.v2ex.com/t/1205513#reply7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-16T06:59:22Z",
+                "latest_post": "[[分享创造] 我做了个把照片变成 iOS 小组件贴纸的 App](https://www.v2ex.com/t/1206349#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -282,7 +282,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-03-19T08:29:00Z",
+                "published_date": "",
                 "latest_post": "[痞子衡嵌入式：turbo-spiboot - 一种基于MCUBoot协议的二级SPI加载APP提速方案](https://blog.csdn.net/Henjay724/article/details/159276048)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -294,8 +294,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2026-04-01T16:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 307 - Apr 1st 2026】软件测试周刊 - 第 307 期 - 2026 年 4 月 1 日](https://softwaretestingweekly.com/issues/307)",
+                "published_date": "2026-04-14T06:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 308 - Apr 14th 2026】软件测试周刊 - 第 308 期 - 2026 年 4 月 14 日](https://softwaretestingweekly.com/issues/308)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
