@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-20T01:12:00Z",
-                "latest_post": "[【Rust日报】2026-04-19 Clone：像进程一样 fork 虚拟机的 Rust KVM VMM](https://rustcc.cn/article?id=2db232f3-6459-4151-a343-f10144c08b81)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-21T01:15:00Z",
+                "latest_post": "[【Rust日报】2026-04-20 cargo-aprz 1.0.0 发布 - Rust 依赖质量评估工具](https://rustcc.cn/article?id=9ba157c1-2890-4a15-a1a1-12fffb06ef99)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -104,7 +104,7 @@
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
                 "published_date": "2026-04-14T09:36:08Z",
-                "latest_post": "[云原生周刊：Kubernetes v1.36 前瞻](https://blog.csdn.net/zpf17671624050/article/details/160153056)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[云原生周刊：Kubernetes v1.36 前瞻](https://blog.csdn.net/zpf17671624050/article/details/160153056)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -122,15 +122,15 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-20T09:08:13Z",
-                "latest_post": "[PH今日热榜   2026-04-20](https://decohack.com/producthunt-daily-2026-04-20/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-21T08:53:09Z",
+                "latest_post": "[PH今日热榜   2026-04-21](https://decohack.com/producthunt-daily-2026-04-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-04-14T10:48:24Z",
-                "latest_post": "[#342 portfolio-audit](https://quaily.com/dingyi/p/342)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-21T06:22:06Z",
+                "latest_post": "[#343 Claude Design](https://quaily.com/dingyi/p/343)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -282,7 +282,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2026-04-17T14:21:00Z",
                 "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
@@ -295,7 +295,7 @@
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
                 "published_date": "2026-04-14T06:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 308 - Apr 14th 2026】软件测试周刊 - 第 308 期 - 2026 年 4 月 14 日](https://softwaretestingweekly.com/issues/308)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Software Testing Weekly - Issue 308 - Apr 14th 2026】软件测试周刊 - 第 308 期 - 2026 年 4 月 14 日](https://softwaretestingweekly.com/issues/308)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
