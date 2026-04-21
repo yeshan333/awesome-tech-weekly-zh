@@ -44,7 +44,7 @@
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2026-04-14T11:58:38Z",
-                "latest_post": "[【Thinking Elixir 299: Don&#39;t Paste That Into Your Terminal】Thinking Elixir 299：不要将其粘贴到终端中](https://elixirstatus.com/p/emwHF-thinking-elixir-299-dont-paste-that-into-your-terminal)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Thinking Elixir 299: Don&#39;t Paste That Into Your Terminal】Thinking Elixir 299：不要将其粘贴到终端中](https://elixirstatus.com/p/emwHF-thinking-elixir-299-dont-paste-that-into-your-terminal)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-04-20T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-04-20 Review](http://www.sec-wiki.com/?2026-04-20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-21T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-04-21 Review](http://www.sec-wiki.com/?2026-04-21)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
