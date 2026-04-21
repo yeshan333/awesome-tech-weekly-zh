@@ -1,0 +1,4 @@
+# Copy this file to .netlify-config and fill in real values
+# DO NOT commit .netlify-config to git
+export NETLIFY_AUTH_TOKEN="your-netlify-auth-token"
+export NETLIFY_SITE_ID="your-netlify-site-id"
