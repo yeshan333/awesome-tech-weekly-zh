@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-21T01:15:00Z",
-                "latest_post": "[【Rust日报】2026-04-20 cargo-aprz 1.0.0 发布 - Rust 依赖质量评估工具](https://rustcc.cn/article?id=9ba157c1-2890-4a15-a1a1-12fffb06ef99)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-22T01:12:00Z",
+                "latest_post": "[【Rust日报】2026-04-21 wrkflw v0.8.0 发布：支持本地运行 GitHub Actions 的 CLI 工具](https://rustcc.cn/article?id=b4501958-0b4c-401c-b5dc-264cda19fee5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-21T08:53:09Z",
-                "latest_post": "[PH今日热榜   2026-04-21](https://decohack.com/producthunt-daily-2026-04-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-22T08:29:58Z",
+                "latest_post": "[PH今日热榜   2026-04-22](https://decohack.com/producthunt-daily-2026-04-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -205,7 +205,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2026-04-20T12:15:21Z",
-                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 166：上架即踩坑，累瘫也得冲](https://www.v2ex.com/t/1207284#reply2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 166：上架即踩坑，累瘫也得冲](https://www.v2ex.com/t/1207284#reply3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -294,8 +294,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2026-04-14T06:00:00Z",
-                "latest_post": "[【Software Testing Weekly - Issue 308 - Apr 14th 2026】软件测试周刊 - 第 308 期 - 2026 年 4 月 14 日](https://softwaretestingweekly.com/issues/308)",
+                "published_date": "2026-04-20T17:10:27Z",
+                "latest_post": "[【Software Testing Weekly - Issue 309 - Apr 20th 2026】软件测试周刊 - 第 309 期 - 2026 年 4 月 20 日](https://softwaretestingweekly.com/issues/309)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
