@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-22T01:12:00Z",
-                "latest_post": "[【Rust日报】2026-04-21 wrkflw v0.8.0 发布：支持本地运行 GitHub Actions 的 CLI 工具](https://rustcc.cn/article?id=b4501958-0b4c-401c-b5dc-264cda19fee5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-23T01:12:00Z",
+                "latest_post": "[【Rust日报】2026-04-22 Resonators 0.1: 用于实时频谱分析的 Rust 库发布](https://rustcc.cn/article?id=e2ea23cf-948e-4b88-adb5-cc233e3e3a71)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-04-14T09:36:08Z",
-                "latest_post": "[云原生周刊：Kubernetes v1.36 前瞻](https://blog.csdn.net/zpf17671624050/article/details/160153056)",
+                "published_date": "2026-04-23T06:56:49Z",
+                "latest_post": "[Kubernetes v1.36 正式发布：春归万物生，稳中见功夫](https://blog.csdn.net/zpf17671624050/article/details/160442808)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-22T08:29:58Z",
-                "latest_post": "[PH今日热榜   2026-04-22](https://decohack.com/producthunt-daily-2026-04-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-23T08:53:52Z",
+                "latest_post": "[PH今日热榜   2026-04-23](https://decohack.com/producthunt-daily-2026-04-23/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
