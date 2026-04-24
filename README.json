@@ -232,8 +232,8 @@
             {
                 "name": "肖恩技术周刊",
                 "desc": "记录有价值的技术内容，对周内阅读的技术内容精品进行总结",
-                "published_date": "2026-04-20T00:00:00Z",
-                "latest_post": "[肖恩技术周刊（第 90 期）：过程即护城河](https://weekly.shawnxie.top/content/2026/90.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-24T00:00:00Z",
+                "latest_post": "[迁移公告](https://weekly.shawnxie.top/content/2026/migration.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.shawnxie.top/](https://weekly.shawnxie.top/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-04-23T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-04-23 Review](http://www.sec-wiki.com/?2026-04-23)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-24T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-04-24 Review](http://www.sec-wiki.com/?2026-04-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -283,7 +283,7 @@
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
                 "published_date": "2026-04-17T14:21:00Z",
-                "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
