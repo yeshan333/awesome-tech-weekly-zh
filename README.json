@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-23T01:12:00Z",
-                "latest_post": "[【Rust日报】2026-04-22 Resonators 0.1: 用于实时频谱分析的 Rust 库发布](https://rustcc.cn/article?id=e2ea23cf-948e-4b88-adb5-cc233e3e3a71)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-24T01:22:00Z",
+                "latest_post": "[【Rust日报】2026-04-24 Vizia 0.4.0 版本发布](https://rustcc.cn/article?id=70b704c3-9fbf-4a68-9bae-4b981215b946)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-23T08:53:52Z",
-                "latest_post": "[PH今日热榜   2026-04-23](https://decohack.com/producthunt-daily-2026-04-23/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-24T09:00:11Z",
+                "latest_post": "[PH今日热榜   2026-04-24](https://decohack.com/producthunt-daily-2026-04-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -313,8 +313,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-04-16T14:29:13Z",
-                "latest_post": "[学习周刊-总第259期-2026年第16周](https://wiki.eryajf.net/pages/868c31/)",
+                "published_date": "2026-04-24T07:52:12Z",
+                "latest_post": "[学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
