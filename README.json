@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-24T01:22:00Z",
-                "latest_post": "[【Rust日报】2026-04-24 Vizia 0.4.0 版本发布](https://rustcc.cn/article?id=70b704c3-9fbf-4a68-9bae-4b981215b946)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-25T01:09:00Z",
+                "latest_post": "[【Rust日报】2026-04-25 Pyscan：用 Rust 重写的 Python 安全扫描工具](https://rustcc.cn/article?id=5d9ed73d-2988-4c2a-9c7d-b8d345976e9e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-24T09:00:11Z",
-                "latest_post": "[PH今日热榜   2026-04-24](https://decohack.com/producthunt-daily-2026-04-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-25T08:06:23Z",
+                "latest_post": "[PH今日热榜   2026-04-25](https://decohack.com/producthunt-daily-2026-04-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
