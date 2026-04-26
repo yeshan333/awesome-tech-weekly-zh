@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-25T01:09:00Z",
-                "latest_post": "[【Rust日报】2026-04-25 Pyscan：用 Rust 重写的 Python 安全扫描工具](https://rustcc.cn/article?id=5d9ed73d-2988-4c2a-9c7d-b8d345976e9e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-26T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-04-26 nmrs 3.0.0 重大版本发布：支持 OpenVPN、WireGuard 和 WiFi 功能](https://rustcc.cn/article?id=21bd7a18-0357-41e2-9741-2a63917de848)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-25T08:06:23Z",
-                "latest_post": "[PH今日热榜   2026-04-25](https://decohack.com/producthunt-daily-2026-04-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-26T08:17:44Z",
+                "latest_post": "[PH今日热榜   2026-04-26](https://decohack.com/producthunt-daily-2026-04-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -205,7 +205,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2026-04-20T12:15:21Z",
-                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 166：上架即踩坑，累瘫也得冲](https://www.v2ex.com/t/1207284#reply3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 166：上架即踩坑，累瘫也得冲](https://www.v2ex.com/t/1207284#reply4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
