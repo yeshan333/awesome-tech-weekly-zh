@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-27T01:21:00Z",
-                "latest_post": "[【Rust日报】2026-04-27 ast-outline：基于AST的快速代码结构大纲工具](https://rustcc.cn/article?id=1bf69ef3-011d-4bb0-a6ed-22423113f191)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-28T01:12:00Z",
+                "latest_post": "[【Rust日报】2026-04-28 Pacquet：pnpm 的 Rust 重写版本](https://rustcc.cn/article?id=5d6bf9e0-703e-4ba6-8d4c-2b7fa80f4334)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,22 +122,22 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-27T09:18:15Z",
-                "latest_post": "[PH今日热榜   2026-04-27](https://decohack.com/producthunt-daily-2026-04-27/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-28T09:21:37Z",
+                "latest_post": "[PH今日热榜   2026-04-28](https://decohack.com/producthunt-daily-2026-04-28/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-04-21T06:22:06Z",
-                "latest_post": "[#343 Claude Design](https://quaily.com/dingyi/p/343)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-28T02:39:57Z",
+                "latest_post": "[#344 Pixel-streamed UI](https://quaily.com/dingyi/p/344)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-04-19T16:41:45Z",
-                "latest_post": "[体验碎周报第277期(2026.4.20)](https://www.ftium4.com/ux-weekly-277.html)",
+                "published_date": "2026-04-26T16:41:45Z",
+                "latest_post": "[体验碎周报第278期(2026.4.27)](https://www.ftium4.com/ux-weekly-278.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -176,8 +176,8 @@
             {
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
-                "published_date": "2026-03-27T00:08:31Z",
-                "latest_post": "[HelloGitHub 第 120 期](https://hellogithub.com/periodical/volume/120)",
+                "published_date": "2026-04-28T00:05:57Z",
+                "latest_post": "[HelloGitHub 第 121 期](https://hellogithub.com/periodical/volume/121)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
