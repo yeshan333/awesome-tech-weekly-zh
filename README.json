@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-28T01:12:00Z",
-                "latest_post": "[【Rust日报】2026-04-28 Pacquet：pnpm 的 Rust 重写版本](https://rustcc.cn/article?id=5d6bf9e0-703e-4ba6-8d4c-2b7fa80f4334)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-29T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-04-29 Rspack 2.0 正式发布](https://rustcc.cn/article?id=18857f74-941f-4833-ab87-bd989bbca834)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-28T09:21:37Z",
-                "latest_post": "[PH今日热榜   2026-04-28](https://decohack.com/producthunt-daily-2026-04-28/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-04-29T09:09:40Z",
+                "latest_post": "[PH今日热榜   2026-04-29](https://decohack.com/producthunt-daily-2026-04-29/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
