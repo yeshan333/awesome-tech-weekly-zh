@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-04-30T00:03:44Z",
-                "latest_post": "[2026 04 30 HackerNews](https://supertechfans.com/cn/post/2026-04-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-01T00:11:37Z",
+                "latest_post": "[2026 05 01 HackerNews](https://supertechfans.com/cn/post/2026-05-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -226,14 +226,14 @@
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
                 "published_date": "2026-04-23T23:43:01Z",
-                "latest_post": "[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
                 "name": "肖恩技术周刊",
                 "desc": "记录有价值的技术内容，对周内阅读的技术内容精品进行总结",
                 "published_date": "2026-04-24T00:00:00Z",
-                "latest_post": "[迁移公告](https://weekly.shawnxie.top/content/2026/migration.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[迁移公告](https://weekly.shawnxie.top/content/2026/migration.html)",
                 "link": "[https://weekly.shawnxie.top/](https://weekly.shawnxie.top/)"
             }
         ]
