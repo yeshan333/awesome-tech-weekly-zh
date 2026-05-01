@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-04-21T16:16:07Z",
-                "latest_post": "[【The Broker Evaluation Gauntlet: Four Futures APIs Compared】经纪商评估挑战：四种期货 API 比较](https://elixirstatus.com/p/japUq-the-broker-evaluation-gauntlet-four-futures-apis-compared)",
+                "published_date": "2026-04-30T12:31:39Z",
+                "latest_post": "[【Self-hostable Ngrok clone in Elixir】Elixir 中可自我托管的 Ngrok 克隆](https://elixirstatus.com/p/s0eXE-self-hostable-ngrok-clone-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-04-30T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-04-30 Zed 1.0 正式发布](https://rustcc.cn/article?id=25bc457f-345c-486f-899e-feaf6d9769d7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-01T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-05-01 Rust 原生数据表格组件 uiGrid 发布](https://rustcc.cn/article?id=4c6f0c7c-dd58-429f-ae14-7a658ba54078)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-04-30T09:11:47Z",
-                "latest_post": "[PH今日热榜   2026-04-30](https://decohack.com/producthunt-daily-2026-04-30/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-01T09:01:02Z",
+                "latest_post": "[PH今日热榜   2026-05-01](https://decohack.com/producthunt-daily-2026-05-01/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -301,7 +301,7 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
+                "published_date": "",
                 "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
@@ -314,7 +314,7 @@
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
                 "published_date": "2026-04-24T07:52:12Z",
-                "latest_post": "[学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[学习周刊-总第260期-2026年第17周](https://wiki.eryajf.net/pages/907f99/)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
