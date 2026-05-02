@@ -68,7 +68,7 @@
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-04-25T11:59:54Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/527)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/527)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-01T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-01 Review](http://www.sec-wiki.com/?2026-05-01)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-02T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-02 Review](http://www.sec-wiki.com/?2026-05-02)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
