@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-02T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-05-02 Temper - 用 Rust 编写的 Minecraft 服务器项目发布 0.1.0 版本](https://rustcc.cn/article?id=92dc98df-9b2a-4338-90e2-5ccf9d7b90c4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-03T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-05-03 sse-rs 发布：一个强大的服务器推送事件(SSE)库](https://rustcc.cn/article?id=df56f7e5-aede-4267-b490-c28ed5d5d7c2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-02T08:22:42Z",
-                "latest_post": "[PH今日热榜   2026-05-02](https://decohack.com/producthunt-daily-2026-05-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-03T08:46:58Z",
+                "latest_post": "[PH今日热榜   2026-05-03](https://decohack.com/producthunt-daily-2026-05-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
