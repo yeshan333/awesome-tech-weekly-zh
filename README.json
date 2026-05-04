@@ -13,7 +13,7 @@
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
                 "published_date": "2026-04-27T16:15:54Z",
-                "latest_post": "[AIGC Weekly #168 ](https://quaily.com/op7418/p/aigc-weekly-one-hundred-sixty-eight)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[AIGC Weekly #168 ](https://quaily.com/op7418/p/aigc-weekly-one-hundred-sixty-eight)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-04-30T12:31:39Z",
-                "latest_post": "[【Self-hostable Ngrok clone in Elixir】Elixir 中可自我托管的 Ngrok 克隆](https://elixirstatus.com/p/s0eXE-self-hostable-ngrok-clone-in-elixir)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-03T08:12:23Z",
+                "latest_post": "[【Error Tracker v0.9 has been released】错误跟踪器 v0.9 已发布](https://elixirstatus.com/p/ceItl-error-tracker-v09-has-been-released)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-03T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-03 Review](http://www.sec-wiki.com/?2026-05-03)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-04T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-04 Review](http://www.sec-wiki.com/?2026-05-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
