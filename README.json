@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-05T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-05-05 Embassy - 新一代嵌入式应用开发框架](https://rustcc.cn/article?id=55f21f35-3a24-4eaf-9f68-0fdc3971c49b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-06T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-05-06 Sqlitex 0.3.0 - 具有编译时保证的 SQLite 库](https://rustcc.cn/article?id=463e7aee-84b0-40d8-bca8-b93eeacf90e3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,15 +122,15 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-05T09:08:14Z",
-                "latest_post": "[PH今日热榜   2026-05-05](https://decohack.com/producthunt-daily-2026-05-05/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-06T09:23:16Z",
+                "latest_post": "[PH今日热榜   2026-05-06](https://decohack.com/producthunt-daily-2026-05-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-04-28T02:39:57Z",
-                "latest_post": "[#344 Pixel-streamed UI](https://quaily.com/dingyi/p/344)",
+                "published_date": "2026-05-06T09:31:50Z",
+                "latest_post": "[#345 2026 年最被诅咒美学](https://quaily.com/dingyi/p/345)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
