@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-07T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-05-07 404 Privacy - 浏览器指纹保护工具](https://rustcc.cn/article?id=309311be-6598-4a5d-9117-718791fe4f22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-08T01:09:00Z",
+                "latest_post": "[【Rust日报】2026-05-08 Burn 0.21.0 发布：框架开销降低最高达8倍](https://rustcc.cn/article?id=38d8c972-78a1-4e80-8dab-d48d62ede8f7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-07T09:31:42Z",
-                "latest_post": "[PH今日热榜   2026-05-07](https://decohack.com/producthunt-daily-2026-05-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-08T08:22:30Z",
+                "latest_post": "[PH今日热榜   2026-05-08](https://decohack.com/producthunt-daily-2026-05-08/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-04-23T23:43:01Z",
-                "latest_post": "[科技爱好者周刊（第 394 期）：第二次 API 开放浪潮](http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html)",
+                "published_date": "2026-05-07T23:40:44Z",
+                "latest_post": "[科技爱好者周刊（第 395 期）：软件开发的第三种方式](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
