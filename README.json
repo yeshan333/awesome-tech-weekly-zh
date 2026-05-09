@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-08T01:09:00Z",
-                "latest_post": "[【Rust日报】2026-05-08 Burn 0.21.0 发布：框架开销降低最高达8倍](https://rustcc.cn/article?id=38d8c972-78a1-4e80-8dab-d48d62ede8f7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-09T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-05-09 NVIDIA 发布 CUDA-Oxide 0.1：实验性 Rust 到 CUDA 编译器](https://rustcc.cn/article?id=180cce85-9c69-4722-82e6-260796b0b330)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-08T08:22:30Z",
-                "latest_post": "[PH今日热榜   2026-05-08](https://decohack.com/producthunt-daily-2026-05-08/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-09T08:27:59Z",
+                "latest_post": "[PH今日热榜   2026-05-09](https://decohack.com/producthunt-daily-2026-05-09/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
