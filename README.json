@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-05-08T15:31:45Z",
-                "latest_post": "[【Lockstep — find race conditions in BEAM code and replay them on demand】Lockstep — 在 BEAM 代码中查找竞争条件并按需重播它们](https://elixirstatus.com/p/9q7Pb-lockstep--find-race-conditions-in-beam-code-and-replay-them-on-demand)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://thinkingelixir.com/](https://thinkingelixir.com/)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-11T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-11 Review](http://www.sec-wiki.com/?2026-05-11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-12T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-12 Review](http://www.sec-wiki.com/?2026-05-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
