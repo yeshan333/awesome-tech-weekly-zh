@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-11T01:06:00Z",
-                "latest_post": "[【Rust日报】2026-05-11 Miro PDF 0.9.0 发布：多页面支持](https://rustcc.cn/article?id=448087fe-1af6-41ba-a4af-a3cabd84ef0c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-12T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-05-12 iroh 1.0.0-rc.0 - 首个候选发布版本](https://rustcc.cn/article?id=bb9650e7-fa6d-4b2b-b066-5de61a6a5b53)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,15 +122,15 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-11T10:38:51Z",
-                "latest_post": "[PH今日热榜   2026-05-11](https://decohack.com/producthunt-daily-2026-05-11/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-12T09:38:08Z",
+                "latest_post": "[PH今日热榜   2026-05-12](https://decohack.com/producthunt-daily-2026-05-12/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-05-06T09:31:50Z",
-                "latest_post": "[#345 2026 年最被诅咒美学](https://quaily.com/dingyi/p/345)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-12T04:25:41Z",
+                "latest_post": "[#346 云端 agent](https://quaily.com/dingyi/p/346)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
