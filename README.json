@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-12T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-05-12 iroh 1.0.0-rc.0 - 首个候选发布版本](https://rustcc.cn/article?id=bb9650e7-fa6d-4b2b-b066-5de61a6a5b53)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-13T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-05-13 IBM s390 架构获得 Linux 内核 Rust 支持](https://rustcc.cn/article?id=f9cedbc5-324e-4136-9155-d9cdb8847adc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-12T09:38:08Z",
-                "latest_post": "[PH今日热榜   2026-05-12](https://decohack.com/producthunt-daily-2026-05-12/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-13T09:44:28Z",
+                "latest_post": "[PH今日热榜   2026-05-13](https://decohack.com/producthunt-daily-2026-05-13/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -301,8 +301,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "published_date": "2023-04-25T00:33:52Z",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
