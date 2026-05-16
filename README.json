@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-05-12T12:28:01Z",
-                "latest_post": "[【Thinking Elixir 303: The Taming of the Slop】思考灵丹妙药 303：驯服斜坡](https://elixirstatus.com/p/z5ogc-thinking-elixir-303-the-taming-of-the-slop)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-15T15:00:32Z",
+                "latest_post": "[【How do I write Elixir tests?】如何编写 Elixir 测试？](https://elixirstatus.com/p/Mm62D-how-do-i-write-elixir-tests)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-15T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-05-15 Bun 用 Rust 重写的代码已合并](https://rustcc.cn/article?id=4ea7ef5e-02b6-4ac9-9cb5-dbd7223409c5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-16T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-05-16 Burn ONNX 0.21.0 发布：支持构建时 ONNX 模型导入](https://rustcc.cn/article?id=bf2d5664-b20d-4cf7-bd26-b31e97a6b72a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-15T09:48:06Z",
-                "latest_post": "[PH今日热榜   2026-05-15](https://decohack.com/producthunt-daily-2026-05-15/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-16T08:48:50Z",
+                "latest_post": "[PH今日热榜   2026-05-16](https://decohack.com/producthunt-daily-2026-05-16/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
