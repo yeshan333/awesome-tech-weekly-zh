@@ -12,8 +12,8 @@
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2026-05-11T16:32:47Z",
-                "latest_post": "[AIGC Weekly #170](https://quaily.com/op7418/p/aigc-weekly-one-seventy)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-18T14:50:01Z",
+                "latest_post": "[AIGC Weekly #171](https://quaily.com/op7418/p/aigc-weekly-one-seventy-one)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -136,8 +136,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-05-10T16:41:45Z",
-                "latest_post": "[体验碎周报第279期 (2026.5.11)](https://www.ftium4.com/ux-weekly-279.html)",
+                "published_date": "2026-05-17T16:43:11Z",
+                "latest_post": "[体验碎周报第280期 (2026.5.18)](https://www.ftium4.com/ux-weekly-280.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-17T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-17 Review](http://www.sec-wiki.com/?2026-05-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-18T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-18 Review](http://www.sec-wiki.com/?2026-05-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
