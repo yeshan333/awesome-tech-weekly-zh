@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-05-16T23:38:58Z",
-                "latest_post": "[2026 05 17 HackerNews](https://supertechfans.com/cn/post/2026-05-17-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-17T23:55:19Z",
+                "latest_post": "[2026 05 18 HackerNews](https://supertechfans.com/cn/post/2026-05-18-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -259,7 +259,7 @@
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
                 "published_date": "2026-05-11T00:00:00Z",
-                "latest_post": "[第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[第267期 - 西湖拍字](https://weekly.tw93.fun/posts/267/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
