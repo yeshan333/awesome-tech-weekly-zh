@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-17T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-05-17 hi_sparse_bitset v0.9.0 发布：不可变位集与真正的零拷贝](https://rustcc.cn/article?id=a6014efc-4578-4d8f-9419-620c5e731729)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-18T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-05-18 sem - 基于 Git 的语义版本控制工具](https://rustcc.cn/article?id=d15b1384-48f8-43dc-b43a-817be2dd8741)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,15 +122,15 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-17T09:04:40Z",
-                "latest_post": "[PH今日热榜   2026-05-17](https://decohack.com/producthunt-daily-2026-05-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-18T11:07:38Z",
+                "latest_post": "[PH今日热榜   2026-05-18](https://decohack.com/producthunt-daily-2026-05-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-05-12T04:25:41Z",
-                "latest_post": "[#346 云端 agent](https://quaily.com/dingyi/p/346)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-18T09:29:10Z",
+                "latest_post": "[#347 两位知名设计工程师互相拉黑了](https://quaily.com/dingyi/p/347)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -204,8 +204,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-05-11T02:10:11Z",
-                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 168-169：暂搁代码笔墨，且渡肉身难关](https://www.v2ex.com/t/1211779#reply6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-18T04:00:59Z",
+                "latest_post": "[[独立开发者 👨‍💻] 独立开发周记 170：差点转型成为装修博主](https://www.v2ex.com/t/1213470#reply3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
