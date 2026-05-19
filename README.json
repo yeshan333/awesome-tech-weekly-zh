@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-05-15T15:00:32Z",
-                "latest_post": "[【How do I write Elixir tests?】如何编写 Elixir 测试？](https://elixirstatus.com/p/Mm62D-how-do-i-write-elixir-tests)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-17T21:37:03Z",
+                "latest_post": "[【Mold - a tiny, zero-dependency parsing library for external payloads】Mold - 一个小型的、零依赖的外部负载解析库](https://elixirstatus.com/p/N2qk5-mold---a-tiny-zero-dependency-parsing-library-for-external-payloads)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-18T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-18 Review](http://www.sec-wiki.com/?2026-05-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-19T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-19 Review](http://www.sec-wiki.com/?2026-05-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -294,8 +294,8 @@
             {
                 "name": "softwaretestingweekly",
                 "desc": "softwaretestingweekly ",
-                "published_date": "2026-05-09T19:33:54Z",
-                "latest_post": "[【Software Testing Weekly - Issue 312 - May 9th 2026】软件测试周刊 - 第 312 期 - 2026 年 5 月 9 日](https://softwaretestingweekly.com/issues/312)",
+                "published_date": "2026-05-18T08:00:00Z",
+                "latest_post": "[【Software Testing Weekly - Issue 313 - May 18th 2026】软件测试周刊 - 第 313 期 - 2026 年 5 月 18 日](https://softwaretestingweekly.com/issues/313)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
