@@ -136,7 +136,7 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "",
+                "published_date": "2026-05-17T16:43:11Z",
                 "latest_post": "[体验碎周报第280期 (2026.5.18)](https://www.ftium4.com/ux-weekly-280.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-19T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-19 Review](http://www.sec-wiki.com/?2026-05-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-20T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-20 Review](http://www.sec-wiki.com/?2026-05-20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
