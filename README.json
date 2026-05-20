@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-19T01:10:00Z",
-                "latest_post": "[【Rust日报】2026-05-19 Needle-rs：纯Rust &#43; WebAssembly的工具调用运行时](https://rustcc.cn/article?id=fcd8780b-a36d-4c4f-8a7c-64e56ec6f121)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-20T01:10:00Z",
+                "latest_post": "[【Rust日报】2026-05-20 Tonic 加入 gRPC 项目](https://rustcc.cn/article?id=da3c1ff5-12ed-4c7f-b188-ac2bcc57ecda)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-19T10:37:57Z",
-                "latest_post": "[PH今日热榜   2026-05-19](https://decohack.com/producthunt-daily-2026-05-19/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-20T10:25:51Z",
+                "latest_post": "[PH今日热榜   2026-05-20](https://decohack.com/producthunt-daily-2026-05-20/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -136,7 +136,7 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-05-17T16:43:11Z",
+                "published_date": "",
                 "latest_post": "[体验碎周报第280期 (2026.5.18)](https://www.ftium4.com/ux-weekly-280.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
