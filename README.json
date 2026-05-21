@@ -55,7 +55,7 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
+                "published_date": "",
                 "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-20T01:10:00Z",
-                "latest_post": "[【Rust日报】2026-05-20 Tonic 加入 gRPC 项目](https://rustcc.cn/article?id=da3c1ff5-12ed-4c7f-b188-ac2bcc57ecda)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-21T01:09:00Z",
+                "latest_post": "[【Rust日报】2026-05-21 RMUX：用 Rust 编写的原生终端多路复用器](https://rustcc.cn/article?id=3f8f52fe-572b-4e1f-a344-3e1c66812daa)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-20T10:25:51Z",
-                "latest_post": "[PH今日热榜   2026-05-20](https://decohack.com/producthunt-daily-2026-05-20/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-21T10:42:02Z",
+                "latest_post": "[PH今日热榜   2026-05-21](https://decohack.com/producthunt-daily-2026-05-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
