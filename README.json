@@ -143,7 +143,7 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
+                "published_date": "2025-12-21T12:45:32Z",
                 "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
@@ -245,7 +245,7 @@
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
                 "published_date": "2026-05-15T16:38:24Z",
-                "latest_post": "[〖工具自荐〗EasyCodex：用 Android 手机远程控制本地 Codex 编程智能体](https://github.com/Geekhyt/weekly/issues/155)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[〖工具自荐〗EasyCodex：用 Android 手机远程控制本地 Codex 编程智能体](https://github.com/Geekhyt/weekly/issues/155)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-21T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-21 Review](http://www.sec-wiki.com/?2026-05-21)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-22T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-22 Review](http://www.sec-wiki.com/?2026-05-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -282,7 +282,7 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
+                "published_date": "2026-04-17T14:21:00Z",
                 "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
