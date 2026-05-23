@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-22T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-05-22 Rust 开发者发布类型安全的异步 Socket.IO 客户端库](https://rustcc.cn/article?id=fd9b62bc-f863-4685-b074-43c73709614a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-22T10:24:57Z",
-                "latest_post": "[PH今日热榜   2026-05-22](https://decohack.com/producthunt-daily-2026-05-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-23T09:03:12Z",
+                "latest_post": "[PH今日热榜   2026-05-23](https://decohack.com/producthunt-daily-2026-05-23/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -313,7 +313,7 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-05-14T13:59:53Z",
+                "published_date": "",
                 "latest_post": "[学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
