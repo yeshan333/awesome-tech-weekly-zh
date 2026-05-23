@@ -68,7 +68,7 @@
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-05-16T11:44:08Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/529)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/529)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-05-23T01:10:00Z",
+                "latest_post": "[【Rust日报】2026-05-23 CX：一门用 Rust 编写的系统语言发布 0.1.0](https://rustcc.cn/article?id=61deab1b-a03d-4059-94d9-05bf4ea5909a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -143,15 +143,15 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2025-12-21T12:45:32Z",
-                "latest_post": "[061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
                 "name": "月维素材周刊",
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
                 "published_date": "2026-05-16T16:00:00Z",
-                "latest_post": "[设计素材周刊 211 期](https://moonvy.com/blog/post/设计素材周刊/211/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[设计素材周刊 211 期](https://moonvy.com/blog/post/设计素材周刊/211/)",
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             }
         ]
@@ -244,8 +244,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2026-05-15T16:38:24Z",
-                "latest_post": "[〖工具自荐〗EasyCodex：用 Android 手机远程控制本地 Codex 编程智能体](https://github.com/Geekhyt/weekly/issues/155)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-22T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-22 Review](http://www.sec-wiki.com/?2026-05-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-23T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-05-23 Review](http://www.sec-wiki.com/?2026-05-23)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -282,8 +282,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-04-17T14:21:00Z",
-                "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -301,8 +301,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
-                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
@@ -313,7 +313,7 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "",
+                "published_date": "2026-05-14T13:59:53Z",
                 "latest_post": "[学习周刊-总第263期-2026年第20周](https://wiki.eryajf.net/pages/e2b5fd/)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
