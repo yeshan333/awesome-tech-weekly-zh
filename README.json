@@ -44,7 +44,7 @@
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2026-05-17T21:37:03Z",
-                "latest_post": "[【Mold - a tiny, zero-dependency parsing library for external payloads】Mold - 一个小型的、零依赖的外部负载解析库](https://elixirstatus.com/p/N2qk5-mold---a-tiny-zero-dependency-parsing-library-for-external-payloads)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[【Mold - a tiny, zero-dependency parsing library for external payloads】Mold - 一个小型的、零依赖的外部负载解析库](https://elixirstatus.com/p/N2qk5-mold---a-tiny-zero-dependency-parsing-library-for-external-payloads)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-05-23T00:43:41Z",
-                "latest_post": "[2026 05 23 HackerNews](https://supertechfans.com/cn/post/2026-05-23-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-24T23:32:06Z",
+                "latest_post": "[2026 05 25 HackerNews](https://supertechfans.com/cn/post/2026-05-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-05-24T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-05-24 Review](http://www.sec-wiki.com/?2026-05-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
