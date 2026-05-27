@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-26T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-05-26 TrapDoor 跨生态供应链攻击曝光](https://rustcc.cn/article?id=937572a4-f57d-482c-ad32-aa8bb611e752)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-27T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-05-27 speakrs - 快速 Rust 说话人分离工具](https://rustcc.cn/article?id=0e6c3cfe-2024-47cc-b30b-03d06cf36680)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
+                "published_date": "",
                 "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-25T11:11:08Z",
-                "latest_post": "[PH今日热榜   2026-05-25](https://decohack.com/producthunt-daily-2026-05-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-27T10:56:58Z",
+                "latest_post": "[PH今日热榜   2026-05-27](https://decohack.com/producthunt-daily-2026-05-27/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
