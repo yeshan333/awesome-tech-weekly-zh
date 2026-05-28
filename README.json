@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-27T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-05-27 speakrs - 快速 Rust 说话人分离工具](https://rustcc.cn/article?id=0e6c3cfe-2024-47cc-b30b-03d06cf36680)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-28T01:09:00Z",
+                "latest_post": "[【Rust日报】2026-05-28 SQLx 0.9.0 发布：新增 sqlx.toml 与更严格 SQL 安全机制](https://rustcc.cn/article?id=e7b83f3b-49eb-4ff4-ac8c-d9c541abc406)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,15 +115,15 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-27T10:56:58Z",
-                "latest_post": "[PH今日热榜   2026-05-27](https://decohack.com/producthunt-daily-2026-05-27/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-28T10:57:19Z",
+                "latest_post": "[PH今日热榜   2026-05-28](https://decohack.com/producthunt-daily-2026-05-28/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
