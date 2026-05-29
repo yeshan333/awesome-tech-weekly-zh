@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-28T01:09:00Z",
-                "latest_post": "[【Rust日报】2026-05-28 SQLx 0.9.0 发布：新增 sqlx.toml 与更严格 SQL 安全机制](https://rustcc.cn/article?id=e7b83f3b-49eb-4ff4-ac8c-d9c541abc406)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-29T01:12:00Z",
+                "latest_post": "[【Rust日报】2026-05-29 Rust 1.96.0 发布，稳定 core::range 新类型与 assert_matches!](https://rustcc.cn/article?id=9765251a-a3f9-4424-be9c-1f2c82338b1b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "",
-                "latest_post": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)",
+                "published_date": "2026-05-29T10:45:47Z",
+                "latest_post": "[PH今日热榜   2026-05-29](https://decohack.com/producthunt-daily-2026-05-29/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -225,8 +225,8 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-05-21T23:58:35Z",
-                "latest_post": "[科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)",
+                "published_date": "2026-05-29T00:08:39Z",
+                "latest_post": "[科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
@@ -301,7 +301,7 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
+                "published_date": "",
                 "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
