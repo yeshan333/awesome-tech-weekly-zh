@@ -121,7 +121,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-05-28T01:09:00Z | [【Rust日报】2026-05-28 SQLx 0.9.0 发布：新增 sqlx.toml 与更严格 SQL 安全机制](https://rustcc.cn/article?id=e7b83f3b-49eb-4ff4-ac8c-d9c541abc406)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-05-29T01:12:00Z | [【Rust日报】2026-05-29 Rust 1.96.0 发布，稳定 core::range 新类型与 assert_matches!](https://rustcc.cn/article?id=9765251a-a3f9-4424-be9c-1f2c82338b1b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -170,7 +170,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19T14:55:31Z | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-05-28T10:57:19Z | [PH今日热榜   2026-05-28](https://decohack.com/producthunt-daily-2026-05-28/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-05-29T10:45:47Z | [PH今日热榜   2026-05-29](https://decohack.com/producthunt-daily-2026-05-29/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-05-26T05:24:40Z | [#348 Figma 正式推出原生 Design Agent](https://quaily.com/dingyi/p/348)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-05-17T16:43:11Z | [体验碎周报第280期 (2026.5.18)](https://www.ftium4.com/ux-weekly-280.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 | 2025-12-21T12:45:32Z | [061期：Vibe Coding基础教程](https://www.yuque.com/zing123/scu69w/hbgdumgwcaavqkkn) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
@@ -199,7 +199,7 @@
 | 独立开发周记 | 独立开发周记 | 2026-05-25T13:01:42Z | [[独立开发者 👨‍💻] 独立开发周记 171：技术债和身体债一起找上门](https://www.v2ex.com/t/1215408#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30T05:04:11Z | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2026-05-27T00:00:00Z | [第185期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/05/27/%E7%AC%AC185%E6%9C%9F-%E5%81%B7%E6%87%92%E7%88%B1%E5%A5%BD%E8%80%85%E5%91%A8%E5%88%8A.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-05-21T23:58:35Z | [科技爱好者周刊（第 397 期）：财富正在向 AI 集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-05-29T00:08:39Z | [科技爱好者周刊（第 398 期）：Token 费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 | 肖恩技术周刊 | 记录有价值的技术内容，对周内阅读的技术内容精品进行总结 | 2026-04-24T00:00:00Z | [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [https://weekly.shawnxie.top/](https://weekly.shawnxie.top/) |
 
 <div align="right">
@@ -234,7 +234,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-:|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-05-28T15:58:20Z | [SecWiki News 2026-05-28 Review](http://www.sec-wiki.com/?2026-05-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-05-29T15:58:20Z | [SecWiki News 2026-05-29 Review](http://www.sec-wiki.com/?2026-05-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
