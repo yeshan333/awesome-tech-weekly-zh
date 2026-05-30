@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-29T01:12:00Z",
-                "latest_post": "[【Rust日报】2026-05-29 Rust 1.96.0 发布，稳定 core::range 新类型与 assert_matches!](https://rustcc.cn/article?id=9765251a-a3f9-4424-be9c-1f2c82338b1b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-30T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-05-30 Microsoft Windows Reactor：面向 Rust 的原生 WinUI 3 UI 库](https://rustcc.cn/article?id=305cf80c-ac85-446c-9021-59d89698d658)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-05-29T10:45:47Z",
-                "latest_post": "[PH今日热榜   2026-05-29](https://decohack.com/producthunt-daily-2026-05-29/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-30T09:15:12Z",
+                "latest_post": "[PH今日热榜   2026-05-30](https://decohack.com/producthunt-daily-2026-05-30/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
