@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-05-30T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-05-30 Microsoft Windows Reactor：面向 Rust 的原生 WinUI 3 UI 库](https://rustcc.cn/article?id=305cf80c-ac85-446c-9021-59d89698d658)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-31T01:05:00Z",
+                "latest_post": "[【Rust日报】2026-05-31 gRPC 正式接管 Tonic，Rust 成为官方支持语言](https://rustcc.cn/article?id=ca32d395-a19b-4a66-b2ce-4c71744aa3a9)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-05-30T00:18:00Z",
-                "latest_post": "[2026 05 30 HackerNews](https://supertechfans.com/cn/post/2026-05-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-05-30T23:39:17Z",
+                "latest_post": "[2026 05 31 HackerNews](https://supertechfans.com/cn/post/2026-05-31-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
