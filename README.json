@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-06-03T01:08:00Z",
-                "latest_post": "[【Rust日报】2026-06-03 内存安全关乎生死：为 Rust 成功而战](https://rustcc.cn/article?id=249cad6f-4b46-4014-b9ec-dc719a7afb75)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-04T01:04:00Z",
+                "latest_post": "[【Rust日报】2026-06-04 fff：专为 AI Agent 设计的最快文件搜索工具包](https://rustcc.cn/article?id=83c61b63-d413-47d2-b902-6b760487c65e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -177,7 +177,7 @@
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
                 "published_date": "2026-05-28T00:07:51Z",
-                "latest_post": "[HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[HelloGitHub 第 122 期](https://hellogithub.com/periodical/volume/122)",
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
