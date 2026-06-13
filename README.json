@@ -55,7 +55,7 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
+                "published_date": "",
                 "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-06-07T23:53:34Z",
-                "latest_post": "[https://soulteary.com/2026/06/07/revisiting-minio-license-archive-community-forks-and-my-apache-2-baseline.html](https://t.me/pythontrendingweekly/533)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-13T15:58:41Z",
+                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/534)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-06-12T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-06-12 Review](http://www.sec-wiki.com/?2026-06-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-13T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-06-13 Review](http://www.sec-wiki.com/?2026-06-13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
