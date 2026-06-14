@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-06-13T15:58:41Z",
-                "latest_post": "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/534)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-14T13:02:05Z",
+                "latest_post": "[Python 潮流周刊第 60-90 期的全文精华内容合集～](https://t.me/pythontrendingweekly/535)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -92,7 +92,7 @@
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
                 "published_date": "2026-06-07T15:11:49Z",
-                "latest_post": "[老司机 iOS 周报 #372   2026-06-08](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23372)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[老司机 iOS 周报 #372   2026-06-08](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23372)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -130,7 +130,7 @@
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
                 "published_date": "2026-06-07T14:57:59Z",
-                "latest_post": "[#350 图像大模型进入白热化竞争](https://quaily.com/dingyi/p/350)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[#350 图像大模型进入白热化竞争](https://quaily.com/dingyi/p/350)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -258,8 +258,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-06-07T00:00:00Z",
-                "latest_post": "[第269期 - 天目胜景](https://weekly.tw93.fun/posts/269/)",
+                "published_date": "2026-06-15T00:00:00Z",
+                "latest_post": "[第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-06-13T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-06-13 Review](http://www.sec-wiki.com/?2026-06-13)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-14T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-06-14 Review](http://www.sec-wiki.com/?2026-06-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
