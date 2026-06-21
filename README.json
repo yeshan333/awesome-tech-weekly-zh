@@ -103,7 +103,7 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-04-23T06:56:49Z",
+                "published_date": "",
                 "latest_post": "[Kubernetes v1.36 正式发布：春归万物生，稳中见功夫](https://blog.csdn.net/zpf17671624050/article/details/160442808)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-06-20T10:09:16Z",
-                "latest_post": "[PH今日热榜   2026-06-20](https://decohack.com/producthunt-daily-2026-06-20/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-21T10:29:19Z",
+                "latest_post": "[PH今日热榜   2026-06-21](https://decohack.com/producthunt-daily-2026-06-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -163,7 +163,7 @@
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
                 "published_date": "2026-06-14T10:19:35Z",
-                "latest_post": "[猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
