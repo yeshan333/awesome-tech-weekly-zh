@@ -12,15 +12,15 @@
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2026-06-15T12:47:15Z",
-                "latest_post": "[AIGC Weekly #175](https://quaily.com/op7418/p/aigc-weekly-one-seven-five)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-22T17:28:18Z",
+                "latest_post": "[AIGC Weekly #176](https://quaily.com/op7418/p/aigc-weekly-one-seven-six)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
                 "name": "无限自然",
                 "desc": "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。",
-                "published_date": "2026-02-03T14:03:00Z",
-                "latest_post": "[电子书最优解](https://quaily.com/zing927/p/best-solution-ebook)",
+                "published_date": "2026-06-22T13:45:00Z",
+                "latest_post": "[62期：继续](https://quaily.com/zing927/p/sixty-two-qi-continue)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/zing927](https://quaily.com/zing927)"
             }
         ]
@@ -122,15 +122,15 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-06-21T10:29:19Z",
-                "latest_post": "[PH今日热榜   2026-06-21](https://decohack.com/producthunt-daily-2026-06-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-22T12:49:29Z",
+                "latest_post": "[PH今日热榜   2026-06-22](https://decohack.com/producthunt-daily-2026-06-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-06-15T15:30:56Z",
-                "latest_post": "[#351 当一个企业无法创新时，离死就不远了。](https://quaily.com/dingyi/p/351)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-22T16:04:29Z",
+                "latest_post": "[#352 Framer 3.0](https://quaily.com/dingyi/p/352)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-06-21T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-06-21 Review](http://www.sec-wiki.com/?2026-06-21)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-22T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-06-22 Review](http://www.sec-wiki.com/?2026-06-22)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
