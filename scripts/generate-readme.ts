@@ -31,7 +31,7 @@ interface YamlItem {
   link: string;
   desc: string;
   desc_en?: string;
-  feed_url: string;
+  feed_url?: string;
   filePath: string;
 }
 
@@ -407,6 +407,7 @@ function evaluateExpr(expr: string, ctx: EvalContext): any {
   if (expr.startsWith('getFeedLatestPostPublishedDate ')) {
     const arg = expr.substring(31).trim();
     const feedUrl = evaluateExpr(arg, ctx);
+    if (!feedUrl) return '';
     const feed = ctx.resolvedFeeds[feedUrl];
     return feed ? feed.publishedDate.replace(/\.\d{3}/, '') : '';
   }
@@ -417,6 +418,7 @@ function evaluateExpr(expr: string, ctx: EvalContext): any {
     const feedUrl = evaluateExpr(parts[0], ctx);
     const fallbackLink = evaluateExpr(parts[1], ctx);
 
+    if (!feedUrl) return `[${fallbackLink}](${fallbackLink})`;
     const feed = ctx.resolvedFeeds[feedUrl];
     if (feed && feed.latestTitle) {
       const isNew = isPublishedWithin7Days(feed.publishedDate);
@@ -578,7 +580,7 @@ async function main() {
     try {
       const content = readFileSync(file, 'utf-8');
       const parsed = YAML.parse(content) as any;
-      if (!parsed || !parsed.kind || !parsed.feed_url) {
+      if (!parsed || !parsed.kind) {
         console.warn(`[Files] Invalid YAML format in ${file}, skipping.`);
         continue;
       }
@@ -589,7 +591,7 @@ async function main() {
         link: parsed.link || '',
         desc: parsed.desc || '',
         desc_en: parsed.desc_en,
-        feed_url: parsed.feed_url,
+        feed_url: parsed.feed_url || '',
         filePath: file
       };
       items.push(item);
@@ -620,7 +622,7 @@ async function main() {
   console.log(`[Groups] Grouped into ${groups.length} categories.`);
 
   // 2. Fetch and parse feeds in parallel
-  const uniqueFeedUrls = Array.from(new Set(items.map(item => item.feed_url)));
+  const uniqueFeedUrls = Array.from(new Set(items.map(item => item.feed_url).filter(Boolean)));
   console.log(`[Feeds] Found ${uniqueFeedUrls.length} unique feed URLs. Fetching...`);
 
   const resolvedFeeds: Record<string, FeedInfo | null> = {};
