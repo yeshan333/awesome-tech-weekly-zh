@@ -89,6 +89,21 @@ function isPublishedWithin7Days(dateStr: string): boolean {
   }
 }
 
+// Format date string to Beijing Time (UTC+8) YYYY-MM-DD HH:MM
+function formatBeijingDate(dateStr: string): string {
+  if (!dateStr) return '';
+  try {
+    const date = new Date(dateStr);
+    if (isNaN(date.getTime())) return dateStr;
+    const offset = 8 * 60 * 60 * 1000; // Beijing Time is UTC+8
+    const beijingDate = new Date(date.getTime() + offset);
+    const isoString = beijingDate.toISOString(); // e.g. 2026-06-23T01:28:18.000Z
+    return isoString.substring(0, 16).replace('T', ' '); // 2026-06-23 01:28
+  } catch {
+    return dateStr;
+  }
+}
+
 // Decode URL for clean display
 function goUrlDecode(url: string): string {
   try {
@@ -351,6 +366,7 @@ interface EvalContext {
   vars: Record<string, any>;
   dot: any;
   isJson: boolean;
+  isStructured: boolean;
   resolvedFeeds: Record<string, FeedInfo | null>;
 }
 
@@ -419,7 +435,9 @@ function evaluateExpr(expr: string, ctx: EvalContext): any {
     const feedUrl = evaluateExpr(arg, ctx);
     if (!feedUrl) return '';
     const feed = ctx.resolvedFeeds[feedUrl];
-    return feed ? feed.publishedDate.replace(/\.\d{3}/, '') : '';
+    if (!feed) return '';
+    const dateStr = feed.publishedDate.replace(/\.\d{3}/, '');
+    return ctx.isStructured ? dateStr : formatBeijingDate(dateStr);
   }
 
   if (expr.startsWith('getFeedLatestPost ')) {
@@ -699,6 +717,7 @@ async function main() {
       const ast = parseTokens(tokens);
 
       const isJson = job.output.endsWith('.json');
+      const isStructured = isJson || job.output.endsWith('.yaml');
       const ctx: EvalContext = {
         groups,
         rootData,
@@ -706,6 +725,7 @@ async function main() {
         vars: {},
         dot: rootData,
         isJson,
+        isStructured,
         resolvedFeeds
       };
 
