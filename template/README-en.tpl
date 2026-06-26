@@ -3,32 +3,37 @@ English | [简体中文](../README.md)
 <div align="center">
 <h1>Awesome Technology Weekly Zh-Hans</h1>
 
-<p>🧐 Divided into {{lenGroupNum}} categories. 📥 Includes {{lenItemNum}} weeklies.</p>
+<p>
+  <a href="https://github.com/yeshan333/awesome-tech-weekly-zh">
+    <img src="https://img.shields.io/badge/Categories-{{lenGroupNum}}-blue?style=flat-square" alt="Categories">
+  </a>
+  <a href="https://github.com/yeshan333/awesome-tech-weekly-zh">
+    <img src="https://img.shields.io/badge/Weeklies-{{lenItemNum}}-brightgreen?style=flat-square" alt="Total Items">
+  </a>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</p>
+
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 <p><img src="assets/news.png"/> This is a newly published article this week.</p>
-
-<a href="https://awesome.re">
-  <img src="https://awesome.re/badge.svg" alt="Awesome">
-</a>
 
 </div>
 
 ## Contents
 
+<p align="center">
 {{- range $key, $val := .}}
-- [{{$key}}](#{{$key}})
+  <a href="#{{$key}}"><code>{{$key}}</code></a> &nbsp;
 {{- end}}
-
-{{- range $key, $val := .}}
-
-## {{$key}}
-
-<p align="right">
-📥 This category contains {{len .}} items.
 </p>
 
+{{- range $key, $val := .}}
+
+## {{$key}} <img src="https://img.shields.io/badge/weeklies-{{len .}}-brightgreen?style=flat-square" valign="middle">
+
 | Name | Description | UpdatedAt | Article | Addr |
-|:-:|:-|:-:|:-:|:-:|
+|:-:|:-|:-:|:-|:-:|
 {{- range $item := $val}}
 | {{$item.name}} | {{$item.desc}} | {{ getFeedLatestPostPublishedDate $item.feed_url }} | {{ getFeedLatestPost $item.feed_url $item.link }} | [{{goUrlDecode $item.link}}]({{$item.link}}) |
 {{- end}}
