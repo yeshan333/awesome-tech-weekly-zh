@@ -23,13 +23,13 @@ English | [简体中文](../README.md)
 ## Contents
 
 <p align="center">
-  <a href="#AI"><code>AI</code></a> &nbsp;
-  <a href="#Dotnet"><code>Dotnet</code></a> &nbsp;
-  <a href="#Elixir"><code>Elixir</code></a> &nbsp;
-  <a href="#Go"><code>Go</code></a> &nbsp;
-  <a href="#Python"><code>Python</code></a> &nbsp;
-  <a href="#Rust"><code>Rust</code></a> &nbsp;
-  <a href="#iOS"><code>iOS</code></a> &nbsp;
+  <a href="#ai"><code>AI</code></a> &nbsp;
+  <a href="#dotnet"><code>Dotnet</code></a> &nbsp;
+  <a href="#elixir"><code>Elixir</code></a> &nbsp;
+  <a href="#go"><code>Go</code></a> &nbsp;
+  <a href="#python"><code>Python</code></a> &nbsp;
+  <a href="#rust"><code>Rust</code></a> &nbsp;
+  <a href="#ios"><code>iOS</code></a> &nbsp;
   <a href="#云原生"><code>云原生</code></a> &nbsp;
   <a href="#产品-体验-设计"><code>产品-体验-设计</code></a> &nbsp;
   <a href="#其他"><code>其他</code></a> &nbsp;
@@ -142,11 +142,11 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| BLUE周刊 | BLUE周刊 | 2024-06-19 22:55 | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-06-26 18:23 | [PH今日热榜   2026-06-26](https://decohack.com/producthunt-daily-2026-06-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-06-23 00:04 | [#352 Framer 3.0](https://quaily.com/dingyi/p/352)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-06-22 08:41 | [体验碎周报第284期(2026.6.22)](https://www.ftium4.com/ux-weekly-284.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 | 2024-07-24 22:27 | [#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2026-06-21 00:00 | [设计素材周刊 215 期](https://moonvy.com/blog/post/设计素材周刊/215/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">

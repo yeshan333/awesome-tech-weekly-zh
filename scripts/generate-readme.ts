@@ -414,6 +414,16 @@ function evaluateExpr(expr: string, ctx: EvalContext): any {
   if (expr === 'lenGroupNum') return ctx.groups.length;
   if (expr === 'lenItemNum') return ctx.totalItemsCount;
 
+  if (expr.startsWith('slugify ')) {
+    const arg = expr.substring(8).trim();
+    const val = evaluateExpr(arg, ctx);
+    return String(val || '')
+      .toLowerCase()
+      .trim()
+      .replace(/[^\p{L}\p{N}\s\-_]/gu, '')
+      .replace(/\s+/g, '-');
+  }
+
   if (expr.startsWith('len ')) {
     const arg = expr.substring(4).trim();
     const val = evaluateExpr(arg, ctx);

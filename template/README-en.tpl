@@ -24,7 +24,7 @@ English | [简体中文](../README.md)
 
 <p align="center">
 {{- range $key, $val := .}}
-  <a href="#{{$key}}"><code>{{$key}}</code></a> &nbsp;
+  <a href="#{{slugify $key}}"><code>{{$key}}</code></a> &nbsp;
 {{- end}}
 </p>
 
