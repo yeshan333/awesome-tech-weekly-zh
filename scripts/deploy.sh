@@ -13,8 +13,17 @@ else
     git pull origin main
 fi
 
-echo "==> Building site..."
-python3 scripts/build_site.py
+SKIP_BUILD=false
+for arg in "$@"; do
+    if [ "$arg" = "--skip-build" ]; then
+        SKIP_BUILD=true
+    fi
+done
+
+if [ "$SKIP_BUILD" = false ]; then
+    echo "==> Building site..."
+    python3 scripts/build_site.py
+fi
 
 echo "==> Deploying to Netlify..."
 
