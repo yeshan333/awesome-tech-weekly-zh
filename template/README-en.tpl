@@ -20,16 +20,18 @@ English | [简体中文](../README.md)
 
 </div>
 
+<a id="Contents"></a>
 ## Contents
 
 <p align="center">
 {{- range $key, $val := .}}
-  <a href="#{{slugify $key}}"><code>{{$key}}</code></a> &nbsp;
+  <a href="#{{$key}}"><code>{{$key}}</code></a> &nbsp;
 {{- end}}
 </p>
 
 {{- range $key, $val := .}}
 
+<a id="{{$key}}"></a>
 ## {{$key}} <img src="https://img.shields.io/badge/weeklies-{{len .}}-brightgreen?style=flat-square" valign="middle">
 
 | Name | Description | UpdatedAt | Article | Addr |

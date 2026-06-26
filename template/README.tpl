@@ -21,16 +21,18 @@
 
 </div>
 
+<a id="目录"></a>
 ## 目录
 
 <p align="center">
 {{- range $key, $val := .}}
-  <a href="#{{slugify $key}}"><code>{{$key}}</code></a> &nbsp;
+  <a href="#{{$key}}"><code>{{$key}}</code></a> &nbsp;
 {{- end}}
 </p>
 
 {{- range $key, $val := .}}
 
+<a id="{{$key}}"></a>
 ## {{$key}} <img src="https://img.shields.io/badge/收录-{{len .}}个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
