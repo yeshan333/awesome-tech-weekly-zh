@@ -175,7 +175,7 @@ async function parseFeed(url: string, xmlText: string, fallbackLink: string): Pr
 
   const latest = sortedItems[0];
   const latestTitle = escapeMarkdownTitle(latest.title || 'Untitled');
-  const latestLink = (latest.link || fallbackLink).trim();
+  const latestLink = (latest.link || fallbackLink).replace(/\s+/g, '').trim();
 
   let publishedDate = '';
   const rawDate = latest.isoDate || latest.pubDate;
