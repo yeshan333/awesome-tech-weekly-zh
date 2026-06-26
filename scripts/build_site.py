@@ -222,6 +222,36 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
     total_feeds = sum(len(cat["feeds"]) for cat in data)
     total_cats = len(data)
 
+    # Collect latest articles for the top showcase carousel
+    showcase_items = []
+    for cat in data:
+        for feed in cat["feeds"]:
+            pub = feed.get("published_date", "")
+            latest = feed.get("latest_post", "")
+            if not pub or not latest:
+                continue
+            latest_clean = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", latest).strip()
+            parsed = parse_md_link(latest_clean)
+            if not parsed:
+                continue
+            title, url = parsed
+            if not title or not url:
+                continue
+            # Avoid duplicate homepage links shown as latest article
+            link_url = extract_url(feed.get("link", ""))
+            if url == link_url:
+                continue
+            showcase_items.append({
+                "category": cat["category"],
+                "feed": feed.get("name", ""),
+                "title": title.strip(),
+                "url": url,
+                "date": format_date(pub),
+                "sort_date": pub,
+            })
+    showcase_items.sort(key=lambda x: x["sort_date"], reverse=True)
+    showcase_items = showcase_items[:10]
+
     categories_html = ""
     for cat in data:
         cat_name = cat["category"]
@@ -314,13 +344,47 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
         selected = 'selected' if s["name"] == style["name"] else ''
         theme_options += f'<option value="{escape_attr(s["name"])}" {selected}>{escape_html(s["name"])}</option>'
 
+    showcase_cards = ""
+    for idx, item in enumerate(showcase_items):
+        showcase_cards += f'''
+            <article class="showcase-card" style="z-index:{idx + 1}">
+                <div class="showcase-card-inner">
+                    <div class="showcase-meta">
+                        <span class="showcase-category">{escape_html(item["category"])}</span>
+                        <span class="showcase-date">{escape_html(item["date"])}</span>
+                    </div>
+                    <h3 class="showcase-feed">{escape_html(item["feed"])}</h3>
+                    <a href="{escape_attr(item["url"])}" target="_blank" rel="noopener" class="showcase-title">
+                        {escape_html(item["title"])}
+                        <i class="fas fa-external-link-alt"></i>
+                    </a>
+                </div>
+            </article>
+        '''
+
+    showcase_html = f'''
+        <section class="showcase-section">
+            <div class="showcase-header">
+                <h2><i class="fas fa-bolt"></i> 本周最新文章</h2>
+                <div class="showcase-controls">
+                    <button id="showcasePrev" aria-label="上一个"><i class="fas fa-chevron-left"></i></button>
+                    <button id="showcaseNext" aria-label="下一个"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+            <div class="showcase-scroll" id="showcaseScroll">
+                {showcase_cards}
+            </div>
+            <div class="showcase-dots" id="showcaseDots"></div>
+        </section>
+    ''' if showcase_cards else ""
+
     return f'''<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>中文技术周刊精选 - awesome-tech-weekly-zh</title>
-    <link rel="stylesheet" href="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-100-M/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <style>
         :root {{
@@ -775,6 +839,176 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
                 scroll-padding-top: 210px;
             }}
         }}
+
+        /* ===== Showcase Carousel ===== */
+        .showcase-section {{
+            margin: 24px 0 32px;
+        }}
+        .showcase-header {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            gap: 12px;
+        }}
+        .showcase-header h2 {{
+            font-family: var(--font-title);
+            font-size: 1.25rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--text);
+        }}
+        .showcase-controls {{
+            display: flex;
+            gap: 8px;
+            flex-shrink: 0;
+        }}
+        .showcase-controls button {{
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            border: 1px solid var(--border);
+            background: var(--card-bg);
+            color: var(--text);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9rem;
+            box-shadow: 0 2px 8px var(--shadow);
+            transition: all 0.2s ease;
+        }}
+        .showcase-controls button:hover {{
+            border-color: var(--accent);
+            color: var(--accent);
+            transform: scale(1.05);
+        }}
+
+        .showcase-scroll {{
+            display: flex;
+            overflow-x: auto;
+            overflow-y: hidden;
+            scroll-snap-type: x mandatory;
+            -webkit-overflow-scrolling: touch;
+            padding: 16px 0 24px;
+            margin: 0 -16px;
+            padding-left: 16px;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }}
+        .showcase-scroll::-webkit-scrollbar {{
+            display: none;
+        }}
+        .showcase-card {{
+            flex: 0 0 auto;
+            width: 340px;
+            margin-right: -80px;
+            scroll-snap-align: start;
+            position: relative;
+        }}
+        .showcase-card-inner {{
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            box-shadow: 0 4px 16px var(--shadow);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            height: 100%;
+            min-height: 170px;
+            display: flex;
+            flex-direction: column;
+        }}
+        .showcase-card-inner:hover {{
+            transform: translateY(-6px);
+            box-shadow: 0 14px 32px var(--shadow);
+        }}
+        .showcase-meta {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+            font-size: 0.8rem;
+        }}
+        .showcase-category {{
+            background: var(--category-bg);
+            color: var(--category-text);
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-weight: 600;
+        }}
+        .showcase-date {{
+            color: var(--muted);
+        }}
+        .showcase-feed {{
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: var(--muted);
+        }}
+        .showcase-title {{
+            display: block;
+            font-size: 1.05rem;
+            font-weight: 700;
+            line-height: 1.5;
+            color: var(--accent);
+            text-decoration: none;
+            margin-top: auto;
+        }}
+        .showcase-title:hover {{
+            color: var(--accent-hover);
+            text-decoration: underline;
+        }}
+        .showcase-title i {{
+            font-size: 0.75em;
+            margin-left: 4px;
+            opacity: 0.8;
+        }}
+
+        .showcase-dots {{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            margin-top: 4px;
+        }}
+        .showcase-dot {{
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--border);
+            cursor: pointer;
+            transition: background 0.2s, transform 0.2s;
+        }}
+        .showcase-dot.active {{
+            background: var(--accent);
+            transform: scale(1.2);
+        }}
+
+        @media (max-width: 767px) {{
+            .showcase-section {{
+                margin: 16px 0 24px;
+            }}
+            .showcase-card {{
+                width: 300px;
+                margin-right: -50px;
+            }}
+            .showcase-card-inner {{
+                min-height: 150px;
+                padding: 16px;
+            }}
+            .showcase-header h2 {{
+                font-size: 1.1rem;
+            }}
+            .showcase-controls button {{
+                width: 32px;
+                height: 32px;
+            }}
+            .showcase-title {{
+                font-size: 0.95rem;
+            }}
+        }}
     </style>
 </head>
 <body>
@@ -815,6 +1049,7 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
         </div>
     </nav>
     <main class="container">
+        {showcase_html}
         <div id="noResults" class="no-results" style="display: none;">
             <i class="fas fa-search-minus no-results-icon"></i>
             <h3>没有找到匹配的周刊</h3>
@@ -956,6 +1191,43 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
         document.querySelectorAll('section.category').forEach(section => {{
             observer.observe(section);
         }});
+
+        // Showcase carousel
+        (function() {{
+            const scrollEl = document.getElementById('showcaseScroll');
+            const prevBtn = document.getElementById('showcasePrev');
+            const nextBtn = document.getElementById('showcaseNext');
+            const dotsEl = document.getElementById('showcaseDots');
+            if (!scrollEl || !prevBtn || !nextBtn) return;
+
+            const cards = Array.from(scrollEl.querySelectorAll('.showcase-card'));
+            if (cards.length === 0) return;
+
+            const step = cards.length > 1 ? cards[1].offsetLeft - cards[0].offsetLeft : cards[0].offsetWidth;
+
+            if (dotsEl) {{
+                cards.forEach((_, idx) => {{
+                    const dot = document.createElement('span');
+                    dot.className = 'showcase-dot' + (idx === 0 ? ' active' : '');
+                    dot.addEventListener('click', () => {{
+                        scrollEl.scrollTo({{ left: idx * step, behavior: 'smooth' }});
+                    }});
+                    dotsEl.appendChild(dot);
+                }});
+            }}
+
+            function updateDots() {{
+                if (!dotsEl) return;
+                const idx = Math.max(0, Math.min(cards.length - 1, Math.round(scrollEl.scrollLeft / step)));
+                dotsEl.querySelectorAll('.showcase-dot').forEach((d, i) => {{
+                    d.classList.toggle('active', i === idx);
+                }});
+            }}
+
+            prevBtn.addEventListener('click', () => scrollEl.scrollBy({{ left: -step, behavior: 'smooth' }}));
+            nextBtn.addEventListener('click', () => scrollEl.scrollBy({{ left: step, behavior: 'smooth' }}));
+            scrollEl.addEventListener('scroll', () => window.requestAnimationFrame(updateDots));
+        }})();
 
         // On Load initialization
         window.addEventListener('DOMContentLoaded', () => {{
