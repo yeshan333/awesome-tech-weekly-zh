@@ -189,8 +189,8 @@ iOS:
 前端:
   - name: "前端食堂技术周刊"
     desc: "前端食堂技术周刊"
-    published_date: ""
-    latest_post: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
+    published_date: "2026-06-12T07:46:27Z"
+    latest_post: "[【工具自荐】PDFTranslator org — 免费 AI PDF 翻译工具](https://github.com/Geekhyt/weekly/issues/156)"
     link: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
   - name: "前端精读周刊"
     desc: "前端精读周刊。帮你理解最前沿、实用的技术。"
