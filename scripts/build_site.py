@@ -247,6 +247,32 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
 
             search_text = f"{name} {desc} {latest_text}".lower()
 
+            is_fallback = latest_url == link_url or not latest_text
+            if is_fallback:
+                latest_row = ""
+                feed_links = f'''
+                    <a href="{escape_attr(link_url)}" target="_blank" rel="noopener" class="link-home full-width">
+                        <i class="fas fa-external-link-alt"></i> 访问官网
+                    </a>
+                '''
+            else:
+                latest_row = f'''
+                <div class="feed-latest-article-row">
+                    <span class="latest-label">最新:</span>
+                    <a href="{escape_attr(latest_url)}" target="_blank" rel="noopener" class="latest-article-link" title="{escape_html(latest_text)}">
+                        {escape_html(latest_text)}
+                    </a>
+                </div>
+                '''
+                feed_links = f'''
+                    <a href="{escape_attr(latest_url)}" target="_blank" rel="noopener" class="link-latest">
+                        <i class="far fa-file-alt"></i> 阅读最新
+                    </a>
+                    <a href="{escape_attr(link_url)}" target="_blank" rel="noopener" class="link-home">
+                        <i class="fas fa-external-link-alt"></i> 订阅主页
+                    </a>
+                '''
+
             feed_cards += f'''
             <div class="feed-card" data-recent="{"true" if has_news else "false"}" data-search="{escape_attr(search_text)}">
                 <div class="feed-header">
@@ -254,13 +280,9 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
                     <span class="feed-date">{pub_date}</span>
                 </div>
                 <p class="feed-desc" title="{escape_html(desc)}">{escape_html(desc)}</p>
+                {latest_row}
                 <div class="feed-links">
-                    <a href="{escape_attr(latest_url)}" target="_blank" rel="noopener" class="link-latest" title="{escape_html(latest_text) or "最新文章"}">
-                        <i class="far fa-file-alt"></i> {escape_html(latest_text) or "最新文章"}
-                    </a>
-                    <a href="{escape_attr(link_url)}" target="_blank" rel="noopener" class="link-home">
-                        <i class="fas fa-external-link-alt"></i> {escape_html(link_text) or "主页"}
-                    </a>
+                    {feed_links}
                 </div>
             </div>
             '''
@@ -648,6 +670,36 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
         }}
         .feed-links i {{ font-size: 0.8rem; }}
 
+        .feed-latest-article-row {{
+            margin-top: 8px;
+            margin-bottom: 16px;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--category-bg);
+            padding: 6px 10px;
+            border-radius: var(--radius);
+            overflow: hidden;
+        }}
+        .latest-label {{
+            font-weight: 600;
+            color: var(--accent);
+            white-space: nowrap;
+        }}
+        .latest-article-link {{
+            color: var(--text);
+            text-decoration: none;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            flex: 1;
+        }}
+        .latest-article-link:hover {{
+            color: var(--accent);
+            text-decoration: underline;
+        }}
+
         .no-results {{
             text-align: center;
             padding: 60px 20px;
@@ -696,21 +748,6 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
         .back-to-top:hover {{ background: var(--accent-hover); transform: scale(1.05); }}
         .back-to-top.visible {{ display: flex; }}
 
-        .style-tag {{
-            position: fixed;
-            bottom: 24px;
-            left: 24px;
-            font-size: 0.7rem;
-            color: var(--muted);
-            background: var(--card-bg);
-            border: 1px solid var(--border);
-            padding: 4px 10px;
-            border-radius: var(--radius);
-            z-index: 150;
-            opacity: 0.7;
-            box-shadow: 0 2px 5px var(--shadow);
-        }}
-
         @media (max-width: 767px) {{
             .header-inner {{
                 flex-direction: column;
@@ -741,7 +778,6 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
     </style>
 </head>
 <body>
-    <div class="style-tag">{escape_html(style["name"])}</div>
     <header>
         <div class="container header-inner">
             <div class="header-left">
