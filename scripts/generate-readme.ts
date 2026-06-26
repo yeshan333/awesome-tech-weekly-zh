@@ -4,7 +4,9 @@ import { Glob } from 'bun';
 import * as YAML from 'yaml';
 import Parser from 'rss-parser';
 
-// Ignore self-signed/invalid SSL certificates when fetching feeds
+// NOTE: We globally disable TLS verification to allow fetching feeds from personal/legacy developer blogs 
+// that might use self-signed or expired SSL certificates. This is acceptable here as this script only 
+// reads public RSS/Atom XML data and does not transmit any user credentials or sensitive APIs.
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 // Configuration
@@ -79,9 +81,9 @@ function isPublishedWithin7Days(dateStr: string): boolean {
     if (isNaN(publishedTime)) return false;
     const now = Date.now();
     const sevenDaysMs = 7 * 24 * 60 * 60 * 1000;
-    // Handle potential future dates from timezone mismatches gently
+    // Handle potential future dates from timezone mismatches gently (allow up to 12h in the future)
     const diff = now - publishedTime;
-    return diff >= 0 && diff <= sevenDaysMs;
+    return diff >= -12 * 60 * 60 * 1000 && diff <= sevenDaysMs;
   } catch {
     return false;
   }
@@ -145,16 +147,20 @@ async function parseFeed(url: string, xmlText: string, fallbackLink: string): Pr
     throw new Error('No items in feed');
   }
 
-  // Sort items descending by publication date to ensure we get the latest
+  // Sort items descending by publication date safely (handling invalid dates)
   const sortedItems = [...feed.items].sort((a, b) => {
-    const dateA = a.isoDate || a.pubDate ? new Date(a.isoDate || a.pubDate!).getTime() : 0;
-    const dateB = b.isoDate || b.pubDate ? new Date(b.isoDate || b.pubDate!).getTime() : 0;
-    return dateB - dateA;
+    const parseDate = (item: typeof a) => {
+      const dateStr = item.isoDate || item.pubDate;
+      if (!dateStr) return 0;
+      const time = new Date(dateStr).getTime();
+      return isNaN(time) ? 0 : time;
+    };
+    return parseDate(b) - parseDate(a);
   });
 
   const latest = sortedItems[0];
   const latestTitle = escapeMarkdownTitle(latest.title || 'Untitled');
-  const latestLink = latest.link || fallbackLink;
+  const latestLink = (latest.link || fallbackLink).trim();
 
   let publishedDate = '';
   const rawDate = latest.isoDate || latest.pubDate;
@@ -348,20 +354,24 @@ interface EvalContext {
   resolvedFeeds: Record<string, FeedInfo | null>;
 }
 
-// Parse args supporting nested parentheses
+// Parse args supporting nested parentheses and quoted string literals
 function parseArgs(str: string): string[] {
   const args: string[] = [];
   let depth = 0;
+  let inQuote = false;
   let current = '';
   for (let i = 0; i < str.length; i++) {
     const char = str[i];
-    if (char === '(') {
+    if (char === '"' && (i === 0 || str[i - 1] !== '\\')) {
+      inQuote = !inQuote;
+      current += char;
+    } else if (char === '(' && !inQuote) {
       depth++;
       current += char;
-    } else if (char === ')') {
+    } else if (char === ')' && !inQuote) {
       depth--;
       current += char;
-    } else if (char === ' ' && depth === 0) {
+    } else if (char === ' ' && depth === 0 && !inQuote) {
       if (current.trim()) {
         args.push(current.trim());
       }
@@ -433,17 +443,29 @@ function evaluateExpr(expr: string, ctx: EvalContext): any {
   }
 
   // Variable Assignments & Operations
-  if (expr.includes(':=')) {
-    const [varName, valExpr] = expr.split(':=').map(s => s.trim());
+  const assignMatch = expr.match(/^(\$[a-zA-Z0-9_]+)\s*(:=|=)\s*(.*)$/);
+  if (assignMatch) {
+    const [_, varName, op, valExpr] = assignMatch;
     const val = evaluateExpr(valExpr, ctx);
-    ctx.vars[varName] = val;
-    return '';
-  }
-
-  if (expr.includes('=')) {
-    const [varName, valExpr] = expr.split('=').map(s => s.trim());
-    const val = evaluateExpr(valExpr, ctx);
-    ctx.vars[varName] = val;
+    
+    if (op === ':=') {
+      ctx.vars[varName] = val;
+    } else {
+      // Reassignment: walk up prototype chain
+      let scope = ctx.vars;
+      let found = false;
+      while (scope) {
+        if (Object.prototype.hasOwnProperty.call(scope, varName)) {
+          scope[varName] = val;
+          found = true;
+          break;
+        }
+        scope = Object.getPrototypeOf(scope);
+      }
+      if (!found) {
+        ctx.vars[varName] = val;
+      }
+    }
     return '';
   }
 
@@ -505,12 +527,8 @@ function renderAST(nodes: ASTNode[], ctx: EvalContext): string {
       const val = evaluateExpr(node.content, ctx);
       let valStr = val !== undefined ? String(val) : '';
       if (ctx.isJson) {
-        // Escape quotes, backslashes, and newlines if rendering inside JSON string literals
-        valStr = valStr
-          .replace(/\\/g, '\\\\')
-          .replace(/"/g, '\\"')
-          .replace(/\n/g, '\\n')
-          .replace(/\r/g, '\\r');
+        // Use JSON.stringify to safely escape all JSON special characters
+        valStr = JSON.stringify(valStr).slice(1, -1);
       }
       out += valStr;
     } else if (node.type === 'if') {
@@ -522,9 +540,11 @@ function renderAST(nodes: ASTNode[], ctx: EvalContext): string {
       const dotVal = evaluateExpr('.', ctx);
       const entries = Object.entries(dotVal);
       for (const [k, v] of entries) {
-        const prevVars = { ...ctx.vars };
+        const prevVars = ctx.vars;
         const prevDot = ctx.dot;
 
+        // Create lexical prototype scope
+        ctx.vars = Object.create(prevVars);
         ctx.vars[node.keyVar] = k;
         ctx.vars[node.valVar] = v;
         ctx.dot = v;
@@ -539,9 +559,11 @@ function renderAST(nodes: ASTNode[], ctx: EvalContext): string {
       if (Array.isArray(items)) {
         for (let idx = 0; idx < items.length; idx++) {
           const item = items[idx];
-          const prevVars = { ...ctx.vars };
+          const prevVars = ctx.vars;
           const prevDot = ctx.dot;
 
+          // Create lexical prototype scope
+          ctx.vars = Object.create(prevVars);
           if (node.itemIndexVar) {
             ctx.vars[node.itemIndexVar] = idx;
           }
@@ -632,7 +654,7 @@ async function main() {
     async (url) => {
       // Find fallback link from any item using this feed url
       const sampleItem = items.find(item => item.feed_url === url);
-      const fallbackLink = sampleItem ? sampleItem.link : url;
+      const fallbackLink = (sampleItem ? sampleItem.link : url).trim();
 
       // Check Cache first
       if (!forceFetch) {
