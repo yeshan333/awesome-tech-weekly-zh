@@ -1,0 +1,16 @@
+{
+  "name": "awesome-tech-weekly-zh",
+  "version": "1.0.0",
+  "description": "Refactored README generator using Bun",
+  "type": "module",
+  "scripts": {
+    "generate": "bun run scripts/generate-readme.ts"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "yaml": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

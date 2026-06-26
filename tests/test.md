@@ -1,9 +1,14 @@
 # Tests
 
+To test the README generation locally, ensure Bun is installed and run:
+
 ```shell
-/home/yeshan333/workspace/github/yaml-readme/bin/yaml-readme -p "items/*/*.yaml" --sort-by "kind" --group-by "kind" --template "template/README.tpl" --include-header="false" --output "README.md"
+# Install dependencies
+bun install
 
-/home/yeshan333/workspace/github/yaml-readme/bin/yaml-readme -p "items/*/*.yaml" --sort-by "kind" --group-by "kind" --template "template/README.yaml.tpl" --include-header="false" --output "README-cn.yaml"
+# Run generation
+bun run generate
 
-/home/yeshan333/workspace/github/yaml-readme/bin/yaml-readme -p "items/*/*.yaml" --sort-by "kind" --group-by "kind" --template "template/README.json.tpl" --include-header="false" --output "README.json"
+# Force fresh feed fetch (bypassing local cache)
+bun run generate -- --force
 ```
