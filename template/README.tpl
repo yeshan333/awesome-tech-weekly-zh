@@ -31,6 +31,7 @@
 
 {{- range $key, $val := .}}
 
+<a name="{{$key}}"></a>
 ## {{$key}} <img src="https://img.shields.io/badge/收录-{{len .}}个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |

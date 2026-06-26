@@ -30,6 +30,7 @@ English | [简体中文](../README.md)
 
 {{- range $key, $val := .}}
 
+<a name="{{$key}}"></a>
 ## {{$key}} <img src="https://img.shields.io/badge/weeklies-{{len .}}-brightgreen?style=flat-square" valign="middle">
 
 | Name | Description | UpdatedAt | Article | Addr |

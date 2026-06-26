@@ -41,6 +41,7 @@
   <a href="#运维"><code>运维</code></a> &nbsp;
 </p>
 
+<a name="AI"></a>
 ## AI <img src="https://img.shields.io/badge/收录-3个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -55,6 +56,7 @@
 
 
 
+<a name="Dotnet"></a>
 ## Dotnet <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -67,6 +69,7 @@
 
 
 
+<a name="Elixir"></a>
 ## Elixir <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -79,6 +82,7 @@
 
 
 
+<a name="Go"></a>
 ## Go <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -91,6 +95,7 @@
 
 
 
+<a name="Python"></a>
 ## Python <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -103,6 +108,7 @@
 
 
 
+<a name="Rust"></a>
 ## Rust <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -115,6 +121,7 @@
 
 
 
+<a name="iOS"></a>
 ## iOS <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -127,6 +134,7 @@
 
 
 
+<a name="云原生"></a>
 ## 云原生 <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -139,15 +147,16 @@
 
 
 
+<a name="产品-体验-设计"></a>
 ## 产品-体验-设计 <img src="https://img.shields.io/badge/收录-6个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| BLUE周刊 | BLUE周刊 | 2024-06-19 22:55 | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-06-26 18:23 | [PH今日热榜   2026-06-26](https://decohack.com/producthunt-daily-2026-06-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-06-23 00:04 | [#352 Framer 3.0](https://quaily.com/dingyi/p/352)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-06-22 08:41 | [体验碎周报第284期(2026.6.22)](https://www.ftium4.com/ux-weekly-284.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 | 2024-07-24 22:27 | [#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2026-06-21 00:00 | [设计素材周刊 215 期](https://moonvy.com/blog/post/设计素材周刊/215/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 
 <div align="right">
@@ -156,6 +165,7 @@
 
 
 
+<a name="其他"></a>
 ## 其他 <img src="https://img.shields.io/badge/收录-11个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -178,6 +188,7 @@
 
 
 
+<a name="前端"></a>
 ## 前端 <img src="https://img.shields.io/badge/收录-3个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -192,6 +203,7 @@
 
 
 
+<a name="安全"></a>
 ## 安全 <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -204,6 +216,7 @@
 
 
 
+<a name="嵌入式"></a>
 ## 嵌入式 <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -216,6 +229,7 @@
 
 
 
+<a name="软件测试"></a>
 ## 软件测试 <img src="https://img.shields.io/badge/收录-2个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
@@ -229,6 +243,7 @@
 
 
 
+<a name="运维"></a>
 ## 运维 <img src="https://img.shields.io/badge/收录-1个-brightgreen?style=flat-square" valign="middle">
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
