@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-06-27T01:06:00Z",
-                "latest_post": "[【Rust日报】2026-06-27 假面试仓库差点中招：Rust 社区开发者拆出疑似国家级后门投递链](https://rustcc.cn/article?id=cf55affe-d89b-4046-b625-3bdae9cc8f91)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-28T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-06-28 yring：SPSC 批量同步把吞吐拉到 17M msg/s](https://rustcc.cn/article?id=90da2fa5-bc78-497a-ae81-71e6736baede)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-04-23T06:56:49Z",
-                "latest_post": "[Kubernetes v1.36 正式发布：春归万物生，稳中见功夫](https://blog.csdn.net/zpf17671624050/article/details/160442808)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-06-27T00:49:11Z",
-                "latest_post": "[2026 06 27 HackerNews](https://supertechfans.com/cn/post/2026-06-27-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-28T00:54:50Z",
+                "latest_post": "[2026 06 28 HackerNews](https://supertechfans.com/cn/post/2026-06-28-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
