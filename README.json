@@ -162,8 +162,8 @@
             {
                 "name": "猫鱼周刊",
                 "desc": "猫鱼周刊",
-                "published_date": "2026-06-14T10:19:35Z",
-                "latest_post": "[猫鱼周刊 vol. 098 川西之行](https://ameow.xyz/archives/weekly-099)",
+                "published_date": "2026-06-28T12:38:42Z",
+                "latest_post": "[猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -183,8 +183,8 @@
             {
                 "name": "独立开发沉思录周刊",
                 "desc": "独立开发沉思录周刊",
-                "published_date": "2025-03-31T00:00:00Z",
-                "latest_post": "[vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36)",
+                "published_date": "",
+                "latest_post": "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)",
                 "link": "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
             },
             {
@@ -258,8 +258,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-06-15T00:00:00Z",
-                "latest_post": "[第270期 - 喜欢乔村](https://weekly.tw93.fun/posts/270/)",
+                "published_date": "2026-06-29T00:00:00Z",
+                "latest_post": "[第271期 - 精神家园](https://weekly.tw93.fun/posts/271/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -270,8 +270,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-06-27T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-06-27 Review](http://www.sec-wiki.com/?2026-06-27)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-06-28T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-06-28 Review](http://www.sec-wiki.com/?2026-06-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
