@@ -109,8 +109,8 @@ iOS:
     link: "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
   - name: "体验碎周报"
     desc: "体验碎周报"
-    published_date: "2026-06-22T00:41:53Z"
-    latest_post: "[体验碎周报第284期(2026.6.22)](https://www.ftium4.com/ux-weekly-284.html)"
+    published_date: ""
+    latest_post: "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
@@ -209,8 +209,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-06-29T15:58:20Z"
-    latest_post: "[SecWiki News 2026-06-29 Review](http://www.sec-wiki.com/?2026-06-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-06-30T15:58:20Z"
+    latest_post: "[SecWiki News 2026-06-30 Review](http://www.sec-wiki.com/?2026-06-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
@@ -234,8 +234,8 @@ iOS:
     link: "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
   - name: "软件测试周刊"
     desc: "软件测试及周边的行业动态，周五发布"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
+    published_date: "2023-04-25T00:33:52Z"
+    latest_post: "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)"
     link: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
 
 
