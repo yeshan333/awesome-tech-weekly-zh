@@ -114,7 +114,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-06-30 09:06 | [【Rust日报】2026-06-30 浏览器里直接跑 Barnes-Hut t-SNE：Rust/WASM 把 7 万点可视化推到实时交互区间](https://rustcc.cn/article?id=7a31318e-8dcf-44cc-8d06-b464c46bf2d3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-07-01 09:10 | [【Rust日报】2026-07-01 Godcoder：本地优先 Rust 编码助手，连自己的 Harness 都能边跑边自我迭代](https://rustcc.cn/article?id=7bd29e06-dbf9-40c4-9dbe-f96b1f2ca6bc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -222,7 +222,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2026-04-17 22:21 | [痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>

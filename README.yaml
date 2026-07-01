@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-06-30T01:06:00Z"
-    latest_post: "[【Rust日报】2026-06-30 浏览器里直接跑 Barnes-Hut t-SNE：Rust/WASM 把 7 万点可视化推到实时交互区间](https://rustcc.cn/article?id=7a31318e-8dcf-44cc-8d06-b464c46bf2d3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-01T01:10:00Z"
+    latest_post: "[【Rust日报】2026-07-01 Godcoder：本地优先 Rust 编码助手，连自己的 Harness 都能边跑边自我迭代](https://rustcc.cn/article?id=7bd29e06-dbf9-40c4-9dbe-f96b1f2ca6bc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -219,8 +219,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-04-17T14:21:00Z"
-    latest_post: "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
