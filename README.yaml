@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-04T01:07:00Z"
-    latest_post: "[【Rust日报】2026-07-04 rustup 1.30 路线公开：隐式安装要收口，curl 下载后端准备移除](https://rustcc.cn/article?id=a8706cc2-6178-4fb1-976e-13c29fdc648b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-05T01:10:00Z"
+    latest_post: "[【Rust日报】2026-07-05 Dimforge Q2 2026 技术报告：Nexus 跨平台 GPU 多物理引擎开始用 rust-gpu 跑起来](https://rustcc.cn/article?id=0e6b266d-6eb4-49e6-96d3-fd98c7251971)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -149,8 +149,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-03T22:26:53Z"
-    latest_post: "[2026 07 04 HackerNews](https://supertechfans.com/cn/post/2026-07-04-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-05T00:07:24Z"
+    latest_post: "[2026 07 05 HackerNews](https://supertechfans.com/cn/post/2026-07-05-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
