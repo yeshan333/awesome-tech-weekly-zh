@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: "2026-01-06T01:58:24Z"
-    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
+    published_date: ""
+    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-06T01:07:00Z"
-    latest_post: "[【Rust日报】2026-07-06 Arti 2.5.0 发布：Counter Galois Onion 转正、默认开启拥塞控制，并修复两项 DoS 问题](https://rustcc.cn/article?id=9e679c1d-8859-4b0e-a4e2-fac542c3708b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-07T01:08:00Z"
+    latest_post: "[【Rust日报】2026-07-07 WATaBoy：把 Game Boy 指令 JIT 到 Wasm，跑得比原生解释器还快](https://rustcc.cn/article?id=e83c05ae-290e-41ae-bc0a-dc9eb50094fe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -149,8 +149,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-05T23:19:40Z"
-    latest_post: "[2026 07 06 HackerNews](https://supertechfans.com/cn/post/2026-07-06-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-06T22:50:14Z"
+    latest_post: "[2026 07 07 HackerNews](https://supertechfans.com/cn/post/2026-07-07-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -219,8 +219,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-04-17T14:21:00Z"
-    latest_post: "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
