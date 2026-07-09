@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-07-08T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-07-08 rama 0.3 发布：四年打磨的 Rust 网络服务底座，开始转向 2-8 周发布列车](https://rustcc.cn/article?id=2d9bf1de-7176-4e9c-8390-3718481d9733)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-07-09T01:09:00Z",
+                "latest_post": "[【Rust日报】2026-07-09 Bun 重写转向 Rust：不是追新，而是拿编译期约束去解决运行时与手动内存混用的稳定性债](https://rustcc.cn/article?id=99f40661-a7ef-4761-a027-650ca999ca15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2026-01-28T10:50:40Z",
+                "latest_post": "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-07-07T23:00:12Z",
-                "latest_post": "[2026 07 08 HackerNews](https://supertechfans.com/cn/post/2026-07-08-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-07-09T00:28:37Z",
+                "latest_post": "[2026 07 09 HackerNews](https://supertechfans.com/cn/post/2026-07-09-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
