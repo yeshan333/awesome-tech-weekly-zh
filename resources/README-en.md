@@ -100,7 +100,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2026-07-11 21:02 | [🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/542)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
+| Python 潮流周刊 | Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。 | 2026-07-12 21:03 | [Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/543)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -126,7 +126,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2026-07-05 20:27 | [老司机 iOS 周报 #374   2026-07-06](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23374)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
+| 老司机技术 iOS 周报 | 老司机技术 iOS 周报 | 2026-07-05 20:27 | [老司机 iOS 周报 #374   2026-07-06](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23374) | [https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -139,7 +139,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 云原生周刊 | 云原生周刊 |  | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2026-01-28 18:50 | [在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -195,7 +195,7 @@ English | [简体中文](../README.md)
 |:-:|:-|:-:|:-|:-:|
 | 前端食堂技术周刊 | 前端食堂技术周刊 | 2026-07-11 17:22 | [【工具自荐】usage：Claude Code / Codex 额度监控菜单栏工具（零 Token 消耗）](https://github.com/Geekhyt/weekly/issues/158)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly) |
 | 前端精读周刊 | 前端精读周刊。帮你理解最前沿、实用的技术。 | 2024-06-13 19:50 | [完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295) | [https://github.com/ascoders/weekly](https://github.com/ascoders/weekly) |
-| 潮流周刊 | 前端潮流周刊 | 2026-07-06 08:00 | [第272期 - 接天莲叶](https://weekly.tw93.fun/posts/272/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
+| 潮流周刊 | 前端潮流周刊 | 2026-07-13 08:00 | [第273期 - 一堆椅子](https://weekly.tw93.fun/posts/273/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://weekly.tw93.fun/](https://weekly.tw93.fun/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -208,7 +208,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-07-11 23:58 | [SecWiki News 2026-07-11 Review](http://www.sec-wiki.com/?2026-07-11)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-07-12 23:58 | [SecWiki News 2026-07-12 Review](http://www.sec-wiki.com/?2026-07-12)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -221,7 +221,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2026-04-17 22:21 | [痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
