@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-14T01:07:00Z"
-    latest_post: "[【Rust日报】2026-07-14 Cot v0.7 发布：表单、ORM、安全和文档链路一起补强](https://rustcc.cn/article?id=16ddb84f-4b0a-4528-af86-6c6c329b123e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-15T01:07:00Z"
+    latest_post: "[【Rust日报】2026-07-15 yip：低延迟 P2P Mesh VPN，把 FEC、打洞和抗 DPI 一起塞进 Rust 数据面](https://rustcc.cn/article?id=515efa1a-770f-49c8-9145-e44cfdbcf712)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: ""
-    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
+    published_date: "2026-01-28T10:50:40Z"
+    latest_post: "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -149,8 +149,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-14T01:01:57Z"
-    latest_post: "[2026 07 14 HackerNews](https://supertechfans.com/cn/post/2026-07-14-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-15T00:55:08Z"
+    latest_post: "[2026 07 15 HackerNews](https://supertechfans.com/cn/post/2026-07-15-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -169,8 +169,8 @@ iOS:
     link: "[https://quaily.com/gapismoney](https://quaily.com/gapismoney)"
   - name: "偷懒爱好者周刊"
     desc: "偷懒爱好者周刊"
-    published_date: "2026-07-08T00:00:00Z"
-    latest_post: "[第191期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/08/第191期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-15T00:00:00Z"
+    latest_post: "[第192期 偷懒爱好者周刊](https://echosoar.github.io/weekly/2026/07/15/第192期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
@@ -234,8 +234,8 @@ iOS:
     link: "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
   - name: "软件测试周刊"
     desc: "软件测试及周边的行业动态，周五发布"
-    published_date: "2023-04-25T00:33:52Z"
-    latest_post: "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
     link: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
 
 
