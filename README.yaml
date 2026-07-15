@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -209,8 +209,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-07-14T15:58:20Z"
-    latest_post: "[SecWiki News 2026-07-14 Review](http://www.sec-wiki.com/?2026-07-14)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-15T15:58:20Z"
+    latest_post: "[SecWiki News 2026-07-15 Review](http://www.sec-wiki.com/?2026-07-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
