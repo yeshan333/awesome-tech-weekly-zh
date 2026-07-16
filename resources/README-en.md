@@ -87,7 +87,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 | 2026-01-06 09:58 | [Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -208,7 +208,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-07-15 23:58 | [SecWiki News 2026-07-15 Review](http://www.sec-wiki.com/?2026-07-15)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-07-16 23:58 | [SecWiki News 2026-07-16 Review](http://www.sec-wiki.com/?2026-07-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -221,7 +221,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2026-04-17 22:21 | [痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -248,7 +248,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2026-07-10 08:57 | [学习周刊-总第271期-2026年第28周](https://wiki.eryajf.net/pages/87cbc1/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2026-07-16 23:18 | [学习周刊-总第272期-2026年第29周](https://wiki.eryajf.net/pages/b07ecd/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
