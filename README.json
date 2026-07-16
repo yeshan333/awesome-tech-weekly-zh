@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2026-01-28T10:50:40Z",
+                "latest_post": "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
