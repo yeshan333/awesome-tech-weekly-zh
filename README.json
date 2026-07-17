@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-07-15T01:07:00Z",
-                "latest_post": "[【Rust日报】2026-07-15 yip：低延迟 P2P Mesh VPN，把 FEC、打洞和抗 DPI 一起塞进 Rust 数据面](https://rustcc.cn/article?id=515efa1a-770f-49c8-9145-e44cfdbcf712)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-07-17T01:08:00Z",
+                "latest_post": "[【Rust日报】2026-07-17 Rust 1.97.1 发布：修复 LLVM 误编译，1.97.0 相关 IR 变更同步回退](https://rustcc.cn/article?id=70a79af8-3e41-4f9c-94de-c14157d41534)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2026-01-28T10:50:40Z",
-                "latest_post": "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -190,8 +190,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-07-16T00:36:09Z",
-                "latest_post": "[2026 07 16 HackerNews](https://supertechfans.com/cn/post/2026-07-16-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-07-16T22:57:37Z",
+                "latest_post": "[2026 07 17 HackerNews](https://supertechfans.com/cn/post/2026-07-17-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -226,7 +226,7 @@
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
                 "published_date": "2026-07-10T00:05:31Z",
-                "latest_post": "[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)",
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
@@ -244,8 +244,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2026-07-11T09:22:41Z",
-                "latest_post": "[【工具自荐】usage：Claude Code / Codex 额度监控菜单栏工具（零 Token 消耗）](https://github.com/Geekhyt/weekly/issues/158)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -282,8 +282,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-04-17T14:21:00Z",
-                "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -301,8 +301,8 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "2023-04-25T00:33:52Z",
-                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
