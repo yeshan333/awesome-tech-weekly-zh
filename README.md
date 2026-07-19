@@ -114,7 +114,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-07-18 09:08 | [【Rust日报】2026-07-18 8× faster binary search：从编译代码一路挖到机械同理心](https://rustcc.cn/article?id=4d4a772b-2689-4d9c-a780-ac7d78629141)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-07-19 09:06 | [【Rust日报】2026-07-19 Tokio 团队开源 Topcoat：Rust 全栈 Web 框架把 SSR、响应式交互和无 Wasm 客户端一起打包](https://rustcc.cn/article?id=f2f7becb-c42f-4f34-9edb-7f2d29c131cd)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
