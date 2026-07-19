@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-07-18T13:04:06Z"
-    latest_post: "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/544)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-19T14:09:07Z"
+    latest_post: "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/545)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -74,8 +74,8 @@ Rust:
 iOS:
   - name: "老司机技术 iOS 周报"
     desc: "老司机技术 iOS 周报"
-    published_date: "2026-07-05T12:27:53Z"
-    latest_post: "[老司机 iOS 周报 #374   2026-07-06](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23374)"
+    published_date: "2026-07-19T12:54:37Z"
+    latest_post: "[老司机 iOS 周报 #375   2026-07-20](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23375)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
 
 
@@ -199,8 +199,8 @@ iOS:
     link: "[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)"
   - name: "潮流周刊"
     desc: "前端潮流周刊"
-    published_date: "2026-07-13T00:00:00Z"
-    latest_post: "[第273期 - 一堆椅子](https://weekly.tw93.fun/posts/273/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-20T00:00:00Z"
+    latest_post: "[第274期 - 海阔天空](https://weekly.tw93.fun/posts/274/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
 
 
@@ -209,8 +209,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-07-18T15:58:20Z"
-    latest_post: "[SecWiki News 2026-07-18 Review](http://www.sec-wiki.com/?2026-07-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-19T15:58:20Z"
+    latest_post: "[SecWiki News 2026-07-19 Review](http://www.sec-wiki.com/?2026-07-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
