@@ -1,0 +1,7 @@
+kind: '产品-体验-设计'
+owner: 张老三
+name: '三号设计周刊'
+link: https://sanhao-design-weekly.pages.dev/
+desc: '每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。'
+desc_en: 'Sanhao Design Weekly - Weekly observations, cases, and inspiration in design, branding, tools, and AI.'
+feed_url: https://sanhao-design-weekly.pages.dev/feed.xml
