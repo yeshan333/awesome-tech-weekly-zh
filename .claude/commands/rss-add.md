@@ -1,13 +1,9 @@
 ---
-name: rss-add
 description: Add a new weekly item from an RSS feed URL using the rss-weekly-adder agent
-arguments:
-  - name: rss_url
-    description: The RSS feed URL to add
-    required: true
+argument-hint: "<rss_url>"
 ---
 
-Use the rss-weekly-adder agent to add a new weekly item from the provided RSS feed URL: $rss_url
+Use the rss-weekly-adder agent to add a new weekly item from the provided RSS feed URL: $1
 
 The agent will:
 1. Parse the RSS feed to extract relevant information
