@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
+    published_date: "2024-06-19T14:55:31Z"
+    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -194,8 +194,8 @@ iOS:
 前端:
   - name: "前端食堂技术周刊"
     desc: "前端食堂技术周刊"
-    published_date: "2026-07-19T11:11:35Z"
-    latest_post: "[【开源自荐】Markstream：面向 AI 聊天界面的多框架流式 Markdown 渲染器](https://github.com/Geekhyt/weekly/issues/159)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
     link: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
   - name: "前端精读周刊"
     desc: "前端精读周刊。帮你理解最前沿、实用的技术。"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-07-23T15:58:20Z"
-    latest_post: "[SecWiki News 2026-07-23 Review](http://www.sec-wiki.com/?2026-07-23)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-24T15:58:20Z"
+    latest_post: "[SecWiki News 2026-07-24 Review](http://www.sec-wiki.com/?2026-07-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
