@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-26T01:07:00Z"
-    latest_post: "[【Rust日报】2026-07-26 Lightstream：Rust 数据传输栈公开跑分超过 Arrow Flight](https://rustcc.cn/article?id=af79535f-96d5-4220-9c01-3f938393a347)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-27T01:08:00Z"
+    latest_post: "[【Rust日报】2026-07-27 Stoffel：Rust 把多方安全计算从语言到 QUIC 运行时整条栈全包了](https://rustcc.cn/article?id=51b167cf-abf5-4803-93a8-7aabdfeed028)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -125,7 +125,7 @@ iOS:
   - name: "三号设计周刊"
     desc: "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。"
     published_date: "2026-07-20T00:00:00Z"
-    latest_post: "[三号设计周刊 Vol.29](https://sanhao-design-weekly.pages.dev/?issue=29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[三号设计周刊 Vol.29](https://sanhao-design-weekly.pages.dev/?issue=29)"
     link: "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
 
 
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-26T00:09:38Z"
-    latest_post: "[2026 07 26 HackerNews](https://supertechfans.com/cn/post/2026-07-26-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-27T00:12:16Z"
+    latest_post: "[2026 07 27 HackerNews](https://supertechfans.com/cn/post/2026-07-27-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-04-17T14:21:00Z"
-    latest_post: "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
