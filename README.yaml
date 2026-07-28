@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: "2026-01-06T01:58:24Z"
-    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
+    published_date: ""
+    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-07-26T13:31:46Z"
-    latest_post: "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/547)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-27T01:08:00Z"
-    latest_post: "[【Rust日报】2026-07-27 Stoffel：Rust 把多方安全计算从语言到 QUIC 运行时整条栈全包了](https://rustcc.cn/article?id=51b167cf-abf5-4803-93a8-7aabdfeed028)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2026-01-28T10:50:40Z"
-    latest_post: "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -144,8 +144,8 @@ iOS:
     link: "[https://www.ezindie.com](https://www.ezindie.com)"
   - name: "HelloGitHub 月刊"
     desc: "HelloGitHub 月刊"
-    published_date: "2026-06-29T00:10:22Z"
-    latest_post: "[HelloGitHub 第 123 期](https://hellogithub.com/periodical/volume/123)"
+    published_date: "2026-07-28T00:10:05Z"
+    latest_post: "[HelloGitHub 第 124 期](https://hellogithub.com/periodical/volume/124)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
   - name: "独立开发沉思录周刊"
     desc: "独立开发沉思录周刊"
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-27T00:12:16Z"
-    latest_post: "[2026 07 27 HackerNews](https://supertechfans.com/cn/post/2026-07-27-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-28T00:12:40Z"
+    latest_post: "[2026 07 28 HackerNews](https://supertechfans.com/cn/post/2026-07-28-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
