@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-28T01:07:00Z"
-    latest_post: "[【Rust日报】2026-07-28 Safety in an Unsafe World：Netstack3 用类型系统把“buggy programs don’t compile”推到协议正确性](https://rustcc.cn/article?id=51f3a6b2-1924-43eb-bc34-b819059d3df2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-29T01:06:00Z"
+    latest_post: "[【Rust日报】2026-07-29 SteelMC：Rust Minecraft 服务器区块生成速度达到原版 18.8 倍](https://rustcc.cn/article?id=448ea6ca-78a3-4872-8653-c3d9e16684fe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: ""
-    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
+    published_date: "2026-01-28T10:50:40Z"
+    latest_post: "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-28T00:12:40Z"
-    latest_post: "[2026 07 28 HackerNews](https://supertechfans.com/cn/post/2026-07-28-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-29T00:20:05Z"
+    latest_post: "[2026 07 29 HackerNews](https://supertechfans.com/cn/post/2026-07-29-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -174,8 +174,8 @@ iOS:
     link: "[https://quaily.com/gapismoney](https://quaily.com/gapismoney)"
   - name: "偷懒爱好者周刊"
     desc: "偷懒爱好者周刊"
-    published_date: "2026-07-22T00:00:00Z"
-    latest_post: "[第193期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/22/第193期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-29T00:00:00Z"
+    latest_post: "[第194期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/29/第194期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
