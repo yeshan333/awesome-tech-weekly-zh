@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-29T01:06:00Z"
-    latest_post: "[【Rust日报】2026-07-29 SteelMC：Rust Minecraft 服务器区块生成速度达到原版 18.8 倍](https://rustcc.cn/article?id=448ea6ca-78a3-4872-8653-c3d9e16684fe)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-30T01:07:00Z"
+    latest_post: "[【Rust日报】2026-07-30 SafaOS：两年自制 Rust 操作系统补齐 GUI、音频与 SDL2 移植链路](https://rustcc.cn/article?id=4b614f97-e803-48cb-9207-fbd12af4d562)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2026-01-28T10:50:40Z"
-    latest_post: "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
