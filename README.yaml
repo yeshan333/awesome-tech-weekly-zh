@@ -179,8 +179,8 @@ iOS:
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
-    published_date: "2026-07-24T00:12:16Z"
-    latest_post: "[科技爱好者周刊（第 405 期）：资源，社会公平与算力](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-405.html)"
+    published_date: "2026-07-31T00:08:55Z"
+    latest_post: "[科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
   - name: "肖恩技术周刊"
     desc: "记录有价值的技术内容，对周内阅读的技术内容精品进行总结"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-07-30T15:58:20Z"
-    latest_post: "[SecWiki News 2026-07-30 Review](http://www.sec-wiki.com/?2026-07-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-31T15:58:20Z"
+    latest_post: "[SecWiki News 2026-07-31 Review](http://www.sec-wiki.com/?2026-07-31)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
