@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-07-31T01:06:00Z"
-    latest_post: "[【Rust日报】2026-07-31 oops：为危险 Shell 命令自动做快照，出错后可一键撤销](https://rustcc.cn/article?id=13dafbc5-06a2-4f99-aa03-5449116de273)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-01T01:11:00Z"
+    latest_post: "[【Rust日报】2026-08-01 webrtc 0.20.0：Rust 异步 WebRTC 正式改成运行时无关，数据通道吞吐最高超过 Pion 3 倍](https://rustcc.cn/article?id=6782ea2c-f104-4000-860a-56c893d33df6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-07-31T00:14:09Z"
-    latest_post: "[2026 07 31 HackerNews](https://supertechfans.com/cn/post/2026-07-31-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-01T00:21:52Z"
+    latest_post: "[2026 08 01 HackerNews](https://supertechfans.com/cn/post/2026-08-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
