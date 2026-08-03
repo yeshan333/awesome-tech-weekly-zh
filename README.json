@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-08-02T01:06:00Z",
-                "latest_post": "[【Rust日报】2026-08-02 Servo 0.4.0 加入 SharedWorker 与更多 CSS 能力](https://rustcc.cn/article?id=5979cca7-e411-4ba0-832a-a3402a01b3d7)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-03T01:05:00Z",
+                "latest_post": "[【Rust日报】2026-08-03 fcmaes-rust：纯 Rust 并行黑箱优化库提供 22 个可复现实验教程](https://rustcc.cn/article?id=69991906-294b-421a-a48a-c67a7017c0fb)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2026-01-28T10:50:40Z",
+                "latest_post": "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -137,7 +137,7 @@
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2026-07-27T01:12:39Z",
-                "latest_post": "[体验碎周报第289期(2026.7.27)](https://www.ftium4.com/ux-weekly-289.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[体验碎周报第289期(2026.7.27)](https://www.ftium4.com/ux-weekly-289.html)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -158,7 +158,7 @@
                 "name": "三号设计周刊",
                 "desc": "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。",
                 "published_date": "2026-07-27T00:00:00Z",
-                "latest_post": "[三号设计周刊 Vol.30](https://sanhao-design-weekly.pages.dev/?issue=30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[三号设计周刊 Vol.30](https://sanhao-design-weekly.pages.dev/?issue=30)",
                 "link": "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
             }
         ]
@@ -289,8 +289,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-04-17T14:21:00Z",
-                "latest_post": "[痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
