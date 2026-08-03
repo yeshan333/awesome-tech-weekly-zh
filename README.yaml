@@ -9,8 +9,8 @@ AI:
     link: "[https://modelwatch.dev](https://modelwatch.dev)"
   - name: "AIGC Weekly"
     desc: "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果"
-    published_date: "2026-07-27T15:57:58Z"
-    latest_post: "[AIGC Weekly #181](https://quaily.com/op7418/p/aigc-weekly-one-eighty-one)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-03T15:09:12Z"
+    latest_post: "[AIGC Weekly #182](https://quaily.com/op7418/p/aigc-weekly-tv6mxflt)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quail.ink/op7418](https://quail.ink/op7418)"
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-08-03T01:05:00Z"
-    latest_post: "[【Rust日报】2026-08-03 fcmaes-rust：纯 Rust 并行黑箱优化库提供 22 个可复现实验教程](https://rustcc.cn/article?id=69991906-294b-421a-a48a-c67a7017c0fb)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-08-02T15:58:20Z"
-    latest_post: "[SecWiki News 2026-08-02 Review](http://www.sec-wiki.com/?2026-08-02)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-03T15:58:20Z"
+    latest_post: "[SecWiki News 2026-08-03 Review](http://www.sec-wiki.com/?2026-08-03)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
