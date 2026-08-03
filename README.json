@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -122,15 +122,15 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-08-02T09:08:14Z",
-                "latest_post": "[PH今日热榜   2026-08-02](https://decohack.com/producthunt-daily-2026-08-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-03T10:42:00Z",
+                "latest_post": "[PH今日热榜   2026-08-03](https://decohack.com/producthunt-daily-2026-08-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-07-28T05:20:40Z",
-                "latest_post": "[#357 AI for UI](https://quaily.com/dingyi/p/357)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-03T12:27:07Z",
+                "latest_post": "[#358 Ghostty 的创造者又创业了](https://quaily.com/dingyi/p/358)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -211,8 +211,8 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-07-27T08:29:11Z",
-                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 180：一个优惠码引发的东郭先生的故事](https://www.v2ex.com/t/1230158#reply6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-03T08:59:32Z",
+                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 181：别人三天一个 App，而我两周还在改 Demo](https://www.v2ex.com/t/1231794#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {

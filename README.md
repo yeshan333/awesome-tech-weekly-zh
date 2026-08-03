@@ -88,7 +88,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 | 2026-01-06 09:58 | [Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -154,8 +154,8 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-02 17:08 | [PH今日热榜   2026-08-02](https://decohack.com/producthunt-daily-2026-08-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
-| DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-07-28 13:20 | [#357 AI for UI](https://quaily.com/dingyi/p/357)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-03 18:42 | [PH今日热榜   2026-08-03](https://decohack.com/producthunt-daily-2026-08-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-08-03 20:27 | [#358 Ghostty 的创造者又创业了](https://quaily.com/dingyi/p/358)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-07-27 09:12 | [体验碎周报第289期(2026.7.27)](https://www.ftium4.com/ux-weekly-289.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2026-08-02 00:00 | [设计素材周刊 218 期](https://moonvy.com/blog/post/设计素材周刊/218/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
@@ -178,7 +178,7 @@
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31 08:00 | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2026-08-03 07:54 | [2026 08 03 HackerNews](https://supertechfans.com/cn/post/2026-08-03-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-09-20 23:54 | [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
-| 独立开发周记 | 独立开发周记 | 2026-07-27 16:29 | [\[独立开发者 👨‍💻\] 独立开发周记 180：一个优惠码引发的东郭先生的故事](https://www.v2ex.com/t/1230158#reply6)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
+| 独立开发周记 | 独立开发周记 | 2026-08-03 16:59 | [\[独立开发者 👨‍💻\] 独立开发周记 181：别人三天一个 App，而我两周还在改 Demo](https://www.v2ex.com/t/1231794#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30 13:03 | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2026-07-29 08:00 | [第194期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/07/29/第194期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-07-31 08:08 | [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
