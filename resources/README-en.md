@@ -153,7 +153,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
 | BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-06 17:39 | [PH今日热榜   2026-08-06](https://decohack.com/producthunt-daily-2026-08-06/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-07 16:12 | [PH今日热榜   2026-08-07](https://decohack.com/producthunt-daily-2026-08-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-08-03 20:27 | [#358 Ghostty 的创造者又创业了](https://quaily.com/dingyi/p/358)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-07-27 09:12 | [体验碎周报第289期(2026.7.27)](https://www.ftium4.com/ux-weekly-289.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
@@ -180,7 +180,7 @@ English | [简体中文](../README.md)
 | 独立开发周记 | 独立开发周记 | 2026-08-03 16:59 | [\[独立开发者 👨‍💻\] 独立开发周记 181：别人三天一个 App，而我两周还在改 Demo](https://www.v2ex.com/t/1231794#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30 13:03 | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2026-08-05 08:00 | [第195期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/05/第195期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-07-31 08:08 | [科技爱好者周刊（第 406 期）：道可，道非，常道](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-406.html) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-08-07 08:08 | [科技爱好者周刊（第 407 期）：国家为什么需要开源软件？](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 | 肖恩技术周刊 | 记录有价值的技术内容，对周内阅读的技术内容精品进行总结 | 2026-04-24 08:00 | [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [https://weekly.shawnxie.top/](https://weekly.shawnxie.top/) |
 
 <div align="right">
@@ -222,7 +222,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2026-04-17 22:21 | [痞子衡嵌入式：大话双核i.MXRT1180之XIP应用里借助MU实现可靠Flash IAP的方法](https://blog.csdn.net/Henjay724/article/details/160290493) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
