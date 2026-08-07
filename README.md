@@ -114,7 +114,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-06 09:08 | [【Rust日报】2026-08-06 This Week in Rust 662：本周 Rust 社区更新](https://rustcc.cn/article?id=0b45c4a4-94c0-427a-98a2-277c53703060)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-07 09:04 | [【Rust日报】2026-08-07 Cloudflare 发布基于 Rust 的 Kitesurf 浏览器](https://rustcc.cn/article?id=2e339b9a-e446-45c0-8101-f7fa643ef6ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
