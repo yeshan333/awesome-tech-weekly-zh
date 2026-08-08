@@ -153,7 +153,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
 | BLUE周刊 | BLUE周刊 | 2024-06-19 22:55 | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
-| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-07 16:12 | [PH今日热榜   2026-08-07](https://decohack.com/producthunt-daily-2026-08-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
+| PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-08 15:47 | [PH今日热榜   2026-08-08](https://decohack.com/producthunt-daily-2026-08-08/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-08-03 20:27 | [#358 Ghostty 的创造者又创业了](https://quaily.com/dingyi/p/358)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-07-27 09:12 | [体验碎周报第289期(2026.7.27)](https://www.ftium4.com/ux-weekly-289.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
