@@ -14,8 +14,8 @@ AI:
     link: "[https://quail.ink/op7418](https://quail.ink/op7418)"
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
-    published_date: "2026-06-22T13:45:00Z"
-    latest_post: "[62期：继续](https://quaily.com/zing927/p/sixty-two-qi-continue)"
+    published_date: "2026-08-08T01:53:00Z"
+    latest_post: "[如果26年只读一本书，那就读这本](https://quaily.com/zing927/p/if-twenty-six-years-only-read-one-book-then-read-this-book)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quaily.com/zing927](https://quaily.com/zing927)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-08-07T01:04:00Z"
-    latest_post: "[【Rust日报】2026-08-07 Cloudflare 发布基于 Rust 的 Kitesurf 浏览器](https://rustcc.cn/article?id=2e339b9a-e446-45c0-8101-f7fa643ef6ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-08T01:04:00Z"
+    latest_post: "[【Rust日报】2026-08-08 TrailBase 0.32：单文件 Firebase 替代方案](https://rustcc.cn/article?id=2d97f90a-3d66-45c4-8090-305198745949)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 

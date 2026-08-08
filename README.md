@@ -49,7 +49,7 @@
 |:-:|:-|:-:|:-|:-:|
 | AI Daily News | AI 日刊 | 2025-12-23 09:01 | [AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223) | [https://modelwatch.dev](https://modelwatch.dev) |
 | AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2026-08-03 23:09 | [AIGC Weekly #182](https://quaily.com/op7418/p/aigc-weekly-tv6mxflt)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
-| 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2026-06-22 21:45 | [62期：继续](https://quaily.com/zing927/p/sixty-two-qi-continue) | [https://quaily.com/zing927](https://quaily.com/zing927) |
+| 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2026-08-08 09:53 | [如果26年只读一本书，那就读这本](https://quaily.com/zing927/p/if-twenty-six-years-only-read-one-book-then-read-this-book)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -114,7 +114,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-07 09:04 | [【Rust日报】2026-08-07 Cloudflare 发布基于 Rust 的 Kitesurf 浏览器](https://rustcc.cn/article?id=2e339b9a-e446-45c0-8101-f7fa643ef6ce)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-08 09:04 | [【Rust日报】2026-08-08 TrailBase 0.32：单文件 Firebase 替代方案](https://rustcc.cn/article?id=2d97f90a-3d66-45c4-8090-305198745949)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
