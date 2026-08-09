@@ -14,7 +14,12 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
+  <a href="https://awesome-tech-weekly-zh.netlify.app/feed.xml">
+    <img src="https://img.shields.io/badge/RSS-订阅-orange?style=flat-square&logo=rss" alt="RSS Feed">
+  </a>
 </p>
+
+<p>📡 订阅聚合 RSS：<a href="https://awesome-tech-weekly-zh.netlify.app/feed.xml"><code>https://awesome-tech-weekly-zh.netlify.app/feed.xml</code></a>（一次订阅，网罗全部周刊最新一期）</p>
 
 <p>🧰 记录每一个值得关注的中文技术类（月/周/日）刊，⚗️ 项目内表格通过 GitHub Action 自动生成。</p>
 <p>🕰️ 每天刷新一次。<img src="assets/news.png"/> 表示为本周新发的文章。</p>

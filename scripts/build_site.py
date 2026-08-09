@@ -497,6 +497,24 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
         .theme-selector-container select:hover {{
             border-color: var(--accent);
         }}
+        .rss-link {{
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            border-radius: var(--radius);
+            border: 1px solid var(--border);
+            background: var(--card-bg);
+            color: #ee802f;
+            font-size: 0.85rem;
+            text-decoration: none;
+            white-space: nowrap;
+        }}
+        .rss-link:hover {{
+            border-color: #ee802f;
+            background: #ee802f;
+            color: #fff;
+        }}
 
         .search-bar-container {{
             border-top: 1px solid var(--border);
@@ -1024,6 +1042,9 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
                     <span><i class="fas fa-layer-group"></i> {total_cats} 分类</span>
                     <span><i class="fas fa-rss"></i> {total_feeds} 周刊</span>
                 </div>
+                <a class="rss-link" href="feed.xml" title="订阅聚合 RSS：网罗全部周刊最新一期">
+                    <i class="fas fa-rss"></i> RSS 订阅
+                </a>
                 <div class="theme-selector-container">
                     <i class="fas fa-palette"></i>
                     <select id="themeSelect" onchange="changeTheme(this.value)" aria-label="主题切换">

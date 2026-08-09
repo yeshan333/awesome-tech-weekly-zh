@@ -13,7 +13,12 @@ English | [简体中文](../README.md)
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
+  <a href="https://awesome-tech-weekly-zh.netlify.app/feed.xml">
+    <img src="https://img.shields.io/badge/RSS-Subscribe-orange?style=flat-square&logo=rss" alt="RSS Feed">
+  </a>
 </p>
+
+<p>📡 Subscribe via RSS: <a href="https://awesome-tech-weekly-zh.netlify.app/feed.xml"><code>https://awesome-tech-weekly-zh.netlify.app/feed.xml</code></a> (one feed, latest issue of every weekly)</p>
 
 <p>🧰 Record every noteworthy Chinese technical journal (monthly/weekly/daily), and ⚗️ the tables in the project are automatically generated through GitHub Action. 🧰</p>
 <p><img src="assets/news.png"/> This is a newly published article this week.</p>
