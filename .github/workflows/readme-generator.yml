@@ -14,6 +14,9 @@ permissions:
 jobs:
   generate-readme:
     runs-on: ubuntu-latest
+    env:
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
     steps:
       - uses: actions/checkout@v4
 
@@ -28,14 +31,14 @@ jobs:
       - name: Generate README
         run: bun run generate
 
-      - name: Generate RSS feed
-        run: python3 scripts/build_site.py --feed-only
+      - name: Build site (index.html + feed.xml)
+        run: python3 scripts/build_site.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md resources/README-en.md README.json README.yaml site/feed.xml
+          git add README.md resources/README-en.md README.json README.yaml
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-generate README and metadata"
             git push
@@ -45,9 +48,6 @@ jobs:
 
       - name: Deploy to Netlify
         if: env.NETLIFY_AUTH_TOKEN != '' && env.NETLIFY_SITE_ID != ''
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
           npx --yes netlify-cli deploy --prod \
             --site="$NETLIFY_SITE_ID" \
