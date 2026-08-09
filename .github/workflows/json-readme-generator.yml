@@ -27,14 +27,30 @@ jobs:
       - name: Generate README
         run: bun run generate
 
+      - name: Generate RSS feed
+        run: python3 scripts/build_site.py --feed-only
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md resources/README-en.md README.json README.yaml
+          git add README.md resources/README-en.md README.json README.yaml site/feed.xml
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-generate README and metadata"
             git push
           else
             echo "No changes to commit"
           fi
+
+      - name: Deploy to Netlify
+        if: env.NETLIFY_AUTH_TOKEN != '' && env.NETLIFY_SITE_ID != ''
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: |
+          npx --yes netlify-cli deploy --prod \
+            --site="$NETLIFY_SITE_ID" \
+            --auth="$NETLIFY_AUTH_TOKEN" \
+            --dir=site \
+            --no-build \
+            --message="Auto deploy feed.xml $(date +%Y-%m-%d\ %H:%M)"

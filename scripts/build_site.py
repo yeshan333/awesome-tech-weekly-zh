@@ -5,7 +5,7 @@ import json
 import random
 import re
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 STYLES = [
@@ -384,6 +384,7 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>中文技术周刊精选 - awesome-tech-weekly-zh</title>
+    <link rel="alternate" type="application/rss+xml" title="中文技术周刊精选" href="feed.xml">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
     <style>
@@ -1241,6 +1242,63 @@ def build_html(data: list, style: dict, styles_list: list) -> str:
 </html>'''
 
 
+def build_feed_xml(data: list) -> str:
+    """Aggregate every newsletter's latest post into one RSS 2.0 feed."""
+    from email.utils import format_datetime
+
+    site_url = "https://awesome-tech-weekly-zh.netlify.app"
+    entries = []
+    for cat in data:
+        for feed in cat["feeds"]:
+            parsed = parse_md_link(feed.get("latest_post", ""))
+            if not parsed:
+                continue
+            post_title, post_url = parsed
+            if not post_url or post_url == "#":
+                continue
+            iso = feed.get("published_date", "")
+            try:
+                dt = datetime.fromisoformat(iso.replace("Z", "+00:00")) if iso else None
+            except Exception:
+                dt = None
+            entries.append({
+                "title": f"[{cat['category']}] {feed.get('name', '')} - {post_title}",
+                "url": post_url,
+                "desc": feed.get("desc", ""),
+                "dt": dt,
+            })
+
+    # Newest first; entries without a date sink to the bottom.
+    entries.sort(key=lambda e: e["dt"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
+
+    items = []
+    for e in entries:
+        pubdate = f"<pubDate>{format_datetime(e['dt'])}</pubDate>" if e["dt"] else ""
+        items.append(
+            "    <item>\n"
+            f"      <title>{escape_html(e['title'])}</title>\n"
+            f"      <link>{escape_html(e['url'])}</link>\n"
+            f"      <guid isPermaLink=\"true\">{escape_html(e['url'])}</guid>\n"
+            f"      <description>{escape_html(e['desc'])}</description>\n"
+            f"      {pubdate}\n"
+            "    </item>"
+        )
+
+    now = format_datetime(datetime.now(timezone.utc))
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0">\n'
+        "  <channel>\n"
+        "    <title>中文技术周刊精选 - awesome-tech-weekly-zh</title>\n"
+        f"    <link>{site_url}</link>\n"
+        "    <description>汇聚各技术领域优质中文周刊的最新一期</description>\n"
+        "    <language>zh-CN</language>\n"
+        f"    <lastBuildDate>{now}</lastBuildDate>\n"
+        + "\n".join(items)
+        + "\n  </channel>\n</rss>\n"
+    )
+
+
 def escape_html(text: str) -> str:
     return (text
             .replace("&", "&amp;")
@@ -1254,6 +1312,9 @@ def escape_attr(text: str) -> str:
 
 
 def main():
+    import sys
+    feed_only = "--feed-only" in sys.argv
+
     repo_root = Path(__file__).parent.parent
     readme_json = repo_root / "README.json"
     site_dir = repo_root / "site"
@@ -1261,6 +1322,14 @@ def main():
 
     with open(readme_json, "r", encoding="utf-8") as f:
         data = json.load(f)
+
+    feed_path = site_dir / "feed.xml"
+    with open(feed_path, "w", encoding="utf-8") as f:
+        f.write(build_feed_xml(data))
+    print(f"Generated feed at {feed_path}")
+
+    if feed_only:
+        return
 
     style = random.choice(STYLES)
     print(f"Selected initial style: {style['name']}")
