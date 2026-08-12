@@ -67,8 +67,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "published_date": "2026-08-09T13:21:45Z",
+                "latest_post": "[Python 社区中有不少优秀的技术周刊，这里把最近一周内发布的周刊汇集起来，供诸位 Pythonista 们丰富阅读。](https://t.me/pythontrendingweekly/551)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-08-11T01:04:00Z",
+                "latest_post": "[【Rust日报】2026-08-11 Basalt：Rust 实现的 Minecraft 启动器](https://rustcc.cn/article?id=eb232745-440f-4112-94b9-93520abd8fcb)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2026-01-28T10:50:40Z",
+                "latest_post": "[在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-08-11T00:08:31Z",
-                "latest_post": "[2026 08 11 HackerNews](https://supertechfans.com/cn/post/2026-08-11-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-12T00:41:45Z",
+                "latest_post": "[2026 08 12 HackerNews](https://supertechfans.com/cn/post/2026-08-12-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -226,7 +226,7 @@
                 "name": "偷懒爱好者周刊",
                 "desc": "偷懒爱好者周刊",
                 "published_date": "2026-08-05T00:00:00Z",
-                "latest_post": "[第195期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/05/第195期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[第195期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/08/05/第195期-偷懒爱好者周刊.html)",
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
             },
             {
@@ -289,8 +289,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
