@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-08-12T01:05:00Z"
-    latest_post: "[【Rust日报】2026-08-12 Bevy 六周年：下载量突破 665 万](https://rustcc.cn/article?id=c3f5a647-2f22-4fa0-9b7d-067fb6635c59)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-13T01:06:00Z"
+    latest_post: "[【Rust日报】2026-08-13 Rust nightly 开始测试 trait 实现范围与字段可变性限制](https://rustcc.cn/article?id=6a36891d-cd90-4769-a94b-29b48cb19d00)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 

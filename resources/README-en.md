@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-12 09:05 | [【Rust日报】2026-08-12 Bevy 六周年：下载量突破 665 万](https://rustcc.cn/article?id=c3f5a647-2f22-4fa0-9b7d-067fb6635c59)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-13 09:06 | [【Rust日报】2026-08-13 Rust nightly 开始测试 trait 实现范围与字段可变性限制](https://rustcc.cn/article?id=6a36891d-cd90-4769-a94b-29b48cb19d00)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
