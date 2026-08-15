@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-14 09:06 | [【Rust日报】2026-08-14 Rust SIMD 在 GPU 上运行](https://rustcc.cn/article?id=27f3d3bd-9446-434e-a64b-b4c3ade74c2f)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-15 09:09 | [【Rust日报】2026-08-15 Rust on JVM 通过超 99% 官方测试](https://rustcc.cn/article?id=0744f3ba-ce0f-40da-a911-376ac31a6fba)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
