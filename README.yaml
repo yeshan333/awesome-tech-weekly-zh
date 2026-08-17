@@ -9,8 +9,8 @@ AI:
     link: "[https://modelwatch.dev](https://modelwatch.dev)"
   - name: "AIGC Weekly"
     desc: "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果"
-    published_date: "2026-08-10T16:28:07Z"
-    latest_post: "[AIGC Weekly #183](https://quaily.com/op7418/p/aigc-weekly-one-eighty-three)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-17T14:14:55Z"
+    latest_post: "[AIGC Weekly #184](https://quaily.com/op7418/p/aigc-weekly-kd19gjhq)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quail.ink/op7418](https://quail.ink/op7418)"
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -110,7 +110,7 @@ iOS:
   - name: "体验碎周报"
     desc: "体验碎周报"
     published_date: "2026-08-10T13:14:11Z"
-    latest_post: "[体验碎周报第290期(2026.8.10)](https://www.ftium4.com/ux-weekly-290.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[体验碎周报第290期(2026.8.10)](https://www.ftium4.com/ux-weekly-290.html)"
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-08-16T15:58:20Z"
-    latest_post: "[SecWiki News 2026-08-16 Review](http://www.sec-wiki.com/?2026-08-16)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-17T15:58:20Z"
+    latest_post: "[SecWiki News 2026-08-17 Review](http://www.sec-wiki.com/?2026-08-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
