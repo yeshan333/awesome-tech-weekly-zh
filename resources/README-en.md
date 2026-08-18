@@ -144,7 +144,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 云原生周刊 | 云原生周刊 |  | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 | 2026-01-28 18:50 | [在 KubeSphere 上运行 Moltbot（Clawdbot）：自托管 AI 助手的云原生实践](https://blog.csdn.net/zpf17671624050/article/details/157476840) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -157,11 +157,11 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| BLUE周刊 | BLUE周刊 |  | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
+| BLUE周刊 | BLUE周刊 | 2024-06-19 22:55 | [停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4) | [https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit) |
 | PH今日热榜 | Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品 | 2026-08-17 15:51 | [PH今日热榜   2026-08-17](https://decohack.com/producthunt-daily-2026-08-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/) |
 | DEX 周刊 | 一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。 | 2026-08-12 10:25 | [#359 做了一个 product launch videos 聚合站](https://quaily.com/dingyi/p/359)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quaily.com/dingyi](https://quaily.com/dingyi) |
 | 体验碎周报 | 体验碎周报 | 2026-08-10 21:14 | [体验碎周报第290期(2026.8.10)](https://www.ftium4.com/ux-weekly-290.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
-| Link 设计周刊 | Link 设计周刊 | 2024-07-24 22:27 | [#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
+| Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2026-08-02 00:00 | [设计素材周刊 218 期](https://moonvy.com/blog/post/设计素材周刊/218/) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
 | 三号设计周刊 | 每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。 | 2026-08-17 16:10 | [三号设计周刊 Vol.33](https://sanhao-design-weekly.pages.dev/?issue=33)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/) |
 
@@ -227,7 +227,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2026-08-07 15:15 | [痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
