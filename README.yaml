@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
+    published_date: "2024-06-19T14:55:31Z"
+    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -104,8 +104,8 @@ iOS:
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
-    published_date: "2026-08-12T02:25:51Z"
-    latest_post: "[#359 做了一个 product launch videos 聚合站](https://quaily.com/dingyi/p/359)"
+    published_date: "2026-08-19T14:10:26Z"
+    latest_post: "[#360 Omarchy 4.0，AI时代最好的 Linux 系统](https://quaily.com/dingyi/p/360)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
   - name: "体验碎周报"
     desc: "体验碎周报"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-08-18T15:58:20Z"
-    latest_post: "[SecWiki News 2026-08-18 Review](http://www.sec-wiki.com/?2026-08-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-19T15:58:20Z"
+    latest_post: "[SecWiki News 2026-08-19 Review](http://www.sec-wiki.com/?2026-08-19)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
