@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-17 09:05 | [【Rust日报】2026-08-17 Rust 标准库开始用 cargo-semver-checks 防止意外破坏](https://rustcc.cn/article?id=2a2571b1-1841-4a83-882f-dad9ecae625e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-08-17 09:05 | [【Rust日报】2026-08-17 Rust 标准库开始用 cargo-semver-checks 防止意外破坏](https://rustcc.cn/article?id=2a2571b1-1841-4a83-882f-dad9ecae625e) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>

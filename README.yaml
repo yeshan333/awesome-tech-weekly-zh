@@ -65,7 +65,7 @@ Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
     published_date: "2026-08-17T01:05:00Z"
-    latest_post: "[【Rust日报】2026-08-17 Rust 标准库开始用 cargo-semver-checks 防止意外破坏](https://rustcc.cn/article?id=2a2571b1-1841-4a83-882f-dad9ecae625e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[【Rust日报】2026-08-17 Rust 标准库开始用 cargo-semver-checks 防止意外破坏](https://rustcc.cn/article?id=2a2571b1-1841-4a83-882f-dad9ecae625e)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
