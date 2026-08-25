@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-08-17T01:05:00Z",
-                "latest_post": "[【Rust日报】2026-08-17 Rust 标准库开始用 cargo-semver-checks 防止意外破坏](https://rustcc.cn/article?id=2a2571b1-1841-4a83-882f-dad9ecae625e)",
+                "published_date": "2026-08-24T23:29:00Z",
+                "latest_post": "[【Rust日报】2026-08-24 Rust 1.98 出现 P-critical 误编译](https://rustcc.cn/article?id=5b8995e3-1475-4e87-ad5f-8bf69a1a767e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -136,8 +136,8 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-08-10T13:14:11Z",
-                "latest_post": "[体验碎周报第290期(2026.8.10)](https://www.ftium4.com/ux-weekly-290.html)",
+                "published_date": "2026-08-24T15:43:18Z",
+                "latest_post": "[体验碎周报第291期(2026.8.24)](https://www.ftium4.com/ux-weekly-291.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-08-24T00:12:43Z",
-                "latest_post": "[2026 08 24 HackerNews](https://supertechfans.com/cn/post/2026-08-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-24T23:47:53Z",
+                "latest_post": "[2026 08 25 HackerNews](https://supertechfans.com/cn/post/2026-08-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -289,8 +289,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-08-07T07:15:00Z",
-                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
