@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<!-- 最小参考实现:满足 scripts/verify_site.mjs 的全部契约。
+     用途 —— 自检脚本自身的回归测试:node scripts/verify_site.mjs --dir tests/fixtures 必须 0 失败。
+     不是站点模板,不参与部署。 -->
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>contract fixture</title>
+<style>
+  :root { color-scheme: light; --bg:#faf8f4; --fg:#1f2933; }
+  html[data-theme="dark"] { --bg:#14181d; --fg:#eef2f6; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font-family:"PingFang SC",sans-serif; overflow-x:hidden; }
+  .wrap { max-width:1100px; margin:0 auto; padding:0 16px; }
+  [data-test="hero"] { padding:18px 0 12px; }
+  h1 { font-size:26px; margin:0 0 4px; }
+  [data-test="featured"] { position:relative; height:210px; overflow:hidden; touch-action:pan-y; }
+  [data-test="featured-card"] { position:absolute; top:8px; left:50%; width:min(420px,86vw); height:170px;
+    padding:14px; border-radius:12px; background:#fff; box-shadow:0 6px 18px rgba(0,0,0,.12);
+    transition:transform .35s, opacity .35s; }
+  html[data-theme="dark"] [data-test="featured-card"] { background:#1e242b; }
+  [data-test="nav"] { position:sticky; top:0; z-index:9; background:var(--bg); box-shadow:0 2px 6px rgba(0,0,0,.08);
+    display:flex; gap:8px; overflow-x:auto; padding:10px 0; }
+  [data-test="nav-item"] { flex:none; min-height:44px; padding:10px 14px; border:1px solid #ccc; border-radius:8px;
+    background:none; color:inherit; cursor:pointer; }
+  [data-test="nav-item"][data-active="true"] { background:#c2410c; color:#fff; }
+  .grid { display:grid; gap:14px; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); padding:18px 0 1400px; }
+  [data-test="feed-card"] { display:block; padding:16px; border:1px solid #ddd; border-radius:12px;
+    text-decoration:none; color:inherit; }
+  [data-test="back-to-top"] { position:fixed; right:20px; bottom:20px; width:48px; height:48px; border-radius:50%;
+    border:0; background:#1f2933; color:#fff; font-size:19px; cursor:pointer; opacity:0; pointer-events:none;
+    transition:opacity .25s; }
+  [data-test="back-to-top"].show { opacity:1; pointer-events:auto; }
+  .dots { display:flex; gap:8px; justify-content:center; }
+  [data-test="carousel-dot"] { width:44px; height:44px; border:0; background:none; color:inherit; cursor:pointer; }
+  [data-test="carousel-prev"],[data-test="carousel-next"] { position:absolute; top:80px; width:44px; height:44px;
+    border:0; border-radius:50%; background:#1f2933; color:#fff; cursor:pointer; z-index:20; }
+  [data-test="carousel-prev"] { left:4px; } [data-test="carousel-next"] { right:4px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header data-test="hero">
+    <h1>技术周刊聚合</h1>
+    <p>契约参考实现</p>
+    <button data-test="theme-toggle" aria-label="切换明暗">◐</button>
+  </header>
+
+  <section data-test="featured" aria-label="本周最新文章">
+    <button data-test="carousel-prev" aria-label="上一篇">‹</button>
+    <button data-test="carousel-next" aria-label="下一篇">›</button>
+  </section>
+  <div class="dots" data-test="carousel-dots"></div>
+
+  <nav data-test="nav" aria-label="周刊分类"></nav>
+  <main class="grid" id="grid"></main>
+</div>
+<button data-test="back-to-top" aria-label="回到顶部">↑</button>
+
+<script>
+const CATS = ['Rust', 'Go', 'AI'];
+const FEEDS = CATS.flatMap((c, i) => [1, 2, 3].map(n => ({ cat: c, name: c + ' Weekly ' + n, url: 'https://example.com/' + i + n })));
+const POSTS = FEEDS.slice(0, 6).map((f, i) => ({ feed: f.name, title: '示例文章 ' + (i + 1), date: '2026-08-2' + i }));
+
+/* 分类导航 + 筛选 */
+const nav = document.querySelector('[data-test="nav"]');
+[['all', '全部'], ...CATS.map(c => [c, c])].forEach(([key, label], i) => {
+  const b = document.createElement('button');
+  b.dataset.test = 'nav-item'; b.dataset.category = key; b.textContent = label;
+  if (i === 0) b.dataset.active = 'true';
+  b.onclick = () => {
+    document.querySelectorAll('[data-test="nav-item"]').forEach(n => delete n.dataset.active);
+    b.dataset.active = 'true';
+    document.querySelectorAll('[data-test="feed-card"]').forEach(card => {
+      card.style.display = (key === 'all' || card.dataset.category === key) ? 'block' : 'none';
+    });
+  };
+  nav.appendChild(b);
+});
+
+/* 周刊卡片:整卡是 <a> */
+document.getElementById('grid').innerHTML = FEEDS.map(f =>
+  `<a data-test="feed-card" data-category="${f.cat}" href="${f.url}"><strong>${f.name}</strong>
+   <p>最新:<a data-test="feed-card-link" href="${f.url}/post" onclick="event.stopPropagation()">示例文章</a></p></a>`).join('');
+
+/* 堆叠卡片轮播 */
+const stage = document.querySelector('[data-test="featured"]');
+const dotBox = document.querySelector('[data-test="carousel-dots"]');
+let idx = 0, autoplay;
+POSTS.forEach((p, i) => {
+  const el = document.createElement('article');
+  el.dataset.test = 'featured-card';
+  el.innerHTML = `<small>${p.feed}</small><h3>${p.title}</h3><time>${p.date}</time>`;
+  stage.appendChild(el);
+  const d = document.createElement('button');
+  d.dataset.test = 'carousel-dot'; d.textContent = '•'; d.onclick = () => go(i);
+  dotBox.appendChild(d);
+});
+const cards = [...document.querySelectorAll('[data-test="featured-card"]')];
+function render() {
+  cards.forEach((c, i) => {
+    const o = i - idx;
+    c.dataset.active = String(o === 0);
+    c.style.transform = `translateX(calc(-50% + ${o * 44}px)) scale(${1 - Math.min(Math.abs(o), 3) * 0.07})`;
+    c.style.opacity = Math.abs(o) > 2 ? 0 : 1 - Math.abs(o) * 0.25;
+    c.style.zIndex = 10 - Math.abs(o);
+  });
+  [...dotBox.children].forEach((d, i) => d.dataset.active = String(i === idx));
+}
+function go(i) { idx = (i + cards.length) % cards.length; render(); }
+document.querySelector('[data-test="carousel-next"]').onclick = () => { stop(); go(idx + 1); };
+document.querySelector('[data-test="carousel-prev"]').onclick = () => { stop(); go(idx - 1); };
+render();
+
+/* 自动轮播 + hover 暂停 */
+const start = () => { autoplay = setInterval(() => go(idx + 1), 3000); };
+const stop = () => clearInterval(autoplay);
+stage.addEventListener('mouseenter', stop);
+stage.addEventListener('mouseleave', start);
+start();
+
+/* 拖拽 / 触摸滑动 */
+let x0 = null;
+const begin = x => { x0 = x; stop(); };
+const end = x => { if (x0 === null) return; const d = x - x0; x0 = null; if (Math.abs(d) > 40) go(idx + (d < 0 ? 1 : -1)); };
+stage.addEventListener('mousedown', e => begin(e.clientX));
+window.addEventListener('mouseup', e => end(e.clientX));
+stage.addEventListener('touchstart', e => begin(e.touches[0].clientX), { passive: true });
+stage.addEventListener('touchend', e => end((e.changedTouches[0] || {}).clientX ?? x0), { passive: true });
+
+/* 回到顶部 */
+const topBtn = document.querySelector('[data-test="back-to-top"]');
+addEventListener('scroll', () => topBtn.classList.toggle('show', scrollY > innerHeight * 0.8));
+topBtn.onclick = () => scrollTo({ top: 0, behavior: 'smooth' });
+
+/* 暗色模式 */
+const root = document.documentElement;
+root.dataset.theme = localStorage.getItem('theme') || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+document.querySelector('[data-test="theme-toggle"]').onclick = () => {
+  root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+  localStorage.setItem('theme', root.dataset.theme);
+};
+</script>
+</body>
+</html>
