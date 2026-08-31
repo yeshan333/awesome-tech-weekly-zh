@@ -9,8 +9,8 @@ AI:
     link: "[https://modelwatch.dev](https://modelwatch.dev)"
   - name: "AIGC Weekly"
     desc: "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果"
-    published_date: "2026-08-24T16:37:39Z"
-    latest_post: "[AIGC Weekly #185](https://quaily.com/op7418/p/aigc-weekly-7fbd1mp4)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-31T17:22:20Z"
+    latest_post: "[AIGC Weekly #186](https://quaily.com/op7418/p/aigc-weekly-one-hundred-eighty-six)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quail.ink/op7418](https://quail.ink/op7418)"
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
@@ -94,13 +94,13 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
+    published_date: "2024-06-19T14:55:31Z"
+    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-08-30T12:36:52Z"
-    latest_post: "[PH今日热榜   2026-08-30](https://decohack.com/producthunt-daily-2026-08-30/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-31T14:51:05Z"
+    latest_post: "[PH今日热榜   2026-08-31](https://decohack.com/producthunt-daily-2026-08-31/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
@@ -120,12 +120,12 @@ iOS:
   - name: "月维素材周刊"
     desc: "月维的创造者们对「设计」和「开发」的思考与讨论"
     published_date: "2026-08-24T16:00:00Z"
-    latest_post: "[支持小团队，月维设计交付 10 人以内团队免费](https://moonvy.com/blog/post/2026/moonvy/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[支持小团队，月维设计交付 10 人以内团队免费](https://moonvy.com/blog/post/2026/moonvy/)"
     link: "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
   - name: "三号设计周刊"
     desc: "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。"
     published_date: "2026-08-24T09:06:20Z"
-    latest_post: "[三号设计周刊 Vol.34](https://sanhao-design-weekly.pages.dev/?issue=34)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[三号设计周刊 Vol.34](https://sanhao-design-weekly.pages.dev/?issue=34)"
     link: "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
 
 
@@ -164,8 +164,8 @@ iOS:
     link: "[https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html)"
   - name: "独立开发周记"
     desc: "独立开发周记"
-    published_date: "2026-08-24T11:17:02Z"
-    latest_post: "[\[独立开发者 👨‍💻\] 独立开发周记 184：主角与否，身不由己](https://www.v2ex.com/t/1236882#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-31T07:16:31Z"
+    latest_post: "[\[独立开发者 👨‍💻\] 独立开发周记 185：等了 1 个月的工单，回复让我去找银行](https://www.v2ex.com/t/1238404#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
   - name: "信息差——独立开发者出海周刊"
     desc: "信息差——独立开发者出海周刊"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-08-30T15:58:20Z"
-    latest_post: "[SecWiki News 2026-08-30 Review](http://www.sec-wiki.com/?2026-08-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-08-31T15:58:20Z"
+    latest_post: "[SecWiki News 2026-08-31 Review](http://www.sec-wiki.com/?2026-08-31)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
