@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-08-30T01:04:00Z",
-                "latest_post": "[【Rust日报】2026-08-30 Rustdoc 一周提速 33%](https://rustcc.cn/article?id=f5a16cee-72ca-4382-b187-1a4956ed368b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-31T01:06:00Z",
+                "latest_post": "[【Rust日报】2026-08-31 RamShared 把空闲 VRAM 做成块设备](https://rustcc.cn/article?id=c76c99fe-8daf-4fb6-8955-dee752b7d7e2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-08-30T00:35:17Z",
-                "latest_post": "[2026 08 30 HackerNews](https://supertechfans.com/cn/post/2026-08-30-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-08-31T00:10:46Z",
+                "latest_post": "[2026 08 31 HackerNews](https://supertechfans.com/cn/post/2026-08-31-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
