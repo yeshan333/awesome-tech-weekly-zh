@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-09-04T03:39:00Z",
+                "latest_post": "[【Rust日报】2026-09-04 Rust 1.98.1 修复 vtable 误编译](https://rustcc.cn/article?id=de6680f7-1e30-4ee4-aea4-dd01d759a40f)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
