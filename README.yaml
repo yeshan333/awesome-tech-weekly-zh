@@ -55,7 +55,7 @@ Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
     published_date: "2026-08-29T13:17:04Z"
-    latest_post: "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/556)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[🖼 #Python潮流周刊](https://t.me/pythontrendingweekly/556)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -99,8 +99,8 @@ iOS:
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-09-04T11:59:22Z"
-    latest_post: "[PH今日热榜   2026-09-04](https://decohack.com/producthunt-daily-2026-09-04/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-05T11:08:31Z"
+    latest_post: "[PH今日热榜   2026-09-05](https://decohack.com/producthunt-daily-2026-09-05/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
@@ -139,8 +139,8 @@ iOS:
     link: "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
   - name: "独立开发变现周刊"
     desc: "独立开发变现周刊"
-    published_date: "2026-09-03T00:00:00Z"
-    latest_post: "[独立开发变现周刊（第155期） : 把“持续交付”本身当作小产品的核心成果](https://www.ezindie.com/weekly/issue-155)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://www.ezindie.com](https://www.ezindie.com)"
     link: "[https://www.ezindie.com](https://www.ezindie.com)"
   - name: "HelloGitHub 月刊"
     desc: "HelloGitHub 月刊"
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
