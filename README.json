@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-09-04T03:39:00Z",
-                "latest_post": "[【Rust日报】2026-09-04 Rust 1.98.1 修复 vtable 误编译](https://rustcc.cn/article?id=de6680f7-1e30-4ee4-aea4-dd01d759a40f)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-09-05T01:03:00Z",
+                "latest_post": "[【Rust日报】2026-09-05 OpenVMM 跨平台 Rust VMM 进展](https://rustcc.cn/article?id=c6cf73ee-aa12-4a74-a0f8-f460fcf28769)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-09-03T23:43:16Z",
-                "latest_post": "[2026 09 04 HackerNews](https://supertechfans.com/cn/post/2026-09-04-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-09-04T23:51:00Z",
+                "latest_post": "[2026 09 05 HackerNews](https://supertechfans.com/cn/post/2026-09-05-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
