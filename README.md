@@ -93,7 +93,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 | 2026-01-06 09:58 | [Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -185,7 +185,7 @@
 | 老胡的周刊 | 老胡的周刊 | 2025-09-20 23:54 | [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2026-09-07 15:31 | [\[独立开发者 👨‍💻\] 独立开发周记 186：连续更新收入涨，一做宣传就凉凉](https://www.v2ex.com/t/1240080#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30 13:03 | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
-| 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2026-09-02 08:00 | [第199期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/02/第199期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
+| 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2026-09-09 08:00 | [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
 | 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-09-04 07:59 | [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 | 肖恩技术周刊 | 记录有价值的技术内容，对周内阅读的技术内容精品进行总结 | 2026-04-24 08:00 | [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [https://weekly.shawnxie.top/](https://weekly.shawnxie.top/) |
 
@@ -215,7 +215,7 @@
 
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-09-07 23:58 | [SecWiki News 2026-09-07 Review](http://www.sec-wiki.com/?2026-09-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-09-08 23:58 | [SecWiki News 2026-09-08 Review](http://www.sec-wiki.com/?2026-09-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>
@@ -242,7 +242,7 @@
 | 名称 | 描述 | 最近更新时间-(北京时间) | 最新文章 | 网址 |
 |:-:|:-|:-:|:-|:-:|
 | softwaretestingweekly | softwaretestingweekly  | 2026-05-18 16:00 | [【Software Testing Weekly - Issue 313 - May 18th 2026】软件测试周刊 - 第 313 期 - 2026 年 5 月 18 日](https://softwaretestingweekly.com/issues/313) | [https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues) |
-| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 | 2023-04-25 08:33 | [软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
+| 软件测试周刊 | 软件测试及周边的行业动态，周五发布 |  | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) | [https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly) |
 
 <div align="right">
 <a href="#目录">🔝回到顶部</a>

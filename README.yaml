@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: ""
-    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
+    published_date: "2026-01-06T01:58:24Z"
+    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -174,8 +174,8 @@ iOS:
     link: "[https://quaily.com/gapismoney](https://quaily.com/gapismoney)"
   - name: "偷懒爱好者周刊"
     desc: "偷懒爱好者周刊"
-    published_date: "2026-09-02T00:00:00Z"
-    latest_post: "[第199期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/02/第199期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-09T00:00:00Z"
+    latest_post: "[第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-09-07T15:58:20Z"
-    latest_post: "[SecWiki News 2026-09-07 Review](http://www.sec-wiki.com/?2026-09-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-08T15:58:20Z"
+    latest_post: "[SecWiki News 2026-09-08 Review](http://www.sec-wiki.com/?2026-09-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
@@ -239,8 +239,8 @@ iOS:
     link: "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
   - name: "软件测试周刊"
     desc: "软件测试及周边的行业动态，周五发布"
-    published_date: "2023-04-25T00:33:52Z"
-    latest_post: "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
     link: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
 
 
