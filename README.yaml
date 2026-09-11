@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-09-10T01:04:00Z"
-    latest_post: "[【Rust日报】2026-09-10 Rustls 十周年与 0.24 展望](https://rustcc.cn/article?id=b91784be-6537-47be-b232-07f6d4bbec66)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-11T01:04:00Z"
+    latest_post: "[【Rust日报】2026-09-11 Microsoft 将 Rust 定为 Tier-1 语言](https://rustcc.cn/article?id=a7654961-7fb1-4dcf-bf70-f02c0a4387f8)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-09-09T22:57:08Z"
-    latest_post: "[2026 09 10 HackerNews](https://supertechfans.com/cn/post/2026-09-10-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-11T00:08:20Z"
+    latest_post: "[2026 09 11 HackerNews](https://supertechfans.com/cn/post/2026-09-11-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -179,8 +179,8 @@ iOS:
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
-    published_date: "2026-09-03T23:59:05Z"
-    latest_post: "[科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-11T00:11:50Z"
+    latest_post: "[科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
   - name: "肖恩技术周刊"
     desc: "记录有价值的技术内容，对周内阅读的技术内容精品进行总结"

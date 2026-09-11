@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-09-10 09:04 | [【Rust日报】2026-09-10 Rustls 十周年与 0.24 展望](https://rustcc.cn/article?id=b91784be-6537-47be-b232-07f6d4bbec66)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-09-11 09:04 | [【Rust日报】2026-09-11 Microsoft 将 Rust 定为 Tier-1 语言](https://rustcc.cn/article?id=a7654961-7fb1-4dcf-bf70-f02c0a4387f8)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -180,12 +180,12 @@ English | [简体中文](../README.md)
 | 独立开发变现周刊 | 独立开发变现周刊 | 2026-09-10 08:00 | [独立开发变现周刊（第156期） : 单渠道突破法实现400万美元年收](https://www.ezindie.com/weekly/issue-156)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2026-08-28 08:14 | [HelloGitHub 第 125 期](https://hellogithub.com/periodical/volume/125) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31 08:00 | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
-| Hacker News 每日摘要 | Hacker News 每日摘要 | 2026-09-10 06:57 | [2026 09 10 HackerNews](https://supertechfans.com/cn/post/2026-09-10-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
+| Hacker News 每日摘要 | Hacker News 每日摘要 | 2026-09-11 08:08 | [2026 09 11 HackerNews](https://supertechfans.com/cn/post/2026-09-11-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
 | 老胡的周刊 | 老胡的周刊 | 2025-09-20 23:54 | [09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html) | [https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html) |
 | 独立开发周记 | 独立开发周记 | 2026-09-07 15:31 | [\[独立开发者 👨‍💻\] 独立开发周记 186：连续更新收入涨，一做宣传就凉凉](https://www.v2ex.com/t/1240080#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur) |
 | 信息差——独立开发者出海周刊 | 信息差——独立开发者出海周刊 | 2024-09-30 13:03 | [信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier) | [https://quaily.com/gapismoney](https://quaily.com/gapismoney) |
 | 偷懒爱好者周刊 | 偷懒爱好者周刊 | 2026-09-09 08:00 | [第200期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/09/09/第200期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/) |
-| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-09-04 07:59 | [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
+| 科技爱好者周刊 | 阮一峰的科技爱好者周刊 | 2026-09-11 08:11 | [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/) |
 | 肖恩技术周刊 | 记录有价值的技术内容，对周内阅读的技术内容精品进行总结 | 2026-04-24 08:00 | [迁移公告](https://weekly.shawnxie.top/content/2026/migration.html) | [https://weekly.shawnxie.top/](https://weekly.shawnxie.top/) |
 
 <div align="right">
