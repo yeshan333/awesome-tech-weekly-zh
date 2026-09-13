@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-09-12T01:03:00Z",
-                "latest_post": "[【Rust日报】2026-09-12 Solana 与 NVIDIA 成为 Rust Foundation 白金会员](https://rustcc.cn/article?id=1d87930f-326c-490d-b52f-6c69e5034e5d)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-09-13T01:03:00Z",
+                "latest_post": "[【Rust日报】2026-09-13 Verus：用形式化验证写出可证明正确的 Rust](https://rustcc.cn/article?id=40dbf3e3-ed7d-496c-bca8-5401cbcd4d3a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-09-11T23:09:11Z",
-                "latest_post": "[2026 09 12 HackerNews](https://supertechfans.com/cn/post/2026-09-12-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-09-12T23:32:34Z",
+                "latest_post": "[2026 09 13 HackerNews](https://supertechfans.com/cn/post/2026-09-13-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
