@@ -114,8 +114,8 @@ iOS:
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
+    published_date: "2024-07-24T14:27:32Z"
+    latest_post: "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)"
     link: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
   - name: "月维素材周刊"
     desc: "月维的创造者们对「设计」和「开发」的思考与讨论"
@@ -194,8 +194,8 @@ iOS:
 前端:
   - name: "前端食堂技术周刊"
     desc: "前端食堂技术周刊"
-    published_date: ""
-    latest_post: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
+    published_date: "2026-07-19T11:11:35Z"
+    latest_post: "[【开源自荐】Markstream：面向 AI 聊天界面的多框架流式 Markdown 渲染器](https://github.com/Geekhyt/weekly/issues/159)"
     link: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
   - name: "前端精读周刊"
     desc: "前端精读周刊。帮你理解最前沿、实用的技术。"
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: ""
-    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
+    published_date: "2026-08-07T07:15:00Z"
+    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
