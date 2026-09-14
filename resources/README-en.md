@@ -52,7 +52,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
 | AI Daily News | AI 日刊 | 2025-12-23 09:01 | [AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223) | [https://modelwatch.dev](https://modelwatch.dev) |
-| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2026-09-08 01:35 | [AIGC Weekly #187](https://quaily.com/op7418/p/aigc-weekly-1h2okd1e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
+| AIGC Weekly | 每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果 | 2026-09-15 01:17 | [AIGC Weekly #188](https://quaily.com/op7418/p/aigc-weekly-xgfygin5)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://quail.ink/op7418](https://quail.ink/op7418) |
 | 无限自然 | 《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。 | 2026-08-16 16:33 | [64 期：记录，疯狂的记录](https://quaily.com/zing927/p/sixty-four-issue-records-crazy-records) | [https://quaily.com/zing927](https://quaily.com/zing927) |
 
 <div align="right">
