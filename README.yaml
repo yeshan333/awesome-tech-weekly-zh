@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-09-19T01:02:00Z"
-    latest_post: "[【Rust日报】2026-09-19 解析 Wild 与 Mold 链接器基准差异](https://rustcc.cn/article?id=bb09ea39-b587-4edd-80fc-3def56c48c5c)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-20T01:05:00Z"
+    latest_post: "[【Rust日报】2026-09-20 Valen：带线性类型的更高层 “Rust++” 语言](https://rustcc.cn/article?id=fcb466e6-866c-47cb-bd6b-8737f32fcab3)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-09-19T00:41:31Z"
-    latest_post: "[2026 09 19 HackerNews](https://supertechfans.com/cn/post/2026-09-19-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-19T23:31:45Z"
+    latest_post: "[2026 09 20 HackerNews](https://supertechfans.com/cn/post/2026-09-20-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
