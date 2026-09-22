@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: ""
-    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
+    published_date: "2026-01-06T01:58:24Z"
+    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -99,8 +99,8 @@ iOS:
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-09-21T13:37:39Z"
-    latest_post: "[PH今日热榜   2026-09-21](https://decohack.com/producthunt-daily-2026-09-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-22T12:22:02Z"
+    latest_post: "[PH今日热榜   2026-09-22](https://decohack.com/producthunt-daily-2026-09-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
