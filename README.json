@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-09-23T01:04:00Z",
-                "latest_post": "[【Rust日报】2026-09-23 Fearless SIMD 1.0：把 unsafe 从 SIMD 里拿掉](https://rustcc.cn/article?id=8460a0c6-e5d5-48d7-93aa-f308f4324bad)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-09-24T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-09-24 Linux 将移除 Binder C 驱动，全面改用 Rust](https://rustcc.cn/article?id=e9cb907c-d7c0-4e30-8291-7e59f7af2c6a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -115,8 +115,8 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -177,7 +177,7 @@
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
                 "published_date": "2026-09-17T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第157期） : 开源驱动25k美元月收入](https://www.ezindie.com/weekly/issue-157)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[独立开发变现周刊（第157期） : 开源驱动25k美元月收入](https://www.ezindie.com/weekly/issue-157)",
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-09-22T23:15:45Z",
-                "latest_post": "[2026 09 23 HackerNews](https://supertechfans.com/cn/post/2026-09-23-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-09-24T01:08:00Z",
+                "latest_post": "[2026 09 24 HackerNews](https://supertechfans.com/cn/post/2026-09-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
