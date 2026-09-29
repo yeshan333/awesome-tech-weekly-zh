@@ -9,8 +9,8 @@ AI:
     link: "[https://modelwatch.dev](https://modelwatch.dev)"
   - name: "AIGC Weekly"
     desc: "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果"
-    published_date: "2026-09-21T17:20:46Z"
-    latest_post: "[AIGC Weekly #189](https://quaily.com/op7418/p/aigc-weekly-bqe74pq1)"
+    published_date: "2026-09-29T15:33:29Z"
+    latest_post: "[AIGC Weekly #190](https://quaily.com/op7418/p/aigc-weekly-one-ninety)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quail.ink/op7418](https://quail.ink/op7418)"
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: "2026-01-06T01:58:24Z"
-    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
+    published_date: ""
+    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-09-26T10:28:15Z"
-    latest_post: "[🔧 Python潮流周刊🐍 pinned a photo](https://t.me/pythontrendingweekly/567)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2025-10-30T09:49:33Z"
-    latest_post: "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -99,8 +99,8 @@ iOS:
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-09-28T14:57:39Z"
-    latest_post: "[PH今日热榜   2026-09-28](https://decohack.com/producthunt-daily-2026-09-28/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-29T13:44:41Z"
+    latest_post: "[PH今日热榜   2026-09-29](https://decohack.com/producthunt-daily-2026-09-29/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-09-28T15:58:20Z"
-    latest_post: "[SecWiki News 2026-09-28 Review](http://www.sec-wiki.com/?2026-09-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-09-29T15:58:20Z"
+    latest_post: "[SecWiki News 2026-09-29 Review](http://www.sec-wiki.com/?2026-09-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
