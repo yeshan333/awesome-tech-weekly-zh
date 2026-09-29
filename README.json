@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-09-29T01:10:00Z",
-                "latest_post": "[【Rust日报】2026-09-29 24 核机器在 Polars 里空转](https://rustcc.cn/article?id=1a8f128e-b431-4568-b118-2a7a1f4ddec8)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -251,8 +251,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2026-09-28T11:00:45Z",
-                "latest_post": "[邀请 weekly 加入 GithubStarMate，让更多人发现你的作品](https://github.com/Geekhyt/weekly/issues/161)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
