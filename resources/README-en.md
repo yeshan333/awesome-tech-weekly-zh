@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-03 09:06 | [【Rust日报】2026-10-03 Google 用 Gemini 大规模迁移 C/C++ 到 Rust](https://rustcc.cn/article?id=2fa9ec44-8665-4704-bdeb-4bcb99b59e7b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-03 11:18 | [【Rust日报】2026-10-02 单用途设备用 Rust 裸机，不必再塞一整套 Linux](https://rustcc.cn/article?id=b6734ed8-af11-46ea-bf0e-a0c1cddf3553)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
