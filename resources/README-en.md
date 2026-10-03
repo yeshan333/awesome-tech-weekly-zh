@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-09-30 09:07 | [【Rust日报】2026-09-30 MySQL 读负载降 99%](https://rustcc.cn/article?id=a00ffddb-aa21-44a0-a116-2e3addbeaa61)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-03 09:06 | [【Rust日报】2026-10-03 Google 用 Gemini 大规模迁移 C/C++ 到 Rust](https://rustcc.cn/article?id=2fa9ec44-8665-4704-bdeb-4bcb99b59e7b)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
