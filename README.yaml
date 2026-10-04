@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: "2026-01-06T01:58:24Z"
-    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
+    published_date: ""
+    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
@@ -249,7 +249,7 @@ iOS:
 运维:
   - name: "eryajf 的运维技术周刊"
     desc: "周刊内容以运维技术和 Go 语言周边为主"
-    published_date: "2026-09-17T14:49:19Z"
-    latest_post: "[学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/)"
+    published_date: "2026-10-15T03:38:56Z"
+    latest_post: "[学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/)"
     link: "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
 
