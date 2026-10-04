@@ -14,8 +14,8 @@ AI:
     link: "[https://quail.ink/op7418](https://quail.ink/op7418)"
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
-    published_date: "2026-09-30T14:52:00Z"
-    latest_post: "[测试图床](https://quaily.com/zing927/p/ce-shi-tu-chuang)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-04T11:30:00Z"
+    latest_post: "[65 期：国庆快乐](https://quaily.com/zing927/p/sixty-five-qi-national-day-happiness)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quaily.com/zing927](https://quaily.com/zing927)"
 
 
@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-10-01T14:15:41Z"
-    latest_post: "[🖼 恭喜这位同学中奖！下期活动继续，祝大家好运！](https://t.me/pythontrendingweekly/569)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-10-04T01:06:00Z"
-    latest_post: "[【Rust日报】2026-10-04 ArcColdString：引用计数字符串压到 8 字节](https://rustcc.cn/article?id=088be777-82e3-4be8-bf2f-e4ad9e7a6d9e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -75,7 +75,7 @@ iOS:
   - name: "老司机技术 iOS 周报"
     desc: "老司机技术 iOS 周报"
     published_date: "2026-09-27T11:30:23Z"
-    latest_post: "[老司机 iOS 周报 #380  2026-09-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23380)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[老司机 iOS 周报 #380  2026-09-28](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23380)"
     link: "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2025-10-30T09:49:33Z"
-    latest_post: "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -99,8 +99,8 @@ iOS:
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-10-03T12:14:25Z"
-    latest_post: "[PH今日热榜   2026-10-03](https://decohack.com/producthunt-daily-2026-10-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-04T13:03:24Z"
+    latest_post: "[PH今日热榜   2026-10-04](https://decohack.com/producthunt-daily-2026-10-04/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
@@ -194,8 +194,8 @@ iOS:
 前端:
   - name: "前端食堂技术周刊"
     desc: "前端食堂技术周刊"
-    published_date: "2026-09-28T11:00:45Z"
-    latest_post: "[邀请 weekly 加入 GithubStarMate，让更多人发现你的作品](https://github.com/Geekhyt/weekly/issues/161)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-07-19T11:11:35Z"
+    latest_post: "[【开源自荐】Markstream：面向 AI 聊天界面的多框架流式 Markdown 渲染器](https://github.com/Geekhyt/weekly/issues/159)"
     link: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
   - name: "前端精读周刊"
     desc: "前端精读周刊。帮你理解最前沿、实用的技术。"
