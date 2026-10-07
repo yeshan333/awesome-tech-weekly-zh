@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-10-06T01:05:00Z",
-                "latest_post": "[【Rust日报】2026-10-06 mold 3.0.0：高速链接器改用 Rust](https://rustcc.cn/article?id=20f146c5-1419-4539-936a-4f0cfdc3b7df)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-07T01:11:00Z",
+                "latest_post": "[【Rust日报】2026-10-07 Burn 0.22：改模型后重编译降到 1 秒](https://rustcc.cn/article?id=e188f77f-dcb4-4e58-aa32-03685d82c424)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -177,7 +177,7 @@
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
                 "published_date": "2026-09-30T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第159期） : 300万美元年收入面试神器](https://www.ezindie.com/weekly/issue-159)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[独立开发变现周刊（第159期） : 300万美元年收入面试神器](https://www.ezindie.com/weekly/issue-159)",
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {

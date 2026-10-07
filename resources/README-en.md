@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-06 09:05 | [【Rust日报】2026-10-06 mold 3.0.0：高速链接器改用 Rust](https://rustcc.cn/article?id=20f146c5-1419-4539-936a-4f0cfdc3b7df)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-07 09:11 | [【Rust日报】2026-10-07 Burn 0.22：改模型后重编译降到 1 秒](https://rustcc.cn/article?id=e188f77f-dcb4-4e58-aa32-03685d82c424)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -177,7 +177,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
 | 猫鱼周刊 | 猫鱼周刊 | 2026-06-28 20:38 | [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
-| 独立开发变现周刊 | 独立开发变现周刊 | 2026-09-30 08:00 | [独立开发变现周刊（第159期） : 300万美元年收入面试神器](https://www.ezindie.com/weekly/issue-159)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2026-09-30 08:00 | [独立开发变现周刊（第159期） : 300万美元年收入面试神器](https://www.ezindie.com/weekly/issue-159) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2026-09-28 08:05 | [HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31 08:00 | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2026-10-06 08:16 | [2026-10-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-06-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
