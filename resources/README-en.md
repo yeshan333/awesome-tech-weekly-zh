@@ -92,7 +92,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 | 2026-01-06 09:58 | [Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-07 09:11 | [【Rust日报】2026-10-07 Burn 0.22：改模型后重编译降到 1 秒](https://rustcc.cn/article?id=e188f77f-dcb4-4e58-aa32-03685d82c424)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 |  | [https://rustcc.cn/](https://rustcc.cn/) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -144,7 +144,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 云原生周刊 | 云原生周刊 | 2025-10-30 17:49 | [Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 |  | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -163,7 +163,7 @@ English | [简体中文](../README.md)
 | 体验碎周报 | 体验碎周报 | 2026-09-07 17:00 | [体验碎周报第292期(2026.9.7)](https://www.ftium4.com/ux-weekly-292.html) | [https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/) |
 | Link 设计周刊 | Link 设计周刊 |  | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) | [https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w) |
 | 月维素材周刊 | 月维的创造者们对「设计」和「开发」的思考与讨论 | 2026-10-07 00:00 | [设计素材周刊 221 期](https://moonvy.com/blog/post/设计素材周刊/221/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/) |
-| 三号设计周刊 | 每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。 | 2026-09-21 10:19 | [三号设计周刊 Vol.38](https://sanhao-design-weekly.pages.dev/?issue=38) | [https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/) |
+| 三号设计周刊 | 每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。 | 2026-10-08 10:10 | [三号设计周刊 Vol.39](https://sanhao-design-weekly.pages.dev/?issue=39)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
