@@ -55,8 +55,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -68,7 +68,7 @@
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-01T14:15:41Z",
-                "latest_post": "[🖼 恭喜这位同学中奖！下期活动继续，祝大家好运！](https://t.me/pythontrendingweekly/569)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[🖼 恭喜这位同学中奖！下期活动继续，祝大家好运！](https://t.me/pythontrendingweekly/569)",
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-08T01:05:00Z",
+                "latest_post": "[【Rust日报】2026-10-08 Chrome 用 jxl-rs 上线 JPEG XL](https://rustcc.cn/article?id=2d02b16d-0e6c-46e0-bfa6-db164d0ce1dc)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -103,8 +103,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-10-07T14:14:13Z",
-                "latest_post": "[PH今日热榜   2026-10-07](https://decohack.com/producthunt-daily-2026-10-07/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-08T14:23:16Z",
+                "latest_post": "[PH今日热榜   2026-10-08](https://decohack.com/producthunt-daily-2026-10-08/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -176,8 +176,8 @@
             {
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
-                "published_date": "2026-09-30T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第159期） : 300万美元年收入面试神器](https://www.ezindie.com/weekly/issue-159)",
+                "published_date": "2026-10-08T00:00:00Z",
+                "latest_post": "[独立开发变现周刊（第160期） : ChatGPT插件单周新增50万美元](https://www.ezindie.com/weekly/issue-160)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -277,8 +277,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-07T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-07 Review](http://www.sec-wiki.com/?2026-10-07)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-08T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-10-08 Review](http://www.sec-wiki.com/?2026-10-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
