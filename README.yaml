@@ -44,8 +44,8 @@ Elixir:
 Go:
   - name: "Go语言爱好者周刊"
     desc: "Go语言爱好者周刊"
-    published_date: ""
-    latest_post: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
+    published_date: "2026-01-06T01:58:24Z"
+    latest_post: "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)"
     link: "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
 
 
@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: ""
-    latest_post: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
+    published_date: "2026-10-10T14:07:35Z"
+    latest_post: "[重要提示： 第 170 期有读者福利抽奖活动，满 100 人自动开奖，奖品是一份周刊专栏的年度订阅码。参与方式：给公众号 Python猫 发送数字“6170”，获取抽奖小程...](https://t.me/pythontrendingweekly/573)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: ""
-    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
+    published_date: "2026-10-11T18:33:00Z"
+    latest_post: "[【Rust日报】2026-10-12 热门 crate 里 65% 仍低于 1.0](https://rustcc.cn/article?id=bf07e300-0322-46c6-8c32-d5882ffd1df2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -114,8 +114,8 @@ iOS:
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
+    published_date: "2024-07-24T14:27:32Z"
+    latest_post: "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)"
     link: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
   - name: "月维素材周刊"
     desc: "月维的创造者们对「设计」和「开发」的思考与讨论"
@@ -124,8 +124,8 @@ iOS:
     link: "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
   - name: "三号设计周刊"
     desc: "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。"
-    published_date: "2026-10-08T02:10:14Z"
-    latest_post: "[三号设计周刊 Vol.39](https://sanhao-design-weekly.pages.dev/?issue=39)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-12T02:25:30Z"
+    latest_post: "[三号设计周刊 Vol.40](https://sanhao-design-weekly.pages.dev/?issue=40)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
 
 
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
