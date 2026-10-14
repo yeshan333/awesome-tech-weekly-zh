@@ -43,8 +43,8 @@
             {
                 "name": "Elixir Podcast",
                 "desc": "Thinking Elixir Podcast",
-                "published_date": "2026-05-17T21:37:03Z",
-                "latest_post": "[【Mold - a tiny, zero-dependency parsing library for external payloads】Mold - 一个小型的、零依赖的外部负载解析库](https://elixirstatus.com/p/N2qk5-mold---a-tiny-zero-dependency-parsing-library-for-external-payloads)",
+                "published_date": "",
+                "latest_post": "[https://thinkingelixir.com/](https://thinkingelixir.com/)",
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -129,8 +129,8 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-10-09T04:21:33Z",
-                "latest_post": "[#366 个人 agent、云端电脑、AI 电脑](https://quaily.com/dingyi/p/366)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-14T13:42:44Z",
+                "latest_post": "[#367 压缩和解压缩](https://quaily.com/dingyi/p/367)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
