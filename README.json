@@ -92,7 +92,7 @@
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
                 "published_date": "2026-10-11T15:19:12Z",
-                "latest_post": "[老司机 iOS 周报 #381   2026-10-12](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23381)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[老司机 iOS 周报 #381   2026-10-12](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23381)",
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -122,8 +122,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-10-17T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-10-17](https://decohack.com/producthunt-daily-2026-10-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-18T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-10-18](https://decohack.com/producthunt-daily-2026-10-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -137,7 +137,7 @@
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2026-10-11T16:46:11Z",
-                "latest_post": "[体验碎周报第294期(2026.10.12)](https://www.ftium4.com/ux-weekly-294.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[体验碎周报第294期(2026.10.12)](https://www.ftium4.com/ux-weekly-294.html)",
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -265,8 +265,8 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-10-12T00:00:00Z",
-                "latest_post": "[第285期 - 陵水的云](https://weekly.tw93.fun/posts/285/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-19T00:00:00Z",
+                "latest_post": "[第286期 - 径山双溪](https://weekly.tw93.fun/posts/286/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -277,8 +277,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-17T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-17 Review](http://www.sec-wiki.com/?2026-10-17)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-18T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-10-18 Review](http://www.sec-wiki.com/?2026-10-18)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -289,8 +289,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -320,8 +320,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-10-15T03:38:56Z",
-                "latest_post": "[学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)",
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
