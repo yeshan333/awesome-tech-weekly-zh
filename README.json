@@ -79,8 +79,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-10-19T01:06:00Z",
-                "latest_post": "[【Rust日报】2026-10-19 借用检查可以倒着做](https://rustcc.cn/article?id=4295b6e8-3777-402b-97da-04a42b6f5f59)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-20T01:06:00Z",
+                "latest_post": "[【Rust日报】2026-10-20 一张图列出 20 个 Rust 数据库项目](https://rustcc.cn/article?id=e9c60079-2923-47d5-a804-4cfcef87447e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -197,8 +197,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-10-18T23:17:56Z",
-                "latest_post": "[2026-10-19 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-19-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-19T23:22:43Z",
+                "latest_post": "[2026-10-20 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-20-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
