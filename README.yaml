@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-10-20T01:06:00Z"
-    latest_post: "[【Rust日报】2026-10-20 一张图列出 20 个 Rust 数据库项目](https://rustcc.cn/article?id=e9c60079-2923-47d5-a804-4cfcef87447e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-21T01:06:00Z"
+    latest_post: "[【Rust日报】2026-10-21 Cloudflare 用 Rust 移植 TypeScript](https://rustcc.cn/article?id=13d7c53f-3d2b-4d61-b760-bc7aa2346f20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-10-19T23:22:43Z"
-    latest_post: "[2026-10-20 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-20-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-21T00:16:33Z"
+    latest_post: "[2026-10-21 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-21-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -174,8 +174,8 @@ iOS:
     link: "[https://quaily.com/gapismoney](https://quaily.com/gapismoney)"
   - name: "偷懒爱好者周刊"
     desc: "偷懒爱好者周刊"
-    published_date: "2026-10-14T00:00:00Z"
-    latest_post: "[第203期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/14/第203期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-21T00:00:00Z"
+    latest_post: "[第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
