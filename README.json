@@ -7,6 +7,8 @@
                 "desc": "AI 日刊",
                 "published_date": "2025-12-23T01:01:35Z",
                 "latest_post": "[AI 日刊 20251223](https://modelwatch.dev/p/ai-20251223)",
+                "cover_url": "https://substackcdn.com/image/fetch/$s_!86Mv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg",
+                "cover_urls": ["https://substackcdn.com/image/fetch/$s_!86Mv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg","https://substackcdn.com/image/fetch/$s_!86Mv!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc89c67ee-0c98-4160-a94a-03712614ecb2_1024x572.jpeg"],
                 "link": "[https://modelwatch.dev](https://modelwatch.dev)"
             },
             {
@@ -14,6 +16,8 @@
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
                 "published_date": "2026-10-20T03:38:11Z",
                 "latest_post": "[AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
             },
             {
@@ -21,6 +25,8 @@
                 "desc": "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。",
                 "published_date": "2026-10-18T12:57:00Z",
                 "latest_post": "[67 期：天目山大树王国](https://quaily.com/zing927/p/sixty-seven-qi-tian-mu-shan-da-shu-wang-guo)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://quaily.com/zing927](https://quaily.com/zing927)"
             }
         ]
@@ -33,6 +39,8 @@
                 "desc": ".NET 周刊",
                 "published_date": "",
                 "latest_post": "[https://www.fungkao.net/](https://www.fungkao.net/)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.fungkao.net/](https://www.fungkao.net/)"
             }
         ]
@@ -45,6 +53,8 @@
                 "desc": "Thinking Elixir Podcast",
                 "published_date": "2026-05-17T21:37:03Z",
                 "latest_post": "[【Mold - a tiny, zero-dependency parsing library for external payloads】Mold - 一个小型的、零依赖的外部负载解析库](https://elixirstatus.com/p/N2qk5-mold---a-tiny-zero-dependency-parsing-library-for-external-payloads)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://thinkingelixir.com/](https://thinkingelixir.com/)"
             }
         ]
@@ -57,6 +67,8 @@
                 "desc": "Go语言爱好者周刊",
                 "published_date": "2026-01-06T01:58:24Z",
                 "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
             }
         ]
@@ -69,6 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-17T11:11:58Z",
                 "latest_post": "[重要提示： 第 171 期有读者福利抽奖活动，满 100 人自动开奖，奖品是一份周刊专栏的年度订阅码。参与方式：给公众号 Python猫 发送数字“6171”，获取抽奖小程...](https://t.me/pythontrendingweekly/577)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -81,6 +95,8 @@
                 "desc": "Rust语言中文社区新闻和日报",
                 "published_date": "2026-10-21T01:06:00Z",
                 "latest_post": "[【Rust日报】2026-10-21 Cloudflare 用 Rust 移植 TypeScript](https://rustcc.cn/article?id=13d7c53f-3d2b-4d61-b760-bc7aa2346f20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
             }
         ]
@@ -93,6 +109,8 @@
                 "desc": "老司机技术 iOS 周报",
                 "published_date": "2026-10-11T15:19:12Z",
                 "latest_post": "[老司机 iOS 周报 #381   2026-10-12](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23381)",
+                "cover_url": "https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/380.png?raw=true",
+                "cover_urls": ["https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/380.png?raw=true"],
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -105,6 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -117,6 +137,8 @@
                 "desc": "BLUE周刊",
                 "published_date": "",
                 "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -124,6 +146,8 @@
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
                 "published_date": "2026-10-20T07:00:00Z",
                 "latest_post": "[PH今日热榜   2026-10-20](https://decohack.com/producthunt-daily-2026-10-20/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
             },
             {
@@ -131,6 +155,8 @@
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
                 "published_date": "2026-10-20T15:12:13Z",
                 "latest_post": "[#368 Unscroll](https://quaily.com/dingyi/p/368)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
             },
             {
@@ -138,6 +164,8 @@
                 "desc": "体验碎周报",
                 "published_date": "2026-10-11T16:46:11Z",
                 "latest_post": "[体验碎周报第294期(2026.10.12)](https://www.ftium4.com/ux-weekly-294.html)",
+                "cover_url": "https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261015110019940.png",
+                "cover_urls": ["https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261015110019940.png"],
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -145,6 +173,8 @@
                 "desc": "Link 设计周刊",
                 "published_date": "",
                 "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -152,6 +182,8 @@
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
                 "published_date": "2026-10-15T16:00:00Z",
                 "latest_post": "[设计素材周刊 222 期](https://moonvy.com/blog/post/设计素材周刊/222/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://moonvy.com/blog/_assets/f94392a8dbf93a0e.png",
+                "cover_urls": ["https://moonvy.com/blog/_assets/f94392a8dbf93a0e.png","https://moonvy.com/blog/_assets/bd026d0228baedd4.png","https://moonvy.com/blog/_assets/d573bea9675a7d56.png","https://moonvy.com/blog/_assets/1f74d3ede8352bd1.png","https://moonvy.com/blog/_assets/f30000274786d73a.png","https://moonvy.com/blog/_assets/e982fdeffbaa0210.png","https://moonvy.com/blog/_assets/729654a334648b28.png","https://moonvy.com/blog/_assets/dee161426434758e.png","https://moonvy.com/blog/_assets/5a380d4dd43661fb.png","https://moonvy.com/blog/_assets/3ca3b8f1c3d8d67a.png","https://moonvy.com/blog/_assets/a974cd38307a3887.png","https://moonvy.com/blog/_assets/f9ee574d544330c6.png"],
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             },
             {
@@ -159,6 +191,8 @@
                 "desc": "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。",
                 "published_date": "2026-10-19T02:11:22Z",
                 "latest_post": "[三号设计周刊 Vol.41](https://sanhao-design-weekly.pages.dev/?issue=41)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://sanhao-design-weekly.pages.dev/assets/vol41-apple-homeview.png",
+                "cover_urls": ["https://sanhao-design-weekly.pages.dev/assets/vol41-apple-homeview.png"],
                 "link": "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
             }
         ]
@@ -171,6 +205,8 @@
                 "desc": "猫鱼周刊",
                 "published_date": "2026-06-28T12:38:42Z",
                 "latest_post": "[猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099)",
+                "cover_url": "https://ameow.xyz/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fimg.ameow.xyz%2F20260628203728048.webp&size=m",
+                "cover_urls": ["https://ameow.xyz/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fimg.ameow.xyz%2F20260628203728048.webp&size=m"],
                 "link": "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
             },
             {
@@ -178,6 +214,8 @@
                 "desc": "独立开发变现周刊",
                 "published_date": "2026-10-15T00:00:00Z",
                 "latest_post": "[独立开发变现周刊（第161期） : X原创内容奖励首周入账92.18美元](https://www.ezindie.com/weekly/issue-161)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://qiniu.gafata.com/weekly-covers/e629e8c4f2ed47528ad5e70585a0eeb4.png",
+                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/e629e8c4f2ed47528ad5e70585a0eeb4.png"],
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -185,6 +223,8 @@
                 "desc": "HelloGitHub 月刊",
                 "published_date": "2026-09-28T00:05:08Z",
                 "latest_post": "[HelloGitHub 第 126 期](https://hellogithub.com/periodical/volume/126)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
             },
             {
@@ -192,6 +232,8 @@
                 "desc": "独立开发沉思录周刊",
                 "published_date": "2025-03-31T00:00:00Z",
                 "latest_post": "[vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36)",
+                "cover_url": "https://image.hackthinking.com/vol36/banner.jpg",
+                "cover_urls": ["https://image.hackthinking.com/vol36/banner.jpg","https://image.hackthinking.com/vol36/idea-harbor.png","https://image.hackthinking.com/vol36/21st-dev.png","https://image.hackthinking.com/vol36/startups-gallery.png","https://image.hackthinking.com/vol36/hoarder.png","https://image.hackthinking.com/vol36/shadcn-admin.png"],
                 "link": "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
             },
             {
@@ -199,6 +241,8 @@
                 "desc": "Hacker News 每日摘要",
                 "published_date": "2026-10-21T00:16:33Z",
                 "latest_post": "[2026-10-21 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-21-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
             },
             {
@@ -206,6 +250,8 @@
                 "desc": "老胡的周刊",
                 "published_date": "2025-09-20T15:54:00Z",
                 "latest_post": "[09-01~09-21.老胡的周刊（第201期）.md](https://weekly.howie6879.com/2025/09-01~09-21.老胡的周刊（第201期）.html)",
+                "cover_url": "https://images-1252557999.file.myqcloud.com/uPic/spn7Mb.png",
+                "cover_urls": ["https://images-1252557999.file.myqcloud.com/uPic/spn7Mb.png","https://images-1252557999.file.myqcloud.com/uPic/6o2Sqw.png","https://images-1252557999.file.myqcloud.com/uPic/lKNHVM.png","https://images-1252557999.file.myqcloud.com/uPic/fgTNRH.png","https://images-1252557999.file.myqcloud.com/uPic/7lUdv4.png","https://images-1252557999.file.myqcloud.com/uPic/FpEbSX.png","https://images-1252557999.file.myqcloud.com/uPic/hTXVat.png","https://images-1252557999.file.myqcloud.com/uPic/ugiS4u.png","https://images-1252557999.file.myqcloud.com/uPic/JLZ4ca.png","https://images-1252557999.file.myqcloud.com/uPic/QD4TLj.png","https://images-1252557999.file.myqcloud.com/uPic/VUUtRz.png"],
                 "link": "[https://weekly.howie6879.com/index.html](https://weekly.howie6879.com/index.html)"
             },
             {
@@ -213,6 +259,8 @@
                 "desc": "独立开发周记",
                 "published_date": "2026-10-19T07:13:40Z",
                 "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 192：工作室改造中](https://www.v2ex.com/t/1250029#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://files.mdnice.com/user/73796/0135419d-cbc8-4962-be32-35b2a3eab92d.jpeg",
+                "cover_urls": ["https://files.mdnice.com/user/73796/0135419d-cbc8-4962-be32-35b2a3eab92d.jpeg","https://files.mdnice.com/user/73796/678ff560-70cf-473e-b786-d147734a93a9.png","https://files.mdnice.com/user/73796/c59ce904-db9f-4b50-80cf-e2472690801d.jpg","https://files.mdnice.com/user/73796/7392d5b3-80fb-45b4-9492-f0909961ec97.jpg","https://files.mdnice.com/user/73796/e6caaa9b-4d25-4338-a75b-d97f566c8b05.jpeg","https://files.mdnice.com/user/73796/a2c49ce3-b55f-46a7-b3a7-8df5d9793d0b.jpeg","https://files.mdnice.com/user/73796/50be4eab-5f2a-4a4d-bfb8-5af4e386ba9d.jpeg"],
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -220,6 +268,8 @@
                 "desc": "信息差——独立开发者出海周刊",
                 "published_date": "2024-09-30T05:03:38Z",
                 "latest_post": "[信息差周刊第20期：AI是专业能力的放大器](https://quaily.com/gapismoney/p/ai-professional-skills-amplifier)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://quaily.com/gapismoney](https://quaily.com/gapismoney)"
             },
             {
@@ -227,6 +277,8 @@
                 "desc": "偷懒爱好者周刊",
                 "published_date": "2026-10-21T00:00:00Z",
                 "latest_post": "[第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
             },
             {
@@ -234,6 +286,8 @@
                 "desc": "阮一峰的科技爱好者周刊",
                 "published_date": "2026-10-16T00:02:56Z",
                 "latest_post": "[科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.beekka.com/blogimg/asset/202610/bg2026101524.webp",
+                "cover_urls": ["https://cdn.beekka.com/blogimg/asset/202610/bg2026101524.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101516.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101517.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101518.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101519.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101520.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101521.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101522.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101523.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101525.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101006.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101526.webp"],
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
@@ -241,6 +295,8 @@
                 "desc": "记录有价值的技术内容，对周内阅读的技术内容精品进行总结",
                 "published_date": "2026-04-24T00:00:00Z",
                 "latest_post": "[迁移公告](https://weekly.shawnxie.top/content/2026/migration.html)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://weekly.shawnxie.top/](https://weekly.shawnxie.top/)"
             }
         ]
@@ -253,6 +309,8 @@
                 "desc": "前端食堂技术周刊",
                 "published_date": "2026-07-19T11:11:35Z",
                 "latest_post": "[【开源自荐】Markstream：面向 AI 聊天界面的多框架流式 Markdown 渲染器](https://github.com/Geekhyt/weekly/issues/159)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -260,6 +318,8 @@
                 "desc": "前端精读周刊。帮你理解最前沿、实用的技术。",
                 "published_date": "2024-06-13T11:50:44Z",
                 "latest_post": "[完整实现神经网络: 实战演练](https://github.com/ascoders/weekly/releases/tag/295)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)"
             },
             {
@@ -267,6 +327,8 @@
                 "desc": "前端潮流周刊",
                 "published_date": "2026-10-19T00:00:00Z",
                 "latest_post": "[第286期 - 径山双溪](https://weekly.tw93.fun/posts/286/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.fliggy.com/pic/28620.png",
+                "cover_urls": ["https://cdn.fliggy.com/pic/28620.png","https://cdn.fliggy.com/pic/hNqbOd46.png","https://cdn.fliggy.com/pic/RBPkvo03.png","https://cdn.fliggy.com/pic/pk6SJi02.png","https://cdn.fliggy.com/pic/sNA6Hl33.png","https://cdn.fliggy.com/pic/wM8SfB12.png","https://cdn.fliggy.com/pic/IMG_410048.JPG"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -277,8 +339,10 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-20T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-20 Review](http://www.sec-wiki.com/?2026-10-20)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
             }
         ]
@@ -289,8 +353,10 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -303,6 +369,8 @@
                 "desc": "softwaretestingweekly ",
                 "published_date": "2026-05-18T08:00:00Z",
                 "latest_post": "[【Software Testing Weekly - Issue 313 - May 18th 2026】软件测试周刊 - 第 313 期 - 2026 年 5 月 18 日](https://softwaretestingweekly.com/issues/313)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
             },
             {
@@ -310,6 +378,8 @@
                 "desc": "软件测试及周边的行业动态，周五发布",
                 "published_date": "",
                 "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
@@ -322,6 +392,8 @@
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
                 "published_date": "2026-10-15T03:38:56Z",
                 "latest_post": "[学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
             }
         ]
