@@ -5,6 +5,7 @@
     "": {
       "name": "awesome-tech-weekly-zh",
       "dependencies": {
+        "entities": "^2.2.0",
         "rss-parser": "^3.13.0",
         "yaml": "^2.4.5",
       },

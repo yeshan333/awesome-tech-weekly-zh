@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="发现优质中文技术周刊。按技术领域浏览、搜索最新文章，或通过 RSS 一次订阅全部周刊。"
+    />
+    <meta name="color-scheme" content="light dark" />
+    <title>中文技术周刊精选 · 每周，读点好东西</title>
+    <link rel="icon" href="mark.svg" type="image/svg+xml" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="中文技术周刊精选"
+      href="feed.xml"
+    />
+    <link
+      rel="preload"
+      href="fonts/instrument-sans.ttf"
+      as="font"
+      type="font/ttf"
+      crossorigin
+    />
+    <script src="theme.js"></script>
+    <link rel="stylesheet" href="site.css" />
+    <script src="site.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#directory">跳到周刊目录</a>
+    <div class="container">
+      <header class="masthead">
+        <a href="./" class="brand" aria-label="中文技术周刊精选首页"
+          ><img src="mark.svg" width="28" height="28" alt="" /><span
+            >中文技术周刊精选</span
+          ></a
+        >
+        <div class="header-actions">
+          <a
+            href="https://github.com/yeshan333/awesome-tech-weekly-zh"
+            target="_blank"
+            rel="noopener noreferrer"
+            >GitHub <span aria-hidden="true">↗</span></a
+          ><button
+            class="icon-button js-only"
+            id="themeToggle"
+            data-test="theme-toggle"
+            type="button"
+            aria-label="切换到深色主题"
+            aria-pressed="false"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20.7 13A9 9 0 0 1 11 3.3 9 9 0 1 0 20.7 13Z" />
+            </svg>
+          </button>
+        </div>
+      </header>
+      <main>
+        <div class="intro" data-test="hero">
+          <div class="intro-copy">
+            <h1>每周，读点好东西。</h1>
+            <p>从中文技术社区出发，找到值得持续阅读的周刊。</p>
+            <p class="freshness">最新文章发布于 <time>$newest</time></p>
+          </div>
+          <div class="intro-stats" aria-label="收录概况">
+            <div><span class="stat-value">$total</span><span>份周刊</span></div>
+            <div>
+              <span class="stat-value">$category_total</span
+              ><span>个技术领域</span>
+            </div>
+            <div>
+              <span class="stat-value accent" id="recentTotal"
+                >$recent_total</span
+              ><span>近 7 天更新</span>
+            </div>
+          </div>
+        </div>
+        $featured
+        <div class="directory" id="directory">
+          <div class="directory-heading">
+            <div>
+              <h2>周刊目录</h2>
+              <p>找一个感兴趣的领域，开始阅读。</p>
+            </div>
+            <a href="feed.xml" class="subscribe-link"
+              ><svg viewBox="0 0 24 24" aria-hidden="true">
+                <circle cx="5" cy="19" r="1" />
+                <path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" /></svg
+              >订阅聚合 RSS</a
+            >
+          </div>
+          <div class="directory-layout">
+            <nav class="category-nav" data-test="nav" aria-label="技术分类">
+              <div class="nav-label">按领域浏览</div>
+              <label class="mobile-categories js-only"
+                >技术分类<select
+                  id="categorySelect"
+                  aria-label="选择技术分类"
+                ></select
+              ></label>
+              <div class="nav-items">$navigation</div>
+            </nav>
+            <div class="directory-content">
+              <div class="toolbar js-only" role="search">
+                <label class="search-field"
+                  ><svg viewBox="0 0 24 24" aria-hidden="true">
+                    <circle cx="10.5" cy="10.5" r="6.5" />
+                    <path d="m16 16 5 5" /></svg
+                  ><span class="sr-only">搜索周刊名称、描述或最新文章</span
+                  ><input
+                    id="searchInput"
+                    type="search"
+                    placeholder="搜索周刊、描述或文章"
+                    autocomplete="off"
+                  /><kbd aria-hidden="true">/</kbd></label
+                ><button
+                  class="filter-button"
+                  id="recentFilter"
+                  type="button"
+                  aria-pressed="false"
+                >
+                  近 7 天更新
+                </button>
+              </div>
+              <div class="result-summary">
+                <p id="resultCount" role="status" aria-live="polite">
+                  共 $total 份周刊
+                </p>
+                <button id="clearFilters" type="button" hidden>清除筛选</button>
+              </div>
+              <div class="empty-state" id="noResults" hidden>
+                <h2>暂时没有匹配的周刊</h2>
+                <p>试试其他关键词，或清除分类和更新筛选。</p>
+                <button class="filter-button" id="resetFilters" type="button">
+                  查看全部周刊
+                </button>
+              </div>
+              <div id="categories">$categories</div>
+            </div>
+          </div>
+        </div>
+        <section class="contribute">
+          <div>
+            <h2>好周刊，值得被更多人看见。</h2>
+            <p>这个目录由社区共同维护。欢迎推荐你在读的中文技术周刊。</p>
+          </div>
+          <a
+            href="https://github.com/yeshan333/awesome-tech-weekly-zh/issues/new"
+            target="_blank"
+            rel="noopener noreferrer"
+            >推荐一份周刊 <span aria-hidden="true">↗</span></a
+          >
+        </section>
+      </main>
+      <footer>
+        <span>原文配图来自对应周刊 · 缺图时使用 AI 主题插画</span
+        ><span
+          >数据构建于 <time datetime="$generated_iso">$generated</time></span
+        >
+      </footer>
+    </div>
+    <button
+      class="back-to-top icon-button js-only"
+      id="backToTop"
+      data-test="back-to-top"
+      aria-label="回到顶部"
+      type="button"
+      hidden
+    >
+      ↑
+    </button>
+  </body>
+</html>

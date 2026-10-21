@@ -30,8 +30,18 @@ jobs:
       - name: Generate README
         run: bun run generate
 
+      - name: Verify issue image extraction
+        run: bun test tests/feed-cover.test.ts
+
+      - name: Restore issue cover cache
+        uses: actions/cache@v4
+        with:
+          path: .cover-cache
+          key: weekly-covers-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: weekly-covers-v1-
+
       - name: Build site (index.html + feed.xml)
-        run: python3 scripts/build_site.py
+        run: python3 scripts/build_site.py --fetch-covers --site-url https://awesome-tech-weekly-zh.netlify.app
 
       - name: Commit and push changes
         run: |

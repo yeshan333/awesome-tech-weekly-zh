@@ -22,7 +22,7 @@ done
 
 if [ "$SKIP_BUILD" = false ]; then
     echo "==> Building site..."
-    python3 scripts/build_site.py
+    python3 scripts/build_site.py --fetch-covers --site-url https://awesome-tech-weekly-zh.netlify.app
 fi
 
 echo "==> Deploying to Netlify..."

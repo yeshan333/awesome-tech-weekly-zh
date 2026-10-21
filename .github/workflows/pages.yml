@@ -1,0 +1,71 @@
+name: Deploy newsletter directory to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.json
+      - scripts/build_site.py
+      - scripts/covers.py
+      - scripts/cover_sources.py
+      - tests/test_*.py
+      - template/site/**
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+  workflow_run:
+    workflows: [json README Generator]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read GitHub Pages URL
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Verify metadata rendering
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+      - name: Restore issue cover cache
+        uses: actions/cache@v4
+        with:
+          path: .cover-cache
+          key: weekly-covers-pages-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            weekly-covers-pages-v1-
+            weekly-covers-v1-
+      - name: Build directory and RSS
+        env:
+          PUBLIC_SITE_URL: ${{ steps.pages.outputs.base_url }}
+        run: python3 scripts/build_site.py --fetch-covers --site-url "$PUBLIC_SITE_URL"
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

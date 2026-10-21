@@ -12,6 +12,8 @@
                 "desc": "{{$item.desc}}",
                 "published_date": "{{ getFeedLatestPostPublishedDate $item.feed_url }}",
                 "latest_post": "{{ getFeedLatestPost $item.feed_url $item.link }}",
+                "cover_url": "{{ getFeedCoverUrl $item.feed_url }}",
+                "cover_urls": {{ getFeedCoverUrls $item.feed_url }},
                 "link": "[{{goUrlDecode $item.link}}]({{$item.link}})"
             }{{if lt $itemIndex (sub $totalItems 1)}},{{end}}
     {{- end}}

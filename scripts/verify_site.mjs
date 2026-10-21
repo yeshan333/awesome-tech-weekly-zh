@@ -5,7 +5,7 @@
  * 用法:  node scripts/verify_site.mjs [--dir site]
  * 退出码:0 = 全部通过;1 = 有失败项(失败清单打印在 stdout,勿部署)。
  *
- * 页面必须带 data-test 钩子(见 ai_agents_configs/paseo/prompts/weekly-site.md 步骤 5),
+ * 页面必须带 data-test 钩子，移动端分类通过原生下拉框操作。
  * 缺钩子直接判 FAIL —— 自检不做「猜选择器」的启发式匹配。
  */
 import { createServer } from 'node:http'
@@ -29,7 +29,7 @@ function loadPlaywright() {
   throw new Error('找不到 playwright。装一个:npm i -g @playwright/cli')
 }
 
-const MIME = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.jpg': 'image/jpeg', '.webp': 'image/webp', '.ico': 'image/x-icon' }
+const MIME = { '.html': 'text/html', '.css': 'text/css', '.js': 'text/javascript', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.jpg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif', '.avif': 'image/avif', '.ico': 'image/x-icon', '.ttf': 'font/ttf', '.xml': 'application/rss+xml' }
 
 function serve(dir) {
   const server = createServer(async (req, res) => {
@@ -142,16 +142,45 @@ async function checkFilter(page) {
   const target = cats.find(c => c && c !== 'all')
   if (!target) return check('分类筛选生效', false, '没有可点的非「全部」分类')
 
-  await page.click(`${sel('nav-item')}[data-category="${target.replace(/"/g, '\\"')}"]`)
+  const chooseCategory = async category => {
+    if (await page.locator('#categorySelect').isVisible()) await page.selectOption('#categorySelect', category)
+    else await page.click(`${sel('nav-item')}[data-category="${category}"]`)
+  }
+  await chooseCategory(target)
   await sleep(500)
   const filtered = await visibleCards(page)
   check('点击分类只显示该类卡片', filtered > 0 && filtered < total, `${total} → ${filtered}(分类 ${target})`)
   const highlighted = await page.$$eval(sel('nav-item'), els => els.filter(e => e.dataset.active === 'true' || e.getAttribute('aria-current')).length)
   check('当前分类高亮', highlighted === 1, `高亮项 ${highlighted} 个`)
 
-  await page.click(`${sel('nav-item')}[data-category="all"]`)
+  await chooseCategory('all')
   await sleep(500)
   check('点「全部」恢复所有卡片', (await visibleCards(page)) === total, `恢复到 ${await visibleCards(page)}/${total}`)
+
+  await page.fill('#searchInput', 'AIGC')
+  check('读者搜索 AIGC 时仅显示名称、描述或文章匹配的周刊', await page.$$eval(sel('feed-card'), els => {
+    const shown = els.filter(e => e.offsetParent !== null)
+    return shown.length > 0 && shown.every(e => e.dataset.search.includes('aigc'))
+  }))
+  await page.fill('#searchInput', '没有这个周刊-测试')
+  check('读者搜索不存在的周刊时看到空结果和恢复入口', (await visibleCards(page)) === 0 && await page.locator('#noResults').isVisible())
+  await page.click('#resetFilters')
+  check('读者从空结果重置后恢复全部周刊', (await visibleCards(page)) === total)
+  await page.click('#recentFilter')
+  check('读者开启近 7 天筛选时仅看到该时间范围内发布的文章', await page.$$eval(sel('feed-card'), els => {
+    const now = Date.now()
+    const expected = els.filter(e => {
+      const age = now - Date.parse(e.dataset.published)
+      return age >= 0 && age <= 7 * 86400000
+    })
+    const shown = els.filter(e => e.offsetParent !== null)
+    return expected.length === shown.length && shown.every(e => expected.includes(e))
+  }))
+  await chooseCategory(target)
+  await page.fill('#searchInput', 'AIGC')
+  check('读者组合分类、搜索和近 7 天筛选时结果同时满足三个条件', await page.$$eval(sel('feed-card'), (els, category) => els.filter(e => e.offsetParent !== null).every(e => e.dataset.category === category && e.dataset.recent === 'true' && e.dataset.search.includes('aigc')), target))
+  await page.click('#clearFilters')
+  check('读者清除组合筛选后恢复全部周刊及未选中的更新按钮', (await visibleCards(page)) === total && await page.getAttribute('#recentFilter', 'aria-pressed') === 'false')
 }
 
 async function checkCarousel(page, label, { touch = false } = {}) {
@@ -196,7 +225,7 @@ async function checkCarousel(page, label, { touch = false } = {}) {
     await page.mouse.move(box.x + box.width / 2, box.y + box.height / 2)
     const held = await activeIndex(page)
     await sleep(6500)
-    check('鼠标悬停时自动轮播暂停', (await activeIndex(page)) === held, `hover 6.5s 后 active=${await activeIndex(page)}`)
+    check('读者停留阅读时文章不会自动切换', (await activeIndex(page)) === held, `hover 6.5s 后 active=${await activeIndex(page)}`)
   }
 }
 
@@ -221,15 +250,67 @@ async function checkMisc(page, label) {
   check(`${label} 无元素横向越界`, of.n === 0, of.n ? `${of.n} 个,例如 ${of.list.join(', ')}` : '')
 
   const cardClickable = await page.$eval(sel('feed-card'), e => e.tagName === 'A' || !!e.closest('a') || !!e.querySelector('a[data-test="feed-card-link"]'))
-  check(`${label} 周刊卡片整卡可点`, cardClickable)
+  check(`${label} 每份周刊提供可访问的主页链接`, cardClickable)
 
-  const toggle = await page.$(sel('theme-toggle'))
+  const toggle = page.locator(sel('theme-toggle'))
   const themeBefore = await page.evaluate(() => document.documentElement.className + document.documentElement.dataset.theme)
   await toggle.click(); await sleep(500)
   const themeAfter = await page.evaluate(() => document.documentElement.className + document.documentElement.dataset.theme)
   check(`${label} 明暗切换按钮生效`, themeBefore !== themeAfter)
   check(`${label} 主题写入 localStorage`, await page.evaluate(() => Object.keys(localStorage).length > 0))
+  await page.reload()
+  check(`${label} 读者刷新页面后保留选择的主题`, themeAfter === await page.evaluate(() => document.documentElement.className + document.documentElement.dataset.theme))
   await toggle.click(); await sleep(300)
+}
+
+async function checkFallbacks(browser, url, total) {
+  const offline = await browser.newContext({ javaScriptEnabled: false, viewport: { width: 390, height: 844 } })
+  const plain = await offline.newPage()
+  await plain.goto(url)
+  check('浏览器禁用 JavaScript 时仍显示全部周刊和分类链接', (await visibleCards(plain)) === total && await plain.locator('.nav-item').first().isVisible())
+  check('浏览器禁用 JavaScript 时不显示无法使用的搜索控件', !(await plain.locator('#searchInput').isVisible()))
+  check('RSS 订阅地址返回可读取的 RSS 文档', (await (await plain.request.get(new URL('feed.xml', url).href)).text()).includes('<rss version="2.0">'))
+  await offline.close()
+
+  const resilient = await browser.newContext({ viewport: { width: 390, height: 844 }, reducedMotion: 'reduce' })
+  await resilient.addInitScript(() => {
+    Object.defineProperty(window, 'localStorage', { get() { throw new DOMException('Storage blocked', 'SecurityError') } })
+  })
+  const page = await resilient.newPage()
+  const errors = []
+  page.on('pageerror', e => errors.push(e.message))
+  await page.goto(url)
+  await page.click('#themeToggle')
+  await page.fill('#searchInput', 'Python')
+  check('浏览器拒绝本地存储时主题切换和搜索仍可使用', errors.length === 0 && (await visibleCards(page)) > 0 && await page.getAttribute('html', 'data-theme') === 'dark')
+  await page.click('#clearFilters')
+  await page.click('#nextArticle')
+  await sleep(100)
+  check('读者启用减少动态效果时仍可立即切换文章', (await activeIndex(page)) === 1)
+  await resilient.close()
+}
+
+async function checkImages(browser, url) {
+  const context = await browser.newContext()
+  try {
+    const page = await context.newPage()
+    await page.goto(url)
+    await page.locator('.featured-image').evaluateAll(images => images.forEach(image => image.loading = 'eager'))
+    await page.waitForFunction(() => [...document.querySelectorAll('.featured-image')].every(image => image.complete && image.naturalWidth > 0))
+    const originals = await page.locator('.featured-image[src^="covers/"]').count()
+    check('最新文章的全部图片可解码并正常显示', true, `${originals} 张使用缓存的原文配图`)
+    await page.route('**/covers/broken.png', route => route.fulfill({ contentType: 'image/png', body: 'invalid image' }))
+    await page.reload()
+    // Trigger a failure even on an offline build that has no cached article images.
+    await page.locator('.featured-image').first().evaluate(image => image.src = 'covers/broken.png')
+    await page.waitForFunction(() => {
+      const image = document.querySelector('.featured-image')
+      return image.getAttribute('src').startsWith('images/') && image.complete && image.naturalWidth > 0
+    })
+    check('原文图片无法解码时自动显示本地主题插画', true)
+  } finally {
+    await context.close()
+  }
 }
 
 async function main() {
@@ -271,6 +352,8 @@ async function main() {
       await m.screenshot({ path: '/tmp/weekly-verify-mobile.png', fullPage: false })
     }
     check('无 JS 报错', errors.length === 0, errors.slice(0, 3).join(' | '))
+    await guard('无脚本、受限存储和减少动态效果', async () => checkFallbacks(browser, url, await page.locator(sel('feed-card')).count()))
+    await guard('文章配图与加载失败恢复', () => checkImages(browser, url))
   } finally {
     await browser.close()
     server.close()

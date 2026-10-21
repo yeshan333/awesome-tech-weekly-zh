@@ -3,6 +3,7 @@ import { join, dirname } from 'path';
 import { Glob } from 'bun';
 import * as YAML from 'yaml';
 import Parser from 'rss-parser';
+import { extractFeedCovers } from './feed-cover';
 
 // NOTE: We globally disable TLS verification to allow fetching feeds from personal/legacy developer blogs 
 // that might use self-signed or expired SSL certificates. This is acceptable here as this script only 
@@ -42,6 +43,8 @@ interface FeedInfo {
   latestLink: string;
   publishedDate: string;
   fetchedAt: number;
+  coverUrl: string;
+  coverUrls: string[];
 }
 
 interface Group {
@@ -154,8 +157,14 @@ async function fetchFeedWithTimeout(url: string): Promise<string> {
 }
 
 // Parse feed XML text into FeedInfo
-async function parseFeed(url: string, xmlText: string, fallbackLink: string): Promise<FeedInfo> {
-  const rssParser = new Parser();
+export async function parseFeed(url: string, xmlText: string, fallbackLink: string): Promise<FeedInfo> {
+  const rssParser = new Parser({ customFields: { item: [
+    ['media:content', 'media:content', { keepArray: true }],
+    ['media:thumbnail', 'media:thumbnail', { keepArray: true }],
+    ['media:group', 'media:group', { keepArray: true }],
+    ['enclosure', 'imageEnclosures', { keepArray: true }],
+    ['link', 'atomLinks', { keepArray: true }],
+  ] } });
   const feed = await rssParser.parseString(xmlText);
   
   if (!feed.items || feed.items.length === 0) {
@@ -192,10 +201,13 @@ async function parseFeed(url: string, xmlText: string, fallbackLink: string): Pr
     }
   }
 
+  const coverUrls = await extractFeedCovers(latest, latestLink || url);
   return {
     latestTitle,
     latestLink,
     publishedDate,
+    coverUrl: coverUrls[0] || '',
+    coverUrls,
     fetchedAt: Date.now()
   };
 }
@@ -410,6 +422,15 @@ function parseArgs(str: string): string[] {
 function evaluateExpr(expr: string, ctx: EvalContext): any {
   expr = expr.trim();
 
+  if (expr.startsWith('getFeedCoverUrl ')) {
+    const feedUrl = evaluateExpr(expr.slice('getFeedCoverUrl '.length), ctx);
+    return ctx.resolvedFeeds[feedUrl]?.coverUrl || '';
+  }
+  if (expr.startsWith('getFeedCoverUrls ')) {
+    const feedUrl = evaluateExpr(expr.slice('getFeedCoverUrls '.length), ctx);
+    return ctx.resolvedFeeds[feedUrl]?.coverUrls || [];
+  }
+
   // Root len helper functions
   if (expr === 'lenGroupNum') return ctx.groups.length;
   if (expr === 'lenItemNum') return ctx.totalItemsCount;
@@ -554,7 +575,9 @@ function renderAST(nodes: ASTNode[], ctx: EvalContext): string {
     } else if (node.type === 'eval') {
       const val = evaluateExpr(node.content, ctx);
       let valStr = val !== undefined ? String(val) : '';
-      if (ctx.isJson) {
+      if (ctx.isJson && Array.isArray(val)) {
+        valStr = JSON.stringify(val);
+      } else if (ctx.isJson) {
         // Use JSON.stringify to safely escape all JSON special characters
         valStr = JSON.stringify(valStr).slice(1, -1);
       }
@@ -687,7 +710,7 @@ async function main() {
       // Check Cache first
       if (!forceFetch) {
         const cached = feedCache[url];
-        if (cached && Date.now() - cached.fetchedAt < CACHE_DURATION_MS) {
+        if (cached && Array.isArray(cached.coverUrls) && Date.now() - cached.fetchedAt < CACHE_DURATION_MS) {
           resolvedFeeds[url] = cached;
           console.log(`[Feeds] [CACHE HIT] ${url}`);
           return;
@@ -754,7 +777,7 @@ async function main() {
   console.log(`\n🎉 README generation completed successfully in ${durationSec}s.`);
 }
 
-main().catch(err => {
+if (import.meta.main) main().catch(err => {
   console.error('Fatal error during README generation:', err);
   process.exit(1);
 });

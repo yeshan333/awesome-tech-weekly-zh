@@ -1,0 +1,20 @@
+# 技术周刊主题插画
+
+由 OpenAI 内置 image_gen 工具生成，2026-10-22。用于本站编辑配图，不代表各周刊原始封面。
+原始 PNG 保留在本机 generated_images 中；网站使用编码压缩后的 WebP。
+
+## systems.webp
+
+Use case: stylized-concept. Asset type: finished editorial illustration for a Chinese technical newsletter directory, landscape 1536x1024. Create a richly crafted screen-printed paper-cut illustration of a compact retro-futurist workstation: an off-white CRT computer with abstract code-like lines (no legible text), a mechanical keyboard, looping teal cables that connect to neat server towers and circuit-board pathways. Wide three-quarter composition, objects fill most of the image, clear graphic silhouette that reads at 350px wide. Dark forest teal and pale mint, ivory paper, a small bright orange detail. Sophisticated magazine illustration, subtle ink grain, layered paper textures, crisp purposeful geometry, warm directional illumination, not shiny 3D. Solid pale sage background extending to every edge. No words, letters, logos, watermarks, borders, UI or frame. A single cohesive scene, not a collage of separate panels.
+
+## community.webp
+
+Use case: stylized-concept. Asset type: finished editorial illustration for a Chinese technical newsletter directory, landscape 1536x1024. Create a richly crafted screen-printed paper-cut illustration of a small reading desk filled with an open newspaper, stacked journals, folded pages, a tiny desk lamp, and an orange coffee cup. Abstract page columns and small printed diagrams only, absolutely no legible words. An overhead diagonal view with confident cropping, physical objects fill most of the frame and read at 350px wide. Sophisticated contemporary magazine art with dark forest teal ink, sage green, ivory paper, and a restrained vermilion orange accent. Subtle ink grain and tactile layered paper, crisp shapes, soft printed shadows, not shiny 3D. Solid pale warm grey background extending to every edge. No words, letters, logos, watermarks, borders, UI or frame. A single cohesive scene, not separate panels.
+
+## ai.webp
+
+Use case: stylized-concept. Asset type: finished editorial illustration for a Chinese technical newsletter directory, landscape 1536x1024. Create a richly crafted screen-printed paper-cut illustration of a botanical greenhouse for ideas: a glass cloche on a worktable contains a branching tree whose leaves are small orderly circuit boards, beside a compact cream computer chip and a sketchbook of abstract diagrams. Clearly communicate artificial intelligence and curiosity through tangible objects, no brain icon or robot head. Three-quarter editorial still-life composition with large graphic silhouettes that read at 350px wide. Dark forest teal and sage, ivory paper, a restrained cobalt blue accent. Sophisticated magazine illustration, subtle ink grain, layered paper textures, crisp geometry, not glossy 3D. Solid very pale blue-green background extends to every edge. No words, letters, logos, watermarks, borders, UI or frame. A single scene, not separate panels.
+
+## discovery.webp
+
+Use case: stylized-concept. Asset type: finished editorial illustration for a Chinese technical newsletter directory, landscape 1536x1024. Create a richly crafted screen-printed paper-cut illustration of a curious reader's discovery table: a cream and dark teal tabletop telescope aimed toward a hanging miniature orange planet, a folded star chart, a few open technical journals with abstract diagrams and a simple blue drafting compass. The scene is an elegant physical still life about discovering useful ideas, no people. Three-quarter view, telescope and publications are large and recognizable at 350px wide, no excessive negative space. Sophisticated magazine art, dark forest teal, pale sage, ivory paper, restrained bright orange and muted cobalt accents; delicate ink grain and layered paper texture, crisp purposeful geometry, not glossy 3D. Solid pale blue-green background extending to every edge. No words, letters, logos, watermarks, borders, UI or separate panels.
