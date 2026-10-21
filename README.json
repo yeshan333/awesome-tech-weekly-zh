@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-10-20T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-10-20](https://decohack.com/producthunt-daily-2026-10-20/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-21T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-10-21](https://decohack.com/producthunt-daily-2026-10-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
