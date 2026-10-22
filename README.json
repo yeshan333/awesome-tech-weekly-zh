@@ -162,10 +162,10 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-10-11T16:46:11Z",
-                "latest_post": "[体验碎周报第294期(2026.10.12)](https://www.ftium4.com/ux-weekly-294.html)",
-                "cover_url": "https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261015110019940.png",
-                "cover_urls": ["https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261015110019940.png"],
+                "published_date": "2026-10-22T13:42:09Z",
+                "latest_post": "[体验碎周报第295期(2026.10.22)](https://www.ftium4.com/ux-weekly-295.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/uxf%201.png",
+                "cover_urls": ["https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/uxf%201.png"],
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
@@ -353,10 +353,10 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
+                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
+                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -391,7 +391,7 @@
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
                 "published_date": "2026-10-15T03:38:56Z",
-                "latest_post": "[学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
