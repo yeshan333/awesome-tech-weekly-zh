@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-10-17T11:11:58Z"
-    latest_post: "[重要提示： 第 171 期有读者福利抽奖活动，满 100 人自动开奖，奖品是一份周刊专栏的年度订阅码。参与方式：给公众号 Python猫 发送数字“6171”，获取抽奖小程...](https://t.me/pythontrendingweekly/577)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-24T01:38:41Z"
+    latest_post: "[🖼 今天是 1024 程序员节。Python 潮流周刊的年度优惠从今天开始，年费 88 元（原价 148），欢迎大家订阅！官网： https://weekly.pythoncat.top](https://t.me/pythontrendingweekly/579)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -114,8 +114,8 @@ iOS:
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
+    published_date: "2024-07-24T14:27:32Z"
+    latest_post: "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)"
     link: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
   - name: "月维素材周刊"
     desc: "月维的创造者们对「设计」和「开发」的思考与讨论"
@@ -154,8 +154,8 @@ iOS:
     link: "[https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home)"
   - name: "Hacker News 每日摘要"
     desc: "Hacker News 每日摘要"
-    published_date: "2026-10-22T23:23:02Z"
-    latest_post: "[2026-10-23 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-23-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-24T00:23:12Z"
+    latest_post: "[2026-10-24 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
   - name: "老胡的周刊"
     desc: "老胡的周刊"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-10-23T15:58:20Z"
-    latest_post: "[SecWiki News 2026-10-23 Review](http://www.sec-wiki.com/?2026-10-23)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
