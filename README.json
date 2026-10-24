@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-10-24T01:38:41Z",
-                "latest_post": "[🖼 今天是 1024 程序员节。Python 潮流周刊的年度优惠从今天开始，年费 88 元（原价 148），欢迎大家订阅！官网： https://weekly.pythoncat.top](https://t.me/pythontrendingweekly/579)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn5.telesco.pe/file/ZSyNblyUYXOD6lb2WUtgtWHaUanSR8AO0xCbbdLdQMSGQnuoh51dVMx6ZfW76cso8FZtiL1i_wpZCzcNwBjAa_Dz-vTqQRiu53mfcwsMASpmbK2AxwjU3iZlw0Nb_lg8cF7N6VNWq9D1ol988yX5zSLEmixXUqTxQK386HRKcFWaffMlu55e9Z7tuZD3pLdNKkrqw2ePN3fdj1uOyKm6OYLCU4McUO2Eo3rLMu2S8JN9Jto-oArpZSqQfqaih9P4tG_nyyQLfzjAF9klyU7RgOX35zoqUKC-BXlye6MC28fbZ23NiCMST2BjYzQ1-AR_ct4GPSFvFEdhw7piKJ1WWQ.jpg",
-                "cover_urls": ["https://cdn5.telesco.pe/file/ZSyNblyUYXOD6lb2WUtgtWHaUanSR8AO0xCbbdLdQMSGQnuoh51dVMx6ZfW76cso8FZtiL1i_wpZCzcNwBjAa_Dz-vTqQRiu53mfcwsMASpmbK2AxwjU3iZlw0Nb_lg8cF7N6VNWq9D1ol988yX5zSLEmixXUqTxQK386HRKcFWaffMlu55e9Z7tuZD3pLdNKkrqw2ePN3fdj1uOyKm6OYLCU4McUO2Eo3rLMu2S8JN9Jto-oArpZSqQfqaih9P4tG_nyyQLfzjAF9klyU7RgOX35zoqUKC-BXlye6MC28fbZ23NiCMST2BjYzQ1-AR_ct4GPSFvFEdhw7piKJ1WWQ.jpg"],
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-30T09:49:33Z",
-                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
