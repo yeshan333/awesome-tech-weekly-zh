@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-23T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-10-24T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-10-24](https://decohack.com/producthunt-daily-2026-10-24/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-25T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -171,10 +171,10 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2024-07-24T14:27:32Z",
+                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673185517793-48a70dd8-e2ab-4590-9184-c84f82dd08e8.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_46%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673180197433-c76fe22f-d6cf-44f2-a9df-43600ec0631f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_52%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761088389-e7e9a557-4fdd-45c8-9429-be9a676e9fd1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_72%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761228504-ee3b25c3-1bcd-4a26-92b4-381c4283008f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_35%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2024/png/728168/1721831251124-0ceccc96-aa0b-4042-bb80-8d6f4a3d62de.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_43%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10"],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -307,8 +307,8 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "published_date": "2026-07-19T11:11:35Z",
+                "latest_post": "[【开源自荐】Markstream：面向 AI 聊天界面的多框架流式 Markdown 渲染器](https://github.com/Geekhyt/weekly/issues/159)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
@@ -325,10 +325,10 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-10-19T00:00:00Z",
-                "latest_post": "[第286期 - 径山双溪](https://weekly.tw93.fun/posts/286/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn.fliggy.com/pic/28620.png",
-                "cover_urls": ["https://cdn.fliggy.com/pic/28620.png","https://cdn.fliggy.com/pic/hNqbOd46.png","https://cdn.fliggy.com/pic/RBPkvo03.png","https://cdn.fliggy.com/pic/pk6SJi02.png","https://cdn.fliggy.com/pic/sNA6Hl33.png","https://cdn.fliggy.com/pic/wM8SfB12.png","https://cdn.fliggy.com/pic/IMG_410048.JPG"],
+                "published_date": "2026-10-26T00:00:00Z",
+                "latest_post": "[第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.fliggy.com/pic/28728.jpg",
+                "cover_urls": ["https://cdn.fliggy.com/pic/28728.jpg","https://cdn.fliggy.com/pic/9dzW2a01.png","https://cdn.fliggy.com/pic/1792937645578_d10.png","https://cdn.fliggy.com/pic/1792938020975_d28.png","https://cdn.fliggy.com/pic/1792939123829_d51.png","https://cdn.fliggy.com/pic/JWoie655.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/blog/pic/client-tech-cover-native4.png","https://cdn.fliggy.com/pic/CnNcPI26.png"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
