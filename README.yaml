@@ -15,7 +15,7 @@ AI:
   - name: "无限自然"
     desc: "《无限自然》对优质信息源/AI自动化提效有足够的好奇心，关注AIGC对产品设计的影响。通过逐步建立良好的系统，无限接近自然的状态。"
     published_date: "2026-10-18T12:57:00Z"
-    latest_post: "[67 期：天目山大树王国](https://quaily.com/zing927/p/sixty-seven-qi-tian-mu-shan-da-shu-wang-guo)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[67 期：天目山大树王国](https://quaily.com/zing927/p/sixty-seven-qi-tian-mu-shan-da-shu-wang-guo)"
     link: "[https://quaily.com/zing927](https://quaily.com/zing927)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-10-23T01:07:00Z"
-    latest_post: "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -194,8 +194,8 @@ iOS:
 前端:
   - name: "前端食堂技术周刊"
     desc: "前端食堂技术周刊"
-    published_date: "2026-07-19T11:11:35Z"
-    latest_post: "[【开源自荐】Markstream：面向 AI 聊天界面的多框架流式 Markdown 渲染器](https://github.com/Geekhyt/weekly/issues/159)"
+    published_date: ""
+    latest_post: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
     link: "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
   - name: "前端精读周刊"
     desc: "前端精读周刊。帮你理解最前沿、实用的技术。"
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-10-24T15:58:20Z"
-    latest_post: "[SecWiki News 2026-10-24 Review](http://www.sec-wiki.com/?2026-10-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
