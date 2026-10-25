@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-10-24T12:39:16Z",
-                "latest_post": "[重要提示： 第 172 期有读者福利抽奖活动，满 100 人自动开奖，奖品是一份周刊专栏的年度订阅码。参与方式：给公众号 Python猫 发送数字“6172”，获取抽奖小程...](https://t.me/pythontrendingweekly/583)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-25T01:07:36Z",
+                "latest_post": "[🖼 从 2023 年 5 月 13 日第 1 期到今天，1260 多天、172 期，分享出去 4300 多条内容。明年今日，还会在么？](https://t.me/pythontrendingweekly/584)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn5.telesco.pe/file/ChUHHhK3307h-0CS9IEiThL0jUp_JEXnhGLTDnfXDRXPQbBF-y74Fn1_nUiSRH-LzV6QpLuYvXeP1p1W5a1OHZoGfNAbOFEY3jml-cIN-y7tok23pNnjEVwApQcQe0Qj5ZFpuY0eMZG86FbJP5gLs6-wDrtxgcrvg5ujlBxp6Oq1_JogcUkTKggcrbLccrEnxH-E3HAbXVyuCS_rqkbyWCvEjJN1Mcei87_YpEs6YQkpJFUnrh_HmizXUUdWO9rWmG3yUydGX3SpNLbbhyrMfbFXNTjgPF_XurUMEqWdihHABrpTaWQceoNQj63R_kUSVKFUqLSDvJ29IV9-aF9ITw.jpg",
+                "cover_urls": ["https://cdn5.telesco.pe/file/ChUHHhK3307h-0CS9IEiThL0jUp_JEXnhGLTDnfXDRXPQbBF-y74Fn1_nUiSRH-LzV6QpLuYvXeP1p1W5a1OHZoGfNAbOFEY3jml-cIN-y7tok23pNnjEVwApQcQe0Qj5ZFpuY0eMZG86FbJP5gLs6-wDrtxgcrvg5ujlBxp6Oq1_JogcUkTKggcrbLccrEnxH-E3HAbXVyuCS_rqkbyWCvEjJN1Mcei87_YpEs6YQkpJFUnrh_HmizXUUdWO9rWmG3yUydGX3SpNLbbhyrMfbFXNTjgPF_XurUMEqWdihHABrpTaWQceoNQj63R_kUSVKFUqLSDvJ29IV9-aF9ITw.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-10-24T00:23:12Z",
-                "latest_post": "[2026-10-24 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-24-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-25T00:59:23Z",
+                "latest_post": "[2026-10-25 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-25-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-24T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-24 Review](http://www.sec-wiki.com/?2026-10-24)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
