@@ -14,8 +14,8 @@
             {
                 "name": "AIGC Weekly",
                 "desc": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
-                "published_date": "2026-10-20T03:38:11Z",
-                "latest_post": "[AIGC Weekly #193](https://quaily.com/op7418/p/aigc-weekly-8jaw8cct)",
+                "published_date": "2026-10-27T14:03:02Z",
+                "latest_post": "[AIGC Weekly #194](https://quaily.com/op7418/p/aigc-weekly-2f0awrsi)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://quail.ink/op7418](https://quail.ink/op7418)"
@@ -154,7 +154,7 @@
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
                 "published_date": "2026-10-20T15:12:13Z",
-                "latest_post": "[#368 Unscroll](https://quaily.com/dingyi/p/368)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[#368 Unscroll](https://quaily.com/dingyi/p/368)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
@@ -257,10 +257,10 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "",
-                "latest_post": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-26T05:02:01Z",
+                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 193： Token 狂飙，得失难料](https://www.v2ex.com/t/1251866#reply1)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://files.mdnice.com/user/73796/08cbba2d-34f4-4294-8f7c-8ecb9f6219ac.png",
+                "cover_urls": ["https://files.mdnice.com/user/73796/08cbba2d-34f4-4294-8f7c-8ecb9f6219ac.png","https://files.mdnice.com/user/73796/8b9164ee-ca17-4c67-a176-09408db81a5f.png","https://files.mdnice.com/user/73796/ef94e5aa-9469-42e2-8f78-7391bf963570.jpg","https://files.mdnice.com/user/73796/02281959-1752-4ccf-9e98-6df19f0e18dc.jpeg","https://files.mdnice.com/user/73796/7c1f0b2a-3c7c-4a55-b785-899a7f082ac1.jpg","https://files.mdnice.com/user/73796/fcb10c79-61bb-4765-baec-1c2a5558dca2.jpg","https://files.mdnice.com/user/73796/dec7a0a2-9ef7-4887-ab93-30244927dcda.jpg"],
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -275,8 +275,8 @@
             {
                 "name": "偷懒爱好者周刊",
                 "desc": "偷懒爱好者周刊",
-                "published_date": "2026-10-21T00:00:00Z",
-                "latest_post": "[第204期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/21/第204期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-28T00:00:00Z",
+                "latest_post": "[第205期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/10/28/第205期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
@@ -328,7 +328,7 @@
                 "published_date": "2026-10-26T00:00:00Z",
                 "latest_post": "[第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "https://cdn.fliggy.com/pic/28728.jpg",
-                "cover_urls": ["https://cdn.fliggy.com/pic/28728.jpg","https://cdn.fliggy.com/pic/9dzW2a01.png","https://cdn.fliggy.com/pic/1792937645578_d10.png","https://cdn.fliggy.com/pic/1792938020975_d28.png","https://cdn.fliggy.com/pic/1792939123829_d51.png","https://cdn.fliggy.com/pic/JWoie655.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/blog/pic/client-tech-cover-native4.png","https://cdn.fliggy.com/pic/CnNcPI26.png"],
+                "cover_urls": ["https://cdn.fliggy.com/pic/28728.jpg","https://cdn.fliggy.com/pic/28728.jpg?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/9dzW2a01.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792937645578_d10.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792938020975_d28.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792939123829_d51.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/JWoie655.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/blog/pic/client-tech-cover-native4.png","https://cdn.fliggy.com/pic/CnNcPI26.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
