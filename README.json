@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-26T23:46:08Z",
                 "latest_post": "[🖼 周刊一期平均 24 则内容，我们的定位是“少而精”，但是有心对比就会发现，它比其它英文的 Python 周刊内容更丰富，质量更高。没看过的同学可以先试读一下...](https://t.me/pythontrendingweekly/587)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn5.telesco.pe/file/NHlgywTcHHmcyIP_C1HRHRWj9WHmr3v2FCV0h7hdRIyQ5U79DSgLuI_JMCWObZyw7usgkpHVwXQ3bJMfJ-T0Fj-Byl1PobXiVGgQl_H63hWlOJfeJwmsE4KGZuSRh1nlMCp1NpAqLYTeO_H2yxBcGFS7_Qg3I10aYYWD-JCmrJMv_6Rs2x5-aMu-qmiyHpqqMmnfRN4DlojOO0pXk_NXUy0uwcnpILcKkqHs-hf1yJBnQPG2wrrYpKBNR0uEM71VY4A4tstUkZ80BsPuVOLMpE7xwqypDgL0RwM2GWaJ0Ue7HD8U3Hx_e4_xY-fxeQQbrPKrcrypw6hIKT_yRhdtbQ.jpg",
-                "cover_urls": ["https://cdn5.telesco.pe/file/NHlgywTcHHmcyIP_C1HRHRWj9WHmr3v2FCV0h7hdRIyQ5U79DSgLuI_JMCWObZyw7usgkpHVwXQ3bJMfJ-T0Fj-Byl1PobXiVGgQl_H63hWlOJfeJwmsE4KGZuSRh1nlMCp1NpAqLYTeO_H2yxBcGFS7_Qg3I10aYYWD-JCmrJMv_6Rs2x5-aMu-qmiyHpqqMmnfRN4DlojOO0pXk_NXUy0uwcnpILcKkqHs-hf1yJBnQPG2wrrYpKBNR0uEM71VY4A4tstUkZ80BsPuVOLMpE7xwqypDgL0RwM2GWaJ0Ue7HD8U3Hx_e4_xY-fxeQQbrPKrcrypw6hIKT_yRhdtbQ.jpg"],
+                "cover_url": "https://cdn5.telesco.pe/file/N_prL41727iiXUtMDAu-aNp0Vghs5_V59EjgO2pgHezXjQc3so7Auj7Z9mZJ1tXwTf64eDIGdWsHZMN_CySDIaeYALZTN2dP-ZWFFxkPjmIDchQOyGFRmwkBnj5mBp1nqiIN7bdHl4rp02TnLNHEbJele6_xSG7oIrLfsGb8p8uUxYp99kUWzbUX3oerotROPLOcnRCf0POAXMXgUAOyo8z1vOfFa93fQsgwvy0uqw-HQjSHWLXQzDB7C0KhSsTZzqVpXWGROfZ-VgFSP1NYOTs66IANiCwhNwnV9ACSU5ew4icGU056ypSJ23fztiiG00BPPFHMT4wqSB7TVCP--w.jpg",
+                "cover_urls": ["https://cdn5.telesco.pe/file/N_prL41727iiXUtMDAu-aNp0Vghs5_V59EjgO2pgHezXjQc3so7Auj7Z9mZJ1tXwTf64eDIGdWsHZMN_CySDIaeYALZTN2dP-ZWFFxkPjmIDchQOyGFRmwkBnj5mBp1nqiIN7bdHl4rp02TnLNHEbJele6_xSG7oIrLfsGb8p8uUxYp99kUWzbUX3oerotROPLOcnRCf0POAXMXgUAOyo8z1vOfFa93fQsgwvy0uqw-HQjSHWLXQzDB7C0KhSsTZzqVpXWGROfZ-VgFSP1NYOTs66IANiCwhNwnV9ACSU5ew4icGU056ypSJ23fztiiG00BPPFHMT4wqSB7TVCP--w.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-26T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-26 Review](http://www.sec-wiki.com/?2026-10-26)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
@@ -355,8 +355,8 @@
                 "desc": "《痞子衡嵌入式半月刊》 ",
                 "published_date": "2026-08-07T07:15:00Z",
                 "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
+                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
