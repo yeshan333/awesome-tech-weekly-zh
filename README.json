@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-10-25T23:55:32Z",
-                "latest_post": "[🖼 周刊在爱发电上也可以订阅。刚才我突然发现有读者一次性订阅了 3 年！第一次发现爱发电还可以这样操作，也非常震惊有同学给了周刊那么大的支持。沉甸甸的履...](https://t.me/pythontrendingweekly/586)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn5.telesco.pe/file/Yni3whPAaEG510C789YzF6paZeQYhK-hxrFtKY9jPlhw0LMoNlzyturcH7shLscgyRRnbFBf6vDm0fJL4_oUTXcr2FA1XBvR1kfXptvTcRSbhYbgBZ4gEPF1HrJFqwvQzIfpCD_ITU9jsoSTYrQNf4HIWWld51kqkzNDehoZOd_ZxJRhhTeTe1popb56kLHhfAI3orXxBi46ICFKOABu7sLT6IU14_lg0eHB9WJg8BfzVRJup6gnvGjo8YgXGHaRDWkn3ItXyuDHDugV668K5AS4UmSzv5mAcUjB82iWh5xA3gqOWCCYwchXnoT-Ztv3nwkIhqn__N0Nv6s-A_8hOQ.jpg",
-                "cover_urls": ["https://cdn5.telesco.pe/file/Yni3whPAaEG510C789YzF6paZeQYhK-hxrFtKY9jPlhw0LMoNlzyturcH7shLscgyRRnbFBf6vDm0fJL4_oUTXcr2FA1XBvR1kfXptvTcRSbhYbgBZ4gEPF1HrJFqwvQzIfpCD_ITU9jsoSTYrQNf4HIWWld51kqkzNDehoZOd_ZxJRhhTeTe1popb56kLHhfAI3orXxBi46ICFKOABu7sLT6IU14_lg0eHB9WJg8BfzVRJup6gnvGjo8YgXGHaRDWkn3ItXyuDHDugV668K5AS4UmSzv5mAcUjB82iWh5xA3gqOWCCYwchXnoT-Ztv3nwkIhqn__N0Nv6s-A_8hOQ.jpg"],
+                "published_date": "2026-10-26T23:46:08Z",
+                "latest_post": "[🖼 周刊一期平均 24 则内容，我们的定位是“少而精”，但是有心对比就会发现，它比其它英文的 Python 周刊内容更丰富，质量更高。没看过的同学可以先试读一下...](https://t.me/pythontrendingweekly/587)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn5.telesco.pe/file/NHlgywTcHHmcyIP_C1HRHRWj9WHmr3v2FCV0h7hdRIyQ5U79DSgLuI_JMCWObZyw7usgkpHVwXQ3bJMfJ-T0Fj-Byl1PobXiVGgQl_H63hWlOJfeJwmsE4KGZuSRh1nlMCp1NpAqLYTeO_H2yxBcGFS7_Qg3I10aYYWD-JCmrJMv_6Rs2x5-aMu-qmiyHpqqMmnfRN4DlojOO0pXk_NXUy0uwcnpILcKkqHs-hf1yJBnQPG2wrrYpKBNR0uEM71VY4A4tstUkZ80BsPuVOLMpE7xwqypDgL0RwM2GWaJ0Ue7HD8U3Hx_e4_xY-fxeQQbrPKrcrypw6hIKT_yRhdtbQ.jpg",
+                "cover_urls": ["https://cdn5.telesco.pe/file/NHlgywTcHHmcyIP_C1HRHRWj9WHmr3v2FCV0h7hdRIyQ5U79DSgLuI_JMCWObZyw7usgkpHVwXQ3bJMfJ-T0Fj-Byl1PobXiVGgQl_H63hWlOJfeJwmsE4KGZuSRh1nlMCp1NpAqLYTeO_H2yxBcGFS7_Qg3I10aYYWD-JCmrJMv_6Rs2x5-aMu-qmiyHpqqMmnfRN4DlojOO0pXk_NXUy0uwcnpILcKkqHs-hf1yJBnQPG2wrrYpKBNR0uEM71VY4A4tstUkZ80BsPuVOLMpE7xwqypDgL0RwM2GWaJ0Ue7HD8U3Hx_e4_xY-fxeQQbrPKrcrypw6hIKT_yRhdtbQ.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-30T09:49:33Z",
-                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-10-25T23:49:21Z",
-                "latest_post": "[2026-10-26 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-26-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-26T23:22:14Z",
+                "latest_post": "[2026-10-27 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-27-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
