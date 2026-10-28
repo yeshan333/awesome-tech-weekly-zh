@@ -171,10 +171,10 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2024-07-24T14:27:32Z",
-                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
-                "cover_url": "https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
-                "cover_urls": ["https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673185517793-48a70dd8-e2ab-4590-9184-c84f82dd08e8.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_46%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673180197433-c76fe22f-d6cf-44f2-a9df-43600ec0631f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_52%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761088389-e7e9a557-4fdd-45c8-9429-be9a676e9fd1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_72%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761228504-ee3b25c3-1bcd-4a26-92b4-381c4283008f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_35%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2024/png/728168/1721831251124-0ceccc96-aa0b-4042-bb80-8d6f4a3d62de.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_43%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10"],
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
