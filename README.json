@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-26T23:46:08Z",
+                "latest_post": "[🖼 周刊一期平均 24 则内容，我们的定位是“少而精”，但是有心对比就会发现，它比其它英文的 Python 周刊内容更丰富，质量更高。没看过的同学可以先试读一下...](https://t.me/pythontrendingweekly/587)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn5.telesco.pe/file/d42fL3G6IqtBdA-dcx6aaQ0I840tqOz9NV64-HSzHi5jTPYJMt4TpntvVc2WpJWzXgxmUJY3ar7fMR1KG0I5cJAC7mEx3A3PdmpSUuPjIuKq4Mevc4AMx0L7iB6euMfkSvX5lCI-nDWyMFKATuql4qdlImeJp-qAz2zzIIwGJByq5naRcb9gArTqFOt_uKjlwLNJ1zoblddGGktzZ9BAWWARXm7LQeZYFDwhNF0UcmoqDTDad4DphnJYyIcGza8wk7uHFE37053rzg0tcfOOPcUwv1tNd9ATNs938eMHsoyEo5r2i_o_pYgwh4qD1B55H4PZwjh_W6o26peuu1cLag.jpg",
+                "cover_urls": ["https://cdn5.telesco.pe/file/d42fL3G6IqtBdA-dcx6aaQ0I840tqOz9NV64-HSzHi5jTPYJMt4TpntvVc2WpJWzXgxmUJY3ar7fMR1KG0I5cJAC7mEx3A3PdmpSUuPjIuKq4Mevc4AMx0L7iB6euMfkSvX5lCI-nDWyMFKATuql4qdlImeJp-qAz2zzIIwGJByq5naRcb9gArTqFOt_uKjlwLNJ1zoblddGGktzZ9BAWWARXm7LQeZYFDwhNF0UcmoqDTDad4DphnJYyIcGza8wk7uHFE37053rzg0tcfOOPcUwv1tNd9ATNs938eMHsoyEo5r2i_o_pYgwh4qD1B55H4PZwjh_W6o26peuu1cLag.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-23T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-10-27T23:31:23Z",
-                "latest_post": "[2026-10-28 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-28-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-28T22:52:50Z",
+                "latest_post": "[2026-10-29 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-29-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
