@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2025-10-30T09:49:33Z"
-    latest_post: "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -140,7 +140,7 @@ iOS:
   - name: "独立开发变现周刊"
     desc: "独立开发变现周刊"
     published_date: "2026-10-22T00:00:00Z"
-    latest_post: "[独立开发变现周刊（第162期） : 5招反常识策略狂揽90万美元MRR](https://www.ezindie.com/weekly/issue-162)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[独立开发变现周刊（第162期） : 5招反常识策略狂揽90万美元MRR](https://www.ezindie.com/weekly/issue-162)"
     link: "[https://www.ezindie.com](https://www.ezindie.com)"
   - name: "HelloGitHub 月刊"
     desc: "HelloGitHub 月刊"
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: ""
-    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
+    published_date: "2026-08-07T07:15:00Z"
+    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
