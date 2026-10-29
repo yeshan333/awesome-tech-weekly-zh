@@ -212,10 +212,10 @@
             {
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
-                "published_date": "2026-10-22T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第162期） : 5招反常识策略狂揽90万美元MRR](https://www.ezindie.com/weekly/issue-162)",
-                "cover_url": "https://qiniu.gafata.com/weekly-covers/5a4fee4a60f0429993e3bc83ca760845.png",
-                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/5a4fee4a60f0429993e3bc83ca760845.png"],
+                "published_date": "2026-10-29T00:00:00Z",
+                "latest_post": "[独立开发变现周刊（第163期） : 单人公司被Anthropic收购 Pipeline-in-a-Person](https://www.ezindie.com/weekly/issue-163)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://qiniu.gafata.com/weekly-covers/a0143664f6484c65a5ef6265441d3485.png",
+                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/a0143664f6484c65a5ef6265441d3485.png"],
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -307,10 +307,10 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-28T14:21:56Z",
+                "latest_post": "[【工具自荐】涟漪 (Ripple) v0.1.5：支持只关微信视频号与 Shorts、带单调时钟冷静期与防卸载的 Android / iOS 自控工具](https://github.com/Geekhyt/weekly/issues/162)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://ripplefocus.github.io/shots/limits-default.png",
+                "cover_urls": ["https://ripplefocus.github.io/shots/limits-default.png","https://ripplefocus.github.io/shots/tp-delete.png","https://ripplefocus.github.io/shots/protection-ok.png"],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-28T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-28 Review](http://www.sec-wiki.com/?2026-10-28)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-29T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-10-29 Review](http://www.sec-wiki.com/?2026-10-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
@@ -353,10 +353,10 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
+                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
+                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -390,8 +390,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-10-15T03:38:56Z",
-                "latest_post": "[学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/)",
+                "published_date": "2026-10-29T15:10:23Z",
+                "latest_post": "[学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
