@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-26T23:46:08Z",
                 "latest_post": "[🖼 周刊一期平均 24 则内容，我们的定位是“少而精”，但是有心对比就会发现，它比其它英文的 Python 周刊内容更丰富，质量更高。没看过的同学可以先试读一下...](https://t.me/pythontrendingweekly/587)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn5.telesco.pe/file/SK8byIeXVnNDPm0KZoITNBTWnTZgHZeud6_rPWl0ZOUbvisg3aKGxxYDEV4LHIfilZvYZZ16UxrjryDXnEeF2puzCZCMqGFtjRjmVnnhAFUgAUUdHZx9tCi1zYtOp66JV0ndWUbxHOr2RimpczSNu6RVc9WvmneMKN2BKKx3JYDJyW3GxLR6jW4YrFUMtSBf5iAVZfEixIEiv4bF80QRooTk2EJMDqt5C9gtzlrbPviY0rXFpnx5bJr0HEzeSXyOal5WDlSitXcljNWb6aDbdiYCCC-eq7bbJ7tEBq61BYAc6-P6K4GKOsXYIye69QzCM0GHEBg3sXsHxrHutF45gA.jpg",
-                "cover_urls": ["https://cdn5.telesco.pe/file/SK8byIeXVnNDPm0KZoITNBTWnTZgHZeud6_rPWl0ZOUbvisg3aKGxxYDEV4LHIfilZvYZZ16UxrjryDXnEeF2puzCZCMqGFtjRjmVnnhAFUgAUUdHZx9tCi1zYtOp66JV0ndWUbxHOr2RimpczSNu6RVc9WvmneMKN2BKKx3JYDJyW3GxLR6jW4YrFUMtSBf5iAVZfEixIEiv4bF80QRooTk2EJMDqt5C9gtzlrbPviY0rXFpnx5bJr0HEzeSXyOal5WDlSitXcljNWb6aDbdiYCCC-eq7bbJ7tEBq61BYAc6-P6K4GKOsXYIye69QzCM0GHEBg3sXsHxrHutF45gA.jpg"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -171,10 +171,10 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "2024-07-24T14:27:32Z",
-                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
-                "cover_url": "https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
-                "cover_urls": ["https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673185517793-48a70dd8-e2ab-4590-9184-c84f82dd08e8.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_46%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673180197433-c76fe22f-d6cf-44f2-a9df-43600ec0631f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_52%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761088389-e7e9a557-4fdd-45c8-9429-be9a676e9fd1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_72%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761228504-ee3b25c3-1bcd-4a26-92b4-381c4283008f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_35%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2024/png/728168/1721831251124-0ceccc96-aa0b-4042-bb80-8d6f4a3d62de.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_43%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10"],
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-30T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-30 Review](http://www.sec-wiki.com/?2026-10-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
