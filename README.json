@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-26T23:46:08Z",
+                "latest_post": "[🖼 周刊一期平均 24 则内容，我们的定位是“少而精”，但是有心对比就会发现，它比其它英文的 Python 周刊内容更丰富，质量更高。没看过的同学可以先试读一下...](https://t.me/pythontrendingweekly/587)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn5.telesco.pe/file/SK8byIeXVnNDPm0KZoITNBTWnTZgHZeud6_rPWl0ZOUbvisg3aKGxxYDEV4LHIfilZvYZZ16UxrjryDXnEeF2puzCZCMqGFtjRjmVnnhAFUgAUUdHZx9tCi1zYtOp66JV0ndWUbxHOr2RimpczSNu6RVc9WvmneMKN2BKKx3JYDJyW3GxLR6jW4YrFUMtSBf5iAVZfEixIEiv4bF80QRooTk2EJMDqt5C9gtzlrbPviY0rXFpnx5bJr0HEzeSXyOal5WDlSitXcljNWb6aDbdiYCCC-eq7bbJ7tEBq61BYAc6-P6K4GKOsXYIye69QzCM0GHEBg3sXsHxrHutF45gA.jpg",
+                "cover_urls": ["https://cdn5.telesco.pe/file/SK8byIeXVnNDPm0KZoITNBTWnTZgHZeud6_rPWl0ZOUbvisg3aKGxxYDEV4LHIfilZvYZZ16UxrjryDXnEeF2puzCZCMqGFtjRjmVnnhAFUgAUUdHZx9tCi1zYtOp66JV0ndWUbxHOr2RimpczSNu6RVc9WvmneMKN2BKKx3JYDJyW3GxLR6jW4YrFUMtSBf5iAVZfEixIEiv4bF80QRooTk2EJMDqt5C9gtzlrbPviY0rXFpnx5bJr0HEzeSXyOal5WDlSitXcljNWb6aDbdiYCCC-eq7bbJ7tEBq61BYAc6-P6K4GKOsXYIye69QzCM0GHEBg3sXsHxrHutF45gA.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-23T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -171,10 +171,10 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2024-07-24T14:27:32Z",
+                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673185517793-48a70dd8-e2ab-4590-9184-c84f82dd08e8.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_46%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673180197433-c76fe22f-d6cf-44f2-a9df-43600ec0631f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_52%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761088389-e7e9a557-4fdd-45c8-9429-be9a676e9fd1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_72%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761228504-ee3b25c3-1bcd-4a26-92b4-381c4283008f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_35%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2024/png/728168/1721831251124-0ceccc96-aa0b-4042-bb80-8d6f4a3d62de.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_43%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10"],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -307,10 +307,10 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-28T14:21:56Z",
+                "latest_post": "[【工具自荐】涟漪 (Ripple) v0.1.5：支持只关微信视频号与 Shorts、带单调时钟冷静期与防卸载的 Android / iOS 自控工具](https://github.com/Geekhyt/weekly/issues/162)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://ripplefocus.github.io/shots/limits-default.png",
+                "cover_urls": ["https://ripplefocus.github.io/shots/limits-default.png","https://ripplefocus.github.io/shots/tp-delete.png","https://ripplefocus.github.io/shots/protection-ok.png"],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -327,8 +327,8 @@
                 "desc": "前端潮流周刊",
                 "published_date": "2026-10-26T00:00:00Z",
                 "latest_post": "[第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn.fliggy.com/pic/28728.jpg",
-                "cover_urls": ["https://cdn.fliggy.com/pic/28728.jpg","https://cdn.fliggy.com/pic/28728.jpg?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/9dzW2a01.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792937645578_d10.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792938020975_d28.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792939123829_d51.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/JWoie655.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/blog/pic/client-tech-cover-native4.png","https://cdn.fliggy.com/pic/CnNcPI26.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp"],
+                "cover_url": "https://cdn.tw93.fun/blog/2000/pic-28728.webp",
+                "cover_urls": ["https://cdn.tw93.fun/blog/2000/pic-28728.webp","https://cdn.fliggy.com/pic/9dzW2a01.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792937645578_d10.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792938020975_d28.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792939123829_d51.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/JWoie655.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/blog/pic/client-tech-cover-native4.png","https://cdn.fliggy.com/pic/CnNcPI26.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-29T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-29 Review](http://www.sec-wiki.com/?2026-10-29)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-30T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-10-30 Review](http://www.sec-wiki.com/?2026-10-30)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
