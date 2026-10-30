@@ -65,7 +65,7 @@ Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
     published_date: "2026-10-23T01:07:00Z"
-    latest_post: "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: ""
-    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
+    published_date: "2025-10-30T09:49:33Z"
+    latest_post: "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
+    published_date: "2024-06-19T14:55:31Z"
+    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -114,8 +114,8 @@ iOS:
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
-    published_date: "2024-07-24T14:27:32Z"
-    latest_post: "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
     link: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
   - name: "月维素材周刊"
     desc: "月维的创造者们对「设计」和「开发」的思考与讨论"
@@ -179,8 +179,8 @@ iOS:
     link: "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
   - name: "科技爱好者周刊"
     desc: "阮一峰的科技爱好者周刊"
-    published_date: "2026-10-23T00:06:16Z"
-    latest_post: "[科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-10-30T00:13:03Z"
+    latest_post: "[科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
   - name: "肖恩技术周刊"
     desc: "记录有价值的技术内容，对周内阅读的技术内容精品进行总结"
@@ -239,8 +239,8 @@ iOS:
     link: "[https://softwaretestingweekly.com/issues](https://softwaretestingweekly.com/issues)"
   - name: "软件测试周刊"
     desc: "软件测试及周边的行业动态，周五发布"
-    published_date: "2023-04-25T00:33:52Z"
-    latest_post: "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
     link: "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
 
 
