@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-31T14:28:01Z",
+                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/P6xASG3sh5y30i0FNkOXZDE1XntdSAsKRbJzdXABWcksmqulsHYXxwFlia_Bqstj7i7vunVTw9bY54KFPX_Gcqzrc8S5DglkKE7GB2ruJgm4dp9RBcx39oRkX0-xVSHcCx3IdTcm8Dpy-Mer8ruyhyuz3wLapBB46_fcWvllCEYcJnAXzaDMdRiO3k41ifWiQrsGaTuH3Yih50Z4QAWbf-2NjvrCCB7tpsZeL5lku2uhPpX_WC5Vn3qEYcQuCZrNnwsRtQ9FmbM1nU1ApRAdpOcn7qmNO4TZ0cJyRiLLvQOnPKR6Cl2WUydC_hOd2cdhLz3XSQpSwHDZD2HDxO8saw.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/P6xASG3sh5y30i0FNkOXZDE1XntdSAsKRbJzdXABWcksmqulsHYXxwFlia_Bqstj7i7vunVTw9bY54KFPX_Gcqzrc8S5DglkKE7GB2ruJgm4dp9RBcx39oRkX0-xVSHcCx3IdTcm8Dpy-Mer8ruyhyuz3wLapBB46_fcWvllCEYcJnAXzaDMdRiO3k41ifWiQrsGaTuH3Yih50Z4QAWbf-2NjvrCCB7tpsZeL5lku2uhPpX_WC5Vn3qEYcQuCZrNnwsRtQ9FmbM1nU1ApRAdpOcn7qmNO4TZ0cJyRiLLvQOnPKR6Cl2WUydC_hOd2cdhLz3XSQpSwHDZD2HDxO8saw.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-23T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -135,10 +135,10 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808564153-342aa48c-9178-4b12-833c-7b6c7ed47d4f.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808624041-a7587ec0-dfc6-4320-b775-50d7e416e4a0.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808650170-c424f901-9866-4454-878f-ad14326df0ac.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808674860-ecb85c94-4b79-4b43-8a05-fa4c576605b3.png","https://prod-files-secure.s3.us-west-2.amazonaws.com/9f635646-ed6c-439d-ac97-88979f20a147/25961b22-0c70-4161-ab39-95887eeaeeeb/Untitled.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808723378-0170a00f-768f-49e1-91f1-285be604ff34.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808741736-52e4f798-422d-4777-a6e5-dc9516a044e8.png"],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-10-28T22:52:50Z",
-                "latest_post": "[2026-10-29 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-29-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-10-31T00:24:18Z",
+                "latest_post": "[2026-10-31 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-10-31-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -307,10 +307,10 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-31T02:37:56Z",
+                "latest_post": "[【开源自荐】QuotaPanel：基于 Wails 的 AI 订阅额度管理桌面工具，支持 16 种额度来源、数据全部本地](https://github.com/Geekhyt/weekly/issues/163)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://open.tecmz.com/theme/apps/quotapanel/images/account.png?t=202609261508",
+                "cover_urls": ["https://open.tecmz.com/theme/apps/quotapanel/images/account.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/account-dark.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/account-card.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/setting.png?t=202609261508"],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -353,10 +353,10 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
+                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
+                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
