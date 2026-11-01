@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-31T14:28:01Z",
                 "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/P6xASG3sh5y30i0FNkOXZDE1XntdSAsKRbJzdXABWcksmqulsHYXxwFlia_Bqstj7i7vunVTw9bY54KFPX_Gcqzrc8S5DglkKE7GB2ruJgm4dp9RBcx39oRkX0-xVSHcCx3IdTcm8Dpy-Mer8ruyhyuz3wLapBB46_fcWvllCEYcJnAXzaDMdRiO3k41ifWiQrsGaTuH3Yih50Z4QAWbf-2NjvrCCB7tpsZeL5lku2uhPpX_WC5Vn3qEYcQuCZrNnwsRtQ9FmbM1nU1ApRAdpOcn7qmNO4TZ0cJyRiLLvQOnPKR6Cl2WUydC_hOd2cdhLz3XSQpSwHDZD2HDxO8saw.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/P6xASG3sh5y30i0FNkOXZDE1XntdSAsKRbJzdXABWcksmqulsHYXxwFlia_Bqstj7i7vunVTw9bY54KFPX_Gcqzrc8S5DglkKE7GB2ruJgm4dp9RBcx39oRkX0-xVSHcCx3IdTcm8Dpy-Mer8ruyhyuz3wLapBB46_fcWvllCEYcJnAXzaDMdRiO3k41ifWiQrsGaTuH3Yih50Z4QAWbf-2NjvrCCB7tpsZeL5lku2uhPpX_WC5Vn3qEYcQuCZrNnwsRtQ9FmbM1nU1ApRAdpOcn7qmNO4TZ0cJyRiLLvQOnPKR6Cl2WUydC_hOd2cdhLz3XSQpSwHDZD2HDxO8saw.jpg"],
+                "cover_url": "https://cdn4.telesco.pe/file/Y8WmrxTVdFyDuHm0tXUm0s4xht7vuIzsGg1ULTdvHT-5g12n4YDcgWghlJZglhc9Bv6jzEwKSKcRyA_Ry5fMiACpMaykhNx-CyRIEGkaXsO3X1-IrI7jVc5ffCx4_CvbaxLIduFLN92pht1u_ChOga7-lAYCYfB2-YccuLlMp5taJ3YJLCbe18cot0zY6Ql-qPgznaxXSag7rE1LlFZmS8tNiu_h3a3QzfcMheo4LCyt0017xmjnykz2dfrBfsmndOU-71z00RJ54I4kMQDls8i8-LqyQVjXodq6SXaXO9hPWkRrqMzp6E4H0ZcT3Dg_I-LImo4QBmwTsDyZrPzy4A.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/Y8WmrxTVdFyDuHm0tXUm0s4xht7vuIzsGg1ULTdvHT-5g12n4YDcgWghlJZglhc9Bv6jzEwKSKcRyA_Ry5fMiACpMaykhNx-CyRIEGkaXsO3X1-IrI7jVc5ffCx4_CvbaxLIduFLN92pht1u_ChOga7-lAYCYfB2-YccuLlMp5taJ3YJLCbe18cot0zY6Ql-qPgznaxXSag7rE1LlFZmS8tNiu_h3a3QzfcMheo4LCyt0017xmjnykz2dfrBfsmndOU-71z00RJ54I4kMQDls8i8-LqyQVjXodq6SXaXO9hPWkRrqMzp6E4H0ZcT3Dg_I-LImo4QBmwTsDyZrPzy4A.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -325,10 +325,10 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-10-26T00:00:00Z",
-                "latest_post": "[第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn.tw93.fun/blog/2000/pic-28728.webp",
-                "cover_urls": ["https://cdn.tw93.fun/blog/2000/pic-28728.webp","https://cdn.fliggy.com/pic/9dzW2a01.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792937645578_d10.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792938020975_d28.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/1792939123829_d51.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/JWoie655.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/blog/pic/client-tech-cover-native4.png","https://cdn.fliggy.com/pic/CnNcPI26.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp"],
+                "published_date": "2026-11-02T00:00:00Z",
+                "latest_post": "[第288期 - 偶遇小猫](https://weekly.tw93.fun/posts/288/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.fliggy.com/pic/28837.jpg",
+                "cover_urls": ["https://cdn.fliggy.com/pic/28837.jpg","https://cdn.fliggy.com/pic/28837.jpg?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2116508994374434816.jpg","https://cdn.fliggy.com/pic/jgRQn959.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/4lj1S206.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/r878Hp16.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/teaser03.gif","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2115689850385141760.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2115689850410254336.jpg"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-10-31T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-10-31 Review](http://www.sec-wiki.com/?2026-10-31)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-01T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-11-01 Review](http://www.sec-wiki.com/?2026-11-01)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"

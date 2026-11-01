@@ -204,8 +204,8 @@ iOS:
     link: "[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)"
   - name: "潮流周刊"
     desc: "前端潮流周刊"
-    published_date: "2026-10-26T00:00:00Z"
-    latest_post: "[第287期 - 杭州金桂](https://weekly.tw93.fun/posts/287/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-02T00:00:00Z"
+    latest_post: "[第288期 - 偶遇小猫](https://weekly.tw93.fun/posts/288/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
 
 
@@ -214,8 +214,8 @@ iOS:
 安全:
   - name: "SecWiki News"
     desc: "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。"
-    published_date: "2026-10-31T15:58:20Z"
-    latest_post: "[SecWiki News 2026-10-31 Review](http://www.sec-wiki.com/?2026-10-31)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-01T15:58:20Z"
+    latest_post: "[SecWiki News 2026-11-01 Review](http://www.sec-wiki.com/?2026-11-01)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
 
 
