@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-31T14:28:01Z",
                 "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/Y8WmrxTVdFyDuHm0tXUm0s4xht7vuIzsGg1ULTdvHT-5g12n4YDcgWghlJZglhc9Bv6jzEwKSKcRyA_Ry5fMiACpMaykhNx-CyRIEGkaXsO3X1-IrI7jVc5ffCx4_CvbaxLIduFLN92pht1u_ChOga7-lAYCYfB2-YccuLlMp5taJ3YJLCbe18cot0zY6Ql-qPgznaxXSag7rE1LlFZmS8tNiu_h3a3QzfcMheo4LCyt0017xmjnykz2dfrBfsmndOU-71z00RJ54I4kMQDls8i8-LqyQVjXodq6SXaXO9hPWkRrqMzp6E4H0ZcT3Dg_I-LImo4QBmwTsDyZrPzy4A.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/Y8WmrxTVdFyDuHm0tXUm0s4xht7vuIzsGg1ULTdvHT-5g12n4YDcgWghlJZglhc9Bv6jzEwKSKcRyA_Ry5fMiACpMaykhNx-CyRIEGkaXsO3X1-IrI7jVc5ffCx4_CvbaxLIduFLN92pht1u_ChOga7-lAYCYfB2-YccuLlMp5taJ3YJLCbe18cot0zY6Ql-qPgznaxXSag7rE1LlFZmS8tNiu_h3a3QzfcMheo4LCyt0017xmjnykz2dfrBfsmndOU-71z00RJ54I4kMQDls8i8-LqyQVjXodq6SXaXO9hPWkRrqMzp6E4H0ZcT3Dg_I-LImo4QBmwTsDyZrPzy4A.jpg"],
+                "cover_url": "https://cdn4.telesco.pe/file/CsAEVhATowA7FINsQGGy2nN7V2_z23LGY7fEkVa_gyw8m7gfEY0FtqOeHIPnvbCC1vb4EyPo0Ha8_Kc5C3CbkLDH9YQ2SV5IulY8Fa1R_pLUMV-355KByp2rB1Xb9fYf8o-F_cSA2NCrpdhI6HF3WxQj5Juy28REBiiZvsCscjXbt9p4uPGICkw0t22lPVQ8FBVyTSp1DkUY3uVgnlet1BW3AblAL1ty9Zl9GAuzRrT8R89b5hk1sCRezoSYLpMCMtSd0QsljZD7esjZZjlSCzh1uxgQEEb1i4pseCsFws05vb2hkvpYcKQk3iYjMg19fVWdoppSweZeh-oAF0u1JQ.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/CsAEVhATowA7FINsQGGy2nN7V2_z23LGY7fEkVa_gyw8m7gfEY0FtqOeHIPnvbCC1vb4EyPo0Ha8_Kc5C3CbkLDH9YQ2SV5IulY8Fa1R_pLUMV-355KByp2rB1Xb9fYf8o-F_cSA2NCrpdhI6HF3WxQj5Juy28REBiiZvsCscjXbt9p4uPGICkw0t22lPVQ8FBVyTSp1DkUY3uVgnlet1BW3AblAL1ty9Zl9GAuzRrT8R89b5hk1sCRezoSYLpMCMtSd0QsljZD7esjZZjlSCzh1uxgQEEb1i4pseCsFws05vb2hkvpYcKQk3iYjMg19fVWdoppSweZeh-oAF0u1JQ.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -171,10 +171,10 @@
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2024-07-24T14:27:32Z",
+                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673185517793-48a70dd8-e2ab-4590-9184-c84f82dd08e8.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_46%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673180197433-c76fe22f-d6cf-44f2-a9df-43600ec0631f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_52%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761088389-e7e9a557-4fdd-45c8-9429-be9a676e9fd1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_72%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761228504-ee3b25c3-1bcd-4a26-92b4-381c4283008f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_35%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2024/png/728168/1721831251124-0ceccc96-aa0b-4042-bb80-8d6f4a3d62de.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_43%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10"],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -189,10 +189,10 @@
             {
                 "name": "三号设计周刊",
                 "desc": "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。",
-                "published_date": "2026-10-26T03:06:46Z",
-                "latest_post": "[三号设计周刊 Vol.42](https://sanhao-design-weekly.pages.dev/?issue=42)",
-                "cover_url": "https://sanhao-design-weekly.pages.dev/assets/vol42-framer-mcp.png",
-                "cover_urls": ["https://sanhao-design-weekly.pages.dev/assets/vol42-framer-mcp.png"],
+                "published_date": "2026-11-02T07:11:13Z",
+                "latest_post": "[三号设计周刊 Vol.43](https://sanhao-design-weekly.pages.dev/?issue=43)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://sanhao-design-weekly.pages.dev/assets/vol43-app-recap.png",
+                "cover_urls": ["https://sanhao-design-weekly.pages.dev/assets/vol43-app-recap.png"],
                 "link": "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
             }
         ]
@@ -257,10 +257,10 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-10-26T05:02:01Z",
-                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 193： Token 狂飙，得失难料](https://www.v2ex.com/t/1251866#reply1)",
-                "cover_url": "https://files.mdnice.com/user/73796/08cbba2d-34f4-4294-8f7c-8ecb9f6219ac.png",
-                "cover_urls": ["https://files.mdnice.com/user/73796/08cbba2d-34f4-4294-8f7c-8ecb9f6219ac.png","https://files.mdnice.com/user/73796/8b9164ee-ca17-4c67-a176-09408db81a5f.png","https://files.mdnice.com/user/73796/ef94e5aa-9469-42e2-8f78-7391bf963570.jpg","https://files.mdnice.com/user/73796/02281959-1752-4ccf-9e98-6df19f0e18dc.jpeg","https://files.mdnice.com/user/73796/7c1f0b2a-3c7c-4a55-b785-899a7f082ac1.jpg","https://files.mdnice.com/user/73796/fcb10c79-61bb-4765-baec-1c2a5558dca2.jpg","https://files.mdnice.com/user/73796/dec7a0a2-9ef7-4887-ab93-30244927dcda.jpg"],
+                "published_date": "2026-11-02T09:10:44Z",
+                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 194：给你一张过去的 CD](https://www.v2ex.com/t/1253883#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://files.mdnice.com/user/73796/86d0d627-5d05-4f00-89e4-05af112d8003.png",
+                "cover_urls": ["https://files.mdnice.com/user/73796/86d0d627-5d05-4f00-89e4-05af112d8003.png","https://files.mdnice.com/user/73796/9536a65e-8a14-4335-adb9-97a444c16471.png","https://files.mdnice.com/user/73796/fa9bb472-951a-46a2-b587-7a62293e1112.png","https://files.mdnice.com/user/73796/c5890405-d6ac-4e06-b13a-2f6f52f48cc3.png","https://files.mdnice.com/user/73796/e4996476-fe37-43e5-9979-59f6a78f6c8a.jpeg","https://files.mdnice.com/user/73796/92a4586a-fa1b-4243-b4c9-57c87b1f5233.jpeg"],
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "",
-                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
+                "published_date": "2026-11-02T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-11-02 Review](http://www.sec-wiki.com/?2026-11-02)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
