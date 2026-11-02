@@ -108,7 +108,7 @@
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
                 "published_date": "2026-10-25T23:44:02Z",
-                "latest_post": "[老司机 iOS 周报 #382   2026-10-26](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23382)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[老司机 iOS 周报 #382   2026-10-26](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23382)",
                 "cover_url": "https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/382.png?raw=true",
                 "cover_urls": ["https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/382.png?raw=true"],
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
@@ -163,7 +163,7 @@
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
                 "published_date": "2026-10-26T01:24:58Z",
-                "latest_post": "[体验碎周报第296期(2026.10.26)](https://www.ftium4.com/ux-weekly-296.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[体验碎周报第296期(2026.10.26)](https://www.ftium4.com/ux-weekly-296.html)",
                 "cover_url": "https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261028125444472.png",
                 "cover_urls": ["https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261028125444472.png"],
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
@@ -190,7 +190,7 @@
                 "name": "三号设计周刊",
                 "desc": "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。",
                 "published_date": "2026-10-26T03:06:46Z",
-                "latest_post": "[三号设计周刊 Vol.42](https://sanhao-design-weekly.pages.dev/?issue=42)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[三号设计周刊 Vol.42](https://sanhao-design-weekly.pages.dev/?issue=42)",
                 "cover_url": "https://sanhao-design-weekly.pages.dev/assets/vol42-framer-mcp.png",
                 "cover_urls": ["https://sanhao-design-weekly.pages.dev/assets/vol42-framer-mcp.png"],
                 "link": "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-01T00:33:15Z",
-                "latest_post": "[2026-11-01 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-01-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-01T23:06:00Z",
+                "latest_post": "[2026-11-02 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-02-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -307,10 +307,10 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "2026-10-31T02:37:56Z",
-                "latest_post": "[【开源自荐】QuotaPanel：基于 Wails 的 AI 订阅额度管理桌面工具，支持 16 种额度来源、数据全部本地](https://github.com/Geekhyt/weekly/issues/163)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://open.tecmz.com/theme/apps/quotapanel/images/account.png?t=202609261508",
-                "cover_urls": ["https://open.tecmz.com/theme/apps/quotapanel/images/account.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/account-dark.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/account-card.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/setting.png?t=202609261508"],
+                "published_date": "",
+                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -353,10 +353,10 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-08-07T07:15:00Z",
-                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
-                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
-                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
