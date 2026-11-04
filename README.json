@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-31T14:28:01Z",
+                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/MaGCJRxF40zQJe9B15B5qjk1L5_zA-HTuO5-DH-MzzN7C5-q2UxFHVFnL_iFZnd58ymIiDZHaqwC9wk7jVlGEIEsI2ClNUU-V2cdxdM-BBINLzhyAQOTLyebtBgrYkisr_AtK3eVEpuc19L2DO6mTDJxatH-h1WBMlNWB4r-4Vw5AF7qvTZ-R0ERRbliyxVCfSEZKvEMzwwjLPr5Wv7LKZk92b2Fkmi_x87jpc7KGgP3NsJSr1Pg02wGinHjMwFcbg4QIvPqAcS367kn__kBzlkYM5Rf1RXZmSIJdP5CSXurDUql9olTYhwljRbUPnSnWFlqNggVrcJK6GJCNmdf8A.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/MaGCJRxF40zQJe9B15B5qjk1L5_zA-HTuO5-DH-MzzN7C5-q2UxFHVFnL_iFZnd58ymIiDZHaqwC9wk7jVlGEIEsI2ClNUU-V2cdxdM-BBINLzhyAQOTLyebtBgrYkisr_AtK3eVEpuc19L2DO6mTDJxatH-h1WBMlNWB4r-4Vw5AF7qvTZ-R0ERRbliyxVCfSEZKvEMzwwjLPr5Wv7LKZk92b2Fkmi_x87jpc7KGgP3NsJSr1Pg02wGinHjMwFcbg4QIvPqAcS367kn__kBzlkYM5Rf1RXZmSIJdP5CSXurDUql9olTYhwljRbUPnSnWFlqNggVrcJK6GJCNmdf8A.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-23T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,10 +121,10 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-02T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-02](https://decohack.com/producthunt-daily-2026-11-02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-03T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-03](https://decohack.com/producthunt-daily-2026-11-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -222,7 +222,7 @@
                 "name": "HelloGitHub 月刊",
                 "desc": "HelloGitHub 月刊",
                 "published_date": "2026-10-28T00:06:20Z",
-                "latest_post": "[HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://hellogithub.com/periodical](https://hellogithub.com/periodical)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-02T23:17:19Z",
-                "latest_post": "[2026-11-03 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-03-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-03T23:47:22Z",
+                "latest_post": "[2026-11-04 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-04-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
