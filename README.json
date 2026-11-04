@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-31T14:28:01Z",
+                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/jZohICVkvS0FBuTUjgMAnUj2-uv4j7dL3hWWIB0xQ8t1i9ufMlBs5enLw669Ujdy6iN3NaaxJ6mwJUGvhUQtionkUNsvGyWZZMeZgmSPhhPgokqEU2oictEAmV9DOnedTHQUv35bSyaUTmzP5h6EZ9Z5PDXm1aAennSYMbaXns8KtiT5zGeyp9BIg7SB7WFrTBJZScRc8PQn5wqJgu3KO1QQ-bmZoB50zg2WrVwYbZny1N5zF2gNRjKL5NJKFF2vyEJBc81xeYIYIecJPnoB7ti-PtGX0caQh9p8t2H2ICX3YR7xVDM4T0maoIQW7vcBbxyDEi1jacfTg3PCFeDmKw.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/jZohICVkvS0FBuTUjgMAnUj2-uv4j7dL3hWWIB0xQ8t1i9ufMlBs5enLw669Ujdy6iN3NaaxJ6mwJUGvhUQtionkUNsvGyWZZMeZgmSPhhPgokqEU2oictEAmV9DOnedTHQUv35bSyaUTmzP5h6EZ9Z5PDXm1aAennSYMbaXns8KtiT5zGeyp9BIg7SB7WFrTBJZScRc8PQn5wqJgu3KO1QQ-bmZoB50zg2WrVwYbZny1N5zF2gNRjKL5NJKFF2vyEJBc81xeYIYIecJPnoB7ti-PtGX0caQh9p8t2H2ICX3YR7xVDM4T0maoIQW7vcBbxyDEi1jacfTg3PCFeDmKw.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-10-23T01:07:00Z",
+                "latest_post": "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -153,8 +153,8 @@
             {
                 "name": "DEX 周刊",
                 "desc": "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。",
-                "published_date": "2026-10-28T07:00:13Z",
-                "latest_post": "[#369 Wonder 2.0](https://quaily.com/dingyi/p/369)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-04T05:00:28Z",
+                "latest_post": "[#370 Rewind Echo](https://quaily.com/dingyi/p/370)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-11-03T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-11-03 Review](http://www.sec-wiki.com/?2026-11-03)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-04T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-11-04 Review](http://www.sec-wiki.com/?2026-11-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
