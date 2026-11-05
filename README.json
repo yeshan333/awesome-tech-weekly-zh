@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-10-31T14:28:01Z",
                 "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/jZohICVkvS0FBuTUjgMAnUj2-uv4j7dL3hWWIB0xQ8t1i9ufMlBs5enLw669Ujdy6iN3NaaxJ6mwJUGvhUQtionkUNsvGyWZZMeZgmSPhhPgokqEU2oictEAmV9DOnedTHQUv35bSyaUTmzP5h6EZ9Z5PDXm1aAennSYMbaXns8KtiT5zGeyp9BIg7SB7WFrTBJZScRc8PQn5wqJgu3KO1QQ-bmZoB50zg2WrVwYbZny1N5zF2gNRjKL5NJKFF2vyEJBc81xeYIYIecJPnoB7ti-PtGX0caQh9p8t2H2ICX3YR7xVDM4T0maoIQW7vcBbxyDEi1jacfTg3PCFeDmKw.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/jZohICVkvS0FBuTUjgMAnUj2-uv4j7dL3hWWIB0xQ8t1i9ufMlBs5enLw669Ujdy6iN3NaaxJ6mwJUGvhUQtionkUNsvGyWZZMeZgmSPhhPgokqEU2oictEAmV9DOnedTHQUv35bSyaUTmzP5h6EZ9Z5PDXm1aAennSYMbaXns8KtiT5zGeyp9BIg7SB7WFrTBJZScRc8PQn5wqJgu3KO1QQ-bmZoB50zg2WrVwYbZny1N5zF2gNRjKL5NJKFF2vyEJBc81xeYIYIecJPnoB7ti-PtGX0caQh9p8t2H2ICX3YR7xVDM4T0maoIQW7vcBbxyDEi1jacfTg3PCFeDmKw.jpg"],
+                "cover_url": "https://cdn4.telesco.pe/file/Gs8loDAHuigmRmrDELqUDLmQKJpdLLwrFy838A7cHHz50Jtr_5WT6pS1sR3kYD_ubV2WNOZoW-HtRtb_FYjEfwM2iV9TQ6UqMfsKrBYI1aL7ozSWqYOmb2KhxendqcSN6c1UuKqpTTzCUvNSzwAnNfvnOO_jQd_6rjpkHrtBc6OsDpiqhwcYkar24Atud5otL3wJDdvgHqeGeEwhuRRIz57BqU7_NZ78aBr76aieeEzWsY9J41kvhhVofhfvb8G5-Q25tkCyR8zS5iMEAsYkO9Mfef-thBrQ8vcJpbx4u6C9TsPg-yhC6uIgcOBC4aboa3Zq0m_91JYMtGggf4FfXw.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/Gs8loDAHuigmRmrDELqUDLmQKJpdLLwrFy838A7cHHz50Jtr_5WT6pS1sR3kYD_ubV2WNOZoW-HtRtb_FYjEfwM2iV9TQ6UqMfsKrBYI1aL7ozSWqYOmb2KhxendqcSN6c1UuKqpTTzCUvNSzwAnNfvnOO_jQd_6rjpkHrtBc6OsDpiqhwcYkar24Atud5otL3wJDdvgHqeGeEwhuRRIz57BqU7_NZ78aBr76aieeEzWsY9J41kvhhVofhfvb8G5-Q25tkCyR8zS5iMEAsYkO9Mfef-thBrQ8vcJpbx4u6C9TsPg-yhC6uIgcOBC4aboa3Zq0m_91JYMtGggf4FfXw.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -212,10 +212,10 @@
             {
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
-                "published_date": "2026-10-29T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第163期） : 单人公司被Anthropic收购 Pipeline-in-a-Person](https://www.ezindie.com/weekly/issue-163)",
-                "cover_url": "https://qiniu.gafata.com/weekly-covers/a0143664f6484c65a5ef6265441d3485.png",
-                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/a0143664f6484c65a5ef6265441d3485.png"],
+                "published_date": "2026-11-05T00:00:00Z",
+                "latest_post": "[独立开发变现周刊（第164期） : Directify达5万美元年收入的独立SaaS](https://www.ezindie.com/weekly/issue-164)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://qiniu.gafata.com/weekly-covers/bb645090514b4878885e6e8f3ed77367.png",
+                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/bb645090514b4878885e6e8f3ed77367.png"],
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-11-04T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-11-04 Review](http://www.sec-wiki.com/?2026-11-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-05T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-11-05 Review](http://www.sec-wiki.com/?2026-11-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
@@ -390,8 +390,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-10-29T15:10:23Z",
-                "latest_post": "[学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-05T14:34:45Z",
+                "latest_post": "[学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"

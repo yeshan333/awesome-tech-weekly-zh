@@ -92,7 +92,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Go语言爱好者周刊 | Go语言爱好者周刊 |  | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
+| Go语言爱好者周刊 | Go语言爱好者周刊 | 2026-01-06 09:58 | [Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661) | [https://studygolang.com/go/weekly](https://studygolang.com/go/weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -177,7 +177,7 @@ English | [简体中文](../README.md)
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
 | 猫鱼周刊 | 猫鱼周刊 | 2026-06-28 20:38 | [猫鱼周刊 vol. 099 第 100 期撒花！](https://ameow.xyz/archives/weekly-099) | [https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly) |
-| 独立开发变现周刊 | 独立开发变现周刊 | 2026-10-29 08:00 | [独立开发变现周刊（第163期） : 单人公司被Anthropic收购 Pipeline-in-a-Person](https://www.ezindie.com/weekly/issue-163) | [https://www.ezindie.com](https://www.ezindie.com) |
+| 独立开发变现周刊 | 独立开发变现周刊 | 2026-11-05 08:00 | [独立开发变现周刊（第164期） : Directify达5万美元年收入的独立SaaS](https://www.ezindie.com/weekly/issue-164)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://www.ezindie.com](https://www.ezindie.com) |
 | HelloGitHub 月刊 | HelloGitHub 月刊 | 2026-10-28 08:06 | [HelloGitHub 第 127 期](https://hellogithub.com/periodical/volume/127) | [https://hellogithub.com/periodical](https://hellogithub.com/periodical) |
 | 独立开发沉思录周刊 | 独立开发沉思录周刊 | 2025-03-31 08:00 | [vol36.想法并不重要，重要的是你如何实现它](https://www.hackthinking.com/weekly/2025/03-31-vol36) | [https://www.hackthinking.com/weekly/home](https://www.hackthinking.com/weekly/home) |
 | Hacker News 每日摘要 | Hacker News 每日摘要 | 2026-11-05 07:28 | [2026-11-05 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-05-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://supertechfans.com/cn](https://supertechfans.com/cn) |
@@ -214,7 +214,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-11-04 23:58 | [SecWiki News 2026-11-04 Review](http://www.sec-wiki.com/?2026-11-04)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
+| SecWiki News | 专注安全领域最新资讯、专题和导航，做高质量聚合与评论。 | 2026-11-05 23:58 | [SecWiki News 2026-11-05 Review](http://www.sec-wiki.com/?2026-11-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -254,7 +254,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2026-10-29 23:10 | [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
+| eryajf 的运维技术周刊 | 周刊内容以运维技术和 Go 语言周边为主 | 2026-11-05 22:34 | [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true) | [https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
