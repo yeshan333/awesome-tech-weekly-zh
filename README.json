@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-03T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-03](https://decohack.com/producthunt-daily-2026-11-03/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-04T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-04](https://decohack.com/producthunt-daily-2026-11-04/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -213,7 +213,7 @@
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
                 "published_date": "2026-10-29T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第163期） : 单人公司被Anthropic收购 Pipeline-in-a-Person](https://www.ezindie.com/weekly/issue-163)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[独立开发变现周刊（第163期） : 单人公司被Anthropic收购 Pipeline-in-a-Person](https://www.ezindie.com/weekly/issue-163)",
                 "cover_url": "https://qiniu.gafata.com/weekly-covers/a0143664f6484c65a5ef6265441d3485.png",
                 "cover_urls": ["https://qiniu.gafata.com/weekly-covers/a0143664f6484c65a5ef6265441d3485.png"],
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-03T23:47:22Z",
-                "latest_post": "[2026-11-04 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-04-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-04T23:28:27Z",
+                "latest_post": "[2026-11-05 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-05-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
