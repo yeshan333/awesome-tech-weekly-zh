@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-10-31T14:28:01Z",
-                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/594)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/Gs8loDAHuigmRmrDELqUDLmQKJpdLLwrFy838A7cHHz50Jtr_5WT6pS1sR3kYD_ubV2WNOZoW-HtRtb_FYjEfwM2iV9TQ6UqMfsKrBYI1aL7ozSWqYOmb2KhxendqcSN6c1UuKqpTTzCUvNSzwAnNfvnOO_jQd_6rjpkHrtBc6OsDpiqhwcYkar24Atud5otL3wJDdvgHqeGeEwhuRRIz57BqU7_NZ78aBr76aieeEzWsY9J41kvhhVofhfvb8G5-Q25tkCyR8zS5iMEAsYkO9Mfef-thBrQ8vcJpbx4u6C9TsPg-yhC6uIgcOBC4aboa3Zq0m_91JYMtGggf4FfXw.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/Gs8loDAHuigmRmrDELqUDLmQKJpdLLwrFy838A7cHHz50Jtr_5WT6pS1sR3kYD_ubV2WNOZoW-HtRtb_FYjEfwM2iV9TQ6UqMfsKrBYI1aL7ozSWqYOmb2KhxendqcSN6c1UuKqpTTzCUvNSzwAnNfvnOO_jQd_6rjpkHrtBc6OsDpiqhwcYkar24Atud5otL3wJDdvgHqeGeEwhuRRIz57BqU7_NZ78aBr76aieeEzWsY9J41kvhhVofhfvb8G5-Q25tkCyR8zS5iMEAsYkO9Mfef-thBrQ8vcJpbx4u6C9TsPg-yhC6uIgcOBC4aboa3Zq0m_91JYMtGggf4FfXw.jpg"],
+                "published_date": "2026-11-06T15:52:07Z",
+                "latest_post": "[3Blue1Brown：现在正是投身数学的好时机](https://t.me/pythontrendingweekly/600)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/noRGExr3m8ZJltHmm0clrpFjaeMxfSkDdvMyY54dfvdl1TWv0LJ852Mbet5yoERS-_nQsjdpsOF-crPGuwBi9POs9Wlk5N3h9j5hYUPvwajVJ5aaLD0hPUI7QxmsuPWiOucyE--5Hhamu1J4QH0o3atvyzfrUGz5MGf8JM-_ZN4hHvPIi92iJ6ZGekTmAiE_HsPe3R1VVhAl_0DUY1HgxgioYGNcE1iTwvGOuLrCdTh02WyuGJVdQklPsBJ7vjYFN9twMq3WP8YxjDn4nj5RJUizPh-CgicuLnLaEB0ZwHgDdzv10V1BvmmLX8nBiGDpuYegyAu0grspaCz7fkxfLg.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/noRGExr3m8ZJltHmm0clrpFjaeMxfSkDdvMyY54dfvdl1TWv0LJ852Mbet5yoERS-_nQsjdpsOF-crPGuwBi9POs9Wlk5N3h9j5hYUPvwajVJ5aaLD0hPUI7QxmsuPWiOucyE--5Hhamu1J4QH0o3atvyzfrUGz5MGf8JM-_ZN4hHvPIi92iJ6ZGekTmAiE_HsPe3R1VVhAl_0DUY1HgxgioYGNcE1iTwvGOuLrCdTh02WyuGJVdQklPsBJ7vjYFN9twMq3WP8YxjDn4nj5RJUizPh-CgicuLnLaEB0ZwHgDdzv10V1BvmmLX8nBiGDpuYegyAu0grspaCz7fkxfLg.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-11-06T12:51:00Z",
+                "latest_post": "[【Rust日报】2026-11-06 用 Lean 证明没有未定义行为](https://rustcc.cn/article?id=b6eac85d-29d9-42b2-b115-68c3cc7b6920)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-11-05T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-11-05 Review](http://www.sec-wiki.com/?2026-11-05)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-06T15:58:20Z",
+                "latest_post": "[SecWiki News 2026-11-06 Review](http://www.sec-wiki.com/?2026-11-06)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
