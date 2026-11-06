@@ -118,7 +118,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| Rust中文社区新闻 | Rust语言中文社区新闻和日报 | 2026-10-23 09:07 | [【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87) | [https://rustcc.cn/](https://rustcc.cn/) |
+| Rust中文社区新闻 | Rust语言中文社区新闻和日报 |  | [https://rustcc.cn/](https://rustcc.cn/) | [https://rustcc.cn/](https://rustcc.cn/) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -144,7 +144,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 云原生周刊 | 云原生周刊 | 2025-10-30 17:49 | [Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
+| 云原生周刊 | 云原生周刊 |  | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) | [https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>
@@ -227,7 +227,7 @@ English | [简体中文](../README.md)
 
 | Name | Description | UpdatedAt | Article | Addr |
 |:-:|:-|:-:|:-|:-:|
-| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  | 2026-08-07 15:15 | [痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
+| 《痞子衡嵌入式半月刊》 | 《痞子衡嵌入式半月刊》  |  | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) | [https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article) |
 
 <div align="right">
 <a href="#Contents">Back To Top</a>

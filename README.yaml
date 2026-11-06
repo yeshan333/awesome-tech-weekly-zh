@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-10-23T01:07:00Z"
-    latest_post: "[【Rust日报】2026-10-23 Wasmtime 修复 CVSS 9.3 沙箱逃逸](https://rustcc.cn/article?id=9d1ee779-130e-4360-a653-3dfc64d4ae87)"
+    published_date: ""
+    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2025-10-30T09:49:33Z"
-    latest_post: "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: "2026-08-07T07:15:00Z"
-    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
+    published_date: ""
+    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 
