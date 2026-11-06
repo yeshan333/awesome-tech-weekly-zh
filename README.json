@@ -135,17 +135,17 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
-                "cover_url": "https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png",
-                "cover_urls": ["https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808564153-342aa48c-9178-4b12-833c-7b6c7ed47d4f.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808624041-a7587ec0-dfc6-4320-b775-50d7e416e4a0.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808650170-c424f901-9866-4454-878f-ad14326df0ac.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808674860-ecb85c94-4b79-4b43-8a05-fa4c576605b3.png","https://prod-files-secure.s3.us-west-2.amazonaws.com/9f635646-ed6c-439d-ac97-88979f20a147/25961b22-0c70-4161-ab39-95887eeaeeeb/Untitled.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808723378-0170a00f-768f-49e1-91f1-285be604ff34.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808741736-52e4f798-422d-4777-a6e5-dc9516a044e8.png"],
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-04T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-04](https://decohack.com/producthunt-daily-2026-11-04/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-05T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-05](https://decohack.com/producthunt-daily-2026-11-05/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-04T23:28:27Z",
-                "latest_post": "[2026-11-05 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-05-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-05T23:44:49Z",
+                "latest_post": "[2026-11-06 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-06-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -284,10 +284,10 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-10-30T00:13:03Z",
-                "latest_post": "[科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn.beekka.com/blogimg/asset/202610/bg2026102923.webp",
-                "cover_urls": ["https://cdn.beekka.com/blogimg/asset/202610/bg2026102923.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102924.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102925.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101803.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026103001.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102111.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102804.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101801.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026101416.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102803.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102917.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102918.webp"],
+                "published_date": "2026-11-05T23:43:55Z",
+                "latest_post": "[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.beekka.com/blogimg/asset/202611/bg2026110501.webp",
+                "cover_urls": ["https://cdn.beekka.com/blogimg/asset/202611/bg2026110501.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110601.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110602.jpg","https://cdn.beekka.com/blogimg/asset/202611/bg2026110604.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110401.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110304.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110405.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110502.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026100801.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026100814.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102102.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110414.webp"],
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
