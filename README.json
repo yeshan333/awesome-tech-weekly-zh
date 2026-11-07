@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-06T15:52:07Z",
-                "latest_post": "[3Blue1Brown：现在正是投身数学的好时机](https://t.me/pythontrendingweekly/600)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/noRGExr3m8ZJltHmm0clrpFjaeMxfSkDdvMyY54dfvdl1TWv0LJ852Mbet5yoERS-_nQsjdpsOF-crPGuwBi9POs9Wlk5N3h9j5hYUPvwajVJ5aaLD0hPUI7QxmsuPWiOucyE--5Hhamu1J4QH0o3atvyzfrUGz5MGf8JM-_ZN4hHvPIi92iJ6ZGekTmAiE_HsPe3R1VVhAl_0DUY1HgxgioYGNcE1iTwvGOuLrCdTh02WyuGJVdQklPsBJ7vjYFN9twMq3WP8YxjDn4nj5RJUizPh-CgicuLnLaEB0ZwHgDdzv10V1BvmmLX8nBiGDpuYegyAu0grspaCz7fkxfLg.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/noRGExr3m8ZJltHmm0clrpFjaeMxfSkDdvMyY54dfvdl1TWv0LJ852Mbet5yoERS-_nQsjdpsOF-crPGuwBi9POs9Wlk5N3h9j5hYUPvwajVJ5aaLD0hPUI7QxmsuPWiOucyE--5Hhamu1J4QH0o3atvyzfrUGz5MGf8JM-_ZN4hHvPIi92iJ6ZGekTmAiE_HsPe3R1VVhAl_0DUY1HgxgioYGNcE1iTwvGOuLrCdTh02WyuGJVdQklPsBJ7vjYFN9twMq3WP8YxjDn4nj5RJUizPh-CgicuLnLaEB0ZwHgDdzv10V1BvmmLX8nBiGDpuYegyAu0grspaCz7fkxfLg.jpg"],
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "2026-08-07T07:15:00Z",
-                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
+                "published_date": "",
+                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
