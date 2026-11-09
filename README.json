@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-11-07T12:59:25Z",
+                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/605)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/Yxp8UUWlYnyA-CGxJIRvgc978UpAaIYYjc3Z6CgNkgoakXo-SHly2ibgpKFo-Gtcxly4NNJ4wMlUPfiPIMb6BPA_2OjboUnbVC2MqSZLxxEFicFLPdgwByu41WEGLeEl1OjnUJoOeOUui3WLfoDCfgeS0ic3O6TugGkratFKwB4QDVCQ1ADW2j0K-x6afEpW8dxvVLLXqNAKEymul2BKL_vFE5mzmW_bZIDnotavKHEb-Eht8QvHz2a0E5zRQ7kXZAXDeFNVdOAp1TbTx7x9PRBYiaEEdo8g2Xwk0q0ndQHQ31w52ZM-BB2x0OgfAESB7IlKRPDw_A1CQJ5SwVGaGA.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/Yxp8UUWlYnyA-CGxJIRvgc978UpAaIYYjc3Z6CgNkgoakXo-SHly2ibgpKFo-Gtcxly4NNJ4wMlUPfiPIMb6BPA_2OjboUnbVC2MqSZLxxEFicFLPdgwByu41WEGLeEl1OjnUJoOeOUui3WLfoDCfgeS0ic3O6TugGkratFKwB4QDVCQ1ADW2j0K-x6afEpW8dxvVLLXqNAKEymul2BKL_vFE5mzmW_bZIDnotavKHEb-Eht8QvHz2a0E5zRQ7kXZAXDeFNVdOAp1TbTx7x9PRBYiaEEdo8g2Xwk0q0ndQHQ31w52ZM-BB2x0OgfAESB7IlKRPDw_A1CQJ5SwVGaGA.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-11-09T02:11:00Z",
+                "latest_post": "[【Rust日报】2026-11-09 ping 只发出去一包](https://rustcc.cn/article?id=a8eb1a43-fdc0-46e2-8313-921ff04f172a)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-07T23:33:21Z",
-                "latest_post": "[2026-11-08 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-08-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-08T23:42:30Z",
+                "latest_post": "[2026-11-09 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-09-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -339,8 +339,8 @@
             {
                 "name": "SecWiki News",
                 "desc": "专注安全领域最新资讯、专题和导航，做高质量聚合与评论。",
-                "published_date": "2026-11-08T15:58:20Z",
-                "latest_post": "[SecWiki News 2026-11-08 Review](http://www.sec-wiki.com/?2026-11-08)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://sec-wiki.com/news/31945](https://sec-wiki.com/news/31945)"
