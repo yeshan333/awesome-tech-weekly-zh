@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-08T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-08](https://decohack.com/producthunt-daily-2026-11-08/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-10T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-10](https://decohack.com/producthunt-daily-2026-11-10/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-09T23:35:33Z",
-                "latest_post": "[2026-11-10 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-10-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-10T23:36:24Z",
+                "latest_post": "[2026-11-11 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-11-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -275,8 +275,8 @@
             {
                 "name": "偷懒爱好者周刊",
                 "desc": "偷懒爱好者周刊",
-                "published_date": "2026-11-04T00:00:00Z",
-                "latest_post": "[第206期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/04/第206期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-11T00:00:00Z",
+                "latest_post": "[第207期 偷懒爱好者周刊](https://aiznb.com/weekly/2026/11/11/第207期-偷懒爱好者周刊.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://echosoar.github.io/weekly/](https://echosoar.github.io/weekly/)"
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
