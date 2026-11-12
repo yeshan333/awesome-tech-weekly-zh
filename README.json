@@ -79,8 +79,8 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "published_date": "2026-11-10T13:14:23Z",
+                "latest_post": "[Claude-Code-Game-Studios：AI 游戏工作室](https://t.me/pythontrendingweekly/615)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-11-10T02:08:00Z",
+                "latest_post": "[【Rust日报】2026-11-10 改一个标签要 8.4 毫秒](https://rustcc.cn/article?id=dbf44252-5db7-4ed8-a3a3-9856a203d0da)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -212,10 +212,10 @@
             {
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
-                "published_date": "2026-11-05T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第164期） : Directify达5万美元年收入的独立SaaS](https://www.ezindie.com/weekly/issue-164)",
-                "cover_url": "https://qiniu.gafata.com/weekly-covers/bb645090514b4878885e6e8f3ed77367.png",
-                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/bb645090514b4878885e6e8f3ed77367.png"],
+                "published_date": "2026-11-12T00:00:00Z",
+                "latest_post": "[独立开发变现周刊（第165期） : AI视频代运营：月入3.8万美元](https://www.ezindie.com/weekly/issue-165)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://qiniu.gafata.com/weekly-covers/d2cd20747846421b818b25aaea77be53.png",
+                "cover_urls": ["https://qiniu.gafata.com/weekly-covers/d2cd20747846421b818b25aaea77be53.png"],
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
             },
             {
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-10T23:36:24Z",
-                "latest_post": "[2026-11-11 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-11-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-11T23:35:00Z",
+                "latest_post": "[2026-11-12 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-12-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -390,8 +390,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-11-05T14:34:45Z",
-                "latest_post": "[学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-12T15:37:44Z",
+                "latest_post": "[学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
