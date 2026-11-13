@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-10T13:14:23Z",
-                "latest_post": "[Claude-Code-Game-Studios：AI 游戏工作室](https://t.me/pythontrendingweekly/615)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-11-13T00:26:46Z",
+                "latest_post": "[OpenAI 更新 Model Spec，改为围绕五条核心价值观](https://t.me/pythontrendingweekly/620)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/UuQuhEMv4NqnJgeYOL8Vjs6FdvByCLxXukTchnHYS4Zxk8Z8XPw3loZVNhFaEtjHfwzbJMdp4VxLaTF83sXD5c-ByI_8M-qx41Tmy-r-k7jUt1IHfJMLpKsB29cnqRFqquZo1i0QI5DaVwHkhpM71OTSr2mXHWPHIrx3zV0KHIWank3pdtG8QwmbnlWw9PXeNIjFxkdDNHs8dUyHgOHFHmKOTkGyfZ8X-UD5gp5kWqFuHjHmWSXRn-gFqQoAfOAFA98mkiV67qa-4AgaXOwLz6bJWRhG_coI9lui1KuFOpxnVvmjJFizhV69VYf05ZgIdXAkUWufEexI0TxfAukBOQ.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/UuQuhEMv4NqnJgeYOL8Vjs6FdvByCLxXukTchnHYS4Zxk8Z8XPw3loZVNhFaEtjHfwzbJMdp4VxLaTF83sXD5c-ByI_8M-qx41Tmy-r-k7jUt1IHfJMLpKsB29cnqRFqquZo1i0QI5DaVwHkhpM71OTSr2mXHWPHIrx3zV0KHIWank3pdtG8QwmbnlWw9PXeNIjFxkdDNHs8dUyHgOHFHmKOTkGyfZ8X-UD5gp5kWqFuHjHmWSXRn-gFqQoAfOAFA98mkiV67qa-4AgaXOwLz6bJWRhG_coI9lui1KuFOpxnVvmjJFizhV69VYf05ZgIdXAkUWufEexI0TxfAukBOQ.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-11T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-11](https://decohack.com/producthunt-daily-2026-11-11/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-12T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-12](https://decohack.com/producthunt-daily-2026-11-12/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-11T23:35:00Z",
-                "latest_post": "[2026-11-12 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-12-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-12T23:56:41Z",
+                "latest_post": "[2026-11-13 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-13-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
@@ -284,10 +284,10 @@
             {
                 "name": "科技爱好者周刊",
                 "desc": "阮一峰的科技爱好者周刊",
-                "published_date": "2026-11-05T23:43:55Z",
-                "latest_post": "[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn.beekka.com/blogimg/asset/202611/bg2026110501.webp",
-                "cover_urls": ["https://cdn.beekka.com/blogimg/asset/202611/bg2026110501.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110601.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110602.jpg","https://cdn.beekka.com/blogimg/asset/202611/bg2026110604.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110401.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110304.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110405.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110502.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026100801.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026100814.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102102.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110414.webp"],
+                "published_date": "2026-11-13T00:08:29Z",
+                "latest_post": "[科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp",
+                "cover_urls": ["https://cdn.beekka.com/blogimg/asset/202611/bg2026111203.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026111107.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026111108.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026111104.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110415.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110416.webp","https://cdn.beekka.com/blogimg/asset/202611/bg2026110417.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102117.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102112.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102113.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102114.webp","https://cdn.beekka.com/blogimg/asset/202610/bg2026102115.webp"],
                 "link": "[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)"
             },
             {
@@ -307,10 +307,10 @@
             {
                 "name": "前端食堂技术周刊",
                 "desc": "前端食堂技术周刊",
-                "published_date": "",
-                "latest_post": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-10-31T02:37:56Z",
+                "latest_post": "[【开源自荐】QuotaPanel：基于 Wails 的 AI 订阅额度管理桌面工具，支持 16 种额度来源、数据全部本地](https://github.com/Geekhyt/weekly/issues/163)",
+                "cover_url": "https://open.tecmz.com/theme/apps/quotapanel/images/account.png?t=202609261508",
+                "cover_urls": ["https://open.tecmz.com/theme/apps/quotapanel/images/account.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/account-dark.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/account-card.png?t=202609261508","https://open.tecmz.com/theme/apps/quotapanel/images/setting.png?t=202609261508"],
                 "link": "[https://github.com/Geekhyt/weekly](https://github.com/Geekhyt/weekly)"
             },
             {
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
