@@ -1,0 +1,7 @@
+kind: AI
+owner: AIHOT
+name: 'AIHOT 日报'
+link: https://aihot.news/daily
+desc: '每日整理 AI 模型、产品、研究和行业动态，附原文链接。'
+desc_en: 'Daily Chinese-language brief on AI models, products, research, and the industry, with source links.'
+feed_url: https://aihot.news/feed/daily.xml
