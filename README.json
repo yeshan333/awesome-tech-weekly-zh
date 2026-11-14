@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-13T11:40:09Z",
-                "latest_post": "[OpenAI 自动化流水线找到 948 个 Linux 内核提权漏洞](https://t.me/pythontrendingweekly/625)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/XaA3YPxFYhJ1_IZxNu1xtUC_Ut90eyuf9iJigAN1pITqZh-j6-yVZDD2hvkXvgHu1HHIqC8uo7y-0jeNvJlUtLpBTBU92PnsPH113PkS4oOPGJ9qfDjmsZQ1AsKqJKq7FexUtjScnwH6X4brziHs0lVXIBlZfg--Y6K1lyzsH00mB5pF2zwi2ejeZEvbbBdHnAwpvJVMYvWOY3qFsk1Z2DTb6ApJZqpO5mqZ-FDb-TfrZaS7yAMJ6DGyQl7H1_dkb5CBq34vNcekXLG0oT5XqoYvfbJAdO0ux3tlEdP5fkoAOcTcqYgeQTOhD8fAnJXuxd101tuz0uJxgcP75qnNfg.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/XaA3YPxFYhJ1_IZxNu1xtUC_Ut90eyuf9iJigAN1pITqZh-j6-yVZDD2hvkXvgHu1HHIqC8uo7y-0jeNvJlUtLpBTBU92PnsPH113PkS4oOPGJ9qfDjmsZQ1AsKqJKq7FexUtjScnwH6X4brziHs0lVXIBlZfg--Y6K1lyzsH00mB5pF2zwi2ejeZEvbbBdHnAwpvJVMYvWOY3qFsk1Z2DTb6ApJZqpO5mqZ-FDb-TfrZaS7yAMJ6DGyQl7H1_dkb5CBq34vNcekXLG0oT5XqoYvfbJAdO0ux3tlEdP5fkoAOcTcqYgeQTOhD8fAnJXuxd101tuz0uJxgcP75qnNfg.jpg"],
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-11-13T05:48:00Z",
-                "latest_post": "[【Rust日报】2026-11-13 Pi GPUI - 用 GPUI 运行本机已安装的 pi 编程代理](https://rustcc.cn/article?id=16e3bea3-e3df-4648-8b8c-9ee00129279e)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-30T09:49:33Z",
-                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
