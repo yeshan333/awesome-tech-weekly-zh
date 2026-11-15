@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "",
-                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
+                "published_date": "2026-01-06T01:58:24Z",
+                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "",
-                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2026-11-14T14:05:53Z",
+                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/628)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/n5WmwwZFPJaH7tklsyEGba_bEWQbzHGdyy9FXRSd9k72Gm4b5JEbuhBbP62R5jSRnwav70pAnauv5qryESprR3hES6KKl583om-qa4k2oZ_lBB1wNj7p9jK07K0AGXvxT5Sw7U-R-NUl0SNUjvFzMwd1sgu4HSLiykkdQUklRpC4gr5qg24eM8HTlXTOLEBnt0KaGHvulUTxTW5QFmFi8pzCd_6_vudbfRg0tPzYtlGstC6qgcGtSlLBErYCSDi8k7C9Ps3-gPBWNH2NRUh5KbNP8VwYOzThX7VEcpnBVh1cdcTemlYEGngYt2QM2y5lHT0WGf9fZAWORUX1-rFJJQ.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/n5WmwwZFPJaH7tklsyEGba_bEWQbzHGdyy9FXRSd9k72Gm4b5JEbuhBbP62R5jSRnwav70pAnauv5qryESprR3hES6KKl583om-qa4k2oZ_lBB1wNj7p9jK07K0AGXvxT5Sw7U-R-NUl0SNUjvFzMwd1sgu4HSLiykkdQUklRpC4gr5qg24eM8HTlXTOLEBnt0KaGHvulUTxTW5QFmFi8pzCd_6_vudbfRg0tPzYtlGstC6qgcGtSlLBErYCSDi8k7C9Ps3-gPBWNH2NRUh5KbNP8VwYOzThX7VEcpnBVh1cdcTemlYEGngYt2QM2y5lHT0WGf9fZAWORUX1-rFJJQ.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "",
-                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
+                "published_date": "2026-11-14T05:03:00Z",
+                "latest_post": "[【Rust日报】2026-11-14 diesel - Rust 的安全、可扩展 ORM 与查询构建器](https://rustcc.cn/article?id=b90480b9-96d0-4eea-b1f1-17690ff773ec)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,10 +121,10 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "",
-                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2025-10-30T09:49:33Z",
+                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
+                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -390,8 +390,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-11-12T15:37:44Z",
-                "latest_post": "[学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
