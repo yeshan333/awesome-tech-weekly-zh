@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-11-14T14:05:53Z",
                 "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/628)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/n5WmwwZFPJaH7tklsyEGba_bEWQbzHGdyy9FXRSd9k72Gm4b5JEbuhBbP62R5jSRnwav70pAnauv5qryESprR3hES6KKl583om-qa4k2oZ_lBB1wNj7p9jK07K0AGXvxT5Sw7U-R-NUl0SNUjvFzMwd1sgu4HSLiykkdQUklRpC4gr5qg24eM8HTlXTOLEBnt0KaGHvulUTxTW5QFmFi8pzCd_6_vudbfRg0tPzYtlGstC6qgcGtSlLBErYCSDi8k7C9Ps3-gPBWNH2NRUh5KbNP8VwYOzThX7VEcpnBVh1cdcTemlYEGngYt2QM2y5lHT0WGf9fZAWORUX1-rFJJQ.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/n5WmwwZFPJaH7tklsyEGba_bEWQbzHGdyy9FXRSd9k72Gm4b5JEbuhBbP62R5jSRnwav70pAnauv5qryESprR3hES6KKl583om-qa4k2oZ_lBB1wNj7p9jK07K0AGXvxT5Sw7U-R-NUl0SNUjvFzMwd1sgu4HSLiykkdQUklRpC4gr5qg24eM8HTlXTOLEBnt0KaGHvulUTxTW5QFmFi8pzCd_6_vudbfRg0tPzYtlGstC6qgcGtSlLBErYCSDi8k7C9Ps3-gPBWNH2NRUh5KbNP8VwYOzThX7VEcpnBVh1cdcTemlYEGngYt2QM2y5lHT0WGf9fZAWORUX1-rFJJQ.jpg"],
+                "cover_url": "https://cdn4.telesco.pe/file/OC1kRJhYFJKKtuyXmQ0E5qwz4-0UqBPT-aKHEVGNFnv-C9ZFxWpLty_cNQxTtmdOZfu5-RSjzDb2pU_p840TUkcoegdDAmu0uQtQqe5EXXoeXYb1ak9jpxy-ODnGZpLah6dNnXhOPjAyodMInB4lDGYnkI7hHCANRMt3wyyyCkbt9JRjamyNf-_ny6P6qALsXWhLPSuDvF_UUvov67CQLb4vF31K0GP40o29NBogch4yfOTksHxQGqeVRNEOuu4IJoIskGAfWE4jkwiO3VUnnSyPi0WNIX4jTxBZCqeJ-niYCzpet2KQMVbFbO6XDv3TF13Wb6szmIJN8Lu5H53ahQ.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/OC1kRJhYFJKKtuyXmQ0E5qwz4-0UqBPT-aKHEVGNFnv-C9ZFxWpLty_cNQxTtmdOZfu5-RSjzDb2pU_p840TUkcoegdDAmu0uQtQqe5EXXoeXYb1ak9jpxy-ODnGZpLah6dNnXhOPjAyodMInB4lDGYnkI7hHCANRMt3wyyyCkbt9JRjamyNf-_ny6P6qALsXWhLPSuDvF_UUvov67CQLb4vF31K0GP40o29NBogch4yfOTksHxQGqeVRNEOuu4IJoIskGAfWE4jkwiO3VUnnSyPi0WNIX4jTxBZCqeJ-niYCzpet2KQMVbFbO6XDv3TF13Wb6szmIJN8Lu5H53ahQ.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -108,7 +108,7 @@
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
                 "published_date": "2026-11-08T09:57:19Z",
-                "latest_post": "[老司机 iOS 周报 #383   2026-11-09](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23383)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[老司机 iOS 周报 #383   2026-11-09](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23383)",
                 "cover_url": "https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/383.png?raw=true",
                 "cover_urls": ["https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/383.png?raw=true"],
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
@@ -355,8 +355,8 @@
                 "desc": "《痞子衡嵌入式半月刊》 ",
                 "published_date": "2026-08-07T07:15:00Z",
                 "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
-                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
-                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
@@ -390,8 +390,8 @@
             {
                 "name": "eryajf 的运维技术周刊",
                 "desc": "周刊内容以运维技术和 Go 语言周边为主",
-                "published_date": "2026-11-12T15:37:44Z",
-                "latest_post": "[学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
