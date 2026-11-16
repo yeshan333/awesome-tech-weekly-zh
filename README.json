@@ -65,8 +65,8 @@
             {
                 "name": "Go语言爱好者周刊",
                 "desc": "Go语言爱好者周刊",
-                "published_date": "2026-01-06T01:58:24Z",
-                "latest_post": "[Golang 用不到2000行代码实现一个零拷贝的消息队列](https://studygolang.com/topics/18661)",
+                "published_date": "",
+                "latest_post": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://studygolang.com/go/weekly](https://studygolang.com/go/weekly)"
@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-16T00:28:09Z",
-                "latest_post": "[instagram-agent-skill：用 Claude 技能运营 Instagram 账号](https://t.me/pythontrendingweekly/632)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/XVdvmEfEbeciA7zYUFqmTTbO9d5bZTCy4SEfYBViY4b7r-6qW2DC5l3JGFNPPVGmcW-u26tbCd_AJquosNWGez-_JW8E5jrx4o8YQ0w13yKjm3yuUjuI31rTzLpfYckwX0C3lcRT_IYjznN5_Ecds_DpP5AllcvKr8aqYYzoslhLqp_bqUPe9NBWenwnfK-YCqgdS_EZCyV7vraj_PFl0iuXXGXMyRw3bhrY5quDBjO86SsbXg6sd_qrXjt8xSw0tbW8dXMy7Pn9H0mjX90zhupJqUCC4jRaxVT14wrfME8eQbmc8zCJjUvu59Wf5Epl6WYMZnJvIaUFQP_dQ_Ix-Q.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/XVdvmEfEbeciA7zYUFqmTTbO9d5bZTCy4SEfYBViY4b7r-6qW2DC5l3JGFNPPVGmcW-u26tbCd_AJquosNWGez-_JW8E5jrx4o8YQ0w13yKjm3yuUjuI31rTzLpfYckwX0C3lcRT_IYjznN5_Ecds_DpP5AllcvKr8aqYYzoslhLqp_bqUPe9NBWenwnfK-YCqgdS_EZCyV7vraj_PFl0iuXXGXMyRw3bhrY5quDBjO86SsbXg6sd_qrXjt8xSw0tbW8dXMy7Pn9H0mjX90zhupJqUCC4jRaxVT14wrfME8eQbmc8zCJjUvu59Wf5Epl6WYMZnJvIaUFQP_dQ_Ix-Q.jpg"],
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-11-14T05:03:00Z",
-                "latest_post": "[【Rust日报】2026-11-14 diesel - Rust 的安全、可扩展 ORM 与查询构建器](https://rustcc.cn/article?id=b90480b9-96d0-4eea-b1f1-17690ff773ec)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,8 +121,8 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-30T09:49:33Z",
-                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
@@ -257,10 +257,10 @@
             {
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
-                "published_date": "2026-11-09T07:57:25Z",
-                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 195：大事化小，不再费脑](https://www.v2ex.com/t/1255594#reply0)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://files.mdnice.com/user/73796/bb020462-340a-4ce3-b24d-074cc6d77f8c.png",
-                "cover_urls": ["https://files.mdnice.com/user/73796/bb020462-340a-4ce3-b24d-074cc6d77f8c.png","https://files.mdnice.com/user/73796/729f20b6-f0f8-495a-9415-a0c60aafdd6c.jpg","https://files.mdnice.com/user/73796/9b176420-5498-4d26-9205-50091fed8942.png","https://files.mdnice.com/user/73796/876de2b3-40d9-495b-b8a7-083ca78be163.jpg","https://files.mdnice.com/user/73796/fba42e79-f56e-4dd7-bb12-0b82104de526.jpg","https://files.mdnice.com/user/73796/735b5db2-0d13-4cae-a832-48674f9e967a.jpg"],
+                "published_date": "2026-11-16T08:41:40Z",
+                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 196：疯狂依赖 AI，做着没人下载的 App](https://www.v2ex.com/t/1257457#reply2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://files.mdnice.com/user/73796/57b41fcd-0bbf-490b-a0e8-0a193128c15a.png",
+                "cover_urls": ["https://files.mdnice.com/user/73796/57b41fcd-0bbf-490b-a0e8-0a193128c15a.png","https://files.mdnice.com/user/73796/1f7e4d4e-bd83-4193-8005-d2c97519181e.jpg","https://files.mdnice.com/user/73796/121a0b0e-f4dd-4d7c-b068-ab692e5ea315.png","https://files.mdnice.com/user/73796/b37f303c-a5d1-44ba-800f-8dc2a3d6902e.jpg","https://files.mdnice.com/user/73796/c90e23cf-3b3a-42d4-8a82-349df34fc885.jpeg"],
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
             },
             {
@@ -325,10 +325,10 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-11-09T00:00:00Z",
-                "latest_post": "[第289期 - 南京李志](https://weekly.tw93.fun/posts/289/)",
-                "cover_url": "https://cdn.tw93.fun/uPic/28943.JPG",
-                "cover_urls": ["https://cdn.tw93.fun/uPic/28943.JPG","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/28943.JPG","https://cdn.fliggy.com/pic/Fg9c9M32.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/DnfY1D48.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/PFHQUk01.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118258589609672704.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118138915995766784.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2119262831090839552.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2117177658765377536.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2117177658689961984.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118934108705542144.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118934108722372608.jpg"],
+                "published_date": "2026-11-16T00:00:00Z",
+                "latest_post": "[第290期 - 见到李志](https://weekly.tw93.fun/posts/290/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.tw93.fun/uPic/29002.jpg",
+                "cover_urls": ["https://cdn.tw93.fun/uPic/29002.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/29002.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/nEIX5042.png","https://cdn.fliggy.com/pic/7CMHjr38.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/0P5NIS50.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/iyk32O42.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2121407742091149312.jpg","https://cdn.fliggy.com/pic/5m9S9C40.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913845751808.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913875054592.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913854054400.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913732521984.jpg"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
@@ -376,10 +376,10 @@
             {
                 "name": "软件测试周刊",
                 "desc": "软件测试及周边的行业动态，周五发布",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2023-04-25T00:33:52Z",
+                "latest_post": "[软件测试周刊（第103期）：太阳虽好，总要诸君亲自去晒，旁人却替你晒不来。](https://www.yuque.com/hixf/testingweekly/dmo99wugx2gzykdg)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2021/png/1243769/1616598962126-88283423-0948-4323-9727-c93d0c177ef0.png",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2021/png/1243769/1616598962126-88283423-0948-4323-9727-c93d0c177ef0.png"],
                 "link": "[https://www.yuque.com/hixf/testingweekly](https://www.yuque.com/hixf/testingweekly)"
             }
         ]
