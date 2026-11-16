@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-14T14:05:53Z",
-                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/628)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/OC1kRJhYFJKKtuyXmQ0E5qwz4-0UqBPT-aKHEVGNFnv-C9ZFxWpLty_cNQxTtmdOZfu5-RSjzDb2pU_p840TUkcoegdDAmu0uQtQqe5EXXoeXYb1ak9jpxy-ODnGZpLah6dNnXhOPjAyodMInB4lDGYnkI7hHCANRMt3wyyyCkbt9JRjamyNf-_ny6P6qALsXWhLPSuDvF_UUvov67CQLb4vF31K0GP40o29NBogch4yfOTksHxQGqeVRNEOuu4IJoIskGAfWE4jkwiO3VUnnSyPi0WNIX4jTxBZCqeJ-niYCzpet2KQMVbFbO6XDv3TF13Wb6szmIJN8Lu5H53ahQ.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/OC1kRJhYFJKKtuyXmQ0E5qwz4-0UqBPT-aKHEVGNFnv-C9ZFxWpLty_cNQxTtmdOZfu5-RSjzDb2pU_p840TUkcoegdDAmu0uQtQqe5EXXoeXYb1ak9jpxy-ODnGZpLah6dNnXhOPjAyodMInB4lDGYnkI7hHCANRMt3wyyyCkbt9JRjamyNf-_ny6P6qALsXWhLPSuDvF_UUvov67CQLb4vF31K0GP40o29NBogch4yfOTksHxQGqeVRNEOuu4IJoIskGAfWE4jkwiO3VUnnSyPi0WNIX4jTxBZCqeJ-niYCzpet2KQMVbFbO6XDv3TF13Wb6szmIJN8Lu5H53ahQ.jpg"],
+                "published_date": "2026-11-16T00:28:09Z",
+                "latest_post": "[instagram-agent-skill：用 Claude 技能运营 Instagram 账号](https://t.me/pythontrendingweekly/632)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/XVdvmEfEbeciA7zYUFqmTTbO9d5bZTCy4SEfYBViY4b7r-6qW2DC5l3JGFNPPVGmcW-u26tbCd_AJquosNWGez-_JW8E5jrx4o8YQ0w13yKjm3yuUjuI31rTzLpfYckwX0C3lcRT_IYjznN5_Ecds_DpP5AllcvKr8aqYYzoslhLqp_bqUPe9NBWenwnfK-YCqgdS_EZCyV7vraj_PFl0iuXXGXMyRw3bhrY5quDBjO86SsbXg6sd_qrXjt8xSw0tbW8dXMy7Pn9H0mjX90zhupJqUCC4jRaxVT14wrfME8eQbmc8zCJjUvu59Wf5Epl6WYMZnJvIaUFQP_dQ_Ix-Q.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/XVdvmEfEbeciA7zYUFqmTTbO9d5bZTCy4SEfYBViY4b7r-6qW2DC5l3JGFNPPVGmcW-u26tbCd_AJquosNWGez-_JW8E5jrx4o8YQ0w13yKjm3yuUjuI31rTzLpfYckwX0C3lcRT_IYjznN5_Ecds_DpP5AllcvKr8aqYYzoslhLqp_bqUPe9NBWenwnfK-YCqgdS_EZCyV7vraj_PFl0iuXXGXMyRw3bhrY5quDBjO86SsbXg6sd_qrXjt8xSw0tbW8dXMy7Pn9H0mjX90zhupJqUCC4jRaxVT14wrfME8eQbmc8zCJjUvu59Wf5Epl6WYMZnJvIaUFQP_dQ_Ix-Q.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -135,10 +135,10 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2024-06-19T14:55:31Z",
+                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808564153-342aa48c-9178-4b12-833c-7b6c7ed47d4f.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808624041-a7587ec0-dfc6-4320-b775-50d7e416e4a0.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808650170-c424f901-9866-4454-878f-ad14326df0ac.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808674860-ecb85c94-4b79-4b43-8a05-fa4c576605b3.png","https://prod-files-secure.s3.us-west-2.amazonaws.com/9f635646-ed6c-439d-ac97-88979f20a147/25961b22-0c70-4161-ab39-95887eeaeeeb/Untitled.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808723378-0170a00f-768f-49e1-91f1-285be604ff34.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808741736-52e4f798-422d-4777-a6e5-dc9516a044e8.png"],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
@@ -189,10 +189,10 @@
             {
                 "name": "三号设计周刊",
                 "desc": "每周整理设计、品牌、工具与 AI 领域的观察、案例和灵感。",
-                "published_date": "2026-11-09T07:17:23Z",
-                "latest_post": "[三号设计周刊 Vol.44](https://sanhao-design-weekly.pages.dev/?issue=44)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://sanhao-design-weekly.pages.dev/assets/vol44-scott-partridge-ave.png",
-                "cover_urls": ["https://sanhao-design-weekly.pages.dev/assets/vol44-scott-partridge-ave.png"],
+                "published_date": "2026-11-16T02:13:48Z",
+                "latest_post": "[三号设计周刊 Vol.45](https://sanhao-design-weekly.pages.dev/?issue=45)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://sanhao-design-weekly.pages.dev/assets/vol45-figma-3d-transform.png",
+                "cover_urls": ["https://sanhao-design-weekly.pages.dev/assets/vol45-figma-3d-transform.png"],
                 "link": "[https://sanhao-design-weekly.pages.dev/](https://sanhao-design-weekly.pages.dev/)"
             }
         ]
@@ -326,7 +326,7 @@
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
                 "published_date": "2026-11-09T00:00:00Z",
-                "latest_post": "[第289期 - 南京李志](https://weekly.tw93.fun/posts/289/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[第289期 - 南京李志](https://weekly.tw93.fun/posts/289/)",
                 "cover_url": "https://cdn.tw93.fun/uPic/28943.JPG",
                 "cover_urls": ["https://cdn.tw93.fun/uPic/28943.JPG","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/28943.JPG","https://cdn.fliggy.com/pic/Fg9c9M32.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/DnfY1D48.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/PFHQUk01.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118258589609672704.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118138915995766784.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2119262831090839552.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2117177658765377536.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2117177658689961984.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118934108705542144.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2118934108722372608.jpg"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
