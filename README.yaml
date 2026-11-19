@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-11-17T00:09:54Z"
-    latest_post: "[gif-factory：按风格制作循环 GIF](https://t.me/pythontrendingweekly/646)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-11-18T04:47:00Z"
-    latest_post: "[【Rust日报】2026-11-17 curl - Daniel Stenberg 评述今秋两份用 Rust 重写 curl 与 libcurl 的尝试](https://rustcc.cn/article?id=bc4b3384-a2f7-4b75-96e0-a5ef3ea2a3aa)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: ""
+    latest_post: "[https://rustcc.cn/](https://rustcc.cn/)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -84,8 +84,8 @@ iOS:
 云原生:
   - name: "云原生周刊"
     desc: "云原生周刊"
-    published_date: "2025-10-30T09:49:33Z"
-    latest_post: "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)"
+    published_date: ""
+    latest_post: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
     link: "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
 
 
@@ -94,13 +94,13 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-11-17T07:00:00Z"
-    latest_post: "[PH今日热榜   2026-11-17](https://decohack.com/producthunt-daily-2026-11-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-18T07:00:00Z"
+    latest_post: "[PH今日热榜   2026-11-18](https://decohack.com/producthunt-daily-2026-11-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
@@ -109,13 +109,13 @@ iOS:
     link: "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
   - name: "体验碎周报"
     desc: "体验碎周报"
-    published_date: "2026-11-09T04:39:58Z"
-    latest_post: "[体验碎周报第297期(2026.11.9)](https://www.ftium4.com/ux-weekly-297.html)"
+    published_date: ""
+    latest_post: "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
     link: "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
   - name: "Link 设计周刊"
     desc: "Link 设计周刊"
-    published_date: ""
-    latest_post: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
+    published_date: "2024-07-24T14:27:32Z"
+    latest_post: "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)"
     link: "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
   - name: "月维素材周刊"
     desc: "月维的创造者们对「设计」和「开发」的思考与讨论"
@@ -140,7 +140,7 @@ iOS:
   - name: "独立开发变现周刊"
     desc: "独立开发变现周刊"
     published_date: "2026-11-12T00:00:00Z"
-    latest_post: "[独立开发变现周刊（第165期） : AI视频代运营：月入3.8万美元](https://www.ezindie.com/weekly/issue-165)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    latest_post: "[独立开发变现周刊（第165期） : AI视频代运营：月入3.8万美元](https://www.ezindie.com/weekly/issue-165)"
     link: "[https://www.ezindie.com](https://www.ezindie.com)"
   - name: "HelloGitHub 月刊"
     desc: "HelloGitHub 月刊"

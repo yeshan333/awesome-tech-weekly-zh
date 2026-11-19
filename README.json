@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-17T00:09:54Z",
-                "latest_post": "[gif-factory：按风格制作循环 GIF](https://t.me/pythontrendingweekly/646)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/v3s8SfMTdWBjbsq9vnR0QzCt41psDHPdB0yqNeYfDR4StBJvZxTHpW63DrTpY9Hn91aKI3vYMzdpN7kuLvuivTXxMs1EoUl_YNQgyXRPyidJXSHYjDuDd_4gQ7UpSj7hZDnXziXpePdSI5Pni5yUPk8SPaWAvZldvYrvJCzDD6lHgsIA_EPuOBfnsxOuCmu_TZukaXe4YU3o6uQtVMQKceM1vqpB8b_OXzvOcduPhs3WLE8UWV7RbcVDk5bujo2vG0sJMPEzvsJwZUve7se6cwYadRZ6C0_NZK48ENms70H7a4eUr-Himkrkb5bpH1z5cqKkn7_su8kwItzXd36yRg.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/v3s8SfMTdWBjbsq9vnR0QzCt41psDHPdB0yqNeYfDR4StBJvZxTHpW63DrTpY9Hn91aKI3vYMzdpN7kuLvuivTXxMs1EoUl_YNQgyXRPyidJXSHYjDuDd_4gQ7UpSj7hZDnXziXpePdSI5Pni5yUPk8SPaWAvZldvYrvJCzDD6lHgsIA_EPuOBfnsxOuCmu_TZukaXe4YU3o6uQtVMQKceM1vqpB8b_OXzvOcduPhs3WLE8UWV7RbcVDk5bujo2vG0sJMPEzvsJwZUve7se6cwYadRZ6C0_NZK48ENms70H7a4eUr-Himkrkb5bpH1z5cqKkn7_su8kwItzXd36yRg.jpg"],
+                "published_date": "",
+                "latest_post": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-11-18T04:47:00Z",
-                "latest_post": "[【Rust日报】2026-11-17 curl - Daniel Stenberg 评述今秋两份用 Rust 重写 curl 与 libcurl 的尝试](https://rustcc.cn/article?id=bc4b3384-a2f7-4b75-96e0-a5ef3ea2a3aa)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "",
+                "latest_post": "[https://rustcc.cn/](https://rustcc.cn/)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -121,10 +121,10 @@
             {
                 "name": "云原生周刊",
                 "desc": "云原生周刊",
-                "published_date": "2025-10-30T09:49:33Z",
-                "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "published_date": "",
+                "latest_post": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -135,17 +135,17 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
-                "cover_url": "https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png",
-                "cover_urls": ["https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808564153-342aa48c-9178-4b12-833c-7b6c7ed47d4f.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808624041-a7587ec0-dfc6-4320-b775-50d7e416e4a0.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808650170-c424f901-9866-4454-878f-ad14326df0ac.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808674860-ecb85c94-4b79-4b43-8a05-fa4c576605b3.png","https://prod-files-secure.s3.us-west-2.amazonaws.com/9f635646-ed6c-439d-ac97-88979f20a147/25961b22-0c70-4161-ab39-95887eeaeeeb/Untitled.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808723378-0170a00f-768f-49e1-91f1-285be604ff34.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808741736-52e4f798-422d-4777-a6e5-dc9516a044e8.png"],
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-17T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-17](https://decohack.com/producthunt-daily-2026-11-17/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-18T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-18](https://decohack.com/producthunt-daily-2026-11-18/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -162,19 +162,19 @@
             {
                 "name": "体验碎周报",
                 "desc": "体验碎周报",
-                "published_date": "2026-11-09T04:39:58Z",
-                "latest_post": "[体验碎周报第297期(2026.11.9)](https://www.ftium4.com/ux-weekly-297.html)",
-                "cover_url": "https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261108232702991.png",
-                "cover_urls": ["https://www.ftium4.com/attachments/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/IMG-20261108232702991.png"],
+                "published_date": "",
+                "latest_post": "[https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.ftium4.com/categories/体验碎周报/](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)"
             },
             {
                 "name": "Link 设计周刊",
                 "desc": "Link 设计周刊",
-                "published_date": "",
-                "latest_post": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)",
-                "cover_url": "",
-                "cover_urls": [],
+                "published_date": "2024-07-24T14:27:32Z",
+                "latest_post": "[#013期：培养习惯的最小单元模型](https://www.yuque.com/zing123/scu69w/ragm7wwlyg1obbu9)",
+                "cover_url": "https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10",
+                "cover_urls": ["https://cdn.nlark.com/yuque/0/2023/png/728168/1673178217434-a5ab1c3d-878c-4e0c-9bf2-2420d70019d1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_31%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673185517793-48a70dd8-e2ab-4590-9184-c84f82dd08e8.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_46%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2023/png/728168/1673180197433-c76fe22f-d6cf-44f2-a9df-43600ec0631f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_52%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761088389-e7e9a557-4fdd-45c8-9429-be9a676e9fd1.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_72%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2022/png/728168/1670761228504-ee3b25c3-1bcd-4a26-92b4-381c4283008f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_35%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10","https://cdn.nlark.com/yuque/0/2024/png/728168/1721831251124-0ceccc96-aa0b-4042-bb80-8d6f4a3d62de.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_43%2Ctext_TGlua-iuvuiuoeWRqOWIig%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10"],
                 "link": "[https://www.yuque.com/zing123/scu69w](https://www.yuque.com/zing123/scu69w)"
             },
             {
@@ -213,7 +213,7 @@
                 "name": "独立开发变现周刊",
                 "desc": "独立开发变现周刊",
                 "published_date": "2026-11-12T00:00:00Z",
-                "latest_post": "[独立开发变现周刊（第165期） : AI视频代运营：月入3.8万美元](https://www.ezindie.com/weekly/issue-165)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[独立开发变现周刊（第165期） : AI视频代运营：月入3.8万美元](https://www.ezindie.com/weekly/issue-165)",
                 "cover_url": "https://qiniu.gafata.com/weekly-covers/d2cd20747846421b818b25aaea77be53.png",
                 "cover_urls": ["https://qiniu.gafata.com/weekly-covers/d2cd20747846421b818b25aaea77be53.png"],
                 "link": "[https://www.ezindie.com](https://www.ezindie.com)"
@@ -355,8 +355,8 @@
                 "desc": "《痞子衡嵌入式半月刊》 ",
                 "published_date": "2026-08-07T07:15:00Z",
                 "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
-                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
-                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
