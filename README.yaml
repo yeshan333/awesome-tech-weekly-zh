@@ -64,8 +64,8 @@ Python:
 Rust:
   - name: "Rust中文社区新闻"
     desc: "Rust语言中文社区新闻和日报"
-    published_date: "2026-11-18T04:47:00Z"
-    latest_post: "[【Rust日报】2026-11-17 curl - Daniel Stenberg 评述今秋两份用 Rust 重写 curl 与 libcurl 的尝试](https://rustcc.cn/article?id=bc4b3384-a2f7-4b75-96e0-a5ef3ea2a3aa)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-19T14:42:00Z"
+    latest_post: "[【Rust日报】2026-11-18 Tyr - 用 Rust 移植 Panthor 的 Linux GPU 驱动](https://rustcc.cn/article?id=6286c05a-44a3-40e6-ae30-0255b853e6d9)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://rustcc.cn/](https://rustcc.cn/)"
 
 
@@ -94,8 +94,8 @@ iOS:
 产品-体验-设计:
   - name: "BLUE周刊"
     desc: "BLUE周刊"
-    published_date: "2024-06-19T14:55:31Z"
-    latest_post: "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)"
+    published_date: ""
+    latest_post: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
@@ -104,8 +104,8 @@ iOS:
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
-    published_date: "2026-11-10T13:16:53Z"
-    latest_post: "[#371 Mainframe 也要做设计软件了](https://quaily.com/dingyi/p/371)"
+    published_date: "2026-11-19T07:34:15Z"
+    latest_post: "[#372 Devin Bots](https://quaily.com/dingyi/p/372)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://quaily.com/dingyi](https://quaily.com/dingyi)"
   - name: "体验碎周报"
     desc: "体验碎周报"
@@ -139,8 +139,8 @@ iOS:
     link: "[https://ameow.xyz/categories/weekly](https://ameow.xyz/categories/weekly)"
   - name: "独立开发变现周刊"
     desc: "独立开发变现周刊"
-    published_date: "2026-11-12T00:00:00Z"
-    latest_post: "[独立开发变现周刊（第165期） : AI视频代运营：月入3.8万美元](https://www.ezindie.com/weekly/issue-165)"
+    published_date: "2026-11-19T00:00:00Z"
+    latest_post: "[独立开发变现周刊（第166期） : 开源AI创业系统，11周创收110万美元](https://www.ezindie.com/weekly/issue-166)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://www.ezindie.com](https://www.ezindie.com)"
   - name: "HelloGitHub 月刊"
     desc: "HelloGitHub 月刊"
@@ -249,7 +249,7 @@ iOS:
 运维:
   - name: "eryajf 的运维技术周刊"
     desc: "周刊内容以运维技术和 Go 语言周边为主"
-    published_date: "2026-11-12T15:37:44Z"
-    latest_post: "[学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-19T14:37:19Z"
+    latest_post: "[学习周刊-总第290期-2026年第47周](https://wiki.eryajf.net/pages/163de5/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://github.com/eryajf/learning-weekly](https://github.com/eryajf/learning-weekly)"
 
