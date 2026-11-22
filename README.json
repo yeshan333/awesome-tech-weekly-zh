@@ -81,8 +81,8 @@
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
                 "published_date": "2026-11-21T10:56:44Z",
                 "latest_post": "[agent-second-brain：Telegram 语音自动归档进 Obsidian](https://t.me/pythontrendingweekly/654)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://cdn4.telesco.pe/file/G-Vg8XwxV__AFhvpVCBurKJdKnTjYOxHsuZnB3HXAMDeLnWmyjw4rlqG4QxhdBzRAMjp3YNviOqktnLaikGdTjh9UdTCNGOcnVXNH_LQ4XFMW_dJ7AoQtrqfBccU21ll7iy_Eed78gGNxE3vYzv-BeSIN0bSjHFrBlNEmMgOp9Cz2aC6r3TGmrCuxSGsnqI5_jCZYWJI0XBXrqGkhPvg94QUNz2MSO-IupCW3ptPrwAfsQW3eiO8IMITK_aRiB1Ow3q2OTuWsfQEsvgI8dPZ3Pqk-ZJ70BsWdKnR4E2syVrChvcNPRDXJjcs1Z-SEsZla4WIGHrW5IYG_njv61r2qA.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/G-Vg8XwxV__AFhvpVCBurKJdKnTjYOxHsuZnB3HXAMDeLnWmyjw4rlqG4QxhdBzRAMjp3YNviOqktnLaikGdTjh9UdTCNGOcnVXNH_LQ4XFMW_dJ7AoQtrqfBccU21ll7iy_Eed78gGNxE3vYzv-BeSIN0bSjHFrBlNEmMgOp9Cz2aC6r3TGmrCuxSGsnqI5_jCZYWJI0XBXrqGkhPvg94QUNz2MSO-IupCW3ptPrwAfsQW3eiO8IMITK_aRiB1Ow3q2OTuWsfQEsvgI8dPZ3Pqk-ZJ70BsWdKnR4E2syVrChvcNPRDXJjcs1Z-SEsZla4WIGHrW5IYG_njv61r2qA.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -107,10 +107,10 @@
             {
                 "name": "老司机技术 iOS 周报",
                 "desc": "老司机技术 iOS 周报",
-                "published_date": "2026-11-08T09:57:19Z",
-                "latest_post": "[老司机 iOS 周报 #383   2026-11-09](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23383)",
-                "cover_url": "https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/383.png?raw=true",
-                "cover_urls": ["https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/383.png?raw=true"],
+                "published_date": "2026-11-22T14:45:02Z",
+                "latest_post": "[老司机 iOS 周报 #384   2026-11-23](https://github.com/SwiftOldDriver/iOS-Weekly/releases/tag/%23384)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/384.png?raw=true",
+                "cover_urls": ["https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/weekly-header/384.png?raw=true"],
                 "link": "[https://github.com/SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)"
             }
         ]
@@ -135,17 +135,17 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
-                "cover_url": "https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png",
-                "cover_urls": ["https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808564153-342aa48c-9178-4b12-833c-7b6c7ed47d4f.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808624041-a7587ec0-dfc6-4320-b775-50d7e416e4a0.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808650170-c424f901-9866-4454-878f-ad14326df0ac.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808674860-ecb85c94-4b79-4b43-8a05-fa4c576605b3.png","https://prod-files-secure.s3.us-west-2.amazonaws.com/9f635646-ed6c-439d-ac97-88979f20a147/25961b22-0c70-4161-ab39-95887eeaeeeb/Untitled.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808723378-0170a00f-768f-49e1-91f1-285be604ff34.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808741736-52e4f798-422d-4777-a6e5-dc9516a044e8.png"],
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-21T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-21](https://decohack.com/producthunt-daily-2026-11-21/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-22T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-22](https://decohack.com/producthunt-daily-2026-11-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -180,10 +180,10 @@
             {
                 "name": "月维素材周刊",
                 "desc": "月维的创造者们对「设计」和「开发」的思考与讨论",
-                "published_date": "2026-10-21T16:00:00Z",
-                "latest_post": "[设计素材周刊 223 期](https://moonvy.com/blog/post/设计素材周刊/223/)",
-                "cover_url": "https://moonvy.com/blog/_assets/7a87d63f0c47ab0e.png",
-                "cover_urls": ["https://moonvy.com/blog/_assets/7a87d63f0c47ab0e.png","https://moonvy.com/blog/_assets/f0ada09bd0cd3817.png","https://moonvy.com/blog/_assets/e5d893d6c3c06035.png","https://moonvy.com/blog/_assets/79d35b2be002d11b.png","https://moonvy.com/blog/_assets/f089b6580bf360f9.png","https://moonvy.com/blog/_assets/33ee5c41d3df47c8.png","https://moonvy.com/blog/_assets/e0e5c4dcf7077437.png","https://moonvy.com/blog/_assets/961049d0bace16b9.png","https://moonvy.com/blog/_assets/bc0e672c12bd3cbd.png","https://moonvy.com/blog/_assets/dc3dd63655919525.png","https://moonvy.com/blog/_assets/48e03b01ed706f94.png","https://moonvy.com/blog/_assets/bf5f8e030dbd663a.png"],
+                "published_date": "2026-11-21T16:00:00Z",
+                "latest_post": "[设计素材周刊 224 期](https://moonvy.com/blog/post/设计素材周刊/224/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://moonvy.com/blog/_assets/9a4b262d45867d93.png",
+                "cover_urls": ["https://moonvy.com/blog/_assets/9a4b262d45867d93.png","https://moonvy.com/blog/_assets/ba6cb988c719552e.png","https://moonvy.com/blog/_assets/fca572c3b2bd6a4c.png","https://moonvy.com/blog/_assets/73e5c65ff48b9087.png","https://moonvy.com/blog/_assets/869e8705b81e5037.png","https://moonvy.com/blog/_assets/ddbd1e7232566fe1.png","https://moonvy.com/blog/_assets/f864c1a18496c39d.png","https://moonvy.com/blog/_assets/52f4606cfdd301e9.png","https://moonvy.com/blog/_assets/351aaa7bfbc79127.png","https://moonvy.com/blog/_assets/5943b12e11ea9466.png","https://moonvy.com/blog/_assets/5100e78e1cecdaeb.png","https://moonvy.com/blog/_assets/72fb60b7f3d71250.png"],
                 "link": "[https://moonvy.com/blog/subjects/月维素材周刊/](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)"
             },
             {
@@ -325,10 +325,10 @@
             {
                 "name": "潮流周刊",
                 "desc": "前端潮流周刊",
-                "published_date": "2026-11-16T00:00:00Z",
-                "latest_post": "[第290期 - 见到李志](https://weekly.tw93.fun/posts/290/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn.tw93.fun/uPic/29002.jpg",
-                "cover_urls": ["https://cdn.tw93.fun/uPic/29002.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/29002.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/nEIX5042.png","https://cdn.fliggy.com/pic/7CMHjr38.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/0P5NIS50.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.fliggy.com/pic/iyk32O42.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2121407742091149312.jpg","https://cdn.fliggy.com/pic/5m9S9C40.png?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913845751808.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913875054592.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913854054400.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2120320913732521984.jpg"],
+                "published_date": "2026-11-23T00:00:00Z",
+                "latest_post": "[第291期 - 晚秋良渚](https://weekly.tw93.fun/posts/291/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn.fliggy.com/pic/29146.JPG",
+                "cover_urls": ["https://cdn.fliggy.com/pic/29146.JPG","https://cdn.fliggy.com/pic/29146.JPG?x-oss-process=image/auto-orient,1/resize,w_2000/quality,q_90/format,webp","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/MVsdxC45.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/4pFCge43.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/emfUUk02.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/nGPNPK47.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2123324977512693760.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/uPic/file-6610eb22414f8553dea91b41264ec16c02.png","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2124024169910394880.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2124084594559590400.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2124084594555404288.jpg","https://cdn.tw93.fun/cdn-cgi/image/width=2000,quality=80,format=auto,fit=scale-down/notes/3_2124084594563846145.jpg"],
                 "link": "[https://weekly.tw93.fun/](https://weekly.tw93.fun/)"
             }
         ]
@@ -355,8 +355,8 @@
                 "desc": "《痞子衡嵌入式半月刊》 ",
                 "published_date": "2026-08-07T07:15:00Z",
                 "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
-                "cover_url": "",
-                "cover_urls": [],
+                "cover_url": "https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png",
+                "cover_urls": ["https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/BlockDiagram.png","https://raw.githubusercontent.com/JayHeng/MCU-FATestSuite/dev_wxpython/doc/tool_v3.0_view.png"],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
             }
         ]
