@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-21T10:56:44Z",
-                "latest_post": "[agent-second-brain：Telegram 语音自动归档进 Obsidian](https://t.me/pythontrendingweekly/654)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/G-Vg8XwxV__AFhvpVCBurKJdKnTjYOxHsuZnB3HXAMDeLnWmyjw4rlqG4QxhdBzRAMjp3YNviOqktnLaikGdTjh9UdTCNGOcnVXNH_LQ4XFMW_dJ7AoQtrqfBccU21ll7iy_Eed78gGNxE3vYzv-BeSIN0bSjHFrBlNEmMgOp9Cz2aC6r3TGmrCuxSGsnqI5_jCZYWJI0XBXrqGkhPvg94QUNz2MSO-IupCW3ptPrwAfsQW3eiO8IMITK_aRiB1Ow3q2OTuWsfQEsvgI8dPZ3Pqk-ZJ70BsWdKnR4E2syVrChvcNPRDXJjcs1Z-SEsZla4WIGHrW5IYG_njv61r2qA.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/G-Vg8XwxV__AFhvpVCBurKJdKnTjYOxHsuZnB3HXAMDeLnWmyjw4rlqG4QxhdBzRAMjp3YNviOqktnLaikGdTjh9UdTCNGOcnVXNH_LQ4XFMW_dJ7AoQtrqfBccU21ll7iy_Eed78gGNxE3vYzv-BeSIN0bSjHFrBlNEmMgOp9Cz2aC6r3TGmrCuxSGsnqI5_jCZYWJI0XBXrqGkhPvg94QUNz2MSO-IupCW3ptPrwAfsQW3eiO8IMITK_aRiB1Ow3q2OTuWsfQEsvgI8dPZ3Pqk-ZJ70BsWdKnR4E2syVrChvcNPRDXJjcs1Z-SEsZla4WIGHrW5IYG_njv61r2qA.jpg"],
+                "published_date": "2026-11-23T00:30:55Z",
+                "latest_post": "[#Python潮流周刊 往期回顾](https://t.me/pythontrendingweekly/657)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "https://cdn4.telesco.pe/file/nXZ-i8j-QZ3jv1jfGxsO5eyTrC5qQUro0U63ngKnBhhMCN-CZmzJLgbg53vrfOaFu25ZAVw0lhY89oJhaeDKHbEI0gw3wJXnqRq0CKhKdKYNMo9dZbNlt1mX0T1epZbcGbE5V6PTr3lFyar98WgJCcBUr4VF7-xgEj0r0HN-6BRHgF42VhkIkoIQz72yoZIoQ8Qzm8GWDrHAO0V-ZKtRLGdqTAmYveX2NQFQFbnZbOOfrEPWzG17uzIOZ2IvaAbIt3LoN1yqMH0bK9fxlnb0FYYzXW8TNel6E4mrrHL0QeuxN_wQIxWGVVb2Fyzqlv0lLG4e9O4oMQdf7COZU3A0TA.jpg",
+                "cover_urls": ["https://cdn4.telesco.pe/file/nXZ-i8j-QZ3jv1jfGxsO5eyTrC5qQUro0U63ngKnBhhMCN-CZmzJLgbg53vrfOaFu25ZAVw0lhY89oJhaeDKHbEI0gw3wJXnqRq0CKhKdKYNMo9dZbNlt1mX0T1epZbcGbE5V6PTr3lFyar98WgJCcBUr4VF7-xgEj0r0HN-6BRHgF42VhkIkoIQz72yoZIoQ8Qzm8GWDrHAO0V-ZKtRLGdqTAmYveX2NQFQFbnZbOOfrEPWzG17uzIOZ2IvaAbIt3LoN1yqMH0bK9fxlnb0FYYzXW8TNel6E4mrrHL0QeuxN_wQIxWGVVb2Fyzqlv0lLG4e9O4oMQdf7COZU3A0TA.jpg"],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -239,8 +239,8 @@
             {
                 "name": "Hacker News 每日摘要",
                 "desc": "Hacker News 每日摘要",
-                "published_date": "2026-11-21T23:39:12Z",
-                "latest_post": "[2026-11-22 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-22-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-22T22:08:31Z",
+                "latest_post": "[2026-11-23 Hacker News Top Stories](https://supertechfans.com/cn/post/2026-11-23-HackerNews/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://supertechfans.com/cn](https://supertechfans.com/cn)"
