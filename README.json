@@ -93,8 +93,8 @@
             {
                 "name": "Rust中文社区新闻",
                 "desc": "Rust语言中文社区新闻和日报",
-                "published_date": "2026-11-20T15:28:00Z",
-                "latest_post": "[【Rust日报】2026-11-19 This Week in Rust - 第 678 期社区周报](https://rustcc.cn/article?id=6bc36e18-e2e9-4c4c-89ce-cf23c1d51363)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-23T05:45:00Z",
+                "latest_post": "[【Rust日报】2026-11-22 Muru - 用 Rust 编写、兼顾开发与生产的 ASGI/WSGI 服务器](https://rustcc.cn/article?id=e8f0e75b-4213-46f5-8e99-6e2e6f67b9eb)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://rustcc.cn/](https://rustcc.cn/)"
@@ -135,17 +135,17 @@
             {
                 "name": "BLUE周刊",
                 "desc": "BLUE周刊",
-                "published_date": "2024-06-19T14:55:31Z",
-                "latest_post": "[停刊通知](https://www.yuque.com/hhhhuazi/gwyv4u/olh1d06glzf7p4c4)",
-                "cover_url": "https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png",
-                "cover_urls": ["https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808526347-0b43ffee-83b9-49dd-9057-407ea42068fc.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808564153-342aa48c-9178-4b12-833c-7b6c7ed47d4f.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808624041-a7587ec0-dfc6-4320-b775-50d7e416e4a0.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808650170-c424f901-9866-4454-878f-ad14326df0ac.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808674860-ecb85c94-4b79-4b43-8a05-fa4c576605b3.png","https://prod-files-secure.s3.us-west-2.amazonaws.com/9f635646-ed6c-439d-ac97-88979f20a147/25961b22-0c70-4161-ab39-95887eeaeeeb/Untitled.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808723378-0170a00f-768f-49e1-91f1-285be604ff34.png","https://cdn.nlark.com/yuque/0/2024/png/21699729/1718808741736-52e4f798-422d-4777-a6e5-dc9516a044e8.png"],
+                "published_date": "",
+                "latest_post": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
             },
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-22T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-22](https://decohack.com/producthunt-daily-2026-11-22/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-23T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-23](https://decohack.com/producthunt-daily-2026-11-23/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -258,7 +258,7 @@
                 "name": "独立开发周记",
                 "desc": "独立开发周记",
                 "published_date": "2026-11-16T08:41:40Z",
-                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 196：疯狂依赖 AI，做着没人下载的 App](https://www.v2ex.com/t/1257457#reply2)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "latest_post": "[\\[独立开发者 👨‍💻\\] 独立开发周记 196：疯狂依赖 AI，做着没人下载的 App](https://www.v2ex.com/t/1257457#reply2)",
                 "cover_url": "https://files.mdnice.com/user/73796/57b41fcd-0bbf-490b-a0e8-0a193128c15a.png",
                 "cover_urls": ["https://files.mdnice.com/user/73796/57b41fcd-0bbf-490b-a0e8-0a193128c15a.png","https://files.mdnice.com/user/73796/1f7e4d4e-bd83-4193-8005-d2c97519181e.jpg","https://files.mdnice.com/user/73796/121a0b0e-f4dd-4d7c-b068-ab692e5ea315.png","https://files.mdnice.com/user/73796/b37f303c-a5d1-44ba-800f-8dc2a3d6902e.jpg","https://files.mdnice.com/user/73796/c90e23cf-3b3a-42d4-8a82-349df34fc885.jpeg"],
                 "link": "[https://www.v2ex.com/member/vulgur](https://www.v2ex.com/member/vulgur)"
