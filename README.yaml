@@ -54,8 +54,8 @@ Go:
 Python:
   - name: "Python 潮流周刊"
     desc: "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。"
-    published_date: "2026-11-25T10:08:27Z"
-    latest_post: "[rig：Rust 的模块化 LLM 应用框架](https://t.me/pythontrendingweekly/662)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-27T09:51:29Z"
+    latest_post: "[PostgreSQL 一次修了 52 个 CVE](https://t.me/pythontrendingweekly/664)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
 
 
@@ -99,8 +99,8 @@ iOS:
     link: "[https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit](https://www.yuque.com/hhhhuazi/gwyv4u/ksbqit)"
   - name: "PH今日热榜"
     desc: "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品"
-    published_date: "2026-11-26T07:00:00Z"
-    latest_post: "[PH今日热榜   2026-11-26](https://decohack.com/producthunt-daily-2026-11-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
+    published_date: "2026-11-27T07:00:00Z"
+    latest_post: "[PH今日热榜   2026-11-27](https://decohack.com/producthunt-daily-2026-11-27/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)"
     link: "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
   - name: "DEX 周刊"
     desc: "一份关于产品、设计、前端、软件等内容的精华资讯邮件周刊。"
@@ -224,8 +224,8 @@ iOS:
 嵌入式:
   - name: "《痞子衡嵌入式半月刊》"
     desc: "《痞子衡嵌入式半月刊》 "
-    published_date: ""
-    latest_post: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
+    published_date: "2026-08-07T07:15:00Z"
+    latest_post: "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)"
     link: "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
 
 

@@ -79,10 +79,10 @@
             {
                 "name": "Python 潮流周刊",
                 "desc": "Python 潮流周刊精心筛选国内外最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。",
-                "published_date": "2026-11-25T10:08:27Z",
-                "latest_post": "[rig：Rust 的模块化 LLM 应用框架](https://t.me/pythontrendingweekly/662)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
-                "cover_url": "https://cdn4.telesco.pe/file/ab1ExDJDjFNOiMa2oFGqJMTy8cq02-DIchMK8bHla6J0DCf7odvPn62gVEQPy7t_wq-8M52_onsa4DEsYwrGH46uRREBw9_R1UO0xh2GyXdnvDaofhshXMEwVW3_csvXKFao3eCLGk7CrpzCwWYaFENG1bjnAdr3gyrRzi5-UzeUgB1K5wdw38N0Z08TYcCJC_ShnQMzF5_IFYy8BUsjFHpaSzw_KFrYx4mWDt1SNmQWm65dvT8zLsSRf0Ka1ZU4C3j2D9_52IU57EGrum_RNhhVZBJXHYvO7ALwTzCPPf_d1F70PP9oUzBMTiK-Eh4wU0Ft-HUrgy_O169wBbKDgQ.jpg",
-                "cover_urls": ["https://cdn4.telesco.pe/file/ab1ExDJDjFNOiMa2oFGqJMTy8cq02-DIchMK8bHla6J0DCf7odvPn62gVEQPy7t_wq-8M52_onsa4DEsYwrGH46uRREBw9_R1UO0xh2GyXdnvDaofhshXMEwVW3_csvXKFao3eCLGk7CrpzCwWYaFENG1bjnAdr3gyrRzi5-UzeUgB1K5wdw38N0Z08TYcCJC_ShnQMzF5_IFYy8BUsjFHpaSzw_KFrYx4mWDt1SNmQWm65dvT8zLsSRf0Ka1ZU4C3j2D9_52IU57EGrum_RNhhVZBJXHYvO7ALwTzCPPf_d1F70PP9oUzBMTiK-Eh4wU0Ft-HUrgy_O169wBbKDgQ.jpg"],
+                "published_date": "2026-11-27T09:51:29Z",
+                "latest_post": "[PostgreSQL 一次修了 52 个 CVE](https://t.me/pythontrendingweekly/664)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://github.com/chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)"
             }
         ]
@@ -123,8 +123,8 @@
                 "desc": "云原生周刊",
                 "published_date": "2025-10-30T09:49:33Z",
                 "latest_post": "[Fluid 正式入驻青云 KubeSphere Marketplace，共建云原生数据加速新生态](https://blog.csdn.net/zpf17671624050/article/details/154134413)",
-                "cover_url": "https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png",
-                "cover_urls": ["https://i-blog.csdnimg.cn/img_convert/ba69103d11fbe407c473e4fd01d48425.png","https://i-blog.csdnimg.cn/img_convert/8b66cab127a68433572244eecd0eaa8a.png","https://i-blog.csdnimg.cn/img_convert/23ee26108c3488bf5a0d72a98ea7f5af.png","https://i-blog.csdnimg.cn/img_convert/0b309062c0401d882b259cd634f7aa84.png"],
+                "cover_url": "",
+                "cover_urls": [],
                 "link": "[https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly](https://ask.kubesphere.io/forum/t/Cloud-Native-Weekly)"
             }
         ]
@@ -144,8 +144,8 @@
             {
                 "name": "PH今日热榜",
                 "desc": "Product Hunt 今日热榜 - 每日精选 Product Hunt 上最热门的产品",
-                "published_date": "2026-11-26T07:00:00Z",
-                "latest_post": "[PH今日热榜   2026-11-26](https://decohack.com/producthunt-daily-2026-11-26/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
+                "published_date": "2026-11-27T07:00:00Z",
+                "latest_post": "[PH今日热榜   2026-11-27](https://decohack.com/producthunt-daily-2026-11-27/)![news](https://github.com/ChanceYu/front-end-rss/blob/master/assets/new.png?raw=true)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://decohack.com/category/producthunt/](https://decohack.com/category/producthunt/)"
@@ -353,8 +353,8 @@
             {
                 "name": "《痞子衡嵌入式半月刊》",
                 "desc": "《痞子衡嵌入式半月刊》 ",
-                "published_date": "",
-                "latest_post": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)",
+                "published_date": "2026-08-07T07:15:00Z",
+                "latest_post": "[痞子衡嵌入式：如果你嫌MCU板卡工厂验收测试麻烦，不妨试试FATestSuite](https://blog.csdn.net/Henjay724/article/details/163578601)",
                 "cover_url": "",
                 "cover_urls": [],
                 "link": "[https://blog.csdn.net/Henjay724/article](https://blog.csdn.net/Henjay724/article)"
